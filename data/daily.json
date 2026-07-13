@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T11:31:39.456048+09:00",
-  "generated_at_display": "2026-07-13 11:31 KST",
+  "generated_at": "2026-07-13T11:44:57.279470+09:00",
+  "generated_at_display": "2026-07-13 11:44 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -19,11 +19,46 @@
   },
   "news": [
     {
-      "tag": "알림",
-      "title": "뉴스 수집 실패 (다음 갱신 시 재시도): <urlopen error timed out>",
-      "source": "-",
-      "date": "",
-      "link": ""
+      "tag": "환경뉴스",
+      "title": "푸른과천환경센터, 탄소중립 아카데미 운영 - 이슈게이트",
+      "source": "이슈게이트",
+      "date": "Mon, 13 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vRHo2RHhlVkFtYlFYb19tMDVYVWpsVU4yQWhmR0tWV0Z4ZDg4ckUtT1VOR1lCQk12NWt2Y1pyeFpJSEYtQjA1b0t5TE9VUGFfRnd5RHdsczE?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "완주군청소년문화의집, 탄소중립 실천 프로그램 운영 - 완주신문",
+      "source": "완주신문",
+      "date": "Mon, 13 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02Z0NIdk9CVFNMZDRHaXBpeUZWRkxVal9pQlNpV25tcXJaak1MWVJWQUk3R2RlaWxqWnh1SUZwSEtxZWpCazJpdnI2SXdzY3U1NTA5bGNNM21yMDcxWkxN?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "평택고등학교, 탄소중립 실천을 위한‘2026 탄.생.화. 축제’개최 - 경인경제",
+      "source": "경인경제",
+      "date": "Mon, 13 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zRmZXUXVmSE1zZFF3aEZER0dUQkxtVnpJOFlGSDlDb0xIUDNTeXBGU3VYMTltY01abEFKQ3UxXzJJOTFXZGg2ajlxeDhJNGlsLXNYUGhIV3hfN1lsZ1ZpZ2w4SnJNNlQ4?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "함께 만드는 탄소중립 - 환경감시일보",
+      "source": "환경감시일보",
+      "date": "Mon, 13 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LWkRPSmZJNGc1eFJBMzc1QnBJcF9JNGZteDBYdlo4cVQxako3S0Y0Z3VRRW5GZlVjM2VnQ2xEQ2trZ2Z0NVF5cHNXZVQyeDg?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "수원시, 부모와 함께하는 환경교육 ‘새빛 지구놀이터’ 운영…영유아 탄소중립 실천문화 확산 - 월드장애인사랑뉴스",
+      "source": "월드장애인사랑뉴스",
+      "date": "Sun, 12 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TQVUyZ1B4UTliRTl6d0lRcEVRRFRzNGlYYVpZVUd0aTlZeU5ER3paOV9xdUxxdFNpUXlBdUZwMDhfS2xhODJsTlhIVTJ3MEhMMWstZXd3R2lVRGc5QkZyTnpCZ0FpZWF5WnRXbVItWQ?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "“지역이 주도하는 탄소중립”…기후부, 실행전략 공개 - 전기신문",
+      "source": "전기신문",
+      "date": "Wed, 08 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wUHUtdTJDV3BxMVI2bXVEZnRqWFZOTHgzWmdwWk1oWnZ2aEpmWWRlWXV3WUZiMVJWNW9IblVIOHJWSmNjQzNrbzJLV3ZOc0FuZHBYUzF4c0lPUE56eXRZUkhLaHh4Y2tnSWtDRNIBcEFVX3lxTFBFdXFGekhDd0dSeHVaYXdQMWd2UE05c3M2UHlqTW1SbzgzMUYyZVhOS0tZSXdqMTgySnp2MElaTW1QMkJYeEhUbjFqX0hVR1U3VnUtTFp0a21jTUVOU29IckpTeGFLVjR2MkdCQTdfaWI?oc=5"
     }
   ],
   "fact": "전 세계 플라스틱의 약 9%만이 실제로 재활용되고 있습니다."
