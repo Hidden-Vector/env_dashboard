@@ -18,6 +18,7 @@ import os
 import random
 import datetime
 import urllib.request
+import urllib.parse
 import xml.etree.ElementTree as ET
 
 OUT_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "daily.json")
@@ -60,23 +61,27 @@ def fetch_environment_news():
 # ---------------------------------------------------------------------------
 def fetch_air_quality():
     key = os.environ.get("AIRKOREA_KEY")
-    default = {"pm10": None, "pm25": None, "cai": "키 미설정", "sido": "서울"}
+    STATION = "신암동"  # 대구광역시 동구 소재 측정소
+    default = {"pm10": None, "pm25": None, "cai": "키 미설정", "sido": f"대구 동구({STATION})"}
     if not key:
         return default
     try:
         url = (
-            "http://apis.data.go.kr/B552584/ArpltnInforInqireSvc/getCtprvnRltmMesureDnsty"
-            f"?serviceKey={key}&returnType=json&numOfRows=100&pageNo=1&sidoName=%EC%84%9C%EC%9A%B8&ver=1.3"
+            "http://apis.data.go.kr/B552584/ArpltnInforInqireSvc/getMsrstnAcctoRltmMesureDnsty"
+            f"?serviceKey={key}&returnType=json&numOfRows=1&pageNo=1"
+            f"&stationName={urllib.parse.quote(STATION)}&dataTerm=DAILY&ver=1.3"
         )
         raw = safe_get(url)
         data = json.loads(raw)
-        rows = data["response"]["body"]["items"]
-        # 서울 측정소들의 평균값으로 대표값 산출
-        pm10_vals = [int(r["pm10Value"]) for r in rows if r.get("pm10Value", "-").isdigit()]
-        pm25_vals = [int(r["pm25Value"]) for r in rows if r.get("pm25Value", "-").isdigit()]
-        pm10 = round(sum(pm10_vals) / len(pm10_vals)) if pm10_vals else None
-        pm25 = round(sum(pm25_vals) / len(pm25_vals)) if pm25_vals else None
-        return {"pm10": pm10, "pm25": pm25, "cai": "정상 수신", "sido": "서울(평균)"}
+        row = data["response"]["body"]["items"][0]
+
+        pm10 = int(row["pm10Value"]) if row.get("pm10Value", "-").lstrip("-").isdigit() else None
+        pm25 = int(row["pm25Value"]) if row.get("pm25Value", "-").lstrip("-").isdigit() else None
+
+        grade_map = {"1": "좋음", "2": "보통", "3": "나쁨", "4": "매우나쁨"}
+        cai = grade_map.get(row.get("khaiGrade"), "정상 수신")
+
+        return {"pm10": pm10, "pm25": pm25, "cai": cai, "sido": f"대구 동구({STATION})"}
     except Exception as e:
         default["cai"] = f"수집 실패: {e}"
         return default
