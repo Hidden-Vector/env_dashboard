@@ -1,6 +1,6 @@
 {
-  "generated_at": null,
-  "generated_at_display": "아직 자동 갱신 전 (최초 배포 상태)",
+  "generated_at": "2026-07-13T11:31:39.456048+09:00",
+  "generated_at_display": "2026-07-13 11:31 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -19,12 +19,12 @@
   },
   "news": [
     {
-      "tag": "안내",
-      "title": "아직 GitHub Actions가 한 번도 실행되지 않았습니다. Actions 탭에서 'Run workflow'를 눌러 수동 실행해 보세요.",
+      "tag": "알림",
+      "title": "뉴스 수집 실패 (다음 갱신 시 재시도): <urlopen error timed out>",
       "source": "-",
       "date": "",
       "link": ""
     }
   ],
-  "fact": "이산화탄소는 대기 중에 배출된 뒤 수백 년간 머무를 수 있어, 오늘 줄인 배출량의 효과는 수십 년 뒤에야 기후에 반영되기 시작합니다."
+  "fact": "전 세계 플라스틱의 약 9%만이 실제로 재활용되고 있습니다."
 }
