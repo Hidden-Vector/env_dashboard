@@ -34,16 +34,20 @@ def safe_get(url, timeout=10):
 # 1) 환경부 e-환경뉴스 RSS (키 불필요)
 # ---------------------------------------------------------------------------
 def fetch_environment_news():
-    url = "https://me.go.kr/home/web/board/rss.do?menuId=284&boardMasterId=108"
+    # 환경부 사이트는 해외(GitHub) 서버 접속을 차단하는 경우가 있어
+    # 전 세계 어디서든 안정적으로 접속되는 구글 뉴스 RSS로 대체합니다.
+    url = "https://news.google.com/rss/search?q=%ED%99%98%EA%B2%BD%20%ED%83%84%EC%86%8C%EC%A4%91%EB%A6%BD&hl=ko&gl=KR&ceid=KR:ko"
     items = []
     try:
-        raw = safe_get(url)
+        raw = safe_get(url, timeout=15)
         root = ET.fromstring(raw)
         for item in root.findall(".//item")[:6]:
             title = (item.findtext("title") or "").strip()
             pub = (item.findtext("pubDate") or "").strip()
             link = (item.findtext("link") or "").strip()
-            items.append({"tag": "환경부", "title": title, "source": "환경부 e-환경뉴스",
+            source_el = item.find("source")
+            source = source_el.text.strip() if source_el is not None and source_el.text else "구글뉴스"
+            items.append({"tag": "환경뉴스", "title": title, "source": source,
                           "date": pub[:16] if pub else "", "link": link})
     except Exception as e:
         items.append({"tag": "알림", "title": f"뉴스 수집 실패 (다음 갱신 시 재시도): {e}",
