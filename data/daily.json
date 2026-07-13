@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T11:59:12.609013+09:00",
-  "generated_at_display": "2026-07-13 11:59 KST",
+  "generated_at": "2026-07-14T07:55:18.400974+09:00",
+  "generated_at_display": "2026-07-14 07:55 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,54 +12,54 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": null,
-    "pm25": null,
-    "cai": "수집 실패: HTTP Error 401: Unauthorized",
+    "pm10": 9,
+    "pm25": 5,
+    "cai": "좋음",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "푸른과천환경센터, 탄소중립 아카데미 운영 - 이슈게이트",
-      "source": "이슈게이트",
+      "title": "'제주청소년기후행동위원회' 출범…탄소중립 환경시민 양성 - 연합뉴스",
+      "source": "연합뉴스",
       "date": "Mon, 13 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vRHo2RHhlVkFtYlFYb19tMDVYVWpsVU4yQWhmR0tWV0Z4ZDg4ckUtT1VOR1lCQk12NWt2Y1pyeFpJSEYtQjA1b0t5TE9VUGFfRnd5RHdsczE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OWG04VVZVNHRTTWdVdFMyNml4ME80eVgwTE10RDk2OGRXMXdMd2JjMlVJOXFUUmd5dmJZVGJTeG5uUzg2LVhZOHBxZDFSd3lHTkEzcHdPa0FaZEhSeFlqUNIBYEFVX3lxTE9OWG04VVZVNHRTTWdVdFMyNml4ME80eVgwTE10RDk2OGRXMXdMd2JjMlVJOXFUUmd5dmJZVGJTeG5uUzg2LVhZOHBxZDFSd3lHTkEzcHdPa0FaZEhSeFlqUA?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "완주군청소년문화의집, 탄소중립 실천 프로그램 운영 - 완주신문",
-      "source": "완주신문",
-      "date": "Mon, 13 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02Z0NIdk9CVFNMZDRHaXBpeUZWRkxVal9pQlNpV25tcXJaak1MWVJWQUk3R2RlaWxqWnh1SUZwSEtxZWpCazJpdnI2SXdzY3U1NTA5bGNNM21yMDcxWkxN?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "평택고등학교, 탄소중립 실천을 위한‘2026 탄.생.화. 축제’개최 - 경인경제",
-      "source": "경인경제",
-      "date": "Mon, 13 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zRmZXUXVmSE1zZFF3aEZER0dUQkxtVnpJOFlGSDlDb0xIUDNTeXBGU3VYMTltY01abEFKQ3UxXzJJOTFXZGg2ajlxeDhJNGlsLXNYUGhIV3hfN1lsZ1ZpZ2w4SnJNNlQ4?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "함께 만드는 탄소중립 - 환경감시일보",
-      "source": "환경감시일보",
-      "date": "Mon, 13 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LWkRPSmZJNGc1eFJBMzc1QnBJcF9JNGZteDBYdlo4cVQxako3S0Y0Z3VRRW5GZlVjM2VnQ2xEQ2trZ2Z0NVF5cHNXZVQyeDg?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "수원시, 부모와 함께하는 환경교육 ‘새빛 지구놀이터’ 운영…영유아 탄소중립 실천문화 확산 - 월드장애인사랑뉴스",
-      "source": "월드장애인사랑뉴스",
-      "date": "Sun, 12 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TQVUyZ1B4UTliRTl6d0lRcEVRRFRzNGlYYVpZVUd0aTlZeU5ER3paOV9xdUxxdFNpUXlBdUZwMDhfS2xhODJsTlhIVTJ3MEhMMWstZXd3R2lVRGc5QkZyTnpCZ0FpZWF5WnRXbVItWQ?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "“지역이 주도하는 탄소중립”…기후부, 실행전략 공개 - 전기신문",
+      "title": "(파워인터뷰) 김은경 기후에너지환경부 물환경정책관 “정책 고도화로 탄소중립 실현에도 기여” - 전기신문",
       "source": "전기신문",
-      "date": "Wed, 08 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wUHUtdTJDV3BxMVI2bXVEZnRqWFZOTHgzWmdwWk1oWnZ2aEpmWWRlWXV3WUZiMVJWNW9IblVIOHJWSmNjQzNrbzJLV3ZOc0FuZHBYUzF4c0lPUE56eXRZUkhLaHh4Y2tnSWtDRNIBcEFVX3lxTFBFdXFGekhDd0dSeHVaYXdQMWd2UE05c3M2UHlqTW1SbzgzMUYyZVhOS0tZSXdqMTgySnp2MElaTW1QMkJYeEhUbjFqX0hVR1U3VnUtTFp0a21jTUVOU29IckpTeGFLVjR2MkdCQTdfaWI?oc=5"
+      "date": "Mon, 13 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yeF9EeDQ0OXJuSzItRmtwUUpfd0laV0plOGJFbXBoZ05HeWVWR2RpcTRFVl9iOTNFbDhIRTVaVmhkQWZmcldlYXJQUzZ4c0VRWXNWc3l2ejAzMHlURWNGVk5HNDhwLVVRWDFqc9IBcEFVX3lxTFBON1lPVEhXTE5fMklFQlFiaXdWUkFya2NjTE5ZSE5xRHlHSnozNWE5d01qUTVBYkNlSHg0NjQxM1FUMmdyRnZ3enZNcHFhUGt3d19SNFhsX1Q2X3VJSHB5d3FRMzcwdjEtbHpLdlhNWEY?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "과천시, 시민 참여형 탄소 중립 아카데미 개최 - 브릿지경제",
+      "source": "브릿지경제",
+      "date": "Mon, 13 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56MVNzNkZja0ZFUDlUS2I2T1Z2bXVxUENBV1RPQ2FKU0NUTmpTbHpUbm5fZ0VUUWxlQXR1ZFdSR3p6enFhZ0stdHpXcWZ2T0tOVEVxQXJsY1ZvZw?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "강의부터 현장체험까지…과천 탄소중립아카데미 시작 - 경기일보",
+      "source": "경기일보",
+      "date": "Mon, 13 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vVndXWURYQ09BNWpJNC1TZjRnMkxjODBZOW54dWJrSTY0LWk3cDZkNlhQUExiNlhvVld2NmUwQXk3c2xhbnJueEhBeGptYWY4YWRSUTZlenkxelk?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "과천시, 시민 참여형 ‘탄소중립 아카데미’ 본격 운영 - 글로벌뉴스통신GNA",
+      "source": "글로벌뉴스통신GNA",
+      "date": "Mon, 13 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zVE5GWlRSRUVsYmJhZ1AxVjlBdTBHa0pzMmhrT05NZXQ1X0xwWEhtNDNNcWNmRDNCZm1BdnN4Y0kzRUpHZEduV2JPYk43cENZenc0LUt6X2xnM2pVRnRLVHgxV0gybTVoNDBLUjVOLWVBR0Qy?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "서울에너지드림센터-노원환경재단, 탄소중립 실현 위한 MOU 체결 - 기계설비신문",
+      "source": "기계설비신문",
+      "date": "Mon, 13 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZS3A0X0RITmZWNjJzVFJVbXZzQnhVVzcxTzlqcHhORUZNcFpMLUdnWGNPUjdDbEZQSnNLdjFYMXcwd3FZRVh1NWJhSzhTOTYtMHFQM29LRHE2TkhiaHJRYm5YUm1mNEpGVWJVYQ?oc=5"
     }
   ],
-  "fact": "전 세계 플라스틱의 약 9%만이 실제로 재활용되고 있습니다."
+  "fact": "태양광 발전 비용은 지난 10여 년간 큰 폭으로 하락해 여러 지역에서 가장 저렴한 전력원 중 하나가 되었습니다."
 }
