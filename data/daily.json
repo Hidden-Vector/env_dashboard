@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T11:57:40.253335+09:00",
-  "generated_at_display": "2026-07-13 11:57 KST",
+  "generated_at": "2026-07-13T11:59:12.609013+09:00",
+  "generated_at_display": "2026-07-13 11:59 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -48,17 +48,17 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "[환경부] 탄소중립 및 기후대응 등 2025년 환경 연구개발 신규과제 390억 원 지원 - 국가기후위기대응위원회",
-      "source": "국가기후위기대응위원회",
-      "date": "Thu, 09 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQU1QazlJX2pBWlZsdDRGdVU5NTRpaXB6SjdTLTdrYmZrMENIWlBfd1kwd3FpTEx1VEVaV1M0ZDdBdmJhQ3ZucHZybHdWRW5rT0UwRDhVdTBQUWpUX28xQy1tWGYtZVZfV3BhUjdsbGctOG54MmtUaDZWUmJlVmNtU0dQeGZZN2lxVzZWNnp6cUJXd1dSR1ZWUWZVTVliTG5yS09VWlROcGhnclJLdW9KVkpWUEE3R001RVl5R2taQmowM1JmbHZKVVg4QlNoQ2NfZzRQZlJ5OA?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
       "title": "수원시, 부모와 함께하는 환경교육 ‘새빛 지구놀이터’ 운영…영유아 탄소중립 실천문화 확산 - 월드장애인사랑뉴스",
       "source": "월드장애인사랑뉴스",
       "date": "Sun, 12 Jul 2026",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TQVUyZ1B4UTliRTl6d0lRcEVRRFRzNGlYYVpZVUd0aTlZeU5ER3paOV9xdUxxdFNpUXlBdUZwMDhfS2xhODJsTlhIVTJ3MEhMMWstZXd3R2lVRGc5QkZyTnpCZ0FpZWF5WnRXbVItWQ?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "“지역이 주도하는 탄소중립”…기후부, 실행전략 공개 - 전기신문",
+      "source": "전기신문",
+      "date": "Wed, 08 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wUHUtdTJDV3BxMVI2bXVEZnRqWFZOTHgzWmdwWk1oWnZ2aEpmWWRlWXV3WUZiMVJWNW9IblVIOHJWSmNjQzNrbzJLV3ZOc0FuZHBYUzF4c0lPUE56eXRZUkhLaHh4Y2tnSWtDRNIBcEFVX3lxTFBFdXFGekhDd0dSeHVaYXdQMWd2UE05c3M2UHlqTW1SbzgzMUYyZVhOS0tZSXdqMTgySnp2MElaTW1QMkJYeEhUbjFqX0hVR1U3VnUtTFp0a21jTUVOU29IckpTeGFLVjR2MkdCQTdfaWI?oc=5"
     }
   ],
   "fact": "전 세계 플라스틱의 약 9%만이 실제로 재활용되고 있습니다."
