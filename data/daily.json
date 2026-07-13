@@ -1,0 +1,30 @@
+{
+  "generated_at": null,
+  "generated_at_display": "아직 자동 갱신 전 (최초 배포 상태)",
+  "world_co2": {
+    "value": null,
+    "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
+    "unit": "백만 톤"
+  },
+  "korea_co2": {
+    "value": null,
+    "delta": "KPX_KEY 미설정 - 전력수급 기반 추정 비활성",
+    "unit": "만 톤"
+  },
+  "air": {
+    "pm10": null,
+    "pm25": null,
+    "cai": "키 미설정",
+    "sido": "서울"
+  },
+  "news": [
+    {
+      "tag": "안내",
+      "title": "아직 GitHub Actions가 한 번도 실행되지 않았습니다. Actions 탭에서 'Run workflow'를 눌러 수동 실행해 보세요.",
+      "source": "-",
+      "date": "",
+      "link": ""
+    }
+  ],
+  "fact": "이산화탄소는 대기 중에 배출된 뒤 수백 년간 머무를 수 있어, 오늘 줄인 배출량의 효과는 수십 년 뒤에야 기후에 반영되기 시작합니다."
+}
