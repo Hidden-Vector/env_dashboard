@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T07:55:18.400974+09:00",
-  "generated_at_display": "2026-07-14 07:55 KST",
+  "generated_at": "2026-07-15T07:56:13.665964+09:00",
+  "generated_at_display": "2026-07-15 07:56 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,12 +12,19 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 9,
-    "pm25": 5,
-    "cai": "좋음",
+    "pm10": 19,
+    "pm25": 9,
+    "cai": "보통",
     "sido": "대구 동구(신암동)"
   },
   "news": [
+    {
+      "tag": "환경뉴스",
+      "title": "장성군 ‘탄소중립 실천’하면 ‘지역화폐 쏜다’ - 전남타임스",
+      "source": "전남타임스",
+      "date": "Tue, 14 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mTjBhNTQ4U0dSeXZZbEFUc2xNU0JzbmhaOFRBLWZyeGNJUGEtaHV0OS1YSUpxNkJXZk5VbHQ5TGdqeVdadXFaT0JCSk5aREpOaFNTYlBjcEhSaFR4X1IxOHNQU1V5a0U?oc=5"
+    },
     {
       "tag": "환경뉴스",
       "title": "'제주청소년기후행동위원회' 출범…탄소중립 환경시민 양성 - 연합뉴스",
@@ -27,39 +34,32 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "(파워인터뷰) 김은경 기후에너지환경부 물환경정책관 “정책 고도화로 탄소중립 실현에도 기여” - 전기신문",
-      "source": "전기신문",
-      "date": "Mon, 13 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yeF9EeDQ0OXJuSzItRmtwUUpfd0laV0plOGJFbXBoZ05HeWVWR2RpcTRFVl9iOTNFbDhIRTVaVmhkQWZmcldlYXJQUzZ4c0VRWXNWc3l2ejAzMHlURWNGVk5HNDhwLVVRWDFqc9IBcEFVX3lxTFBON1lPVEhXTE5fMklFQlFiaXdWUkFya2NjTE5ZSE5xRHlHSnozNWE5d01qUTVBYkNlSHg0NjQxM1FUMmdyRnZ3enZNcHFhUGt3d19SNFhsX1Q2X3VJSHB5d3FRMzcwdjEtbHpLdlhNWEY?oc=5"
+      "title": "[환경칼럼] 탄소중립 기본계획의 이행점검 위해 함께 추진돼야 할 온실가스감축 인지예산제도 - 시사의창",
+      "source": "시사의창",
+      "date": "Tue, 14 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95Vm5SNDQzWmhjSUFRZWcxLVhiWldPVmd1VDREOFpkNlNzOUh0RTY0Q2dvOGVJOVJCM3lkSTl1T0JTMTZFcFRVcWVZbGg1X1lHcjBDLQ?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "과천시, 시민 참여형 탄소 중립 아카데미 개최 - 브릿지경제",
-      "source": "브릿지경제",
-      "date": "Mon, 13 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56MVNzNkZja0ZFUDlUS2I2T1Z2bXVxUENBV1RPQ2FKU0NUTmpTbHpUbm5fZ0VUUWxlQXR1ZFdSR3p6enFhZ0stdHpXcWZ2T0tOVEVxQXJsY1ZvZw?oc=5"
+      "title": "서울에너지드림센터·노원환경재단, 탄소중립사회 실현 협약 - 이투뉴스",
+      "source": "이투뉴스",
+      "date": "Tue, 14 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NNk5hQkozNkdyR0tWTmlycjFIU3FJVlQ4Y0FQWVVhaWUzbUhrMlZ1T3dTaURRVXIxRndobXQ0aTJwVVo2bEZZZFJhWHBmcWxIV3Y1WnBjMy1LM1RtLUxrY21EMzRQeHN6OUJN0gFrQVVfeXFMTU02TmFCSjM2R3JHS1ZOaXJyMUhTcUlWVDhjQVBZVWFpZTNtSGsyVnVPd1NpRFFVcjFGd2htdDRpMnBVWjZsRllkUmFYcGZxbEhXdjVacGMzLUszVG0tTGtjbUQzNFB4c3o5Qk0?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "강의부터 현장체험까지…과천 탄소중립아카데미 시작 - 경기일보",
-      "source": "경기일보",
-      "date": "Mon, 13 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vVndXWURYQ09BNWpJNC1TZjRnMkxjODBZOW54dWJrSTY0LWk3cDZkNlhQUExiNlhvVld2NmUwQXk3c2xhbnJueEhBeGptYWY4YWRSUTZlenkxelk?oc=5"
+      "title": "충북형 탄소중립 실천위해 507개 기관이 뭉쳤다. - 굿모닝충청",
+      "source": "굿모닝충청",
+      "date": "Tue, 14 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0td1kyeVJZX0VIbmNZV3RQTVNqbXY1Q2hGeFNqMkZlLWJHajYwd3NVbWtSYzVuTGZXN1NUaU5HWnFFT2l3cXBvRFh0aWczNlhyYXAtck1KMzJqYUNfVkVrOEF0TzRQM3h4c3hBMWtoaGo5Zw?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "과천시, 시민 참여형 ‘탄소중립 아카데미’ 본격 운영 - 글로벌뉴스통신GNA",
-      "source": "글로벌뉴스통신GNA",
-      "date": "Mon, 13 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zVE5GWlRSRUVsYmJhZ1AxVjlBdTBHa0pzMmhrT05NZXQ1X0xwWEhtNDNNcWNmRDNCZm1BdnN4Y0kzRUpHZEduV2JPYk43cENZenc0LUt6X2xnM2pVRnRLVHgxV0gybTVoNDBLUjVOLWVBR0Qy?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "서울에너지드림센터-노원환경재단, 탄소중립 실현 위한 MOU 체결 - 기계설비신문",
-      "source": "기계설비신문",
-      "date": "Mon, 13 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZS3A0X0RITmZWNjJzVFJVbXZzQnhVVzcxTzlqcHhORUZNcFpMLUdnWGNPUjdDbEZQSnNLdjFYMXcwd3FZRVh1NWJhSzhTOTYtMHFQM29LRHE2TkhiaHJRYm5YUm1mNEpGVWJVYQ?oc=5"
+      "title": "연천군 탄소중립지원센터, '그린플러스·탄소마이너스' 사업 본격 추진 - 내외뉴스통신",
+      "source": "내외뉴스통신",
+      "date": "Tue, 14 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBT0tvMXdKY21fN1pzRU02NC1NdkJVVDNXaW8zOW0zcGdaeGFzdHh4dnp5R1l1Zms5dzBhYmlIUm5nU19YTTZiSXpHc0tuQURXM19pMFhjbHE0bWp6Vms4SkNpSUtwZlFXaEVaMNIBcEFVX3lxTE1JdUNxOE1OdjI5T3JOcXdzM0NVbmtTU3VjUUFOMTBDSjF1NVJMSzgycmdTbHJXaUtMRVA3NFJhRTVNQllyNzJITV9sUmdJZlZHWm4yLXZ5ZmRwendVV1pOcERvQkdaUExmeDdIRE5uMVk?oc=5"
     }
   ],
-  "fact": "태양광 발전 비용은 지난 10여 년간 큰 폭으로 하락해 여러 지역에서 가장 저렴한 전력원 중 하나가 되었습니다."
+  "fact": "해양은 인간이 배출한 이산화탄소의 상당 부분을 흡수해 해양 산성화를 일으키고 있습니다."
 }
