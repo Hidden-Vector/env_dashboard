@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T07:56:19.313753+09:00",
-  "generated_at_display": "2026-07-17 07:56 KST",
+  "generated_at": "2026-07-18T07:49:30.034693+09:00",
+  "generated_at_display": "2026-07-18 07:49 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,8 +12,8 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 27,
-    "pm25": 21,
+    "pm10": 40,
+    "pm25": 24,
     "cai": "보통",
     "sido": "대구 동구(신암동)"
   },
@@ -27,6 +27,27 @@
     },
     {
       "tag": "환경뉴스",
+      "title": "'제주청소년기후행동위원회' 출범…탄소중립 환경시민 양성 - 연합뉴스",
+      "source": "연합뉴스",
+      "date": "Mon, 13 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2MnEwaTRGYTNWb2I0WkNhUWNocUpwbFByRmhrUkh3TE1Ja3g3UXNoTzVzQm1XekV6VVdxYjFrd19jRlZtWlk2dFRWZDhOU2FFQ0ZObkdBazd2OVHSAWBBVV95cUxPTlhtOFVWVTR0U01nVXRTMjZpeDBPNHlYMExNdEQ5NjhkVzF3THdiYzJVSTlxVFJneXZiWVRiU3hublM4Ni1YWThwcWQxUnd5R05BM3B3T2tBWmRIUnhZalA?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "내 컵에 착 지구에 착 고등학생 멘토와 초등학생이 함께하는 탄소중립 실천 > 뉴스 - 더코리아",
+      "source": "더코리아",
+      "date": "Fri, 17 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRNUtfRWFwNnpPaFZCel8xSjB5MExybzJIaEZmOGhCOGpkdkd2a24wUERUR0JXcEFCNlRxejBBTDYyNTJad3pXeXRDUzVHT1BZeWZobDQxSkJlSGJXMmRyb2RtYXdBelU2Vmh0MndTV28?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "세종시 '친환경 탄소중립' 실천 교육, 초등생부터 한다 - v.daum.net",
+      "source": "v.daum.net",
+      "date": "Tue, 14 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JUVI1MWhDMnJ6WThQa2pNcC0ybm1pUDQwOHlyNnVONlFmTklYbkxEeHEyRWNmRG1RZmRybXk2X216c3VXUnk0OWJyQjktSU9LU0Jpcw?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
       "title": "환경산업기술원-산업은행, 녹색성장 및 탄소중립 맞손 - 이투뉴스",
       "source": "이투뉴스",
       "date": "Thu, 16 Jul 2026",
@@ -34,32 +55,11 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "환경산업기술원+한국산업은행, 녹색성장 및 탄소중립 달성 위해 '맞손' - 대한일보",
-      "source": "대한일보",
-      "date": "Thu, 16 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KVWNDamJEb0Q4d3h3UmpDZnZtZkZsZDl0eHZIMzhTUllYVkQ4MUVURmtQSVpZX2NfMTVwbmRTVHdMRGFINHJaNXFCSW5OTExCdFpIb0cybmZFQ3hPNUpVR1FjUl95Q3BqbGJJM3BoVQ?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "울주군, 찾아가는 어린이 환경교육…'기후 위기 대응' - 연합뉴스",
-      "source": "연합뉴스",
-      "date": "Thu, 16 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOdHdvc3IzdWtVZjJfRmIzRnJXSzI2RXpoVlcxSmFRa3UyaGJlT3k3QVlkVjNweFFyekxvQ3VNcS1UNDE5QVdsN3pwSjJfQ3ozUHYzVUl2UmNMZmfSAWBBVV95cUxPYnR3RUNPbS1wOE9nSkR3S3JSRDMzQlhJamhnTzZ5NVNFbHdCcnY2YjJ5MGhEYWpQWG9lbjhJeXg0aGVheHRtaENocTFHOC1xSURKR2p4N2VuMXpQN3g2Y3Q?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "‘탄소중립 실천’ 순천시, ‘탄소모아 탄탄e’ 운영 개시 - 전남타임스",
-      "source": "전남타임스",
-      "date": "Thu, 16 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LbXZlSWQ5Q1NKSUlsZjllX3VuQ0owQUtjRklsTTJqbnJZYzBfVjhPV3RCMTNsdjcxOXg4TTBBTkc1VGdESGt3bVFxRmNfT1lJS01lR1I4S1ctaDdKLWp6XzEtOTJzQQ?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "괴산군, 군민 맞춤형 ‘환경교육 동영상’ 제작, 생활 속 탄소중립 실천 확산 - 괴산타임즈",
-      "source": "괴산타임즈",
-      "date": "Thu, 16 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ldXFWU1VSaXAtSkkzNkJ3WXJKR2o3VlE1bHpzYU5aY0s3SV9wcEFrWk9jdWdnSkd0a0FkRzZKUjcyM1lacWtjN1FQdFNSLTZIb0xWQlBUam00T1l2NXAzSFI1anN4Y3JrZ2dBUWJB?oc=5"
+      "title": "[김정여 칼럼, 생활속 탄소중립 실천 59] 맨발걷기와 탄소중립 편 - SDG뉴스",
+      "source": "SDG뉴스",
+      "date": "Wed, 15 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqWXl1YlA3TGNQUnAwdFNscTFtRGIwNUtoblpwampKdzJPaHNyemlfY0psaUt1RTk5MVh0NTk0STlrc1NCVF9RN2pTTHo5aVVvUy1DTmpyTk51Qk81Y2MxRHoxY3BwV0nSAWtBVV95cUxOVEZINWVVcTFvdUYzV0t0SkgwZEg0TkZfWml0OGxLOV95ZnJHTElPeGsxZEo5V2s4dmhxX21pVjFFQlZOVEVtREUtUEhHUGNyeXh3b3NjWnpzY2pVbTdmSUplVF8yR3VYbnQ1bw?oc=5"
     }
   ],
-  "fact": "국제사회는 파리협정을 통해 산업화 이전 대비 지구 평균기온 상승을 1.5도 이내로 억제하는 것을 목표로 하고 있습니다."
+  "fact": "한국은 2050년 탄소중립을 국가 목표로 선언했습니다."
 }
