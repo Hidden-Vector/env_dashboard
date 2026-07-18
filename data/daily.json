@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T07:49:30.034693+09:00",
-  "generated_at_display": "2026-07-18 07:49 KST",
+  "generated_at": "2026-07-19T07:47:58.494812+09:00",
+  "generated_at_display": "2026-07-19 07:47 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,8 +12,8 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 40,
-    "pm25": 24,
+    "pm10": 12,
+    "pm25": 12,
     "cai": "보통",
     "sido": "대구 동구(신암동)"
   },
@@ -27,20 +27,6 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "'제주청소년기후행동위원회' 출범…탄소중립 환경시민 양성 - 연합뉴스",
-      "source": "연합뉴스",
-      "date": "Mon, 13 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2MnEwaTRGYTNWb2I0WkNhUWNocUpwbFByRmhrUkh3TE1Ja3g3UXNoTzVzQm1XekV6VVdxYjFrd19jRlZtWlk2dFRWZDhOU2FFQ0ZObkdBazd2OVHSAWBBVV95cUxPTlhtOFVWVTR0U01nVXRTMjZpeDBPNHlYMExNdEQ5NjhkVzF3THdiYzJVSTlxVFJneXZiWVRiU3hublM4Ni1YWThwcWQxUnd5R05BM3B3T2tBWmRIUnhZalA?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "내 컵에 착 지구에 착 고등학생 멘토와 초등학생이 함께하는 탄소중립 실천 > 뉴스 - 더코리아",
-      "source": "더코리아",
-      "date": "Fri, 17 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRNUtfRWFwNnpPaFZCel8xSjB5MExybzJIaEZmOGhCOGpkdkd2a24wUERUR0JXcEFCNlRxejBBTDYyNTJad3pXeXRDUzVHT1BZeWZobDQxSkJlSGJXMmRyb2RtYXdBelU2Vmh0MndTV28?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
       "title": "세종시 '친환경 탄소중립' 실천 교육, 초등생부터 한다 - v.daum.net",
       "source": "v.daum.net",
       "date": "Tue, 14 Jul 2026",
@@ -48,10 +34,10 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "환경산업기술원-산업은행, 녹색성장 및 탄소중립 맞손 - 이투뉴스",
-      "source": "이투뉴스",
-      "date": "Thu, 16 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wT3FJU0pYOWVXa2lfcmI3UVJ3YXZsSVB1Zms4OFZMcWFnYUF5ZVFiWUV1UERNdnNIa0FXZkcwNUp5UVczUlJmZHF4bjJfYkxLdkx5Y2pmNzduZzFzVnlGMU5fQTBIUWIwSDNB0gFrQVVfeXFMTjBPcUlTSlg5ZVdraV9yYjdRUndhdmxJUHVmazg4VkxxYWdhQXllUWJZRXVQRE12c0hrQVdmRzA1SnlRVzNSUmZkcXhuMl9iTEt2THljamY3N25nMXNWeUYxTl9BMEhRYjBIM0E?oc=5"
+      "title": "'제주청소년기후행동위원회' 출범…탄소중립 환경시민 양성 - 연합뉴스",
+      "source": "연합뉴스",
+      "date": "Mon, 13 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2MnEwaTRGYTNWb2I0WkNhUWNocUpwbFByRmhrUkh3TE1Ja3g3UXNoTzVzQm1XekV6VVdxYjFrd19jRlZtWlk2dFRWZDhOU2FFQ0ZObkdBazd2OVE?oc=5"
     },
     {
       "tag": "환경뉴스",
@@ -59,7 +45,21 @@
       "source": "SDG뉴스",
       "date": "Wed, 15 Jul 2026",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqWXl1YlA3TGNQUnAwdFNscTFtRGIwNUtoblpwampKdzJPaHNyemlfY0psaUt1RTk5MVh0NTk0STlrc1NCVF9RN2pTTHo5aVVvUy1DTmpyTk51Qk81Y2MxRHoxY3BwV0nSAWtBVV95cUxOVEZINWVVcTFvdUYzV0t0SkgwZEg0TkZfWml0OGxLOV95ZnJHTElPeGsxZEo5V2s4dmhxX21pVjFFQlZOVEVtREUtUEhHUGNyeXh3b3NjWnpzY2pVbTdmSUplVF8yR3VYbnQ1bw?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "서울대 교수진과 함께하는 탄소중립 그린리더의 길! ‘제18기 시민환경대학’ 운영 - 관악신문",
+      "source": "관악신문",
+      "date": "Wed, 15 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BcEhnQ1dRanVrU1VUSW9CNkQ1UEdWV0hDaGp1c25fR3JCTWJFb0VRc0JLVkRGdWQ1WjU4WGw0LV9xaGI3V0xZdHhLZk8zWkFaZG9nVTA0YXRhMV9hYXlNZUZ2ZFFXLUk2d1E?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "환경산업기술원+한국산업은행, 녹색성장 및 탄소중립 달성 위해 '맞손' - 대한일보",
+      "source": "대한일보",
+      "date": "Thu, 16 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KVWNDamJEb0Q4d3h3UmpDZnZtZkZsZDl0eHZIMzhTUllYVkQ4MUVURmtQSVpZX2NfMTVwbmRTVHdMRGFINHJaNXFCSW5OTExCdFpIb0cybmZFQ3hPNUpVR1FjUl95Q3BqbGJJM3BoVQ?oc=5"
     }
   ],
-  "fact": "한국은 2050년 탄소중립을 국가 목표로 선언했습니다."
+  "fact": "이산화탄소는 대기 중에 배출된 뒤 수백 년간 머무를 수 있어, 오늘 줄인 배출량의 효과는 수십 년 뒤에야 기후에 반영되기 시작합니다."
 }
