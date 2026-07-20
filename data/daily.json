@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T07:50:43.858099+09:00",
-  "generated_at_display": "2026-07-20 07:50 KST",
+  "generated_at": "2026-07-21T07:59:36.080271+09:00",
+  "generated_at_display": "2026-07-21 07:59 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,54 +12,54 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 24,
-    "pm25": 16,
+    "pm10": 22,
+    "pm25": 10,
     "cai": "좋음",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "구례군 농촌지도자연합회, 환경 보전·탄소중립 실천 앞장 - 진일보",
-      "source": "진일보",
-      "date": "Sun, 19 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nYUJieklOWkZSMERNOG84RGl4eWZxQXNhM0tXNUtKRXZHRXJOMHpYMEJMcnJvZWgtRTBlWTVkT1A5eEVpaG5fbHFkVW5Lal93dEx0TnhmRjFJd1ZIcGdMMENUN0MtN25Cd3E1WEs3cw?oc=5"
+      "title": "가평 초등생 20명, 탄소중립 교육 수료…가을 축제장서 ‘환경 전도사’로 뛴다 - 경기일보",
+      "source": "경기일보",
+      "date": "Mon, 20 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44UVhrWFRBd3BPbDYzZ0YwMi1hNFpOZGZJczVIS2E1X1N1LWFOekpKTi1BZlVsU3A5NnJOQXpGMElmZGRmdkp3YjhFc3hmeWk2ZEdQNnQxLUxpeEE?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "가족이 함께 만든 친환경 가치… 포천 패밀리봉사단 환경교육 - 경기신문",
-      "source": "경기신문",
-      "date": "Sun, 19 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9tOEd4UV9MQzdFSkJtYmZVUnFDdzlfMXYwLUlTVVlkQmZ3a2g1QUxHdVcwNno0bnd5UEZ3cXhjdHZPaEVnZDl0YkhmVnZNRWJNTm1sNFNBYjBCdTE4a0tsZlFB?oc=5"
+      "title": "인천연구원, 인천형 탄소중립 실천포럼 개최 - 경기도민일보 미디어",
+      "source": "경기도민일보 미디어",
+      "date": "Mon, 20 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OUHNwMGlvVUpqOVlYMUxkOUQxWEQ4UkY2MmlLS3dBZmJRcWtJYjZxR2xQZFpPLXdzbHFkYjFmeTZVVDI1MVRBR1dWa1dpRF9vZGlPb3FkMTZkQUR5cDd3NE1zNmNsR2txUkE?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "환경산업기술원·산업은행, 녹색성장·탄소중립 협력 강화 - 전기신문",
-      "source": "전기신문",
-      "date": "Thu, 16 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNMThKVkgxcVlENFhXeFRDcGxEY3RfcUJTSG1UUEp4TDZYU2ljb0NZZVlLMFhaQXlZNHpJNVl0VXRNMTJKZy1EZlZiOWpaYWVpN01vSzhhZTd4empTSVdhNThzZUR2LVRmbVc2NNIBcEFVX3lxTE9wcGVBQXZLZkFnc3ZNYS1samJNZ1BnTmZmb01NWGtBd2pRZ3Q3THVhdWlBMWdWcURyd0NVaW1DTzVMWG96TDhXMDJZbXo5TFpQUXBpWFkxQkVPOF9vZm5jS3c2NHlJS19HVFNwQ1JmelU?oc=5"
+      "title": "제주대학교 RISE 사업단 탄소중립공학 전문 트랙, 지역 환경기반시설 현장견학 프로그램 성황 - 일간제주",
+      "source": "일간제주",
+      "date": "Mon, 20 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFZ3lDWlg1ck81TVktSW15U1F6d0xtVFE3MDgyd2M3VUhuaXdFaFBtRVhXaEUtSXBlQS1pX2puWkxISk9Rc0JYNkgyUzA1X3FZVENtdEFXMWoza0tLak51di0zWFZ6U2xaWjNr?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "농촌지도자의령군연합회, 탄소중립 실천 환경정화활동 - 경남도민일보",
-      "source": "경남도민일보",
-      "date": "Sun, 19 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyLV9GLWRoTDRJWVNIYWRTdzE2aVFYem04OC1wRGk4ZWR4WDg0MmJVNWhDR0dxeXVLLWh1YXktUGNZZndPanJjZE9xcWVYc2FkdmVNYTRSRW5mcFdCdmxleThPMVJBRndoLUE?oc=5"
+      "title": "의령군연합회, 탄소중립 실천 환경정화 앞장 - 농업인신문",
+      "source": "농업인신문",
+      "date": "Mon, 20 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mY25DdGpQZjlSRWtqZjczOFJHUHIwTVpCNUJuNGNZVnAwTjRoVlZhX1FGdzNTbWx5cndEYUxfakdlZnJGc05SbmhjamdzOHY5UURzZkswSVRxWExpQzlpOWZhekNtR21kaHVlR293?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "세종시 '친환경 탄소중립' 실천 교육, 초등생부터 한다 - v.daum.net",
-      "source": "v.daum.net",
-      "date": "Tue, 14 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9tWUJKNVh3X1BGUm0yMkE0Y2l6YzluYWQyMkJ0MG9KemtOcU0ycll6c015TXpuUWp3VktnQ1NqUzViSXhSTTdFY1lKdw?oc=5"
+      "title": "관악구, 서울대 교수진과 함께하는 탄소중립 그린리더의 길! ‘제18기 시민환경대학’ 운영 - 관악FM",
+      "source": "관악FM",
+      "date": "Mon, 20 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE94Q3NvQmtwOFVvUGRxaDBmdy1rSUttU1lra1lUR3ZJTFRVVzFENmx3RjRMWFdVRVAtdkZZa2hTbFNDYlQ5d0FwTXR4SQ?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "[김정여 칼럼, 생활속 탄소중립 실천 59] 맨발걷기와 탄소중립 편 - SDG뉴스",
-      "source": "SDG뉴스",
-      "date": "Wed, 15 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqWXl1YlA3TGNQUnAwdFNscTFtRGIwNUtoblpwampKdzJPaHNyemlfY0psaUt1RTk5MVh0NTk0STlrc1NCVF9RN2pTTHo5aVVvUy1DTmpyTk51Qk81Y2MxRHoxY3BwV0nSAWtBVV95cUxOVEZINWVVcTFvdUYzV0t0SkgwZEg0TkZfWml0OGxLOV95ZnJHTElPeGsxZEo5V2s4dmhxX21pVjFFQlZOVEVtREUtUEhHUGNyeXh3b3NjWnpzY2pVbTdmSUplVF8yR3VYbnQ1bw?oc=5"
+      "title": "인천형 탄소중립, 시민 일상에서 찾는다…‘시민선도 실천과제’ 발굴 - 쓰담미디어",
+      "source": "쓰담미디어",
+      "date": "Mon, 20 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLMjdlTnpXbExWWjJqSnBHTVdGUnVkZzBFejE4VzVIVVdyRUt1ZjljNDRLa2dScmxuNVRBV3VrVk9qTkp6UVI2N2JlVFA0dHJRSFkyY1JpdF9EYnlwTDI0NmNDZlJLcFk?oc=5"
     }
   ],
-  "fact": "전 세계 온실가스 배출량의 약 4분의 1은 식량 생산 과정에서 발생합니다."
+  "fact": "산업화 이전 대비 대기 중 이산화탄소 농도는 약 50% 증가했습니다."
 }
