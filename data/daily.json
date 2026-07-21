@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T07:59:36.080271+09:00",
-  "generated_at_display": "2026-07-21 07:59 KST",
+  "generated_at": "2026-07-22T07:55:38.134177+09:00",
+  "generated_at_display": "2026-07-22 07:55 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,54 +12,54 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 22,
-    "pm25": 10,
+    "pm10": 24,
+    "pm25": 12,
     "cai": "좋음",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "가평 초등생 20명, 탄소중립 교육 수료…가을 축제장서 ‘환경 전도사’로 뛴다 - 경기일보",
-      "source": "경기일보",
-      "date": "Mon, 20 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44UVhrWFRBd3BPbDYzZ0YwMi1hNFpOZGZJczVIS2E1X1N1LWFOekpKTi1BZlVsU3A5NnJOQXpGMElmZGRmdkp3YjhFc3hmeWk2ZEdQNnQxLUxpeEE?oc=5"
+      "title": "인천시, 시민 주도의 탄소중립 실천 확산 위한 정책 논의의 장 개최 - 환경포커스",
+      "source": "환경포커스",
+      "date": "Tue, 21 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9CTm5RWVdGZkdrLXJ1U3RMSUVsUkwzek13WHBPaWd4VTM5c0stTm1kc2lMVGNLR2dWTUJPMk1PNVF5X0ZSdTJIcndSVmNMWmhPLUZ6YkpOY09jZjVfeEVBQmFLZw?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "인천연구원, 인천형 탄소중립 실천포럼 개최 - 경기도민일보 미디어",
-      "source": "경기도민일보 미디어",
-      "date": "Mon, 20 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OUHNwMGlvVUpqOVlYMUxkOUQxWEQ4UkY2MmlLS3dBZmJRcWtJYjZxR2xQZFpPLXdzbHFkYjFmeTZVVDI1MVRBR1dWa1dpRF9vZGlPb3FkMTZkQUR5cDd3NE1zNmNsR2txUkE?oc=5"
+      "title": "제5차 국가환경종합계획 수정계획 공청회 개최 …\"탄소중립·순환경제 전환 청사진 수립\" - 에너지데일리",
+      "source": "에너지데일리",
+      "date": "Tue, 21 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5IUWdoUjNscGp1QU9McFpOUUlGVnlUSEFvYmZ4bE0xT0wza0JmUGdzSUIzZVJ0ZXZ6UFhUZEFzaEtITFpwQnlTVGZ2RFpWWk9fUUI1MV94T2V5U2FIWlN0SDNtdVMzX2ItTUR3TkN0cUxDQQ?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "제주대학교 RISE 사업단 탄소중립공학 전문 트랙, 지역 환경기반시설 현장견학 프로그램 성황 - 일간제주",
-      "source": "일간제주",
-      "date": "Mon, 20 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFZ3lDWlg1ck81TVktSW15U1F6d0xtVFE3MDgyd2M3VUhuaXdFaFBtRVhXaEUtSXBlQS1pX2puWkxISk9Rc0JYNkgyUzA1X3FZVENtdEFXMWoza0tLak51di0zWFZ6U2xaWjNr?oc=5"
+      "title": "거제시, 신현중 전교생 대상 '찾아가는 환경교육' 실시… 탄소중립 실천 문화 확산 > 뉴스 - 더코리아",
+      "source": "더코리아",
+      "date": "Tue, 21 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXc1ZQUGtKZGNRVmg4ZEpQblVzbVk0VXprQmlLYVNjNEE5Q0hPbmRJazdYX2lNZTRUZnVFeXlxM3hUZTZQdzBZaVpYcTNUN2dYYU01ZHVlYjl2cTQ3OEt6YjZEc09CanpHcXFXbm1KNjg?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "의령군연합회, 탄소중립 실천 환경정화 앞장 - 농업인신문",
-      "source": "농업인신문",
-      "date": "Mon, 20 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mY25DdGpQZjlSRWtqZjczOFJHUHIwTVpCNUJuNGNZVnAwTjRoVlZhX1FGdzNTbWx5cndEYUxfakdlZnJGc05SbmhjamdzOHY5UURzZkswSVRxWExpQzlpOWZhekNtR21kaHVlR293?oc=5"
+      "title": "탄소중립·물순환·순환경제 청사진 나올까…국가환경계획 공청회 - v.daum.net",
+      "source": "v.daum.net",
+      "date": "Tue, 21 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sdDZGYzlUb0lxbzhmRXdoOE5La3BWNDc2U0xwdllWSElSSEN5U2NBU296SV82UVNuWEdiRzhsdTBSVDJPWDh1dWhXMUVtWjBhSGZIMw?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "관악구, 서울대 교수진과 함께하는 탄소중립 그린리더의 길! ‘제18기 시민환경대학’ 운영 - 관악FM",
-      "source": "관악FM",
-      "date": "Mon, 20 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE94Q3NvQmtwOFVvUGRxaDBmdy1rSUttU1lra1lUR3ZJTFRVVzFENmx3RjRMWFdVRVAtdkZZa2hTbFNDYlQ5d0FwTXR4SQ?oc=5"
+      "title": "구월3동, 환경지킴이 대상 ‘기후변화·탄소중립 실천 교육’ 실시 - 세정포커스",
+      "source": "세정포커스",
+      "date": "Tue, 21 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xMlBNMno1TmdDaFZmQnFMeFVqRmZmVkZ3Y0NoQmlfSHBoM1RHRWpqRl8zdmFCeWpOLWM3TWtiZllPUDY2aHQzR3BXd0pJVm9oYjZPdThBQm5KcXh1THh1RmU1czhGOWFmNzVJVVJB?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "인천형 탄소중립, 시민 일상에서 찾는다…‘시민선도 실천과제’ 발굴 - 쓰담미디어",
-      "source": "쓰담미디어",
-      "date": "Mon, 20 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLMjdlTnpXbExWWjJqSnBHTVdGUnVkZzBFejE4VzVIVVdyRUt1ZjljNDRLa2dScmxuNVRBV3VrVk9qTkp6UVI2N2JlVFA0dHJRSFkyY1JpdF9EYnlwTDI0NmNDZlJLcFk?oc=5"
+      "title": "2040 국가환경계획 수정안 공개…탄소중립 등 7대 전략 - 데일리안",
+      "source": "데일리안",
+      "date": "Tue, 21 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPaUhNTVdXRldCTVlaaUFlc3RseW5GbU1lUXpZSm1HVTdIMk9pVDhNZDhmRnptWE5tQjBDd0FnUzRWVlp4Z1NuNUJKM3Q1RExZOFQwc1d6NDNaSE14aTdBR3ROcEozTmxZV1hTSmo1dzBpWng4cXU1NWFFMFVPLVVQV1gwNmpRUjBLcWo4VVpybUxBdll1eHZUVjdJWm50bFhBVzJ0blZjRVNQZHVMYkNpdTB6QV9LSm5ObXJqb0dIcGw1dEdZWGt6MG5CS0ZSampEVEhycEhuNTFRdjR1YkxFcmFiMHF1YmFvT1FRTmh4d2dlZzBUXzZDenFJZ1o5YnVFMTRz?oc=5"
     }
   ],
-  "fact": "산업화 이전 대비 대기 중 이산화탄소 농도는 약 50% 증가했습니다."
+  "fact": "나무 한 그루는 평균적으로 1년에 약 20~25kg의 이산화탄소를 흡수합니다."
 }
