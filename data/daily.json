@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T07:55:38.134177+09:00",
-  "generated_at_display": "2026-07-22 07:55 KST",
+  "generated_at": "2026-07-23T08:01:51.077639+09:00",
+  "generated_at_display": "2026-07-23 08:01 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,54 +12,54 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 24,
-    "pm25": 12,
-    "cai": "좋음",
+    "pm10": null,
+    "pm25": null,
+    "cai": "수집 실패: timed out",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "인천시, 시민 주도의 탄소중립 실천 확산 위한 정책 논의의 장 개최 - 환경포커스",
-      "source": "환경포커스",
-      "date": "Tue, 21 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9CTm5RWVdGZkdrLXJ1U3RMSUVsUkwzek13WHBPaWd4VTM5c0stTm1kc2lMVGNLR2dWTUJPMk1PNVF5X0ZSdTJIcndSVmNMWmhPLUZ6YkpOY09jZjVfeEVBQmFLZw?oc=5"
+      "title": "탄소중립포인트, 기부도 가능해진다 - 전기신문",
+      "source": "전기신문",
+      "date": "Wed, 22 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBdEtHbjQ4WE1nVExFQkVIc3lRVTBYbEJuandIRFZLcHRZc3NYSjFxQmRMWUMwbF9LdWVCN3daZjdQYmJQYTF6ckpyZWJwLVFwb2pqakY4dW45MmtjMnpIVU40cjhITG9hUEFaQw?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "제5차 국가환경종합계획 수정계획 공청회 개최 …\"탄소중립·순환경제 전환 청사진 수립\" - 에너지데일리",
+      "title": "울주군 주민단체, 지역민 대상 '탄소중립과 재테크 교육' - 연합뉴스",
+      "source": "연합뉴스",
+      "date": "Wed, 22 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzSTF4ZU0tRjVlUWRhc2Q0NW02WkpBbjNCeUVfU0FEZ0NNeW80eU9ORFRid2haNjNESHdaMGNBd3JPZjJSOUNraDd5elVKWTRKZHhGX1NibE5LUWxpdHhoN9IBYEFVX3lxTFAzSTF4ZU0tRjVlUWRhc2Q0NW02WkpBbjNCeUVfU0FEZ0NNeW80eU9ORFRid2haNjNESHdaMGNBd3JPZjJSOUNraDd5elVKWTRKZHhGX1NibE5LUWxpdHhoNw?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "탄소중립기본법 개정안 '선형 감축' 논란...\"헌재 취지 위배\" - 수소신문",
+      "source": "수소신문",
+      "date": "Wed, 22 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rQ29OclNVTHNFSjBmdGZ4T19DOHgzUDVVVDdtdFhvNG5fX00tWnpGSHlWbTlxQ2VrbzlpYlZnZUc1THM5RUthQ3VTM1V5MmxwaWRXTWJJbnFpN01zblI4RGxTTG5PUEIyNk5lN2VybXM?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "탄소중립포인트, 이제 기부도 된다…'녹색 실천'이 이웃사랑으로 - 에너지데일리",
       "source": "에너지데일리",
-      "date": "Tue, 21 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5IUWdoUjNscGp1QU9McFpOUUlGVnlUSEFvYmZ4bE0xT0wza0JmUGdzSUIzZVJ0ZXZ6UFhUZEFzaEtITFpwQnlTVGZ2RFpWWk9fUUI1MV94T2V5U2FIWlN0SDNtdVMzX2ItTUR3TkN0cUxDQQ?oc=5"
+      "date": "Wed, 22 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lQmNpN3JZSTFSeFJkdTZjLUNTNkhXTG1la3ZCLUpBOEttRWJfcjN5dm5XdEpwcGpHdGp3aGpISmU0WU1ISExLSVVON0ZxRlRfejM5aHBBR0RqMWJsMEhrTjZpZW5MZVJ3blNaa0VZSk1vQQ?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "거제시, 신현중 전교생 대상 '찾아가는 환경교육' 실시… 탄소중립 실천 문화 확산 > 뉴스 - 더코리아",
-      "source": "더코리아",
-      "date": "Tue, 21 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXc1ZQUGtKZGNRVmg4ZEpQblVzbVk0VXprQmlLYVNjNEE5Q0hPbmRJazdYX2lNZTRUZnVFeXlxM3hUZTZQdzBZaVpYcTNUN2dYYU01ZHVlYjl2cTQ3OEt6YjZEc09CanpHcXFXbm1KNjg?oc=5"
+      "title": "환경산업기술원, 탄소중립포인트 기부 길 열었다 - 데일리경제",
+      "source": "데일리경제",
+      "date": "Wed, 22 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MU0RyN3RTSnNxZmU5SU0xZmlkZlg2SDNULU5ieW5jR1dkQkpuSjVJS3hXX05CWHNSMkRYSHBZbWxVZnBoX3JoTTV0M0dQOW5xUWR2ZlYxaHc1VVRsRFJMVmx5c0prMWE5dm0tUw?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "탄소중립·물순환·순환경제 청사진 나올까…국가환경계획 공청회 - v.daum.net",
-      "source": "v.daum.net",
-      "date": "Tue, 21 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sdDZGYzlUb0lxbzhmRXdoOE5La3BWNDc2U0xwdllWSElSSEN5U2NBU296SV82UVNuWEdiRzhsdTBSVDJPWDh1dWhXMUVtWjBhSGZIMw?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "구월3동, 환경지킴이 대상 ‘기후변화·탄소중립 실천 교육’ 실시 - 세정포커스",
-      "source": "세정포커스",
-      "date": "Tue, 21 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xMlBNMno1TmdDaFZmQnFMeFVqRmZmVkZ3Y0NoQmlfSHBoM1RHRWpqRl8zdmFCeWpOLWM3TWtiZllPUDY2aHQzR3BXd0pJVm9oYjZPdThBQm5KcXh1THh1RmU1czhGOWFmNzVJVVJB?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "2040 국가환경계획 수정안 공개…탄소중립 등 7대 전략 - 데일리안",
-      "source": "데일리안",
-      "date": "Tue, 21 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPaUhNTVdXRldCTVlaaUFlc3RseW5GbU1lUXpZSm1HVTdIMk9pVDhNZDhmRnptWE5tQjBDd0FnUzRWVlp4Z1NuNUJKM3Q1RExZOFQwc1d6NDNaSE14aTdBR3ROcEozTmxZV1hTSmo1dzBpWng4cXU1NWFFMFVPLVVQV1gwNmpRUjBLcWo4VVpybUxBdll1eHZUVjdJWm50bFhBVzJ0blZjRVNQZHVMYkNpdTB6QV9LSm5ObXJqb0dIcGw1dEdZWGt6MG5CS0ZSampEVEhycEhuNTFRdjR1YkxFcmFiMHF1YmFvT1FRTmh4d2dlZzBUXzZDenFJZ1o5YnVFMTRz?oc=5"
+      "title": "환경산업기술원, 탄소중립포인트 기부 시스템 첫 도입 - 인사이트에너지뉴스",
+      "source": "인사이트에너지뉴스",
+      "date": "Wed, 22 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VeGtGa2YwbkUtVWQ0aDJuQWxkckZLc3E4amtBM1Z5WkVNcURGV3VmVUYwY2MySW1aeDVHWnM3engtMzFwc0szNWxFekFIQTFxVFVTendKUEctOE8yTXNJRF9zdS1vdEHSAWtBVV95cUxQUG14RHJNN1ktNV8zb1A4WTNwNkZWY2tDY0VOM01VY2tJNlBOR2k1N2VHa19MOW03c24xLUpWTnJldW1PNFJjX2lnanN2bDR5MG5hU2xMRUhSaWx3UmVWMzFoNVZfM1JNVENSUQ?oc=5"
     }
   ],
-  "fact": "나무 한 그루는 평균적으로 1년에 약 20~25kg의 이산화탄소를 흡수합니다."
+  "fact": "전 세계 플라스틱의 약 9%만이 실제로 재활용되고 있습니다."
 }
