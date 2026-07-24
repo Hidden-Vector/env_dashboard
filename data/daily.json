@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T07:55:16.940617+09:00",
-  "generated_at_display": "2026-07-24 07:55 KST",
+  "generated_at": "2026-07-25T08:00:06.439096+09:00",
+  "generated_at_display": "2026-07-25 08:00 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,18 +12,25 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 28,
-    "pm25": 20,
+    "pm10": 23,
+    "pm25": 12,
     "cai": "좋음",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "환경산업기술원-사회복지공동모금회, 탄소중립포인트 기부 협약 체결 - 환경일보",
-      "source": "환경일보",
-      "date": "Thu, 23 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zc09JMzhJb21Tc0JHN1N3RHhpV21ocTNEQUFZUHZ4dGIxMFNBaW1OOU85TGZXV25kTUZ4WENwc3l2MjdkWVFOZTBmYWRCNUxzV2wwNmh2UndHZTJNb2V4T0czSUcxUHVa?oc=5"
+      "title": "남부발전, 탄소중립 실천·환경 개선 방안 국민으로부터 듣는다 - 에너지플랫폼뉴스",
+      "source": "에너지플랫폼뉴스",
+      "date": "Fri, 24 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KWlNuOUVGeTlPVWxZX2RPQm9oay0ycDZNaldReWhJNXFoWEtkck9OVnlsc21DTXV1R0NuaVdob1JxY1B4WEY0a2d4ZUFxX0RMeFU5M0VFUlBSUWF5MGRTSjJ0U0ZYaXJhYmU2T1BB0gFwQVVfeXFMUFFRVlNfdkFhYUtKelZSTlhpWUJQSnRMVUxxVGE4T2lCSjFBcWs4VWpIWll3aXg0RkZ5aTdoeE94N0Y0aWt4OXMxNjJqOVhocHRrN2hjcU9iSEF1R0lRWUVMaDJReWsxZ1hDSkFFOXhUNQ?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "녹색생활 실천해 얻은 탄소중립포인트로 ‘기부’도 가능 - 이투뉴스",
+      "source": "이투뉴스",
+      "date": "Fri, 24 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZeWdlX1hfYlpZcTdBRmxCeUd3TU1LQVY2OW1SZXhWZ2NtU1VhTXRaNHB2a2w5QUc0YnJySkpLTjNuZzFGcWtlM1J4Z1U5X2FRbDU2S1NrTWNIdk9DeXpGSHhNMkh3ck1rX3NF0gFrQVVfeXFMUFl5Z2VfWF9iWllxN0FGbEJ5R3dNTUtBVjY5bVJleFZnY21TVWFNdFo0cHZrbDlBRzRicnJKSktOM25nMUZxa2UzUnhnVTlfYVFsNTZLU2tNY0h2T0N5ekZIeE0ySHdyTWtfc0U?oc=5"
     },
     {
       "tag": "환경뉴스",
@@ -34,32 +41,25 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "“탄소중립기본법 개정안, 소위 통과했지만…” - 환경과조경",
-      "source": "환경과조경",
-      "date": "Thu, 23 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ybWlrRThjLVBiSG9HVTVkd0FiRjA5TFlJZjA0OUkydUVRQi13OFVoQmgwSmVZTEVacEpfQ3NmSmtOckdZOUFMak5ublI1VnFjcDZRTWVKckk0VkNQOVE?oc=5"
+      "title": "남부발전, 기후·환경 대국민 아이디어 공모...8월 23일까지 - 산경e뉴스",
+      "source": "산경e뉴스",
+      "date": "Fri, 24 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82LTFYUExWellMV21WMVpPY2Z0NWlKR0RHbmFYRHFrZzNfVUpSQmpZRDFsUGJIT3J2eVcyUUlyQUNDVkhoekV4RWxKYUl1M0RteUVsWTJza2xsNWJiV0laekFSd2d0UGs?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "환경공단, 내달 4일까지 '탄소중립 인재 5기' 모집…올해 총 6회 104명 목표 - 글로벌이코노믹",
-      "source": "글로벌이코노믹",
-      "date": "Thu, 23 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQjU4SnBKVmhBQXcyTW9PYlN2WWljdmtOZWZlVjVDTEpnYUdvczVlWTl1ZURkVTByel9xMS1VakJqbm1aQ09SQVpsWmZsdndkSFdQRlVjMHYyTTlEWlQ1Y3l4ZGJhQlBHeVZ5bFVBbWVtSG5QWXgybjlvVnB1NThrNkdpU0t4Y1dMWEE?oc=5"
+      "title": "허태정 대전시장, 주한 EU대사 접견…첨단산업·탄소중립 협력 확대 - 타임뉴스",
+      "source": "타임뉴스",
+      "date": "Fri, 24 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VWVR4a0x3Qnd2bnlyQ2lPa0tSZHVfX21EajBJWTY2N1dmSm5USUVCenhpOERCc2NPR005REthcnZCdFc3N2phSm1mNVlWVjNFR1JWZQ?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "의성군, 주민·학생 눈높이에 맞춘 환경교육 실시 - 대한투데이",
-      "source": "대한투데이",
-      "date": "Thu, 23 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtQlpvM0ZHTm8zZ3VzNi1oSHdCaFdMYmFuTDRCM1dqdTJOYzZGN3NGOVJmd3BBeEtLV0ZfM1otWUtWX25kVlg2SUVsd0ZCUmF4UjBkRFYwR2hqUWZ0cXFfVktWRDcyc1dEQnc?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "광명시 기후의병, 생활 속 탄소중립 실천 이끈다 - 연합뉴스",
-      "source": "연합뉴스",
-      "date": "Thu, 23 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XTW1IcWdjeDJjRWVwUEFMWXVxa2lxbjUweElINktiR1ZQY1VqNUlmRGIzN2ozd2VZbmZSQjFaUElPQ2ZJSTd4NXc1dHZQaWtNc3VLVUl4UmNNUEk?oc=5"
+      "title": "남부발전, 기후·환경 대국민 아이디어 공모…우수 제안 사업화 지원 - 뉴스핌",
+      "source": "뉴스핌",
+      "date": "Fri, 24 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qcVQxdENYbFJjTDJiQnRjTHhHZm1jUnhtRDJfUXNLLVN0TUkzZlFHR1FzSHZJWVlIMmg5TE9jVEViYlJURGpPVVZiOGZ1MG5IUnkyOGx3eHh5bUNF?oc=5"
     }
   ],
-  "fact": "태양광 발전 비용은 지난 10여 년간 큰 폭으로 하락해 여러 지역에서 가장 저렴한 전력원 중 하나가 되었습니다."
+  "fact": "해양은 인간이 배출한 이산화탄소의 상당 부분을 흡수해 해양 산성화를 일으키고 있습니다."
 }
