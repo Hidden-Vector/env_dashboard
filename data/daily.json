@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T08:00:06.439096+09:00",
-  "generated_at_display": "2026-07-25 08:00 KST",
+  "generated_at": "2026-07-26T07:54:33.647149+09:00",
+  "generated_at_display": "2026-07-26 07:54 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,26 +12,12 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 23,
-    "pm25": 12,
+    "pm10": 8,
+    "pm25": 6,
     "cai": "좋음",
     "sido": "대구 동구(신암동)"
   },
   "news": [
-    {
-      "tag": "환경뉴스",
-      "title": "남부발전, 탄소중립 실천·환경 개선 방안 국민으로부터 듣는다 - 에너지플랫폼뉴스",
-      "source": "에너지플랫폼뉴스",
-      "date": "Fri, 24 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KWlNuOUVGeTlPVWxZX2RPQm9oay0ycDZNaldReWhJNXFoWEtkck9OVnlsc21DTXV1R0NuaVdob1JxY1B4WEY0a2d4ZUFxX0RMeFU5M0VFUlBSUWF5MGRTSjJ0U0ZYaXJhYmU2T1BB0gFwQVVfeXFMUFFRVlNfdkFhYUtKelZSTlhpWUJQSnRMVUxxVGE4T2lCSjFBcWs4VWpIWll3aXg0RkZ5aTdoeE94N0Y0aWt4OXMxNjJqOVhocHRrN2hjcU9iSEF1R0lRWUVMaDJReWsxZ1hDSkFFOXhUNQ?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "녹색생활 실천해 얻은 탄소중립포인트로 ‘기부’도 가능 - 이투뉴스",
-      "source": "이투뉴스",
-      "date": "Fri, 24 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZeWdlX1hfYlpZcTdBRmxCeUd3TU1LQVY2OW1SZXhWZ2NtU1VhTXRaNHB2a2w5QUc0YnJySkpLTjNuZzFGcWtlM1J4Z1U5X2FRbDU2S1NrTWNIdk9DeXpGSHhNMkh3ck1rX3NF0gFrQVVfeXFMUFl5Z2VfWF9iWllxN0FGbEJ5R3dNTUtBVjY5bVJleFZnY21TVWFNdFo0cHZrbDlBRzRicnJKSktOM25nMUZxa2UzUnhnVTlfYVFsNTZLU2tNY0h2T0N5ekZIeE0ySHdyTWtfc0U?oc=5"
-    },
     {
       "tag": "환경뉴스",
       "title": "탄소중립포인트, 기부도 가능해진다 - 전기신문",
@@ -41,25 +27,39 @@
     },
     {
       "tag": "환경뉴스",
+      "title": "[남부발전 소식] ‘기후·환경분야 대국민 아이디어’ 공모 外 - 부산일보",
+      "source": "부산일보",
+      "date": "Sat, 25 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53bFYzd3FGRmRxZl8xaGpJX0J2cFJfYm9PMGxFek80c19rYm1mMFdDUndCUGxyYXo1UlVwbG9WbWxUMkw2d1VOSGFfWUh2QVJVZEtrR1VoZWJKS1N4dndLMlFtR1pLdVR0djVSVU1pdDRRSmNv?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "남부발전, 탄소중립 실천·환경 개선 방안 국민으로부터 듣는다 - 에너지플랫폼뉴스",
+      "source": "에너지플랫폼뉴스",
+      "date": "Fri, 24 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BUkxaYUtpOUdWcU81bDk5UnVKUjZJLU8zRWRBbXF6Y3pMSENCTHVOQlRIQm5UZTRnalo1b1lQZjJyR2RaLWxTbE5MMTdXaWZJZUlRV0hZUlFLbEc0dU5VT0FtVVRkM0xyeVE5S9IBcEFVX3lxTFBRUVZTX3ZBYWFLSnpWUk5YaVlCUEp0TFVMcVRhOE9pQkoxQXFrOFVqSFpZd2l4NEZGeWk3aHhPeDdGNGlreDlzMTYyajlYaHB0azdoY3FPYkhBdUdJUVlFTGgyUXlrMWdYQ0pBRTl4VDU?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "환경산업기술원-사회복지공동모금회, 탄소중립포인트 기부 협약 체결 - 환경일보",
+      "source": "환경일보",
+      "date": "Thu, 23 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zc09JMzhJb21Tc0JHN1N3RHhpV21ocTNEQUFZUHZ4dGIxMFNBaW1OOU85TGZXV25kTUZ4WENwc3l2MjdkWVFOZTBmYWRCNUxzV2wwNmh2UndHZTJNb2V4T0czSUcxUHVa?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "한국환경공단, 온실가스관리 전문인력 5기 모집…탄소중립 실무인재 양성 속도 - 에너지데일리",
+      "source": "에너지데일리",
+      "date": "Wed, 22 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QU2pWbzZGWE91MFhZNFBndDFORXYyYzNKMkZVOWdscGNiTTg2aWRyWnV3YXRJX1BtaVc4bk5hZEVhSnFJZTJaYXYzQktFdEh2MFZoTUZCRTJydWkzZktEOGl5bDktd3RISnRCQlVxZnIwZw?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
       "title": "남부발전, 기후·환경 대국민 아이디어 공모...8월 23일까지 - 산경e뉴스",
       "source": "산경e뉴스",
       "date": "Fri, 24 Jul 2026",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82LTFYUExWellMV21WMVpPY2Z0NWlKR0RHbmFYRHFrZzNfVUpSQmpZRDFsUGJIT3J2eVcyUUlyQUNDVkhoekV4RWxKYUl1M0RteUVsWTJza2xsNWJiV0laekFSd2d0UGs?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "허태정 대전시장, 주한 EU대사 접견…첨단산업·탄소중립 협력 확대 - 타임뉴스",
-      "source": "타임뉴스",
-      "date": "Fri, 24 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VWVR4a0x3Qnd2bnlyQ2lPa0tSZHVfX21EajBJWTY2N1dmSm5USUVCenhpOERCc2NPR005REthcnZCdFc3N2phSm1mNVlWVjNFR1JWZQ?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "남부발전, 기후·환경 대국민 아이디어 공모…우수 제안 사업화 지원 - 뉴스핌",
-      "source": "뉴스핌",
-      "date": "Fri, 24 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qcVQxdENYbFJjTDJiQnRjTHhHZm1jUnhtRDJfUXNLLVN0TUkzZlFHR1FzSHZJWVlIMmg5TE9jVEViYlJURGpPVVZiOGZ1MG5IUnkyOGx3eHh5bUNF?oc=5"
     }
   ],
-  "fact": "해양은 인간이 배출한 이산화탄소의 상당 부분을 흡수해 해양 산성화를 일으키고 있습니다."
+  "fact": "육류 소비를 줄이는 것은 개인이 실천할 수 있는 가장 효과적인 탄소 저감 방법 중 하나로 꼽힙니다."
 }
