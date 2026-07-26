@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T07:54:33.647149+09:00",
-  "generated_at_display": "2026-07-26 07:54 KST",
+  "generated_at": "2026-07-27T07:57:59.868886+09:00",
+  "generated_at_display": "2026-07-27 07:57 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,25 +12,25 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 8,
-    "pm25": 6,
+    "pm10": 11,
+    "pm25": 4,
     "cai": "좋음",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
+      "title": "민주당 ‘인재 1호’ 박지혜 의원 “원전, 메가프로젝트 속도 못 따라가…탄소중립 흔들어선 안돼” - 경향신문",
+      "source": "경향신문",
+      "date": "Sun, 26 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0d0dEYkwyUGtXRHV5M2pfcFRpV3lRNmkxdDg0cXRtWlFqNXRUdFlWcGl4b0VsQTZ1MFlWMlJ5ZmFHYUVWVDV0dDNxVUFiLUdvbEpzVmhjaG9oZ9IBX0FVX3lxTE9PU0pCZkxIWGNzTENJVTV0WndNU0ZETklEWTJNalJmVUt4VE16ZTYtZUxFNmVaa256eUpsdDg4aWczT2tROGZkSWtLbkRTSnlyVkpxTVpPYmNkNG56V1Fr?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
       "title": "탄소중립포인트, 기부도 가능해진다 - 전기신문",
       "source": "전기신문",
       "date": "Wed, 22 Jul 2026",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBdEtHbjQ4WE1nVExFQkVIc3lRVTBYbEJuandIRFZLcHRZc3NYSjFxQmRMWUMwbF9LdWVCN3daZjdQYmJQYTF6ckpyZWJwLVFwb2pqakY4dW45MmtjMnpIVU40cjhITG9hUEFaQ9IBcEFVX3lxTE1EUHJoWDdqQ0NUSFR3djZqdURSTHpsRC1NTVVaQUx0SzZZZDl5MGZNa3N0NlJnWjVZdURxalRfeFpXQTFPYk5QWjByVVVnUFg2WVNaS2hRY2paQmZHQzQ2U1BOeWZDT1ItMENpWl83elA?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "[남부발전 소식] ‘기후·환경분야 대국민 아이디어’ 공모 外 - 부산일보",
-      "source": "부산일보",
-      "date": "Sat, 25 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53bFYzd3FGRmRxZl8xaGpJX0J2cFJfYm9PMGxFek80c19rYm1mMFdDUndCUGxyYXo1UlVwbG9WbWxUMkw2d1VOSGFfWUh2QVJVZEtrR1VoZWJKS1N4dndLMlFtR1pLdVR0djVSVU1pdDRRSmNv?oc=5"
     },
     {
       "tag": "환경뉴스",
@@ -41,25 +41,25 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "환경산업기술원-사회복지공동모금회, 탄소중립포인트 기부 협약 체결 - 환경일보",
-      "source": "환경일보",
-      "date": "Thu, 23 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zc09JMzhJb21Tc0JHN1N3RHhpV21ocTNEQUFZUHZ4dGIxMFNBaW1OOU85TGZXV25kTUZ4WENwc3l2MjdkWVFOZTBmYWRCNUxzV2wwNmh2UndHZTJNb2V4T0czSUcxUHVa?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "한국환경공단, 온실가스관리 전문인력 5기 모집…탄소중립 실무인재 양성 속도 - 에너지데일리",
-      "source": "에너지데일리",
+      "title": "[한국환경산업기술원] 탄소중립 녹색생활 실천이 이웃사랑으로… 탄소중립포인트 ‘기부’ 첫 도입 - 워터저널",
+      "source": "워터저널",
       "date": "Wed, 22 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QU2pWbzZGWE91MFhZNFBndDFORXYyYzNKMkZVOWdscGNiTTg2aWRyWnV3YXRJX1BtaVc4bk5hZEVhSnFJZTJaYXYzQktFdEh2MFZoTUZCRTJydWkzZktEOGl5bDktd3RISnRCQlVxZnIwZw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE10ZWlXbnkySzZxWUp0YWlWTWxxMTFRNHNLZi1FYlNYVTlXZnJnTGRZUmtJNlY5VFE3cGFFZ0tZR19oSkVwYkhnNGZhcG9NOHpRZkNneUJ2YWs1ZmlGZnZENVY5YngwRS10TVV1QXlONl9Id9IBdkFVX3lxTE1GV3NXR2NCOXNzTnNCR0YxSjMzWnFORG9ybGZTa185Y0hzOVdBZDBlWEYzU0VaTWluSFNpYmp2N3RZVUl3c2JRai14SjZUenIyR1ZpaDJ2bXJvbi1XUG9TcHAxaUpBTTJzZDZPemhtZmxtRnVoM1E?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "남부발전, 기후·환경 대국민 아이디어 공모...8월 23일까지 - 산경e뉴스",
-      "source": "산경e뉴스",
-      "date": "Fri, 24 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82LTFYUExWellMV21WMVpPY2Z0NWlKR0RHbmFYRHFrZzNfVUpSQmpZRDFsUGJIT3J2eVcyUUlyQUNDVkhoekV4RWxKYUl1M0RteUVsWTJza2xsNWJiV0laekFSd2d0UGs?oc=5"
+      "title": "대전시, EU와 과학기술·탄소중립 협력 확대…유럽 도시와 실질 교류 모색 - 아시아투데이",
+      "source": "아시아투데이",
+      "date": "Sun, 26 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lMmlZaVNNaUNYS2J0Q1VjTDB4ZmdTODdVZDR1M0tsMi1Xc0F3U3RwOFdPNmI1dXo0MnhQcU5GZFdQN2NSSUg2QkhCUm40VWg4UExPXzNReGVvS1Q0Nk9YYjQyXzdSa1A4N3UxOG9R?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "“탄소중립기본법 개정안, 소위 통과했지만…” - 환경과조경",
+      "source": "환경과조경",
+      "date": "Thu, 23 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ybWlrRThjLVBiSG9HVTVkd0FiRjA5TFlJZjA0OUkydUVRQi13OFVoQmgwSmVZTEVacEpfQ3NmSmtOckdZOUFMak5ublI1VnFjcDZRTWVKckk0VkNQOVE?oc=5"
     }
   ],
-  "fact": "육류 소비를 줄이는 것은 개인이 실천할 수 있는 가장 효과적인 탄소 저감 방법 중 하나로 꼽힙니다."
+  "fact": "국제사회는 파리협정을 통해 산업화 이전 대비 지구 평균기온 상승을 1.5도 이내로 억제하는 것을 목표로 하고 있습니다."
 }
