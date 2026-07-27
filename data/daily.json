@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T07:57:59.868886+09:00",
-  "generated_at_display": "2026-07-27 07:57 KST",
+  "generated_at": "2026-07-28T08:00:15.399850+09:00",
+  "generated_at_display": "2026-07-28 08:00 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,7 +12,7 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 11,
+    "pm10": 17,
     "pm25": 4,
     "cai": "좋음",
     "sido": "대구 동구(신암동)"
@@ -20,46 +20,46 @@
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "민주당 ‘인재 1호’ 박지혜 의원 “원전, 메가프로젝트 속도 못 따라가…탄소중립 흔들어선 안돼” - 경향신문",
-      "source": "경향신문",
-      "date": "Sun, 26 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0d0dEYkwyUGtXRHV5M2pfcFRpV3lRNmkxdDg0cXRtWlFqNXRUdFlWcGl4b0VsQTZ1MFlWMlJ5ZmFHYUVWVDV0dDNxVUFiLUdvbEpzVmhjaG9oZ9IBX0FVX3lxTE9PU0pCZkxIWGNzTENJVTV0WndNU0ZETklEWTJNalJmVUt4VE16ZTYtZUxFNmVaa256eUpsdDg4aWczT2tROGZkSWtLbkRTSnlyVkpxTVpPYmNkNG56V1Fr?oc=5"
+      "title": "예산군, 경로당 찾아 탄소중립 실천 확산…환경교육·봉사활동 함께 추진 - 중도일보",
+      "source": "중도일보",
+      "date": "Mon, 27 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84R3hRYlpfVTUtOHdfSjZtZ3VwOC02a09za0ZraW93QzJ2MzA1TEgtLVlMZUNPVmxfZnk5SGFLVy1jc2NodVpNamF5OTM1dlhhazNaZi1tajQ4X25hc3J3UnptdXQtZkJZYjYtYg?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "탄소중립포인트, 기부도 가능해진다 - 전기신문",
+      "title": "의성군, 탄소중립 교육 1년 새 두 배로 확대 - kyongbuk.co.kr",
+      "source": "kyongbuk.co.kr",
+      "date": "Mon, 27 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56WVpwdzhxYjFQX3pDVG5jMFdZbGk0elBBMXA3bllqQUl4T0R4V1M2cl9VcW9hY2U3eDY3dE5RbWFRd3htTHhaSk9fRVI1NjQ3bVJGR0ZYM3ltcVNWcnZFR2V0MVpIM1dwWWs0X2dyYw?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "새마을지도자, 탄소중립 실천과 생태환경 보전을 위한 EM 흙공 던지기 - 매일신문",
+      "source": "매일신문",
+      "date": "Mon, 27 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52U1pLUUkxYTA3Q2pHeGdHSWhTamd4TTJNblFhODN4dVNKNV9aRUNoR2VfQzFpYThvUmFwNmUzSVZZNDFxUUlDVmliNC1OSkRzVUpwVUUtWVFBcG04VWVDeXd3?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "(인사)기상청 - 전기신문",
       "source": "전기신문",
-      "date": "Wed, 22 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBdEtHbjQ4WE1nVExFQkVIc3lRVTBYbEJuandIRFZLcHRZc3NYSjFxQmRMWUMwbF9LdWVCN3daZjdQYmJQYTF6ckpyZWJwLVFwb2pqakY4dW45MmtjMnpIVU40cjhITG9hUEFaQ9IBcEFVX3lxTE1EUHJoWDdqQ0NUSFR3djZqdURSTHpsRC1NTVVaQUx0SzZZZDl5MGZNa3N0NlJnWjVZdURxalRfeFpXQTFPYk5QWjByVVVnUFg2WVNaS2hRY2paQmZHQzQ2U1BOeWZDT1ItMENpWl83elA?oc=5"
+      "date": "Mon, 27 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyY0FTZXRIOUJHWWZWX2Y1d1BNYTZRV1hZdlRjeUd5UUwwd19ubGNRZ3ZLZ19LZUZKSWxGYktQblB0S0c5blNreDR1amdSMS1QbTMyc3RvTVlseVk3M1dxZlI1TGhzVS1NVm9WMtIBcEFVX3lxTE10YTVhWkE4WkNLQVNRT1NnLUxKOWFhZzJ3TU9yTk5IaS1LdElDNXRXWlJ6azRZVkNiaExLMkhzdXJoaDhfNk44d2dKN3ZnRlpCVFZoYXZqNkljekdxT2JIOTR4X3dCYnBQbnBtZE1FYWc?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "남부발전, 탄소중립 실천·환경 개선 방안 국민으로부터 듣는다 - 에너지플랫폼뉴스",
-      "source": "에너지플랫폼뉴스",
-      "date": "Fri, 24 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BUkxaYUtpOUdWcU81bDk5UnVKUjZJLU8zRWRBbXF6Y3pMSENCTHVOQlRIQm5UZTRnalo1b1lQZjJyR2RaLWxTbE5MMTdXaWZJZUlRV0hZUlFLbEc0dU5VT0FtVVRkM0xyeVE5S9IBcEFVX3lxTFBRUVZTX3ZBYWFLSnpWUk5YaVlCUEp0TFVMcVRhOE9pQkoxQXFrOFVqSFpZd2l4NEZGeWk3aHhPeDdGNGlreDlzMTYyajlYaHB0azdoY3FPYkhBdUdJUVlFTGgyUXlrMWdYQ0pBRTl4VDU?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "[한국환경산업기술원] 탄소중립 녹색생활 실천이 이웃사랑으로… 탄소중립포인트 ‘기부’ 첫 도입 - 워터저널",
-      "source": "워터저널",
-      "date": "Wed, 22 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE10ZWlXbnkySzZxWUp0YWlWTWxxMTFRNHNLZi1FYlNYVTlXZnJnTGRZUmtJNlY5VFE3cGFFZ0tZR19oSkVwYkhnNGZhcG9NOHpRZkNneUJ2YWs1ZmlGZnZENVY5YngwRS10TVV1QXlONl9Id9IBdkFVX3lxTE1GV3NXR2NCOXNzTnNCR0YxSjMzWnFORG9ybGZTa185Y0hzOVdBZDBlWEYzU0VaTWluSFNpYmp2N3RZVUl3c2JRai14SjZUenIyR1ZpaDJ2bXJvbi1XUG9TcHAxaUpBTTJzZDZPemhtZmxtRnVoM1E?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "대전시, EU와 과학기술·탄소중립 협력 확대…유럽 도시와 실질 교류 모색 - 아시아투데이",
-      "source": "아시아투데이",
+      "title": "국민 아이디어가 탄소중립 사업으로…남부발전, 기후·환경 공모 - 에너지프로슈머",
+      "source": "에너지프로슈머",
       "date": "Sun, 26 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lMmlZaVNNaUNYS2J0Q1VjTDB4ZmdTODdVZDR1M0tsMi1Xc0F3U3RwOFdPNmI1dXo0MnhQcU5GZFdQN2NSSUg2QkhCUm40VWg4UExPXzNReGVvS1Q0Nk9YYjQyXzdSa1A4N3UxOG9R?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0xckJuaUdLby1wYVdsUEdVekN3RG1wTGRmd2g4cE5Ial84M2pmS2tPbGVWbFFpMXEtblNlNWI4MkJKTWM5aEVNaG9tNFU?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "“탄소중립기본법 개정안, 소위 통과했지만…” - 환경과조경",
-      "source": "환경과조경",
-      "date": "Thu, 23 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ybWlrRThjLVBiSG9HVTVkd0FiRjA5TFlJZjA0OUkydUVRQi13OFVoQmgwSmVZTEVacEpfQ3NmSmtOckdZOUFMak5ublI1VnFjcDZRTWVKckk0VkNQOVE?oc=5"
+      "title": "기후교육과 미래차 기술의 만남…환경교육, 산업현장으로 확장된다 - 에너지데일리",
+      "source": "에너지데일리",
+      "date": "Mon, 27 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jOW4tai1SdHJNZGxraHRlNEJyc1M1TUI3NzFEb1pudnBmeVUtdHB4QXEtTUt5bXdSaklaeFJpbFh4RGdXYllsbkJRdmxhYUt0SFJHa0RoejFmcW9sQ2Nfekw4cWtxdjNoMDBnNnFWX2dUQQ?oc=5"
     }
   ],
-  "fact": "국제사회는 파리협정을 통해 산업화 이전 대비 지구 평균기온 상승을 1.5도 이내로 억제하는 것을 목표로 하고 있습니다."
+  "fact": "한국은 2050년 탄소중립을 국가 목표로 선언했습니다."
 }
