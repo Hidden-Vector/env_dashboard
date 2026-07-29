@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T07:56:49.802843+09:00",
-  "generated_at_display": "2026-07-29 07:56 KST",
+  "generated_at": "2026-07-30T07:58:29.629677+09:00",
+  "generated_at_display": "2026-07-30 07:58 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,7 +12,7 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 13,
+    "pm10": 5,
     "pm25": 2,
     "cai": "좋음",
     "sido": "대구 동구(신암동)"
@@ -20,10 +20,24 @@
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "지배구조·준법경영·탄소중립…대원제약, ESG 경영 고도화 - 조선비즈 - Chosunbiz",
-      "source": "Chosunbiz",
-      "date": "Tue, 28 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVXNGVVFQU2pkWWhOeXItLUQ0QkRPTjNwemRONnY1eDlDVjd5UC1yTExGd0JSU0VaZm10RGFoYXJld05Ma2s4a0R2c3ZpUDhZZ1dwbWdLcnlqNFk2VHAzbGd1UkpLeHBYX3IzSVJZdkNhSkJvVmxtenRWcGJwRkhiLTdtMEY0UFHSAZsBQVVfeXFMT0sxNWZOQTNsNUJpak5NenJiWFpSdnk3MDRvdWtXXy00ZzNOSnBabkxJVjl0NkMzai1JRXBEbHhoSEdiaXNjQlk4SFpmQ2pEcm4xdUpoRDhEcWVrMTcweVhLVldQMlRBSlpmdFNMUXlEYS1rRkhOYzhheHBneEJtajU1ZW5UUXVGeXBOSWxfbFFMMFNmWERPcDhHMzQ?oc=5"
+      "title": "세종기후환경네트워크, 탄소중립 실천왕 선발대회 참가자 모집 - 세종의소리",
+      "source": "세종의소리",
+      "date": "Wed, 29 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyOVpIRXZzYUZYbGliOGZmNUdTT0hqMThSQmFuaWxPWEE2SjU3Yk9NT3I0UW52VUxtUTZhRUtTM1RJaDZEbmxTU3VicGdRdldYMVdoZUV6ZTEtS1hWNlIxdEcwN1RfQTA?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "[한국투자증권 ESG-E] 기후금융 확대…2050 탄소중립 향한 ESG 경영 강화 - PRESS9",
+      "source": "PRESS9",
+      "date": "Wed, 29 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jSGYxaXhHbTlHZlJMblBDaUg5QjRnMTNVX1RjN2dOM1ctaHFmV21USVlkTjlzYXltYTA2eEFUSGVIMUtXQXNaUmZBOWNEclVKR0F1YURqNXc0MlBPSkN0RmlVSUU?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "[EE칼럼] 메가프로젝트와 탄소중립 2.0, 지역발전의 새로운 모멘텀 - 에너지경제신문",
+      "source": "에너지경제신문",
+      "date": "Wed, 29 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4LXRjMGJuWTcwRmVXZlJsQmRXZ1lSaDRtbC1tSUg3TlprdzNMZ3huXzdVdTRZaHNwYi13TTAyd2hsSVZpNFhmd1huZHVra01CMDIzalZaVHlHZVU?oc=5"
     },
     {
       "tag": "환경뉴스",
@@ -34,10 +48,10 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "기후대응센터-미래숲, 탄소중립·토지복원 위해 맞손 - 아시아투데이",
-      "source": "아시아투데이",
-      "date": "Tue, 28 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VWGkyS3NhV0VnZG5DVVFWUjhtZWxkZ2tKb3dORkVkaXlCWWgyM090MXp3SzZmdVFjLWRBSnpMT3I5bEs5ajdxbXlmRUhlRUJwRW1QZmp5QlJMWnZaRVFkdHpnY3YtQUNPUlVNVzFB?oc=5"
+      "title": "기상청, ‘2026 지진해일 특보 안내서’ 발간 - electimes.com",
+      "source": "electimes.com",
+      "date": "Wed, 29 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZWXRVUzZEUC1FdEVMRC1fTlg3cy1ROFNab2QzNkxPTE95WDhKSzU0aGs3VlRxY1pNQlU2MU5Bdzh1QWQ4enZOVXlBQ1FqT0RYSjZzMGRUeXNPNER1eG81NWZTT1BQYmFUWWlLNNIBcEFVX3lxTE03dm1VeU91YjN5SXVQUWlqdzJwUXQwTHZ1azQ5NU16dFM5RHhNVkhvbjlJRFFlY1NXSFk5WUhtdEZqY3FmYWFzUG9QcUZ6M2pMTklPaDJIRUFmVnMwSnZSazY3TmoyQjJYYmtMZl9nYXQ?oc=5"
     },
     {
       "tag": "환경뉴스",
@@ -45,21 +59,7 @@
       "source": "에너지프로슈머",
       "date": "Sun, 26 Jul 2026",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0xckJuaUdLby1wYVdsUEdVekN3RG1wTGRmd2g4cE5Ial84M2pmS2tPbGVWbFFpMXEtblNlNWI4MkJKTWM5aEVNaG9tNFU?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "의성군, 탄소중립 교육 1년 새 두 배로 확대 - kyongbuk.co.kr",
-      "source": "kyongbuk.co.kr",
-      "date": "Mon, 27 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56WVpwdzhxYjFQX3pDVG5jMFdZbGk0elBBMXA3bllqQUl4T0R4V1M2cl9VcW9hY2U3eDY3dE5RbWFRd3htTHhaSk9fRVI1NjQ3bVJGR0ZYM3ltcVNWcnZFR2V0MVpIM1dwWWs0X2dyYw?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "에코나우·포스코모빌리티솔루션, 탄소중립 교육 마쳐 - 이로운넷",
-      "source": "이로운넷",
-      "date": "Tue, 28 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5c2xHYkU1Y01nVHN3UjFsQ1FuRkRsOTR3RGdQWDFpSWFwWU4xMjFyMGVpTm5Ma2M4SGpsOUlnU2kzejdFa3Q5S056RlpMa2F3bGdETU00THZ5aGVReXczMTNwQml6dw?oc=5"
     }
   ],
-  "fact": "이산화탄소는 대기 중에 배출된 뒤 수백 년간 머무를 수 있어, 오늘 줄인 배출량의 효과는 수십 년 뒤에야 기후에 반영되기 시작합니다."
+  "fact": "전 세계 온실가스 배출량의 약 4분의 1은 식량 생산 과정에서 발생합니다."
 }
