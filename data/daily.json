@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T07:58:29.629677+09:00",
-  "generated_at_display": "2026-07-30 07:58 KST",
+  "generated_at": "2026-07-31T08:05:29.154138+09:00",
+  "generated_at_display": "2026-07-31 08:05 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,54 +12,54 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 5,
-    "pm25": 2,
+    "pm10": 11,
+    "pm25": 10,
     "cai": "좋음",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "세종기후환경네트워크, 탄소중립 실천왕 선발대회 참가자 모집 - 세종의소리",
-      "source": "세종의소리",
-      "date": "Wed, 29 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyOVpIRXZzYUZYbGliOGZmNUdTT0hqMThSQmFuaWxPWEE2SjU3Yk9NT3I0UW52VUxtUTZhRUtTM1RJaDZEbmxTU3VicGdRdldYMVdoZUV6ZTEtS1hWNlIxdEcwN1RfQTA?oc=5"
+      "title": "한국환경공단, 해남 'K-eco 환경문화 페스타' 성황…탄소중립 실천문화 확산 첫걸음 - energydaily.co.kr",
+      "source": "energydaily.co.kr",
+      "date": "Thu, 30 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOOEdtQlQ0NGtzd1VtVVFFakUxMUlfUmZKWlNad2szbnotQkZwS0dXZDYzeTFLOGVWeHpLalgwWXJnMllOa0paUXZXWENxRWsyeXdPZDdQOHliYU5Vb2tJY1JCbFVSRUd5dUhDQXhMb1hGUQ?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "[한국투자증권 ESG-E] 기후금융 확대…2050 탄소중립 향한 ESG 경영 강화 - PRESS9",
-      "source": "PRESS9",
-      "date": "Wed, 29 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jSGYxaXhHbTlHZlJMblBDaUg5QjRnMTNVX1RjN2dOM1ctaHFmV21USVlkTjlzYXltYTA2eEFUSGVIMUtXQXNaUmZBOWNEclVKR0F1YURqNXc0MlBPSkN0RmlVSUU?oc=5"
+      "title": "제천시탄소중립지원센터 \"탄소 중립, 우리가 알려요\" - cctoday.co.kr",
+      "source": "cctoday.co.kr",
+      "date": "Thu, 30 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kWlVybnI0TUJyX2wyZFJHcXAzblAxSTg5NnhmWkRZSjViWHJlSUFwbi1ENVJJV29Vb3hRa2V3SXhrZkRWbUpfbjhQd1NuRnViVTJvNTFCN3FLYmowYktkNUVua2Q2NFVUZVRaTjZn?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "[EE칼럼] 메가프로젝트와 탄소중립 2.0, 지역발전의 새로운 모멘텀 - 에너지경제신문",
-      "source": "에너지경제신문",
-      "date": "Wed, 29 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4LXRjMGJuWTcwRmVXZlJsQmRXZ1lSaDRtbC1tSUg3TlprdzNMZ3huXzdVdTRZaHNwYi13TTAyd2hsSVZpNFhmd1huZHVra01CMDIzalZaVHlHZVU?oc=5"
+      "title": "인천 연수구, 생애주기별 환경교육 확대…전 세대 탄소중립 실천 나선다 - 매일일보",
+      "source": "매일일보",
+      "date": "Thu, 30 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ySEdjeEx2bjk4Yjc5Uml4YUcxOGFKcF9XM2hSYUJwdVljVi1sV2hmcHBmdlpzd28xaGIxaWdEM0xRckt6ekdQVkx1ZHZPbHJjWGliNG9oUTVyNXM3cXh3UThUYUM?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "\"탄소중립 나아가는데 웬 LNG 발전소?…환경영향평가·경제성 검토도 부실\" - v.daum.net",
-      "source": "v.daum.net",
-      "date": "Tue, 28 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00R2todGNEdEFsR2JGbnZ6QVVOcXVFd08wZElEVm9VSG9ieDBkYmEyNUhST3J5Z19qYjRxSEt0bENGWXFfRno5TENySUdBNkE?oc=5"
+      "title": "연수구, '생애주기별 에코스쿨' 환경교육 운영 - yna.co.kr",
+      "source": "yna.co.kr",
+      "date": "Thu, 30 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91YldtM1Bib1lUQnhVVzF2d3IzQlJUSGV3dVdMVGUtQ25xTUYzX2lmaXZsOVRPZldXZk5xU082WVVKRk02X2pLNDdPQzFHMXVXTUE2NU1PZzEtcDg?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "기상청, ‘2026 지진해일 특보 안내서’ 발간 - electimes.com",
-      "source": "electimes.com",
-      "date": "Wed, 29 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZWXRVUzZEUC1FdEVMRC1fTlg3cy1ROFNab2QzNkxPTE95WDhKSzU0aGs3VlRxY1pNQlU2MU5Bdzh1QWQ4enZOVXlBQ1FqT0RYSjZzMGRUeXNPNER1eG81NWZTT1BQYmFUWWlLNNIBcEFVX3lxTE03dm1VeU91YjN5SXVQUWlqdzJwUXQwTHZ1azQ5NU16dFM5RHhNVkhvbjlJRFFlY1NXSFk5WUhtdEZqY3FmYWFzUG9QcUZ6M2pMTklPaDJIRUFmVnMwSnZSazY3TmoyQjJYYmtMZl9nYXQ?oc=5"
+      "title": "“4컷 웹툰으로 그리는 탄소중립”… 해운대구, ‘제3회 환경 4컷 웹툰 공모전’ 개최 > 뉴스 - 더코리아",
+      "source": "더코리아",
+      "date": "Thu, 30 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40RDRjQmxQLXpiM05WaWpxOHUyZkRCN0pTZXJodHdlX0gtM29JM01XTWFuOTRXME1NdjJybVpQUzNldEt5c21rY2RhYkRESVZnMWVHWWV1QnhGTG1uTlIxOGtHaHZkY095VlVyQmhfT04?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "국민 아이디어가 탄소중립 사업으로…남부발전, 기후·환경 공모 - 에너지프로슈머",
-      "source": "에너지프로슈머",
-      "date": "Sun, 26 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0xckJuaUdLby1wYVdsUEdVekN3RG1wTGRmd2g4cE5Ial84M2pmS2tPbGVWbFFpMXEtblNlNWI4MkJKTWM5aEVNaG9tNFU?oc=5"
+      "title": "선문대 앵커사업단, 지역과 함께 만든 환경 인형극 탄소중립 가치 전파 - 충청비즈",
+      "source": "충청비즈",
+      "date": "Thu, 30 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5TmZsaFZHSUV2bGpfSzVtZHVzMUt5VDNNa1dka2RIWm1xUVRCSGtFeHBHOTdhLVMwb3RtUFdMblZBazJiQU9vUDl6UGFRX1E4dTlJTFZKVkxFbmxYSXlWZ0RB?oc=5"
     }
   ],
-  "fact": "전 세계 온실가스 배출량의 약 4분의 1은 식량 생산 과정에서 발생합니다."
+  "fact": "산업화 이전 대비 대기 중 이산화탄소 농도는 약 50% 증가했습니다."
 }
