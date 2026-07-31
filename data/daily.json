@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T08:05:29.154138+09:00",
-  "generated_at_display": "2026-07-31 08:05 KST",
+  "generated_at": "2026-08-01T07:58:26.365658+09:00",
+  "generated_at_display": "2026-08-01 07:58 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,54 +12,54 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 11,
-    "pm25": 10,
-    "cai": "좋음",
+    "pm10": 18,
+    "pm25": 8,
+    "cai": "보통",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "한국환경공단, 해남 'K-eco 환경문화 페스타' 성황…탄소중립 실천문화 확산 첫걸음 - energydaily.co.kr",
-      "source": "energydaily.co.kr",
+      "title": "안산환경재단, '제2회 안산시탄소중립지원센터 운영위원회' 개최! - 경기종합뉴스",
+      "source": "경기종합뉴스",
+      "date": "Fri, 31 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmTWp2cm51Mk9pMm56N2p1dkZNMHJuOEMxeDFwcnUza09Yd0xMLTFkZVpSc2RhZ1Jjck8xZVU5VHN3WUFULTdteHlaUGkySGNIcFQxU2s2NmFFbEJtd3hKN0xyU3QxQXR2X1lIMUEtTW9qWHJo?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "(사)탄소중립실천연대 ‘학교와 지역을 바꿀 환경교육 전문가’ 탄소중립지도사 1급 필기 실시 - 서울일보",
+      "source": "서울일보",
+      "date": "Fri, 31 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FRlVwSDdEUXdUMU5ZWlFGZk9PLVVMT05uX1plTzRCZXE5SUFPanpLQnB1NEU3d09RMDFodHRCZURvbTV5ck56XzcxWU1EamZFUWtzUENaTjNlMzZIVVdjRVZTaDVQVkF4akN3U9IBb0FVX3lxTE0tdXFSY0NyVnhRMTFuS1FTbTNaNFlpZkxGWGZCXzhURW9MMmpabzY1X3VyVy1zdjhoVVo3SkNsVkZYbFQzZTlrcWlBTkxXMDJNS1BudUdQeEpnNmVqZ3pBWjBnT3VlNk0xN3Q0UkxSOA?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "제주 기후경제부지사에 이창흠 前 환경부 실장…탄소중립 이끈다 - 전자신문",
+      "source": "전자신문",
+      "date": "Fri, 31 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1TUDEwNG9WR2o4X0wzSG9CZkFUR1Z6cHNrZDlqWUtRME96d0tGSmllSDRsc3p0WVQ1UmthVWdXSkktcHVacEFtTkJHaF9Ydw?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "안산환경재단 탄소중립지원센터, 환경인증제 발전방안 논의 - 천지일보",
+      "source": "천지일보",
+      "date": "Fri, 31 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zMEtxRXVYbWhmOGd4dkN5aG9jZHV4QXVoQkNLSndqREpLVzcyVndjR3FYRHh5T3l3cjkyLVdhcWlBMlNhaldrM2hwTmJmcVRLbVBLRUtJV3NuOGxVQkwzRGt2R0ZITW9ieXc?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "안산환경재단, 2026년 제2회 안산시탄소중립지원센터 운영위원회 개최 - 경인매일",
+      "source": "경인매일",
+      "date": "Fri, 31 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54WVZObVVCTFFDRnlmWEpBX0FGYUlrQVkwZmdTTVFIYzh2ME9UYlF0WWRrZkVET1pjWERfQzVRVkpLU2tuQ3VUeHlBeU5VYjRrUFN1bDJud0EyNUpUS2FIQVRucGtNUFFi?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "한국환경공단, 해남 'K-eco 환경문화 페스타' 성황…탄소중립 실천문화 확산 첫걸음 - 에너지데일리",
+      "source": "에너지데일리",
       "date": "Thu, 30 Jul 2026",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOOEdtQlQ0NGtzd1VtVVFFakUxMUlfUmZKWlNad2szbnotQkZwS0dXZDYzeTFLOGVWeHpLalgwWXJnMllOa0paUXZXWENxRWsyeXdPZDdQOHliYU5Vb2tJY1JCbFVSRUd5dUhDQXhMb1hGUQ?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "제천시탄소중립지원센터 \"탄소 중립, 우리가 알려요\" - cctoday.co.kr",
-      "source": "cctoday.co.kr",
-      "date": "Thu, 30 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kWlVybnI0TUJyX2wyZFJHcXAzblAxSTg5NnhmWkRZSjViWHJlSUFwbi1ENVJJV29Vb3hRa2V3SXhrZkRWbUpfbjhQd1NuRnViVTJvNTFCN3FLYmowYktkNUVua2Q2NFVUZVRaTjZn?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "인천 연수구, 생애주기별 환경교육 확대…전 세대 탄소중립 실천 나선다 - 매일일보",
-      "source": "매일일보",
-      "date": "Thu, 30 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ySEdjeEx2bjk4Yjc5Uml4YUcxOGFKcF9XM2hSYUJwdVljVi1sV2hmcHBmdlpzd28xaGIxaWdEM0xRckt6ekdQVkx1ZHZPbHJjWGliNG9oUTVyNXM3cXh3UThUYUM?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "연수구, '생애주기별 에코스쿨' 환경교육 운영 - yna.co.kr",
-      "source": "yna.co.kr",
-      "date": "Thu, 30 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91YldtM1Bib1lUQnhVVzF2d3IzQlJUSGV3dVdMVGUtQ25xTUYzX2lmaXZsOVRPZldXZk5xU082WVVKRk02X2pLNDdPQzFHMXVXTUE2NU1PZzEtcDg?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "“4컷 웹툰으로 그리는 탄소중립”… 해운대구, ‘제3회 환경 4컷 웹툰 공모전’ 개최 > 뉴스 - 더코리아",
-      "source": "더코리아",
-      "date": "Thu, 30 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40RDRjQmxQLXpiM05WaWpxOHUyZkRCN0pTZXJodHdlX0gtM29JM01XTWFuOTRXME1NdjJybVpQUzNldEt5c21rY2RhYkRESVZnMWVHWWV1QnhGTG1uTlIxOGtHaHZkY095VlVyQmhfT04?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "선문대 앵커사업단, 지역과 함께 만든 환경 인형극 탄소중립 가치 전파 - 충청비즈",
-      "source": "충청비즈",
-      "date": "Thu, 30 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5TmZsaFZHSUV2bGpfSzVtZHVzMUt5VDNNa1dka2RIWm1xUVRCSGtFeHBHOTdhLVMwb3RtUFdMblZBazJiQU9vUDl6UGFRX1E4dTlJTFZKVkxFbmxYSXlWZ0RB?oc=5"
     }
   ],
-  "fact": "산업화 이전 대비 대기 중 이산화탄소 농도는 약 50% 증가했습니다."
+  "fact": "나무 한 그루는 평균적으로 1년에 약 20~25kg의 이산화탄소를 흡수합니다."
 }
