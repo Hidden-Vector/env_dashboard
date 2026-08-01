@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T07:58:26.365658+09:00",
-  "generated_at_display": "2026-08-01 07:58 KST",
+  "generated_at": "2026-08-02T07:54:22.825694+09:00",
+  "generated_at_display": "2026-08-02 07:54 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,18 +12,39 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 18,
-    "pm25": 8,
+    "pm10": 27,
+    "pm25": 16,
     "cai": "보통",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "안산환경재단, '제2회 안산시탄소중립지원센터 운영위원회' 개최! - 경기종합뉴스",
-      "source": "경기종합뉴스",
-      "date": "Fri, 31 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmTWp2cm51Mk9pMm56N2p1dkZNMHJuOEMxeDFwcnUza09Yd0xMLTFkZVpSc2RhZ1Jjck8xZVU5VHN3WUFULTdteHlaUGkySGNIcFQxU2s2NmFFbEJtd3hKN0xyU3QxQXR2X1lIMUEtTW9qWHJo?oc=5"
+      "title": "광명시 기후의병, 생활 속 탄소중립 실천 이끈다 > 뉴스 - 더코리아",
+      "source": "더코리아",
+      "date": "Sat, 01 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14NHBybVBtTE5jSGxISmF3YndxQk5oNnNVVjZCNEppcHZ5eWFkSGJWV1FzcElqQVJJWGl6NTRkTTRUbnp2bFZ6c1E3RUdtNEJoUGczeERZaHdDZks5TXk2MGJmcUYtUnM5SlhFejQyT3A?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "탄소중립 (Net-Zero) - climatepol.com",
+      "source": "climatepol.com",
+      "date": "Sat, 01 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tRDNNOWl2c3dvUmNfYnpXTGYwX3VxbzZqTHJuaVNpRlVPSHRKMXBJdFc3b2xiWFFvT0phelNzVUJwU2w4eDVLQXA1NlhNWFdQaTNiNVN5bUxDUjlTMnJJUWszVEtrRW51eUNZXw?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "한국환경공단, 해남 'K-eco 환경문화 페스타' 성황…탄소중립 실천문화 확산 첫걸음 - 에너지데일리",
+      "source": "에너지데일리",
+      "date": "Thu, 30 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOOEdtQlQ0NGtzd1VtVVFFakUxMUlfUmZKWlNad2szbnotQkZwS0dXZDYzeTFLOGVWeHpLalgwWXJnMllOa0paUXZXWENxRWsyeXdPZDdQOHliYU5Vb2tJY1JCbFVSRUd5dUhDQXhMb1hGUQ?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "제천시탄소중립지원센터 \"탄소 중립, 우리가 알려요\" - cctoday.co.kr",
+      "source": "cctoday.co.kr",
+      "date": "Thu, 30 Jul 2026",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kWlVybnI0TUJyX2wyZFJHcXAzblAxSTg5NnhmWkRZSjViWHJlSUFwbi1ENVJJV29Vb3hRa2V3SXhrZkRWbUpfbjhQd1NuRnViVTJvNTFCN3FLYmowYktkNUVua2Q2NFVUZVRaTjZn?oc=5"
     },
     {
       "tag": "환경뉴스",
@@ -34,32 +55,11 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "제주 기후경제부지사에 이창흠 前 환경부 실장…탄소중립 이끈다 - 전자신문",
-      "source": "전자신문",
-      "date": "Fri, 31 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1TUDEwNG9WR2o4X0wzSG9CZkFUR1Z6cHNrZDlqWUtRME96d0tGSmllSDRsc3p0WVQ1UmthVWdXSkktcHVacEFtTkJHaF9Ydw?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "안산환경재단 탄소중립지원센터, 환경인증제 발전방안 논의 - 천지일보",
-      "source": "천지일보",
-      "date": "Fri, 31 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zMEtxRXVYbWhmOGd4dkN5aG9jZHV4QXVoQkNLSndqREpLVzcyVndjR3FYRHh5T3l3cjkyLVdhcWlBMlNhaldrM2hwTmJmcVRLbVBLRUtJV3NuOGxVQkwzRGt2R0ZITW9ieXc?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "안산환경재단, 2026년 제2회 안산시탄소중립지원센터 운영위원회 개최 - 경인매일",
-      "source": "경인매일",
-      "date": "Fri, 31 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54WVZObVVCTFFDRnlmWEpBX0FGYUlrQVkwZmdTTVFIYzh2ME9UYlF0WWRrZkVET1pjWERfQzVRVkpLU2tuQ3VUeHlBeU5VYjRrUFN1bDJud0EyNUpUS2FIQVRucGtNUFFi?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "한국환경공단, 해남 'K-eco 환경문화 페스타' 성황…탄소중립 실천문화 확산 첫걸음 - 에너지데일리",
-      "source": "에너지데일리",
+      "title": "인천 연수구, 생애주기별 환경교육 확대…전 세대 탄소중립 실천 나선다 - 매일일보",
+      "source": "매일일보",
       "date": "Thu, 30 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOOEdtQlQ0NGtzd1VtVVFFakUxMUlfUmZKWlNad2szbnotQkZwS0dXZDYzeTFLOGVWeHpLalgwWXJnMllOa0paUXZXWENxRWsyeXdPZDdQOHliYU5Vb2tJY1JCbFVSRUd5dUhDQXhMb1hGUQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ySEdjeEx2bjk4Yjc5Uml4YUcxOGFKcF9XM2hSYUJwdVljVi1sV2hmcHBmdlpzd28xaGIxaWdEM0xRckt6ekdQVkx1ZHZPbHJjWGliNG9oUTVyNXM3cXh3UThUYUM?oc=5"
     }
   ],
-  "fact": "나무 한 그루는 평균적으로 1년에 약 20~25kg의 이산화탄소를 흡수합니다."
+  "fact": "전 세계 플라스틱의 약 9%만이 실제로 재활용되고 있습니다."
 }
