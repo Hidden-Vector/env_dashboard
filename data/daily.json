@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T07:54:22.825694+09:00",
-  "generated_at_display": "2026-08-02 07:54 KST",
+  "generated_at": "2026-08-03T07:55:30.123582+09:00",
+  "generated_at_display": "2026-08-03 07:55 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,25 +12,39 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 27,
-    "pm25": 16,
-    "cai": "보통",
+    "pm10": null,
+    "pm25": null,
+    "cai": "수집 실패: timed out",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "광명시 기후의병, 생활 속 탄소중립 실천 이끈다 > 뉴스 - 더코리아",
-      "source": "더코리아",
-      "date": "Sat, 01 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14NHBybVBtTE5jSGxISmF3YndxQk5oNnNVVjZCNEppcHZ5eWFkSGJWV1FzcElqQVJJWGl6NTRkTTRUbnp2bFZ6c1E3RUdtNEJoUGczeERZaHdDZks5TXk2MGJmcUYtUnM5SlhFejQyT3A?oc=5"
+      "title": "[사는 이야기] 탄소중립, 보고서가 아닌 실천으로 - iusm.co.kr",
+      "source": "iusm.co.kr",
+      "date": "Sun, 02 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzbk9mWUVnODVRZmk1UmpPZjhaQ3RmckNwazhDLUJ4Z2hfWTRkblFLSHVMZUZwa1l6amFlaWZnMlh0UER3YVlaSTRCTTZUb0RDMFBSNy1HMkgyNmFIVkxpTDdBZzRwd1RrZ3FTdWNR0gFuQVVfeXFMUHNuT2ZZRWc4NVFmaTVSak9mOFpDdGZyQ3BrOEMtQnhnaF9ZNGRuUUtIdUxlRnBrWXpqYWVpZmcyWHRQRHdhWVpJNEJNNlRvREMwUFI3LUcySDI2YUhWTGlMN0FnNHB3VGtncVN1Y1E?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "탄소중립 (Net-Zero) - climatepol.com",
-      "source": "climatepol.com",
-      "date": "Sat, 01 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tRDNNOWl2c3dvUmNfYnpXTGYwX3VxbzZqTHJuaVNpRlVPSHRKMXBJdFc3b2xiWFFvT0phelNzVUJwU2w4eDVLQXA1NlhNWFdQaTNiNVN5bUxDUjlTMnJJUWszVEtrRW51eUNZXw?oc=5"
+      "title": "청주시 산림관리과, 부모산서 환경정화·탄소중립 캠페인 - 서울뉴스통신",
+      "source": "서울뉴스통신",
+      "date": "Sun, 02 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLZUlXQzJ6by1UQURYeVhBMWJUU3R0NGFqLW9jV1Rub01NLUdTLWpKWm9FVnEwV1gwc0dzUFlGakUxcWYydDdNVzdFcnlGRzBycV9vRS1Bc3dWZjZaMFh0WFlLTGp0VXY4azhJ?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "[열린마당] 탄소중립, ‘지속가능한 서귀포’를 꿈꾸며 - 한라일보",
+      "source": "한라일보",
+      "date": "Sun, 02 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rVU5CNnhyQnBtTGpKUGx1enhSXzJWc1ZJTkVhNjUzMF9EUU51LUc2bUxRTVIxaHpCb2dzU3lzSUJsblhpZkZmcFZ6X2g4bzJtNW14Uk9ia25jblhmNzNoLVhKT3pObFFJMlE?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "[포토] 산림관리과, 환경정화·탄소 중립 캠페인 - 충청일보",
+      "source": "충청일보",
+      "date": "Sun, 02 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56WTNLTENLWWRRM256Sl9PUjBlaTZ4QWhiTnpIMEJvOXpENDhJalZKelRkVktlNllxTklXdTlqTGg0RlVlMHdwQUNTS2pVZ3lzaUh5dGhfekZ4VF9tdHRwTFRoVzJTckFLOVRDbFpTNzE?oc=5"
     },
     {
       "tag": "환경뉴스",
@@ -41,25 +55,11 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "제천시탄소중립지원센터 \"탄소 중립, 우리가 알려요\" - cctoday.co.kr",
-      "source": "cctoday.co.kr",
-      "date": "Thu, 30 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kWlVybnI0TUJyX2wyZFJHcXAzblAxSTg5NnhmWkRZSjViWHJlSUFwbi1ENVJJV29Vb3hRa2V3SXhrZkRWbUpfbjhQd1NuRnViVTJvNTFCN3FLYmowYktkNUVua2Q2NFVUZVRaTjZn?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
       "title": "(사)탄소중립실천연대 ‘학교와 지역을 바꿀 환경교육 전문가’ 탄소중립지도사 1급 필기 실시 - 서울일보",
       "source": "서울일보",
       "date": "Fri, 31 Jul 2026",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FRlVwSDdEUXdUMU5ZWlFGZk9PLVVMT05uX1plTzRCZXE5SUFPanpLQnB1NEU3d09RMDFodHRCZURvbTV5ck56XzcxWU1EamZFUWtzUENaTjNlMzZIVVdjRVZTaDVQVkF4akN3U9IBb0FVX3lxTE0tdXFSY0NyVnhRMTFuS1FTbTNaNFlpZkxGWGZCXzhURW9MMmpabzY1X3VyVy1zdjhoVVo3SkNsVkZYbFQzZTlrcWlBTkxXMDJNS1BudUdQeEpnNmVqZ3pBWjBnT3VlNk0xN3Q0UkxSOA?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "인천 연수구, 생애주기별 환경교육 확대…전 세대 탄소중립 실천 나선다 - 매일일보",
-      "source": "매일일보",
-      "date": "Thu, 30 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ySEdjeEx2bjk4Yjc5Uml4YUcxOGFKcF9XM2hSYUJwdVljVi1sV2hmcHBmdlpzd28xaGIxaWdEM0xRckt6ekdQVkx1ZHZPbHJjWGliNG9oUTVyNXM3cXh3UThUYUM?oc=5"
     }
   ],
-  "fact": "전 세계 플라스틱의 약 9%만이 실제로 재활용되고 있습니다."
+  "fact": "태양광 발전 비용은 지난 10여 년간 큰 폭으로 하락해 여러 지역에서 가장 저렴한 전력원 중 하나가 되었습니다."
 }
