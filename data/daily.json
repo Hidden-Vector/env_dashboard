@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T07:55:30.123582+09:00",
-  "generated_at_display": "2026-08-03 07:55 KST",
+  "generated_at": "2026-08-04T07:58:41.483789+09:00",
+  "generated_at_display": "2026-08-04 07:58 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -14,52 +14,52 @@
   "air": {
     "pm10": null,
     "pm25": null,
-    "cai": "수집 실패: timed out",
+    "cai": "수집 실패: <urlopen error timed out>",
     "sido": "대구 동구(신암동)"
   },
   "news": [
+    {
+      "tag": "환경뉴스",
+      "title": "수소버스 타고 배우는 탄소중립… '수원기후마법학교' 환경부 우수 프로그램 지정 - 한국미디어뉴스",
+      "source": "한국미디어뉴스",
+      "date": "Mon, 03 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OaFJjSjJlbXpPUTB6dzFPVFhxR2k0a2pqRmxCUFVONGE1a2xyOFd2cEs3ZjBUU0FYZ0xLRVRvQS1hakxwcW9JaG5DZkZYTnNMU0tNNWF0YV96VGVkcWJ6V3RvUkdRdw?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "서산시, \"2040 탄소중립 청사진 그린다\", 서산시, 미래 환경도시 밑그림 착수 - 중도일보",
+      "source": "중도일보",
+      "date": "Mon, 03 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wNTBGRzRMNEZKb0J4SVdYX004MUZCSUlOMk1GQ0dZUTRRSFhfQUJ1WDVIdElhQmhlTzgzZjRhYXhwdWk0TVMtSkJkc3VFVnBZV0pjWFh0RHI1VllMMl9welJUSjY?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "광명은 지금, 탄소중립 실천 열풍… 기후의병 2만 명 돌파 - 세계환경신문",
+      "source": "세계환경신문",
+      "date": "Mon, 03 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Gbjd2X2gzTGNqMmJlczcwYVZFd2lSNmU0Z1A3VlFwZlVXUzFLMDg5cXVCMTFNY2dqMUljQml5VzJXVVRkelY3ODk3YTg4RjZJSUtEbndVQ2JUdmVndGdR?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "서울·경기 첫 ‘폭염중대경보’ 발령 - 전기신문",
+      "source": "전기신문",
+      "date": "Mon, 03 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xS0lqVFctOVlodzk5OXBYalo2WVpKRU5QQ0Mtd2hvaW1HQVpuaFpkaVh3MGkwYmJqN2hlQ2lzNW95b1A1LWdha0dCRzZ0TzdtOFpQdmcya2NkT0RDMVdESVUzeUp2Tnhmc0JLZNIBcEFVX3lxTE9tRnZrN0NQVTZucTB4LXFoVzZrSk1jTjdWZGNpdk5CUmloTmcxMHQ4YWZpTnFQU1M0cktuUmQ2M1RzWXE3VTVuYmFyTVZfYWJfUFRmZGxpeU4xTnNBZF9uSktvMk1lMHhTYjVVMlZXeUQ?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "영천시, 탄소중립 실천 박차…노후 경유차 저감사업 본격 추진 - hidomin.com",
+      "source": "hidomin.com",
+      "date": "Mon, 03 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xNW9rVHBqUlpQa2RpSVNLdm9LVHBQRXpFOXI0NDQ1YjloOFI1NkJNMFItS1hhdlNYNmdpRjRzbUVMUjhFcGw3U1FrblVGbmJqVjRuZEhNZnZyQXZSd3hQYnptdHBSRFdSY3c?oc=5"
+    },
     {
       "tag": "환경뉴스",
       "title": "[사는 이야기] 탄소중립, 보고서가 아닌 실천으로 - iusm.co.kr",
       "source": "iusm.co.kr",
       "date": "Sun, 02 Aug 2026",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzbk9mWUVnODVRZmk1UmpPZjhaQ3RmckNwazhDLUJ4Z2hfWTRkblFLSHVMZUZwa1l6amFlaWZnMlh0UER3YVlaSTRCTTZUb0RDMFBSNy1HMkgyNmFIVkxpTDdBZzRwd1RrZ3FTdWNR0gFuQVVfeXFMUHNuT2ZZRWc4NVFmaTVSak9mOFpDdGZyQ3BrOEMtQnhnaF9ZNGRuUUtIdUxlRnBrWXpqYWVpZmcyWHRQRHdhWVpJNEJNNlRvREMwUFI3LUcySDI2YUhWTGlMN0FnNHB3VGtncVN1Y1E?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "청주시 산림관리과, 부모산서 환경정화·탄소중립 캠페인 - 서울뉴스통신",
-      "source": "서울뉴스통신",
-      "date": "Sun, 02 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLZUlXQzJ6by1UQURYeVhBMWJUU3R0NGFqLW9jV1Rub01NLUdTLWpKWm9FVnEwV1gwc0dzUFlGakUxcWYydDdNVzdFcnlGRzBycV9vRS1Bc3dWZjZaMFh0WFlLTGp0VXY4azhJ?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "[열린마당] 탄소중립, ‘지속가능한 서귀포’를 꿈꾸며 - 한라일보",
-      "source": "한라일보",
-      "date": "Sun, 02 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rVU5CNnhyQnBtTGpKUGx1enhSXzJWc1ZJTkVhNjUzMF9EUU51LUc2bUxRTVIxaHpCb2dzU3lzSUJsblhpZkZmcFZ6X2g4bzJtNW14Uk9ia25jblhmNzNoLVhKT3pObFFJMlE?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "[포토] 산림관리과, 환경정화·탄소 중립 캠페인 - 충청일보",
-      "source": "충청일보",
-      "date": "Sun, 02 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56WTNLTENLWWRRM256Sl9PUjBlaTZ4QWhiTnpIMEJvOXpENDhJalZKelRkVktlNllxTklXdTlqTGg0RlVlMHdwQUNTS2pVZ3lzaUh5dGhfekZ4VF9tdHRwTFRoVzJTckFLOVRDbFpTNzE?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "한국환경공단, 해남 'K-eco 환경문화 페스타' 성황…탄소중립 실천문화 확산 첫걸음 - 에너지데일리",
-      "source": "에너지데일리",
-      "date": "Thu, 30 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOOEdtQlQ0NGtzd1VtVVFFakUxMUlfUmZKWlNad2szbnotQkZwS0dXZDYzeTFLOGVWeHpLalgwWXJnMllOa0paUXZXWENxRWsyeXdPZDdQOHliYU5Vb2tJY1JCbFVSRUd5dUhDQXhMb1hGUQ?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "(사)탄소중립실천연대 ‘학교와 지역을 바꿀 환경교육 전문가’ 탄소중립지도사 1급 필기 실시 - 서울일보",
-      "source": "서울일보",
-      "date": "Fri, 31 Jul 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FRlVwSDdEUXdUMU5ZWlFGZk9PLVVMT05uX1plTzRCZXE5SUFPanpLQnB1NEU3d09RMDFodHRCZURvbTV5ck56XzcxWU1EamZFUWtzUENaTjNlMzZIVVdjRVZTaDVQVkF4akN3U9IBb0FVX3lxTE0tdXFSY0NyVnhRMTFuS1FTbTNaNFlpZkxGWGZCXzhURW9MMmpabzY1X3VyVy1zdjhoVVo3SkNsVkZYbFQzZTlrcWlBTkxXMDJNS1BudUdQeEpnNmVqZ3pBWjBnT3VlNk0xN3Q0UkxSOA?oc=5"
     }
   ],
-  "fact": "태양광 발전 비용은 지난 10여 년간 큰 폭으로 하락해 여러 지역에서 가장 저렴한 전력원 중 하나가 되었습니다."
+  "fact": "해양은 인간이 배출한 이산화탄소의 상당 부분을 흡수해 해양 산성화를 일으키고 있습니다."
 }
