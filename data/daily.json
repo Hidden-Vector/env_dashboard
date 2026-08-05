@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T08:02:04.443017+09:00",
-  "generated_at_display": "2026-08-05 08:02 KST",
+  "generated_at": "2026-08-06T07:57:05.992378+09:00",
+  "generated_at_display": "2026-08-06 07:57 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -14,52 +14,52 @@
   "air": {
     "pm10": null,
     "pm25": null,
-    "cai": "수집 실패: timed out",
+    "cai": "수집 실패: <urlopen error timed out>",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "시흥시, 여름방학 맞아 가족 참여형 환경교육 운영 - 경기일보",
-      "source": "경기일보",
-      "date": "Tue, 04 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tLUhISEx2TDFPWTV0cmdlcTdHbC01WVMxY3Z2T2hQV0lWbDhpRnJXdXhJSWVwMzYtZktSdlA4aHNadGFaenlnenVmNXAtWWhzVmM4YnlnejcyLVU?oc=5"
+      "title": "인천환경공단, 그린에너텍 탄소중립 공동 전시관 운영 - kmib.co.kr",
+      "source": "kmib.co.kr",
+      "date": "Wed, 05 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13S3lPdmtyVHVQc09RYXRsWmVmRFJDd2ZVWGFsYkt6UXU3UkFpTTVmeG5RRWljTW0yekZTS1N3YjRoX2E0dVU0aENKVlViZjhzbjcwS1llbnlNSEdTLVQwZ2VPc2FtZTdwWUZyatIBbEFVX3lxTE13S3lPdmtyVHVQc09RYXRsWmVmRFJDd2ZVWGFsYkt6UXU3UkFpTTVmeG5RRWljTW0yekZTS1N3YjRoX2E0dVU0aENKVlViZjhzbjcwS1llbnlNSEdTLVQwZ2VPc2FtZTdwWUZyag?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "용산구자원봉사센터, 가족 체험형 환경봉사단 운영…탄소중립 실천 확산 - 한국금융신문",
-      "source": "한국금융신문",
-      "date": "Tue, 04 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGdndpSU1lQWFUZV9ycVBVZGNYVks0Q2x0RkswNGZoR1M2c09ubFlkbkdaeVBBWkdqY2VsM3FFbXlvb0gyMnltdmVPWjhBNHNvRTFEZWQ1VXIyd3pKZTZfeE1TcDVDMUF0WnA3V2dWekhrQm9HQWh1Y3pCSmg?oc=5"
+      "title": "아산시지속가능발전협의회, 기후환경 및 탄소중립 전문가..\"그린리더 양성과정\" 실시 - 아산포커스",
+      "source": "아산포커스",
+      "date": "Wed, 05 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13WUp2S05DSThfeDB4WnlMdmxJLXR4bnZjX3dKTjhUTEt1dDhTWXJkVEZTYm9FTmdoVnQ2dXFkZkNkYjN3R0Zjak9UaVhsMjlfbUhGRDE0MGRlU1g5WHc4QzhPWHpDVTBlckRYczJn?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "[삼성증권 ESG-E] 기후변화 대응 체계 구축…탄소중립 이행 기반 마련 - PRESS9",
+      "title": "[KB증권 ESG-E] 2050년 탄소중립 정조준…녹색금융으로 기후위기 대응 - PRESS9",
       "source": "PRESS9",
-      "date": "Tue, 04 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkemsyVjljeG1FZWFmYTBGeG5TM3YwZ01jOUZCemxHZ05zQmh5c0w0UDBrdEpEeDFQRC1zVnd4RlNUa0lHWG5pREVNejRPNFdXYWtrM216V3luMzQ3dTV0bUF5TWc?oc=5"
+      "date": "Wed, 05 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aRm9IOXVLUGxHVWJabmdyaTdEbFJwWkQtRHZVOFc5VUgycUFCMVlYX1h3amNIWTl0QmpOc0lLY2R4RXpXcUdxNkM3ZjBWTXN1bVJHd1BDRGV4X2lOd0R2bU5nWFM?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "중부발전-제주대, 탄소중립 산학협력 확대 뜻 모아 - 에너지타임즈",
-      "source": "에너지타임즈",
-      "date": "Tue, 04 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qQmcyZElYbkpaNTdwdVJnX0tJRHVKS0xBc0Y3dmpHX0FEVm1aMVFEaXEzZERlY2J2SzhLb3A0UjNzQlptUnBXVVJrc0dzSmFsRzFISlBpck1zMlprWkJmRnB2dFlhaFMyamwtdg?oc=5"
+      "title": "시흥시, 여름방학 맞아 가족 참여형 환경교육 프로그램 운영 > 뉴스 - 더코리아",
+      "source": "더코리아",
+      "date": "Wed, 05 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxMUU1VTVGQlY1NGVfZHFjVkttRFVMSW1fbFFXTzJCWHR1UEhnZC1wT0xxcG5QSEw0bG9nbHp6dGR2TkV2WmpQcHZGTGR0WFdwcUpLbXoxTjk4dURVcHZTbVpPdmZDcHJIangtRDFpdEU?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "시흥시, 여름방학 맞아 가족 참여형 환경교육 운영 - news.nate.com",
-      "source": "news.nate.com",
-      "date": "Tue, 04 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OVXNlQmdHX0tSS3RKcXptUmtCbW1PS0F2WGhMc0IyNTdqY3RtZDBSN1lFcmdORWE2LW1veEJMcGZNaXZQNUdFQzZDUlotYm9xdi1WQXBUa09YMGY4OFZ2dQ?oc=5"
+      "title": "인천시,‘2026 그린에너텍’서 탄소중립 기업혁신 협의체 공동 부스 운영 - timess.co.kr",
+      "source": "timess.co.kr",
+      "date": "Wed, 05 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sa2JDZ3J5eGt4OE93anNnc1Fvbm4wQW5heVRUWDRyckJIUVFNbS16ZDNJVUJSeE9HZThWNW1PTGhRTGdaQzdyOWtTLU5yN2xCUzBtNWtTSmcyTWcta3ZoQ3FB?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "서산시, \"2040 탄소중립 청사진 그린다\", 서산시, 미래 환경도시 밑그림 착수 - v.daum.net",
-      "source": "v.daum.net",
-      "date": "Mon, 03 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GWXY0VlQtTGgwSXMtRmtUeEN2bDVFVzAzNFlyaHRzY1RYbEkxUjk2QS04NHVFaWEzTGdRbTVESkxKMnNIQ3BPZnhYTFhHbTA?oc=5"
+      "title": "시흥시, 여름방학 맞아 가족 참여형 환경교육 프로그램 운영 - 글로벌뉴스통신GNA",
+      "source": "글로벌뉴스통신GNA",
+      "date": "Wed, 05 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xWUcxalE5bXFxTFBXX2NzblloZWdnbWVjY3duRUpOdllCWFBrOUlqUUlyc1RHM3kwclkzMjlkRGVzNjNCeXpWZXB5VHU2Y2VGOU9LRHRJNFRpUEc0R3daZWRBSkV2REZnLXJmbW1zWjczdEhX?oc=5"
     }
   ],
-  "fact": "육류 소비를 줄이는 것은 개인이 실천할 수 있는 가장 효과적인 탄소 저감 방법 중 하나로 꼽힙니다."
+  "fact": "국제사회는 파리협정을 통해 산업화 이전 대비 지구 평균기온 상승을 1.5도 이내로 억제하는 것을 목표로 하고 있습니다."
 }
