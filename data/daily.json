@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T07:57:05.992378+09:00",
-  "generated_at_display": "2026-08-06 07:57 KST",
+  "generated_at": "2026-08-07T10:29:31.929050+09:00",
+  "generated_at_display": "2026-08-07 10:29 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -14,52 +14,52 @@
   "air": {
     "pm10": null,
     "pm25": null,
-    "cai": "수집 실패: <urlopen error timed out>",
+    "cai": "수집 실패: timed out",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "인천환경공단, 그린에너텍 탄소중립 공동 전시관 운영 - kmib.co.kr",
-      "source": "kmib.co.kr",
-      "date": "Wed, 05 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13S3lPdmtyVHVQc09RYXRsWmVmRFJDd2ZVWGFsYkt6UXU3UkFpTTVmeG5RRWljTW0yekZTS1N3YjRoX2E0dVU0aENKVlViZjhzbjcwS1llbnlNSEdTLVQwZ2VPc2FtZTdwWUZyatIBbEFVX3lxTE13S3lPdmtyVHVQc09RYXRsWmVmRFJDd2ZVWGFsYkt6UXU3UkFpTTVmeG5RRWljTW0yekZTS1N3YjRoX2E0dVU0aENKVlViZjhzbjcwS1llbnlNSEdTLVQwZ2VPc2FtZTdwWUZyag?oc=5"
+      "title": "어린이 1725명 참여한 '더 큰 당진, 탄소제로 탐험대' 마무리 - 당진신문",
+      "source": "당진신문",
+      "date": "Fri, 07 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03cXZvd1hsT3BKYXgzYlNuUEx1RlNIV3V4cW5FVUFrbENJSHFzbG5tdVkyRlFEdmotOW96WW9XS1hIa0s1RHUySXZIVy1NZDNxVTBnLWlDZmRTTUE5dWdmWUJKckRjQXlz?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "아산시지속가능발전협의회, 기후환경 및 탄소중립 전문가..\"그린리더 양성과정\" 실시 - 아산포커스",
-      "source": "아산포커스",
-      "date": "Wed, 05 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13WUp2S05DSThfeDB4WnlMdmxJLXR4bnZjX3dKTjhUTEt1dDhTWXJkVEZTYm9FTmdoVnQ2dXFkZkNkYjN3R0Zjak9UaVhsMjlfbUhGRDE0MGRlU1g5WHc4QzhPWHpDVTBlckRYczJn?oc=5"
+      "title": "당진문화재단, 어린이 환경 체험전 '더 큰 당진, 탄소제로 탐험대' 총 1,725명 참여 성료 - 한국시사경제",
+      "source": "한국시사경제",
+      "date": "Thu, 06 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kN2dqSmRvcHN6UmxfS3A4RU1HQ0pCaEpfZWFaYWg4T0hGZnhtUmJqVGFLbXg1c0NwbkhoNG1WOVJxMVQ2LWNrakJ2TXY0djdDUl9WZ0xmQW5ubVdLaXBqNm01QURSSDJ4TGc?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "[KB증권 ESG-E] 2050년 탄소중립 정조준…녹색금융으로 기후위기 대응 - PRESS9",
-      "source": "PRESS9",
-      "date": "Wed, 05 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aRm9IOXVLUGxHVWJabmdyaTdEbFJwWkQtRHZVOFc5VUgycUFCMVlYX1h3amNIWTl0QmpOc0lLY2R4RXpXcUdxNkM3ZjBWTXN1bVJHd1BDRGV4X2lOd0R2bU5nWFM?oc=5"
+      "title": "예천군, ‘예천그린대학’ 개강…기후위기 대응 환경리더 양성 - kyongbuk.co.kr",
+      "source": "kyongbuk.co.kr",
+      "date": "Thu, 06 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wdWJheWJ1Z1JmNU5QOEFkaGhFV2VJVEU3TEZ4d0ZSTkZPTXY3WFhtT0duRXptUFZqeVoycFhYMHpKYVppSDZKSm81cXJYRnZHYUtBTUNnQzNfNlNnT3VMbjBVUURNbnZkbFhvOV9RQQ?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "시흥시, 여름방학 맞아 가족 참여형 환경교육 프로그램 운영 > 뉴스 - 더코리아",
-      "source": "더코리아",
-      "date": "Wed, 05 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxMUU1VTVGQlY1NGVfZHFjVkttRFVMSW1fbFFXTzJCWHR1UEhnZC1wT0xxcG5QSEw0bG9nbHp6dGR2TkV2WmpQcHZGTGR0WFdwcUpLbXoxTjk4dURVcHZTbVpPdmZDcHJIangtRDFpdEU?oc=5"
+      "title": "서산시, \"2040 탄소중립 청사진 그린다\", 서산시, 미래 환경도시 밑그림 착수 - v.daum.net",
+      "source": "v.daum.net",
+      "date": "Mon, 03 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1nUm1uNWg0eGpVeWdSelkxX084LWp0Sjl5MFFUM2VLX3J0RTdLaWh5bzRwZzF1ZFIzMnc4MXM4NXExXy1ETnEtcldkWllyazhNYlM4Ng?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "인천시,‘2026 그린에너텍’서 탄소중립 기업혁신 협의체 공동 부스 운영 - timess.co.kr",
-      "source": "timess.co.kr",
-      "date": "Wed, 05 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sa2JDZ3J5eGt4OE93anNnc1Fvbm4wQW5heVRUWDRyckJIUVFNbS16ZDNJVUJSeE9HZThWNW1PTGhRTGdaQzdyOWtTLU5yN2xCUzBtNWtTSmcyTWcta3ZoQ3FB?oc=5"
+      "title": "의성군 탄소중립지원센터, 제3차 에코투어 ‘로컬푸드’ 주제로 환경교육 및 체험 진행 - 대경일보",
+      "source": "대경일보",
+      "date": "Thu, 06 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2VkhrM3NWS3lKZlltelJnN2xJUHFTRzlGa2pRblBvU1hyMktiVHJweEJOZkFldVgzTDdLUzdIRW1NZnlmS1VhbURBR1FPazFIVFFmcFFyNlE5RDBicUYtMzdHRnkzLWk3?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "시흥시, 여름방학 맞아 가족 참여형 환경교육 프로그램 운영 - 글로벌뉴스통신GNA",
-      "source": "글로벌뉴스통신GNA",
-      "date": "Wed, 05 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xWUcxalE5bXFxTFBXX2NzblloZWdnbWVjY3duRUpOdllCWFBrOUlqUUlyc1RHM3kwclkzMjlkRGVzNjNCeXpWZXB5VHU2Y2VGOU9LRHRJNFRpUEc0R3daZWRBSkV2REZnLXJmbW1zWjczdEhX?oc=5"
+      "title": "풍부한 녹색 환경을 지닌 탄소중립 중점학교 - 갈곶초등학교 편 - 대한민국 정책브리핑",
+      "source": "대한민국 정책브리핑",
+      "date": "Tue, 04 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMEhwYzVLS3dXZ1dLa2lOVGFrLW4xMnQyVG5qMTBvQ0ViWG9LOTF0N0FlOVpqUkt6UjU1SUNFaVQ1X2J1WElBY0ZKQk54aWRKUzQxbnpzQVpYUnNwZ0tCd3V2Q3BIckZVWmpEOU9tUGxSOU80Zko0WWJaSVEwSlBMc2tjaTM?oc=5"
     }
   ],
-  "fact": "국제사회는 파리협정을 통해 산업화 이전 대비 지구 평균기온 상승을 1.5도 이내로 억제하는 것을 목표로 하고 있습니다."
+  "fact": "한국은 2050년 탄소중립을 국가 목표로 선언했습니다."
 }
