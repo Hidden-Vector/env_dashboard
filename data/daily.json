@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T10:29:31.929050+09:00",
-  "generated_at_display": "2026-08-07 10:29 KST",
+  "generated_at": "2026-08-08T07:32:58.256451+09:00",
+  "generated_at_display": "2026-08-08 07:32 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -14,52 +14,17 @@
   "air": {
     "pm10": null,
     "pm25": null,
-    "cai": "수집 실패: timed out",
+    "cai": "수집 실패: <urlopen error timed out>",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
-      "tag": "환경뉴스",
-      "title": "어린이 1725명 참여한 '더 큰 당진, 탄소제로 탐험대' 마무리 - 당진신문",
-      "source": "당진신문",
-      "date": "Fri, 07 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03cXZvd1hsT3BKYXgzYlNuUEx1RlNIV3V4cW5FVUFrbENJSHFzbG5tdVkyRlFEdmotOW96WW9XS1hIa0s1RHUySXZIVy1NZDNxVTBnLWlDZmRTTUE5dWdmWUJKckRjQXlz?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "당진문화재단, 어린이 환경 체험전 '더 큰 당진, 탄소제로 탐험대' 총 1,725명 참여 성료 - 한국시사경제",
-      "source": "한국시사경제",
-      "date": "Thu, 06 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kN2dqSmRvcHN6UmxfS3A4RU1HQ0pCaEpfZWFaYWg4T0hGZnhtUmJqVGFLbXg1c0NwbkhoNG1WOVJxMVQ2LWNrakJ2TXY0djdDUl9WZ0xmQW5ubVdLaXBqNm01QURSSDJ4TGc?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "예천군, ‘예천그린대학’ 개강…기후위기 대응 환경리더 양성 - kyongbuk.co.kr",
-      "source": "kyongbuk.co.kr",
-      "date": "Thu, 06 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wdWJheWJ1Z1JmNU5QOEFkaGhFV2VJVEU3TEZ4d0ZSTkZPTXY3WFhtT0duRXptUFZqeVoycFhYMHpKYVppSDZKSm81cXJYRnZHYUtBTUNnQzNfNlNnT3VMbjBVUURNbnZkbFhvOV9RQQ?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "서산시, \"2040 탄소중립 청사진 그린다\", 서산시, 미래 환경도시 밑그림 착수 - v.daum.net",
-      "source": "v.daum.net",
-      "date": "Mon, 03 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1nUm1uNWg0eGpVeWdSelkxX084LWp0Sjl5MFFUM2VLX3J0RTdLaWh5bzRwZzF1ZFIzMnc4MXM4NXExXy1ETnEtcldkWllyazhNYlM4Ng?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "의성군 탄소중립지원센터, 제3차 에코투어 ‘로컬푸드’ 주제로 환경교육 및 체험 진행 - 대경일보",
-      "source": "대경일보",
-      "date": "Thu, 06 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2VkhrM3NWS3lKZlltelJnN2xJUHFTRzlGa2pRblBvU1hyMktiVHJweEJOZkFldVgzTDdLUzdIRW1NZnlmS1VhbURBR1FPazFIVFFmcFFyNlE5RDBicUYtMzdHRnkzLWk3?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "풍부한 녹색 환경을 지닌 탄소중립 중점학교 - 갈곶초등학교 편 - 대한민국 정책브리핑",
-      "source": "대한민국 정책브리핑",
-      "date": "Tue, 04 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMEhwYzVLS3dXZ1dLa2lOVGFrLW4xMnQyVG5qMTBvQ0ViWG9LOTF0N0FlOVpqUkt6UjU1SUNFaVQ1X2J1WElBY0ZKQk54aWRKUzQxbnpzQVpYUnNwZ0tCd3V2Q3BIckZVWmpEOU9tUGxSOU80Zko0WWJaSVEwSlBMc2tjaTM?oc=5"
+      "tag": "알림",
+      "title": "뉴스 수집 실패 (다음 갱신 시 재시도): HTTP Error 503: Service Unavailable",
+      "source": "-",
+      "date": "",
+      "link": ""
     }
   ],
-  "fact": "한국은 2050년 탄소중립을 국가 목표로 선언했습니다."
+  "fact": "이산화탄소는 대기 중에 배출된 뒤 수백 년간 머무를 수 있어, 오늘 줄인 배출량의 효과는 수십 년 뒤에야 기후에 반영되기 시작합니다."
 }
