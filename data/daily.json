@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T07:32:58.256451+09:00",
-  "generated_at_display": "2026-08-08 07:32 KST",
+  "generated_at": "2026-08-09T07:27:08.407587+09:00",
+  "generated_at_display": "2026-08-09 07:27 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,19 +12,54 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": null,
-    "pm25": null,
-    "cai": "수집 실패: <urlopen error timed out>",
+    "pm10": 8,
+    "pm25": 7,
+    "cai": "좋음",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
-      "tag": "알림",
-      "title": "뉴스 수집 실패 (다음 갱신 시 재시도): HTTP Error 503: Service Unavailable",
-      "source": "-",
-      "date": "",
-      "link": ""
+      "tag": "환경뉴스",
+      "title": "기후변화센터, 탄소중립 에너지기술 방향성 논의 - 투데이에너지",
+      "source": "투데이에너지",
+      "date": "Fri, 07 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yX21fMWpOT2hadWRwZjNpVDNtTzN6XzgzWG5jcjEwTWV0ZDlfeUpyYzM4TVRkM2dibktwblp6RGhFVnh1YUpLZzFENmNObXk4UmdobVhqZFE4V2VId2tDZkNTN2pOTzVrMGxLMUlB?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "풍부한 녹색 환경을 지닌 탄소중립 중점학교 - 갈곶초등학교 편 - 대한민국 정책브리핑",
+      "source": "대한민국 정책브리핑",
+      "date": "Tue, 04 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMEhwYzVLS3dXZ1dLa2lOVGFrLW4xMnQyVG5qMTBvQ0ViWG9LOTF0N0FlOVpqUkt6UjU1SUNFaVQ1X2J1WElBY0ZKQk54aWRKUzQxbnpzQVpYUnNwZ0tCd3V2Q3BIckZVWmpEOU9tUGxSOU80Zko0WWJaSVEwSlBMc2tjaTM?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "인천환경공단, 그린에너텍 탄소중립 공동 전시관 운영 - v.daum.net",
+      "source": "v.daum.net",
+      "date": "Wed, 05 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB5S2FnZFhZS1pJc0M4Q2xPRjg0ZExWV2pETFRlak5hY21fdG9OYzN1OUlNSC1DYU5jNS1xeUljNUtoekdYNVE?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "(사)부산진구자원봉사센터 초록씨앗 청소년 봉사단,탄소중립 실천을 위한 선진지 견학 실시 - 국제신문",
+      "source": "국제신문",
+      "date": "Fri, 07 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkJyZGpEZ3RlQWc0c0NQWmNXZjN2R3p6OWRlMVZzN3dtcmJZMXRxUUhtWUlTS1N4ZkQwei1GWGhreTVMTF8zRXJJb3BvNS1xNjFZVWhKVzMzZjJRRGxKT1hUX2h5NGhYWWktbGg3WDgyWUFmMmk2Ql9naG9ndlM3dFhBNEctTjJmT2NlSC1R?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "예천군, ‘예천그린대학’ 개강…기후위기 대응 환경리더 양성 - kyongbuk.co.kr",
+      "source": "kyongbuk.co.kr",
+      "date": "Thu, 06 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wdWJheWJ1Z1JmNU5QOEFkaGhFV2VJVEU3TEZ4d0ZSTkZPTXY3WFhtT0duRXptUFZqeVoycFhYMHpKYVppSDZKSm81cXJYRnZHYUtBTUNnQzNfNlNnT3VMbjBVUURNbnZkbFhvOV9RQQ?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "용산구자원봉사센터, 가족 체험형 환경봉사단 운영…탄소중립 실천 확산 - 한국금융신문",
+      "source": "한국금융신문",
+      "date": "Tue, 04 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGdndpSU1lQWFUZV9ycVBVZGNYVks0Q2x0RkswNGZoR1M2c09ubFlkbkdaeVBBWkdqY2VsM3FFbXlvb0gyMnltdmVPWjhBNHNvRTFEZWQ1VXIyd3pKZTZfeE1TcDVDMUF0WnA3V2dWekhrQm9HQWh1Y3pCSmg?oc=5"
     }
   ],
-  "fact": "이산화탄소는 대기 중에 배출된 뒤 수백 년간 머무를 수 있어, 오늘 줄인 배출량의 효과는 수십 년 뒤에야 기후에 반영되기 시작합니다."
+  "fact": "전 세계 온실가스 배출량의 약 4분의 1은 식량 생산 과정에서 발생합니다."
 }
