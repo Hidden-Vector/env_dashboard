@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T07:27:08.407587+09:00",
-  "generated_at_display": "2026-08-09 07:27 KST",
+  "generated_at": "2026-08-10T07:29:12.195192+09:00",
+  "generated_at_display": "2026-08-10 07:29 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,12 +12,19 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 8,
-    "pm25": 7,
-    "cai": "좋음",
+    "pm10": null,
+    "pm25": null,
+    "cai": "수집 실패: <urlopen error timed out>",
     "sido": "대구 동구(신암동)"
   },
   "news": [
+    {
+      "tag": "환경뉴스",
+      "title": "“잠자리도 탄소중립”…이브자리, 친환경 침구·숲 조성 ‘투트랙’ - 아시아투데이",
+      "source": "아시아투데이",
+      "date": "Sun, 09 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMUnBROFJFSmFVN1NlNVAxSFRCSE1VR0Rqck9CcjF3WlQ0aW4yMnA1OWlJV2NTUUE1eEw1LWJhTlpoeTYtTGt0VXo3X0ZxYXNqMTBBaks4OUNzRHh5MmlvZXYzU3pqMW0yNXRuOUh3?oc=5"
+    },
     {
       "tag": "환경뉴스",
       "title": "기후변화센터, 탄소중립 에너지기술 방향성 논의 - 투데이에너지",
@@ -27,10 +34,10 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "풍부한 녹색 환경을 지닌 탄소중립 중점학교 - 갈곶초등학교 편 - 대한민국 정책브리핑",
-      "source": "대한민국 정책브리핑",
-      "date": "Tue, 04 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMEhwYzVLS3dXZ1dLa2lOVGFrLW4xMnQyVG5qMTBvQ0ViWG9LOTF0N0FlOVpqUkt6UjU1SUNFaVQ1X2J1WElBY0ZKQk54aWRKUzQxbnpzQVpYUnNwZ0tCd3V2Q3BIckZVWmpEOU9tUGxSOU80Zko0WWJaSVEwSlBMc2tjaTM?oc=5"
+      "title": "탄소중립부터 문화 체험까지…전국비구니회, 환경·생명 한마당 - BBS불교방송",
+      "source": "BBS불교방송",
+      "date": "Sat, 08 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53VUdkRE1rVVNJV2wxd0k1Rmpxc2ZCUmxVZ3JlcXhSa3M1QlZfSHAyeXY2VWFMOVdSTWJFX3FlRWtuUXlyZnQtTXpuS2lXU3FLd2hvOTA4UklMWUs3VDlJV3Q0QmwyNUoyYjhr?oc=5"
     },
     {
       "tag": "환경뉴스",
@@ -48,18 +55,11 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "예천군, ‘예천그린대학’ 개강…기후위기 대응 환경리더 양성 - kyongbuk.co.kr",
-      "source": "kyongbuk.co.kr",
-      "date": "Thu, 06 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wdWJheWJ1Z1JmNU5QOEFkaGhFV2VJVEU3TEZ4d0ZSTkZPTXY3WFhtT0duRXptUFZqeVoycFhYMHpKYVppSDZKSm81cXJYRnZHYUtBTUNnQzNfNlNnT3VMbjBVUURNbnZkbFhvOV9RQQ?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "용산구자원봉사센터, 가족 체험형 환경봉사단 운영…탄소중립 실천 확산 - 한국금융신문",
-      "source": "한국금융신문",
+      "title": "시흥시, 여름방학 맞아 가족 참여형 환경교육 운영 - 경기일보",
+      "source": "경기일보",
       "date": "Tue, 04 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGdndpSU1lQWFUZV9ycVBVZGNYVks0Q2x0RkswNGZoR1M2c09ubFlkbkdaeVBBWkdqY2VsM3FFbXlvb0gyMnltdmVPWjhBNHNvRTFEZWQ1VXIyd3pKZTZfeE1TcDVDMUF0WnA3V2dWekhrQm9HQWh1Y3pCSmg?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tLUhISEx2TDFPWTV0cmdlcTdHbC01WVMxY3Z2T2hQV0lWbDhpRnJXdXhJSWVwMzYtZktSdlA4aHNadGFaenlnenVmNXAtWWhzVmM4YnlnejcyLVU?oc=5"
     }
   ],
-  "fact": "전 세계 온실가스 배출량의 약 4분의 1은 식량 생산 과정에서 발생합니다."
+  "fact": "산업화 이전 대비 대기 중 이산화탄소 농도는 약 50% 증가했습니다."
 }
