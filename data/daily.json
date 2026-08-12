@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T07:39:31.785801+09:00",
-  "generated_at_display": "2026-08-12 07:39 KST",
+  "generated_at": "2026-08-13T07:39:03.460151+09:00",
+  "generated_at_display": "2026-08-13 07:39 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,32 +12,32 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 8,
-    "pm25": 2,
-    "cai": "좋음",
+    "pm10": null,
+    "pm25": null,
+    "cai": "수집 실패: <urlopen error timed out>",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "덕적도, ‘탄소중립섬’으로 가는 첫걸음…주민 50여 명 한자리에 - 쓰담미디어",
-      "source": "쓰담미디어",
-      "date": "Tue, 11 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vWVlMNXZSeDNZTnNFckpoUEx3UURsZGJhejFWWjRIWHhReFg1Ty1peldtalV6eTJKd21VZXhzaXQ1eVI2S1JTbDZ3eHRrUGE3ZEdIVGNIdS1VQk1zQVNORHZSbTFmZzQ?oc=5"
+      "title": "광명시, 경기환경대상 경기도지사상 수상…시민참여 탄소중립 성과 인정 - 데일리안",
+      "source": "데일리안",
+      "date": "Wed, 12 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOeG5GWWZad1UyelF2S0RGNGlkbldUYk92QmxlbGxqamhTRnZoYjBSc2d2dllIREljaDVoNlBiVG85bzhfYWhUMFA3dDdfUG42MzFNaHRydXhMY0JDVnpNUFd0NXV6T3JiZjBmM0c2Z2c5TmFILVFDVWtIYnFQUWhIU1FLb2JRSF8zdWJTUzlhNmZ6WWxsbmtObHd1QWdPYmxRaGQwVm9NeGVlR2pPNm84ZmpJVEZWeExwQlFkSHdtUGM4Rkc0UWgyc1k5UzZrMEtkdWQtYWRJeDFLelZTV3JLdG1fMDJDSVJPSWJXYVpUUDZpZ01lenlJZ0xfdUQ5TXNteXp4Qm0yU2p6a0p4UHZYdV85amZrdW9GMnk2YV9KTFlBc1p2WTh4dFZLMXNWQQ?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "과천시, 탄소중립 주민생활 실천단 본격 활동 - 기호일보",
-      "source": "기호일보",
-      "date": "Tue, 11 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OeV9jYTZLMnhYbVdSa2duVDB0Vk10VU9TNlp5cFdhbllXektoQnRMLVV5cnVIWWlYMElmRVVQMlUwbV9IcUtsVkZxUHhRdENvZm5jNlg0Y19maElTRGhKLWJibmh6ZUFPSFVBVEFwQQ?oc=5"
+      "title": "경남도·창원시·진주시·김해시 ‘2026 탄소중립 우수사례’ 장관상 등 수상 - idomin.com",
+      "source": "idomin.com",
+      "date": "Wed, 12 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pY2ktal9ESFBRN3FLNUZtT1puQXUtaXNlZ1Y3TnhNMTZyWExHcFprTjM0bTRPVDVGVzRwR3hmajBoTVg3UkpUQmpzNHIyWkx0eU1VcjcyYjJVY0taVTJkOEttMDNDN3hmdnc?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "당진지속협, 쿨맵시 캠페인으로 탄소중립 실천 나눠 - 당진신문",
-      "source": "당진신문",
-      "date": "Tue, 11 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40M1JiN0lrZ29tNkhqT0Yta3RPVXVzYmtwVTJIS09QVGJFUTZrdzJXMF9oZXhRNWx3dkdqMUJVOUhEWDFEVDY4dWlMdTd5ckppN3drSTE4OGlET1lyOWdMSTNnQ3RMX0Vk?oc=5"
+      "title": "보성군, 아동 대상 '찾아가는 환경보건교실' 호응 - 진일보",
+      "source": "진일보",
+      "date": "Wed, 12 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XVzMycVpWR0JDV2t6dS1iakVKRGxSTTlWblNLX2dWSW11UmtnVE8weEFOZVAyRElVcUx0Z1UxdVAxbG43ZTdZOEM3SlZXVktobWR4SVVrdlNFNnF1VUtoa2FaWVppSmpJR1ZsRDRCUQ?oc=5"
     },
     {
       "tag": "환경뉴스",
@@ -48,18 +48,18 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "완주 청소년들, 여름방학 맞아 탄소중립 실천 - thepowernews.co.kr",
-      "source": "thepowernews.co.kr",
-      "date": "Tue, 11 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJVVBZMlV5aTRQRUVaeVREOGJoamlVVWZEX1NIVnZDNHhZN0lxVVN6Tm5sa2d3aTdycU5LdUpPWkU0d0dzd0htS3J1N0xOUll2ZjFCVk00RmR0bzdaRDVQU0lId0FHREFXbFFJYm5tZ2c0MFlCWXlMNUVUSEtnZw?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
       "title": "호주, ‘기후 강대국’ 향해 질주…넷제로 정조준 - 전기신문",
       "source": "전기신문",
       "date": "Mon, 10 Aug 2026",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PVzlCakVvUjRVdkhtcEhlMVJUNnUtWjFjd1piZ1JjR0NETS1Del92T2dFV2oxSlp5bEhHX2ZrTGpBYmFGTTBUS3V4aVphQ0s0SWZnVFdqbkR0T0o0bkFoV085SHEtaVFUcUJQNtIBcEFVX3lxTE5fT21uTzdFQmoxQ3lHekdSSURhNFlWLUx0eVg1eUplVHhtemtFTTBwQXVWWDBhLURyZ285eDAzakhXWDc2ZXd5V3ZLTjBodjJGZWNfLUNjZW5NVnBsREREZHZlTGx2anZHOXliU3dQVnM?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "광명시·대한적십자사 경기지사, '청소년 탄소중립 인도주의 캠프' 운영 - 프레시안",
+      "source": "프레시안",
+      "date": "Wed, 12 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0NzRjdjBRZDdlekpwWWJPNUNkcFNldkpFYzkzV0FTdGtPcDhuNU9JOVRoZjhFWmNmNkV3RWllcl9GTW82S3R3dXRvZjVVeXpvOU5NTGJKcWtfaVB6WjZkQWgyazRWTnM1Z25R?oc=5"
     }
   ],
-  "fact": "전 세계 플라스틱의 약 9%만이 실제로 재활용되고 있습니다."
+  "fact": "태양광 발전 비용은 지난 10여 년간 큰 폭으로 하락해 여러 지역에서 가장 저렴한 전력원 중 하나가 되었습니다."
 }
