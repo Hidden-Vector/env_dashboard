@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T07:39:03.460151+09:00",
-  "generated_at_display": "2026-08-13 07:39 KST",
+  "generated_at": "2026-08-14T07:39:20.837175+09:00",
+  "generated_at_display": "2026-08-14 07:39 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -14,52 +14,52 @@
   "air": {
     "pm10": null,
     "pm25": null,
-    "cai": "수집 실패: <urlopen error timed out>",
+    "cai": "수집 실패: timed out",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "광명시, 경기환경대상 경기도지사상 수상…시민참여 탄소중립 성과 인정 - 데일리안",
-      "source": "데일리안",
-      "date": "Wed, 12 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOeG5GWWZad1UyelF2S0RGNGlkbldUYk92QmxlbGxqamhTRnZoYjBSc2d2dllIREljaDVoNlBiVG85bzhfYWhUMFA3dDdfUG42MzFNaHRydXhMY0JDVnpNUFd0NXV6T3JiZjBmM0c2Z2c5TmFILVFDVWtIYnFQUWhIU1FLb2JRSF8zdWJTUzlhNmZ6WWxsbmtObHd1QWdPYmxRaGQwVm9NeGVlR2pPNm84ZmpJVEZWeExwQlFkSHdtUGM4Rkc0UWgyc1k5UzZrMEtkdWQtYWRJeDFLelZTV3JLdG1fMDJDSVJPSWJXYVpUUDZpZ01lenlJZ0xfdUQ5TXNteXp4Qm0yU2p6a0p4UHZYdV85amZrdW9GMnk2YV9KTFlBc1p2WTh4dFZLMXNWQQ?oc=5"
+      "title": "‘탄소중립기본법’, 국회 본회의로···환경단체 “위헌” “무책임” 반발 - 경향신문",
+      "source": "경향신문",
+      "date": "Thu, 13 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zRjdIUXVxSFdBcUVvRWo4YnR5QTg4SGJVMmpvRkZ4eVlZQ1FFVGZ0dkR2d01XRTNkSUdLN1lrMWZJZ21wd3JDa2tmNF9HLTR1Vk5vM2tGMDJ0d9IBX0FVX3lxTE5mNnN2Y0l5TFI4cmVrbTdRdHd0a012MmlyMFQ1NXFwZ3N5VGlrNTdYalhRS3RJaGdFUkgzY1BaRDBLNHdlSWdMdmpHT1dVdFVid0hRb3oyMl8ydFR5dDh3?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "경남도·창원시·진주시·김해시 ‘2026 탄소중립 우수사례’ 장관상 등 수상 - idomin.com",
-      "source": "idomin.com",
-      "date": "Wed, 12 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pY2ktal9ESFBRN3FLNUZtT1puQXUtaXNlZ1Y3TnhNMTZyWExHcFprTjM0bTRPVDVGVzRwR3hmajBoTVg3UkpUQmpzNHIyWkx0eU1VcjcyYjJVY0taVTJkOEttMDNDN3hmdnc?oc=5"
+      "title": "기후특위, ‘2045 NDC’ 담은 탄소중립법 개정안 의결…조국당·환경단체 반발 - 에너지경제신문",
+      "source": "에너지경제신문",
+      "date": "Thu, 13 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CUURiSG16ZHNfX05XaUNuRWpPS2N0QWZxUXd2TFYtVTlWN1dlQVp0SEFyLWNoeEJDNGdyUThaMDRiTXRMem5ILXRWRVY3SnZ4Z3ItcmJIOTg0dnc?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "보성군, 아동 대상 '찾아가는 환경보건교실' 호응 - 진일보",
-      "source": "진일보",
-      "date": "Wed, 12 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XVzMycVpWR0JDV2t6dS1iakVKRGxSTTlWblNLX2dWSW11UmtnVE8weEFOZVAyRElVcUx0Z1UxdVAxbG43ZTdZOEM3SlZXVktobWR4SVVrdlNFNnF1VUtoa2FaWVppSmpJR1ZsRDRCUQ?oc=5"
+      "title": "시민과 함께 이뤄가는 탄소중립… 광명시, ‘경기환경대상’ 도지사상 수상 - 세계환경신문",
+      "source": "세계환경신문",
+      "date": "Thu, 13 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15ZXUtdldzSXVaZVVOdzNIMDEtQk5jTXZLMFFYcHRIOWd0Q3R5Q3JObDViUFNDSUNwb1Azcjl2T3g4ekNnZTJVRFBTT1hkVFFvT3FBNTd6NFZuRlNPNXBR?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "부산진구, 곽재식 교수 초청 ‘2026년 탄소중립 실천 환경교육’ 개최 - 국제신문",
-      "source": "국제신문",
-      "date": "Mon, 10 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaHVMWEZMelpRcGhNX2otTS0wOTBqWHZGdjIwRmM0V3NyVG5MVFkzdC05OGJSMFdib2lfNTVOcjBjN0hfUjBQNnNPNFZtLXNTc1k4U0xCLWtYMzZqUllaS3g4MVF5RmY3ZDRQSlNzODR5dDBGZUVuVEo5LVhhUy13ZkpIbXU1ci1HRE1IemF3?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "호주, ‘기후 강대국’ 향해 질주…넷제로 정조준 - 전기신문",
+      "title": "“2045년 탄소 감축 목표 84∼90%”…기후특위, 탄소중립기본법 개정안 의결 - 전기신문",
       "source": "전기신문",
-      "date": "Mon, 10 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PVzlCakVvUjRVdkhtcEhlMVJUNnUtWjFjd1piZ1JjR0NETS1Del92T2dFV2oxSlp5bEhHX2ZrTGpBYmFGTTBUS3V4aVphQ0s0SWZnVFdqbkR0T0o0bkFoV085SHEtaVFUcUJQNtIBcEFVX3lxTE5fT21uTzdFQmoxQ3lHekdSSURhNFlWLUx0eVg1eUplVHhtemtFTTBwQXVWWDBhLURyZ285eDAzakhXWDc2ZXd5V3ZLTjBodjJGZWNfLUNjZW5NVnBsREREZHZlTGx2anZHOXliU3dQVnM?oc=5"
+      "date": "Thu, 13 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UMHR6ZUZjZ1dna0lvTEZVTWJMN1o4TnRMSFU0eTZyUmRwX2tnRUFPSEJlbHM5NldITjZheWNuZHhyVjNjYXpYTTNQRXpHdmZxdC15SnJhU2NWdjQxcE1EbVJRNkVQdmZEd2NqTdIBcEFVX3lxTFBIM09FSjlMZG8xeFpnSTE5T21oUmR0ZjM3VHNmdThhYjVIdHA5UDlSN3N6b19IOHNOYlppZU5vOGgyNUxPaTFac0FhQUMxLUZnODJMUnZzX2FEYVNUYlJTVWNqY1AyVHJ5M3ZRa1o2MGw?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "광명시·대한적십자사 경기지사, '청소년 탄소중립 인도주의 캠프' 운영 - 프레시안",
-      "source": "프레시안",
-      "date": "Wed, 12 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0NzRjdjBRZDdlekpwWWJPNUNkcFNldkpFYzkzV0FTdGtPcDhuNU9JOVRoZjhFWmNmNkV3RWllcl9GTW82S3R3dXRvZjVVeXpvOU5NTGJKcWtfaVB6WjZkQWgyazRWTnM1Z25R?oc=5"
+      "title": "제 31회 경기환경대상 시상식…탄소 중립 숨은 주역 '한 자리에' - v.daum.net",
+      "source": "v.daum.net",
+      "date": "Thu, 13 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBLRm1TZDk0cXF1TlhDajdiaG5ZeHNFU29TdXhMckJ0RDN4RjE1RHA5dXVVQlQzbk5WeERrby1LX1FLSEJxM1E?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "광명시, ‘경기환경대상’ 도지사상…시민참여 탄소중립 정책 인정 - 데일리엔뉴스",
+      "source": "데일리엔뉴스",
+      "date": "Thu, 13 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yLUhSY2hjLVl4dnVqa0FTaWFnd0Z2TjRrLVB6azdMVTJPSmdldFJhRFhPbFVVWXFhME45QmRBeGRMUmlTcjdmaGI0NWVoNXpHWlMxYVJtb1RGQQ?oc=5"
     }
   ],
-  "fact": "태양광 발전 비용은 지난 10여 년간 큰 폭으로 하락해 여러 지역에서 가장 저렴한 전력원 중 하나가 되었습니다."
+  "fact": "해양은 인간이 배출한 이산화탄소의 상당 부분을 흡수해 해양 산성화를 일으키고 있습니다."
 }
