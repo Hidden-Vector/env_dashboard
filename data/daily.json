@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T07:20:35.670257+09:00",
-  "generated_at_display": "2026-08-15 07:20 KST",
+  "generated_at": "2026-08-16T07:19:24.508294+09:00",
+  "generated_at_display": "2026-08-16 07:19 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,25 +12,18 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": null,
-    "pm25": null,
-    "cai": "수집 실패: <urlopen error timed out>",
+    "pm10": 12,
+    "pm25": 12,
+    "cai": "좋음",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "‘탄소중립기본법’ 기후특위 의결…환경단체 “미래세대 부담 외면” 반발 - 투데이신문",
-      "source": "투데이신문",
-      "date": "Fri, 14 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YTU5fb2hDcXpTMFM4Sk5SaWFydlcyMGd1OElSSkViV0xreDlHb192NTdXdXlkb05ZMjkyakVXbjNFVnpPS2ltZ2I1ZlJCX2pTUDVwckp5TU95NkltQTVJc3otQWc4ZGpZTW9BMjNqRdIBb0FVX3lxTE1YTU5fb2hDcXpTMFM4Sk5SaWFydlcyMGd1OElSSkViV0xreDlHb192NTdXdXlkb05ZMjkyakVXbjNFVnpPS2ltZ2I1ZlJCX2pTUDVwckp5TU95NkltQTVJc3otQWc4ZGpZTW9BMjNqRQ?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "환경운동연합, 탄소중립법 개정안 규탄 - 환경일보",
-      "source": "환경일보",
-      "date": "Fri, 14 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PdEJOWDgyeWNCSjZqTllWcG1RaHJWU2xpS2Y1VTBLc1NieFY3QzlmdERoU2hyTGtrUGhQNUpjakh6SVZrUGR2UmJ6SFA1TU1HNTZ2Yldvc2VIYjNfUjI2WU0tSTNsX1lS?oc=5"
+      "title": "‘탄소중립법’ 8월 처리 전망…기후·환경단체 “본회의서 부결시켜야” - v.daum.net",
+      "source": "v.daum.net",
+      "date": "Sat, 15 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96ZDRELVFHcEdoR1lLMFl6Y295OGktbDRfOWNtOGVJbTRpdF9kSUlzMlM1Z1l6QUdxTXRqdDEwNUlaM1o3Z1R2YktGTUJTUks2TVpUbQ?oc=5"
     },
     {
       "tag": "환경뉴스",
@@ -41,25 +34,32 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "우리 마을의 자부심은 불편함이죠 - 단비뉴스",
-      "source": "단비뉴스",
+      "title": "환경운동연합, 탄소중립법 개정안 규탄 - hkbs.co.kr",
+      "source": "hkbs.co.kr",
       "date": "Fri, 14 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DeWdzSExCbFB6MFRjMjNhR3dJaUVqRGlfTUtmRG9XOXVkNjFXTGM5MzRMdl82MkxidFloOFlJYXNhZ2ZKZ0k3UmdkZ0E0V1QtWmoxLUFCMjM5VVFzVjlnZ29XYWw2Skw3OWtr?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PdEJOWDgyeWNCSjZqTllWcG1RaHJWU2xpS2Y1VTBLc1NieFY3QzlmdERoU2hyTGtrUGhQNUpjakh6SVZrUGR2UmJ6SFA1TU1HNTZ2Yldvc2VIYjNfUjI2WU0tSTNsX1lS?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "환경교육이 교실로 간다…충남 54개 교육기관서 ‘70회 탄소중립 수업’ - 녹색경제신문",
-      "source": "녹색경제신문",
+      "title": "‘탄소중립기본법’ 기후특위 의결…환경단체 “미래세대 부담 외면” 반발 - 투데이신문",
+      "source": "투데이신문",
       "date": "Fri, 14 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TZnJxWFJBYXVqSGxHQnl5TWVZSXdKazk5TEJDMG8zWVFkTm1lQ1FsRjBYYlZDeVZkQS1Zb0FDWHAzZXQ0dk9jLWppeVN2RWc5VkNKSUg3M1lYYmZsRFprY041X1VuM3J2?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YTU5fb2hDcXpTMFM4Sk5SaWFydlcyMGd1OElSSkViV0xreDlHb192NTdXdXlkb05ZMjkyakVXbjNFVnpPS2ltZ2I1ZlJCX2pTUDVwckp5TU95NkltQTVJc3otQWc4ZGpZTW9BMjNqRdIBb0FVX3lxTE1YTU5fb2hDcXpTMFM4Sk5SaWFydlcyMGd1OElSSkViV0xreDlHb192NTdXdXlkb05ZMjkyakVXbjNFVnpPS2ltZ2I1ZlJCX2pTUDVwckp5TU95NkltQTVJc3otQWc4ZGpZTW9BMjNqRQ?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "충남기후환경교육원, 54개 학교 찾아간다…환경교육 본격화 - geumsan-news.com",
-      "source": "geumsan-news.com",
-      "date": "Fri, 14 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OaFhlQXNid0c5eEg1S2EwRlEzVUFmMExIaXAyaFBZRUZYamZKNXFPcTdPbzNhZ2lZNXRURFlWYUdhRHRZRFpIQXZjLXdUZWZOMzVGWVlDcjJ1VmFmM2k5VWh6bGVxSHhjTWpRUzVn?oc=5"
+      "title": "시민과 함께 이뤄가는 탄소중립… 광명시, ‘경기환경대상’ 도지사상 수상 - 세계환경신문",
+      "source": "세계환경신문",
+      "date": "Thu, 13 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15ZXUtdldzSXVaZVVOdzNIMDEtQk5jTXZLMFFYcHRIOWd0Q3R5Q3JObDViUFNDSUNwb1Azcjl2T3g4ekNnZTJVRFBTT1hkVFFvT3FBNTd6NFZuRlNPNXBR?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "기후특위, ‘2045 NDC’ 담은 탄소중립법 개정안 의결…조국당·환경단체 반발 - 에너지경제신문",
+      "source": "에너지경제신문",
+      "date": "Thu, 13 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CUURiSG16ZHNfX05XaUNuRWpPS2N0QWZxUXd2TFYtVTlWN1dlQVp0SEFyLWNoeEJDNGdyUThaMDRiTXRMem5ILXRWRVY3SnZ4Z3ItcmJIOTg0dnc?oc=5"
     }
   ],
-  "fact": "육류 소비를 줄이는 것은 개인이 실천할 수 있는 가장 효과적인 탄소 저감 방법 중 하나로 꼽힙니다."
+  "fact": "국제사회는 파리협정을 통해 산업화 이전 대비 지구 평균기온 상승을 1.5도 이내로 억제하는 것을 목표로 하고 있습니다."
 }
