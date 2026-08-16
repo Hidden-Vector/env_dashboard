@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T07:19:24.508294+09:00",
-  "generated_at_display": "2026-08-16 07:19 KST",
+  "generated_at": "2026-08-17T07:18:53.561835+09:00",
+  "generated_at_display": "2026-08-17 07:18 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,9 +12,9 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 12,
-    "pm25": 12,
-    "cai": "좋음",
+    "pm10": null,
+    "pm25": null,
+    "cai": "수집 실패: <urlopen error timed out>",
     "sido": "대구 동구(신암동)"
   },
   "news": [
@@ -27,17 +27,17 @@
     },
     {
       "tag": "환경뉴스",
+      "title": "환경운동연합, 탄소중립법 개정안 규탄 - 환경일보",
+      "source": "환경일보",
+      "date": "Fri, 14 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PdEJOWDgyeWNCSjZqTllWcG1RaHJWU2xpS2Y1VTBLc1NieFY3QzlmdERoU2hyTGtrUGhQNUpjakh6SVZrUGR2UmJ6SFA1TU1HNTZ2Yldvc2VIYjNfUjI2WU0tSTNsX1lS?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
       "title": "‘탄소중립기본법’, 국회 본회의로···환경단체 “위헌” “무책임” 반발 - 경향신문",
       "source": "경향신문",
       "date": "Thu, 13 Aug 2026",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zRjdIUXVxSFdBcUVvRWo4YnR5QTg4SGJVMmpvRkZ4eVlZQ1FFVGZ0dkR2d01XRTNkSUdLN1lrMWZJZ21wd3JDa2tmNF9HLTR1Vk5vM2tGMDJ0d9IBX0FVX3lxTE5mNnN2Y0l5TFI4cmVrbTdRdHd0a012MmlyMFQ1NXFwZ3N5VGlrNTdYalhRS3RJaGdFUkgzY1BaRDBLNHdlSWdMdmpHT1dVdFVid0hRb3oyMl8ydFR5dDh3?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "환경운동연합, 탄소중립법 개정안 규탄 - hkbs.co.kr",
-      "source": "hkbs.co.kr",
-      "date": "Fri, 14 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PdEJOWDgyeWNCSjZqTllWcG1RaHJWU2xpS2Y1VTBLc1NieFY3QzlmdERoU2hyTGtrUGhQNUpjakh6SVZrUGR2UmJ6SFA1TU1HNTZ2Yldvc2VIYjNfUjI2WU0tSTNsX1lS?oc=5"
     },
     {
       "tag": "환경뉴스",
@@ -48,18 +48,18 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "시민과 함께 이뤄가는 탄소중립… 광명시, ‘경기환경대상’ 도지사상 수상 - 세계환경신문",
-      "source": "세계환경신문",
-      "date": "Thu, 13 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15ZXUtdldzSXVaZVVOdzNIMDEtQk5jTXZLMFFYcHRIOWd0Q3R5Q3JObDViUFNDSUNwb1Azcjl2T3g4ekNnZTJVRFBTT1hkVFFvT3FBNTd6NFZuRlNPNXBR?oc=5"
+      "title": "[환경 칼럼] 기초지자체 탄소중립계획, 첫 성적표를 들여다보며 - bjynews.com",
+      "source": "bjynews.com",
+      "date": "Sat, 15 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KWlhQdDg2TTJJd2NMczc0S2Fnc1BucHV6aGkxcFV4Y3VpR1pmelJ4cXlSYmx1VDU2Wk5uRzRlb21PRVZLZWhQQ1g2MXN1SWpaLTlTWXhmTW1PeTVWSzBSUHJXd2pBUXl0OVZ0VNIBbEFVX3lxTE1KWlhQdDg2TTJJd2NMczc0S2Fnc1BucHV6aGkxcFV4Y3VpR1pmelJ4cXlSYmx1VDU2Wk5uRzRlb21PRVZLZWhQQ1g2MXN1SWpaLTlTWXhmTW1PeTVWSzBSUHJXd2pBUXl0OVZ0VA?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "기후특위, ‘2045 NDC’ 담은 탄소중립법 개정안 의결…조국당·환경단체 반발 - 에너지경제신문",
-      "source": "에너지경제신문",
-      "date": "Thu, 13 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CUURiSG16ZHNfX05XaUNuRWpPS2N0QWZxUXd2TFYtVTlWN1dlQVp0SEFyLWNoeEJDNGdyUThaMDRiTXRMem5ILXRWRVY3SnZ4Z3ItcmJIOTg0dnc?oc=5"
+      "title": "사천시, 제7회 푸른 하늘의 날 맞아 탄소중립 생활실천 캠페인 추진 > 뉴스 - 더코리아",
+      "source": "더코리아",
+      "date": "Sun, 16 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81MERvcWVmb2xYelFHRlRKMThyemxtRkFIZUJ6X01GZXhDRVVPZlBmTm15WW40LTlYR3AtZXQ3UElMTl93N20zRVk5M0ZsQ0F6aHI2TWRZcl8xSG9reGQyaWJkb0RzU2YwUnFocS1MNkQ?oc=5"
     }
   ],
-  "fact": "국제사회는 파리협정을 통해 산업화 이전 대비 지구 평균기온 상승을 1.5도 이내로 억제하는 것을 목표로 하고 있습니다."
+  "fact": "한국은 2050년 탄소중립을 국가 목표로 선언했습니다."
 }
