@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T07:22:33.889155+09:00",
-  "generated_at_display": "2026-08-18 07:22 KST",
+  "generated_at": "2026-08-19T07:21:10.697377+09:00",
+  "generated_at_display": "2026-08-19 07:21 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -20,10 +20,17 @@
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "[사람in] 신진옥 안산환경재단 탄소중립지원센터장 “탄소중립은 시민의 작은 실천에서 시작합니다” - 중부일보",
-      "source": "중부일보",
-      "date": "Mon, 17 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OUVF6Mk1OTzQyNWxrSHlhM2o4SHVjcTgtb29YZTBfWFE3cWRfUWE0RmdkUUdZdDY1M2lrcDBaUHFsNDZSRHFKZ1JsRWRYX0hZREQwSFBxMUE0aTNXR2p1Y0lBZVRwd09lX2pWSUp3WQ?oc=5"
+      "title": "청주시 금천동 자연환경보전협의회, 탄소중립 실천 - 충청매일",
+      "source": "충청매일",
+      "date": "Tue, 18 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14ckN5UnB3dWRmdHpIc0lKa3ZaQkhzellVaE5RUmNaeURrdlhveUNXUjZ3RGRYZGgwS05uYUdnYW8xWHpQUDJIdE16WTJ0UHVQVUNRTElzRmg1cEFNMTN3OVJwUzF3OE9PTXc?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "금천동 자연환경보전협의회, 깨끗하게! 맑게! 탄소중립 실천! - 청주일보",
+      "source": "청주일보",
+      "date": "Tue, 18 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PWk9zcXU5OGpLQ3o3OTZKNV9ZVlpsZkRfUUJGQ3RmUXNfUVhHcThXV0JZa2VCQWQ0Yjk1OGJFaDRTZDlBcTYzSHQ1YlRic1dFcmEzczVYSkV5N1pubG82bDFNMGxlQmwtcEdv?oc=5"
     },
     {
       "tag": "환경뉴스",
@@ -34,10 +41,10 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "시민과 함께 이뤄가는 탄소중립...광명시, ‘경기환경대상’ 도지사상 수상 - 광명일보",
-      "source": "광명일보",
-      "date": "Mon, 17 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XNC1GMVVQV0FSWFkxSk9iMGVCWEVxaXdtNmJDdjFlMV9KMThuU1JxdUYyN2hhVmZDNTNvajNlVmpMYzI3cGk3X3ZURmlrakx6WWtOaG5iR3VTVDkzaGpyZGs2ZzFPeHpE0gFsQVVfeXFMTzBISFdkZTg1V1dVaWlzNFdGMV82MFN2NGN4Z0RSUmRVYVVtam54YVB2enBsUHYxbUJ0YWd1amRsOXlEZFBiV2lVSlhrWHZRaUlSaUsybEt4WXlOVnd5SkhJMWI1Vmd3NURWNndv?oc=5"
+      "title": "한국환경산업기술원, 탄소중립 달성 및 산업 경쟁력 강화…세미나 개최 - 글로벌뉴스통신GNA",
+      "source": "글로벌뉴스통신GNA",
+      "date": "Tue, 18 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3c3ZBNW4yOXZPV3hHcW04YUw0S1cxVzB6c3BacDczV0s5THRIdmVGNloyTXd2VFdqc0dpaXpnRGhaaTBDV0dTRXNVSHFYbGVGNEhQdnoxNHJ6c3hhYWNPSFNYN1lRR25Ta1NleE4zNTRkbUxf?oc=5"
     },
     {
       "tag": "환경뉴스",
@@ -48,18 +55,11 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "‘탄소중립기본법’, 국회 본회의로···환경단체 “위헌” “무책임” 반발 - 경향신문",
-      "source": "경향신문",
-      "date": "Thu, 13 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zRjdIUXVxSFdBcUVvRWo4YnR5QTg4SGJVMmpvRkZ4eVlZQ1FFVGZ0dkR2d01XRTNkSUdLN1lrMWZJZ21wd3JDa2tmNF9HLTR1Vk5vM2tGMDJ0d9IBX0FVX3lxTE5mNnN2Y0l5TFI4cmVrbTdRdHd0a012MmlyMFQ1NXFwZ3N5VGlrNTdYalhRS3RJaGdFUkgzY1BaRDBLNHdlSWdMdmpHT1dVdFVid0hRb3oyMl8ydFR5dDh3?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "‘탄소중립기본법’ 기후특위 의결…환경단체 “미래세대 부담 외면” 반발 - 투데이신문",
-      "source": "투데이신문",
-      "date": "Fri, 14 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aRkZGejFjaDkxV2VwUWVhX09HR242YkZoUkI1cGREZHFpYVdWNU9oWkZCRHFWTnR2TkVBU1lYVElUZkwyR1NTZ0k3ZkQ3cXBsU2JoNlM5VlIxSmMwTjl4UkVHYTZpanVUUVBR0gFvQVVfeXFMTVhNTl9vaENxelMwUzhKTlJpYXJ2VzIwZ3U4SVJKRWJXTGt4OUdvX3Y1N1d1eWRvTlkyOTJqRVduM0VWek9LaW1nYjVmUkJfalNQNXBySnlNT3k2SW1BNUlzei1BZzhkallNb0EyM2pF?oc=5"
+      "title": "[사람in] 신진옥 안산환경재단 탄소중립지원센터장 “탄소중립은 시민의 작은 실천에서 시작합니다” - 중부일보",
+      "source": "중부일보",
+      "date": "Mon, 17 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OUVF6Mk1OTzQyNWxrSHlhM2o4SHVjcTgtb29YZTBfWFE3cWRfUWE0RmdkUUdZdDY1M2lrcDBaUHFsNDZSRHFKZ1JsRWRYX0hZREQwSFBxMUE0aTNXR2p1Y0lBZVRwd09lX2pWSUp3WQ?oc=5"
     }
   ],
-  "fact": "이산화탄소는 대기 중에 배출된 뒤 수백 년간 머무를 수 있어, 오늘 줄인 배출량의 효과는 수십 년 뒤에야 기후에 반영되기 시작합니다."
+  "fact": "전 세계 온실가스 배출량의 약 4분의 1은 식량 생산 과정에서 발생합니다."
 }
