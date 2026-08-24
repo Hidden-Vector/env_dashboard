@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T07:19:21.465626+09:00",
-  "generated_at_display": "2026-08-24 07:19 KST",
+  "generated_at": "2026-08-25T07:23:51.250350+09:00",
+  "generated_at_display": "2026-08-25 07:23 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,12 +12,33 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": null,
-    "pm25": null,
-    "cai": "수집 실패: <urlopen error timed out>",
+    "pm10": 14,
+    "pm25": 14,
+    "cai": "보통",
     "sido": "대구 동구(신암동)"
   },
   "news": [
+    {
+      "tag": "환경뉴스",
+      "title": "연천군 탄소중립 지원센터 DMZ 생태탐사 프로그램 운영 - 기호일보",
+      "source": "기호일보",
+      "date": "Mon, 24 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yV1N1OWNEcy1qRHc3ZWtKTk9ZVlNfaTlmd3JuNUlVdkNXZjl0UWN5ZkN3V1RmZDRxc3kxTU9va19LQVBrc09GNjd4Sm5iUlpCSXdrMmRrOVFVWjVwLXFQNEJoY0VwZWF1MmZZb29GSQ?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "경산시 탄소중립지원센터, ‘환경교육 시안 발표 세미나’ 개최 - 대한경제",
+      "source": "대한경제",
+      "date": "Mon, 24 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjSkNBeDNRYXBmRzZCekRJOU9RRnJhSldtcE81em5CaTVyTmFkUEVoUEQxZ1FkLXJtX2JOUWhwYXUzV1lsV3laS2ZXYThsbGRzSEpmUllYVTRyZkFpT0VrR0FBbTMzS0NjMkJLMzlhYk1YX2Zr?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "제17회 환경사랑 공모전 접수 9월 14일까지 연장…미래세대 탄소중립 실천 확산 - 매일뉴스",
+      "source": "매일뉴스",
+      "date": "Mon, 24 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nNHFlNTBuTW5jMFp0QlRJNXo3YVFXTTVQa25HNUROejB5eTVJLXVWcVJfT3FMYmtoUlZQTGVjRk1rcmk2a01PZ1hqMHFERVBDSkFMQzNxdXVfMm1URFpSTA?oc=5"
+    },
     {
       "tag": "환경뉴스",
       "title": "경산시 탄소중립지원센터, ‘학생 참여형 환경교육’ 준비 본격화 - 뉴데일리 대구경북",
@@ -27,39 +48,18 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "포천시 군내면 주민자치회, 포천시 탄소중립지원센터와 업무협약 체결 - 산경일보",
-      "source": "산경일보",
-      "date": "Sun, 23 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sa2p4ZkF6X3hWME9wV3JDaERPX1BEenZLRHpyZHhPeVRUZy1keTQ5Tk9BajNfNVFXdkpMd0lJMUdrbV9Jb2FQVHpsbkVKWDM5N3ZTdXlpUHNZQTI3LWo3S05wZUJzZzIwN3k0anJuUTM?oc=5"
+      "title": "여수, 탄소중립·도시환경 개선 사업 추경예산 집중 - 서울일보",
+      "source": "서울일보",
+      "date": "Mon, 24 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92Y0I3Vnk4MXRWNGxUTExkaVJNUFBmRnc2RmxFdjRyV2N1YWdVUGhUSEVvVGNkRWxHbXpiX0FZemMtSmZ2R0VsRHN4ZVJ4bVdCcmxFSExqOHRaLWdkN3V6VGRRbVphLTlIOXk00gFvQVVfeXFMTTBFaXZVNG5YSkFNOFc2aGF3cFVwWTZKSEt0Sm1tVHpES2JMNlJScFZNYjZfQU5Pd0RzMF8wZnBVMElSVW5MbWVHTEl6RENiOV9hS3JoYUtGS3JGQi1Zb3A1MmxoWlN1UjJmQnhUUGNV?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "안산환경재단 생활밀착형 탄소중립 확대 - 아주경제",
-      "source": "아주경제",
-      "date": "Thu, 20 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QUzVQWTN5VndWaVRJZjM0eW5VSkZyZ0VnSjc1dy1fcUlSbHYwaWNZcUxXSWFKTGktRG9YZGx6OUdQOEJQa21YQnRxeGQzTXdvY1N0VDN2UE96UdIBWEFVX3lxTE4wV1FhLS1nWmFrUGRjSERRVGtBSkNtN0c0QmZta1pIZ3d5YXQ1eXFqZHdvYzdablNNLUxpMS02YVZPdUwwVHMwWU4yTzlhS29tUXpVdGlvTzk?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "탄소와 미세먼지 함께 잡는 ‘기후-대기 통합감축’ 뜬다 - ESG경제",
-      "source": "ESG경제",
-      "date": "Wed, 19 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TOW56dlBaSE83dVp1TldSS1NhdXloX0otSzY2R1YwTVh1dVZ2WE4yR0RjS0xNLTZhdDZ2bGxCeEV5Q0NiakVCQV85V2VQNlUyODhDWF94SGdpWWw2WEVaeVJBamtZUWhTMWZ6YQ?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "안산환경재단, 안산시 탄소중립지원센터-경기도 지역 탄소중립 선도사업 본격 추진 - 경인신문",
-      "source": "경인신문",
-      "date": "Fri, 21 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81a25HMWRYLWpyMGJYQmIySmtZNmFRSFh5VEZyU3o0OXpXMWhNaU1oR25Db2QtYnFXbFBLbndOQUd1VEllQVJFSjFKNkhEVDIzQnZhamx3Zi1LbkZ4R1hvN1VWUFlWbDA?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "포천시 군내면 주민자치회, 탄소중립지원센터와 환경보전 업무협약 체결 > 뉴스 - 더코리아",
-      "source": "더코리아",
-      "date": "Sat, 22 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnVDFqTFF6RFUtVE55akYwLW0zS1M1OThvSFk0Y3Z0Z19sMkFrSG1RNHlEcTFPNzFneUYyVm5FV1oxUnpuUFJEd1BJWEFnTHF5WWNMYmI5VEtBbHNpX3RZZGtZMkVqVnNVbGRfMzMtdlI?oc=5"
+      "title": "메가프로젝트의 '에너지 딜레마', 탄소중립이 흔들린다 - technovalue.com",
+      "source": "technovalue.com",
+      "date": "Mon, 24 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kbzBia2VkQXdTTmhuUm9Ba2o2RFhBaG93UllfZWpxeVBSVVZlLWRWaEFCSnNMXzM5cmhSVGlpTnZtRnJuS2lCSmRhQXdrR25WTU9rZE4waw?oc=5"
     }
   ],
-  "fact": "해양은 인간이 배출한 이산화탄소의 상당 부분을 흡수해 해양 산성화를 일으키고 있습니다."
+  "fact": "육류 소비를 줄이는 것은 개인이 실천할 수 있는 가장 효과적인 탄소 저감 방법 중 하나로 꼽힙니다."
 }
