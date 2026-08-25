@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T07:23:51.250350+09:00",
-  "generated_at_display": "2026-08-25 07:23 KST",
+  "generated_at": "2026-08-26T07:24:47.919761+09:00",
+  "generated_at_display": "2026-08-26 07:24 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,54 +12,54 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 14,
-    "pm25": 14,
-    "cai": "보통",
+    "pm10": 23,
+    "pm25": 11,
+    "cai": "좋음",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "연천군 탄소중립 지원센터 DMZ 생태탐사 프로그램 운영 - 기호일보",
-      "source": "기호일보",
-      "date": "Mon, 24 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yV1N1OWNEcy1qRHc3ZWtKTk9ZVlNfaTlmd3JuNUlVdkNXZjl0UWN5ZkN3V1RmZDRxc3kxTU9va19LQVBrc09GNjd4Sm5iUlpCSXdrMmRrOVFVWjVwLXFQNEJoY0VwZWF1MmZZb29GSQ?oc=5"
+      "title": "진주시 ‘지자체 탄소중립 우수’ 환경공단 이사장상 - 경남도민일보",
+      "source": "경남도민일보",
+      "date": "Tue, 25 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWRVFSSldDSVdDSjVsZDVvYUcxdTNlMzBFSmJqRXlveThDQTVsV1lRdmVPT2x2SFdMaTNiSkNPZC1rdzlNRkJLMV94bk93WGtCN2lVd0h6eXZJMjVGT0JNVWV0Y0RVQTlYVlE?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "경산시 탄소중립지원센터, ‘환경교육 시안 발표 세미나’ 개최 - 대한경제",
-      "source": "대한경제",
-      "date": "Mon, 24 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjSkNBeDNRYXBmRzZCekRJOU9RRnJhSldtcE81em5CaTVyTmFkUEVoUEQxZ1FkLXJtX2JOUWhwYXUzV1lsV3laS2ZXYThsbGRzSEpmUllYVTRyZkFpT0VrR0FBbTMzS0NjMkJLMzlhYk1YX2Zr?oc=5"
+      "title": "[카드뉴스] 탄소중립에 따른 축산환경의 전환, 한우산업법으로 지원합니다 - 월간친환경",
+      "source": "월간친환경",
+      "date": "Tue, 25 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9heEdFelBpVDE4NGZsVFkyTjBHV1pQUnV2QnpNOXFxbWxzVGRFMk9tUk1UcTRMWXZjMFR1d1RFU0t4MEF5OUc5dS1sbGE5LVpWalN5YkFqemdCN2FUYXlENEpDZVp0NWtsaDV2ay10OS1vdw?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "제17회 환경사랑 공모전 접수 9월 14일까지 연장…미래세대 탄소중립 실천 확산 - 매일뉴스",
-      "source": "매일뉴스",
-      "date": "Mon, 24 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nNHFlNTBuTW5jMFp0QlRJNXo3YVFXTTVQa25HNUROejB5eTVJLXVWcVJfT3FMYmtoUlZQTGVjRk1rcmk2a01PZ1hqMHFERVBDSkFMQzNxdXVfMm1URFpSTA?oc=5"
+      "title": "삼척시탄소중립지원센터, 환경교육 전문강사 역량강화 - 강원타임즈",
+      "source": "강원타임즈",
+      "date": "Tue, 25 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IMzlSd0ZVVzBZTHl0dnNpQi1lbzhGcF9hcVNjczVrc2hDcVNKbWFwQXlZSHNwUk1Ea3RXZVhieHFUZTY5TVNHa3dDMW52T0pHSHB5VDA1czBWYTFE?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "경산시 탄소중립지원센터, ‘학생 참여형 환경교육’ 준비 본격화 - 뉴데일리 대구경북",
-      "source": "뉴데일리 대구경북",
-      "date": "Sun, 23 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sOWV3Mk5QS2NGQktQUWFGNjh6NTM1ZUtoZnVHemRIYUUwQ1NXd1k2dmp6RDYwWmxyLXZVTk1ENWRpb0RLTl9IUVgtOE4tSjJtV1R2LURoNjUxeFBJd19OR3dCLXBVRElHaXBBVDh4RGY4THhaYko3OHd30gF_QVVfeXFMUFZNSWpZbW1EQmtZQlhPOUNaN09URjNZUzFWcVRxeFJfNVVnakNVcU1YMl9OZ2pkMUMtZHVTQk84ZlNJZ3hnWkNXV2hkYkE2OXFUWlQ0NVlpMzBycUxRZWVPVnFlbVduTnN0U3NiWTVrYTFsTWZNYld3N21WbmZOdw?oc=5"
+      "title": "경기도, 탄소중립·녹색성장 기본계획 이행점검 실무교육 - 투데이경제",
+      "source": "투데이경제",
+      "date": "Tue, 25 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZbTIxY0FqUEIzZmpUcVMzYXhNY0tFaVByZXNlWDJiUHB3REEyQ0p5RjFSakgtMk1DbG0zZFNXX0JfQWpJYTJYQ0VwSnhaX3VlWXlzeGl1dFQ4VWJPemt1dW1EbF8zWEN5NXdN?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "여수, 탄소중립·도시환경 개선 사업 추경예산 집중 - 서울일보",
-      "source": "서울일보",
-      "date": "Mon, 24 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92Y0I3Vnk4MXRWNGxUTExkaVJNUFBmRnc2RmxFdjRyV2N1YWdVUGhUSEVvVGNkRWxHbXpiX0FZemMtSmZ2R0VsRHN4ZVJ4bVdCcmxFSExqOHRaLWdkN3V6VGRRbVphLTlIOXk00gFvQVVfeXFMTTBFaXZVNG5YSkFNOFc2aGF3cFVwWTZKSEt0Sm1tVHpES2JMNlJScFZNYjZfQU5Pd0RzMF8wZnBVMElSVW5MbWVHTEl6RENiOV9hS3JoYUtGS3JGQi1Zb3A1MmxoWlN1UjJmQnhUUGNV?oc=5"
+      "title": "이재명 정부 1년 기후·에너지·환경 정책…‘강한 추진력’ vs ‘전략 부재’ 평가 엇갈려 - 전기신문",
+      "source": "전기신문",
+      "date": "Tue, 25 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MMUlHT29mVFhOME45SHVDd0pHeE82TXVsM3BCbVRjTG1iZXhDQUgzRmc4SjVDYlVmYUtYRklFRHItX3JrWUdEUVlxODdwLWwzSVk2X1lXZW9hLVY5OWpSRVZPbGlvaURJcTR1M9IBcEFVX3lxTFA4WEk4eHFLZkJGNUZ1UDBiX2w4dVg1dlF2c3EwX0lvS2pOajE3a0o2T3IxU0ROSVd3S0tBaWQtcTZaZENPaEk4VURBb0ZTOThwa3l1aWJaU1JnNE9tRFNSbERjQTlxVVZuZWhxdDc1bWc?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "메가프로젝트의 '에너지 딜레마', 탄소중립이 흔들린다 - technovalue.com",
-      "source": "technovalue.com",
-      "date": "Mon, 24 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kbzBia2VkQXdTTmhuUm9Ba2o2RFhBaG93UllfZWpxeVBSVVZlLWRWaEFCSnNMXzM5cmhSVGlpTnZtRnJuS2lCSmRhQXdrR25WTU9rZE4waw?oc=5"
+      "title": "한전MCS(주), 탄소중립 실천 환경보호 동참 - 익산열린신문",
+      "source": "익산열린신문",
+      "date": "Tue, 25 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE52T1NTRFkyU3VZNUNrWURUUlJxc0NyOXdBUFJ6SFJMb1JKR094OFpZcW9pd3RlRkhZNGJ3WW0tT3hsSlR5VERmUE9ReVQtY0lhUkpNNU1VM09EOXV2Z1d3dEJUSDQ4Q3pxOXBqdVFQVXdsZw?oc=5"
     }
   ],
-  "fact": "육류 소비를 줄이는 것은 개인이 실천할 수 있는 가장 효과적인 탄소 저감 방법 중 하나로 꼽힙니다."
+  "fact": "국제사회는 파리협정을 통해 산업화 이전 대비 지구 평균기온 상승을 1.5도 이내로 억제하는 것을 목표로 하고 있습니다."
 }
