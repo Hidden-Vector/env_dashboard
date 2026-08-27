@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T07:24:47.919761+09:00",
-  "generated_at_display": "2026-08-26 07:24 KST",
+  "generated_at": "2026-08-27T11:56:00.994876+09:00",
+  "generated_at_display": "2026-08-27 11:56 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,54 +12,54 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 23,
-    "pm25": 11,
-    "cai": "좋음",
+    "pm10": null,
+    "pm25": null,
+    "cai": "수집 실패: <urlopen error timed out>",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "진주시 ‘지자체 탄소중립 우수’ 환경공단 이사장상 - 경남도민일보",
-      "source": "경남도민일보",
-      "date": "Tue, 25 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWRVFSSldDSVdDSjVsZDVvYUcxdTNlMzBFSmJqRXlveThDQTVsV1lRdmVPT2x2SFdMaTNiSkNPZC1rdzlNRkJLMV94bk93WGtCN2lVd0h6eXZJMjVGT0JNVWV0Y0RVQTlYVlE?oc=5"
+      "title": "탄소중립법 국회 통과…환경단체 “미래세대에 부담 떠넘기는 눈속임·기만” - 한겨레",
+      "source": "한겨레",
+      "date": "Thu, 27 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKWW1XUDNmbG1Ndk51UXVsNjMtRWREbXJhZ2dpRTQ0eVRDYVBHcFBTNkZBRWhsamVzU2RqcG5FOU9zck9XTUtvYkQ2Y3Jqd0s5X05YOWl3cFMzeVlGaXpJM010Zm9fbVJMR2xvQw?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "[카드뉴스] 탄소중립에 따른 축산환경의 전환, 한우산업법으로 지원합니다 - 월간친환경",
-      "source": "월간친환경",
-      "date": "Tue, 25 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9heEdFelBpVDE4NGZsVFkyTjBHV1pQUnV2QnpNOXFxbWxzVGRFMk9tUk1UcTRMWXZjMFR1d1RFU0t4MEF5OUc5dS1sbGE5LVpWalN5YkFqemdCN2FUYXlENEpDZVp0NWtsaDV2ay10OS1vdw?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "삼척시탄소중립지원센터, 환경교육 전문강사 역량강화 - 강원타임즈",
-      "source": "강원타임즈",
-      "date": "Tue, 25 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IMzlSd0ZVVzBZTHl0dnNpQi1lbzhGcF9hcVNjczVrc2hDcVNKbWFwQXlZSHNwUk1Ea3RXZVhieHFUZTY5TVNHa3dDMW52T0pHSHB5VDA1czBWYTFE?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "경기도, 탄소중립·녹색성장 기본계획 이행점검 실무교육 - 투데이경제",
-      "source": "투데이경제",
-      "date": "Tue, 25 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZbTIxY0FqUEIzZmpUcVMzYXhNY0tFaVByZXNlWDJiUHB3REEyQ0p5RjFSakgtMk1DbG0zZFNXX0JfQWpJYTJYQ0VwSnhaX3VlWXlzeGl1dFQ4VWJPemt1dW1EbF8zWEN5NXdN?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "이재명 정부 1년 기후·에너지·환경 정책…‘강한 추진력’ vs ‘전략 부재’ 평가 엇갈려 - 전기신문",
+      "title": "5년 단위 범위형 감축 목표 법제화…탄소중립기본법 개정안 본회의 통과 - 전기신문",
       "source": "전기신문",
-      "date": "Tue, 25 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MMUlHT29mVFhOME45SHVDd0pHeE82TXVsM3BCbVRjTG1iZXhDQUgzRmc4SjVDYlVmYUtYRklFRHItX3JrWUdEUVlxODdwLWwzSVk2X1lXZW9hLVY5OWpSRVZPbGlvaURJcTR1M9IBcEFVX3lxTFA4WEk4eHFLZkJGNUZ1UDBiX2w4dVg1dlF2c3EwX0lvS2pOajE3a0o2T3IxU0ROSVd3S0tBaWQtcTZaZENPaEk4VURBb0ZTOThwa3l1aWJaU1JnNE9tRFNSbERjQTlxVVZuZWhxdDc1bWc?oc=5"
+      "date": "Wed, 26 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOMHpfUnRKVjRTUHB3aHlmcndOZ2Zrc2tJNnZxTmFwNDhlZHJSUndKLUtETFRDVXktbHZQUFVQQUx0S0w1SDg1MnNoQ0JYRDVIdW5xNWdCYlBOMktPVDRkLW5QVzFRbmdrZWFWRdIBcEFVX3lxTE1RQU9abTlPM09RNFBfb2hvOGRhb1J5XzFMMUI2TlBLd1NzcVN5SU9nQ3NwRnVJczNlbGpoYmlldF9oMUtZWlFYYi1STHFTQXh4bXJ6cy12VS1veWs1ek5zdl92ck1YS2tYek4weXpVX00?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "한전MCS(주), 탄소중립 실천 환경보호 동참 - 익산열린신문",
-      "source": "익산열린신문",
-      "date": "Tue, 25 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE52T1NTRFkyU3VZNUNrWURUUlJxc0NyOXdBUFJ6SFJMb1JKR094OFpZcW9pd3RlRkhZNGJ3WW0tT3hsSlR5VERmUE9ReVQtY0lhUkpNNU1VM09EOXV2Z1d3dEJUSDQ4Q3pxOXBqdVFQVXdsZw?oc=5"
+      "title": "[한화생명 ESG-E] 탄소중립 실행력 높인다…기후금융·생물다양성 병행 - PRESS9",
+      "source": "PRESS9",
+      "date": "Thu, 27 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03dlgyWlROa0kxV3BIeUdOeWRnYnoyX2dBZktSa0ZjM3hidFBISUZCdzEwQkhRTEVOTjJLeEVJSFBhWVV4b0NuSHVLNkEtN2tLNThtUVBYMU91SUVMakhjX3A2VTQ?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "\"탄소중립은 이런 것\" 부산진구, 곽재식 교수 초청 '환경교육' 개최 | - LG헬로비전",
+      "source": "LG헬로비전",
+      "date": "Wed, 26 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEc094bVI0X3NXVFlyZnRTNGdCcmE2NzFDZGh0MnZUbU10NVItMkotQ09Md1I5VlBGZWlDSGVXTUd5OHp3S2FsUGpvNk5sSHVrSVFLSnRsR05MOUFyWnlqRlI5Ti1DOTN4eXVWUWRUM3dLUjRMYUE?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "부산진구, 곽재식 교수 초청 ‘2026년 탄소중립 실천 환경교육’성황리 개최 - 국제신문",
+      "source": "국제신문",
+      "date": "Wed, 26 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOGhUamh5eEw5RXNHRnpVYjBUNS1Xd1oyV3NIZURRc1FqUEh5S29RRHBoUHVSX2pNemdBckUtSm56V2hSaHBpZE9uV09GSElnbHN6UjZwWDA1c0VrX1FVWkgtejRTS003b0hjcXFmcU1QWmVfc2EtNDZtemtUcXUxb19BeFMxYi1oWmxyLTNR?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "동작구, 생애주기별 맞춤 환경교육… “전 세대 탄소중립 실천 이끈다” - 핀포인트뉴스",
+      "source": "핀포인트뉴스",
+      "date": "Thu, 27 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hbTFlYkxlMENXcVgzV184LV9qTkNDT1FseHoyNXc5Rzkxakc0cWZMVEtZWTJhRDdoemxXcWl0emZzWjAtRnhhTkktYWIzU0N0X3dtb0xRbVk4NXJlZzZDLWt1Zm1PS2QybHJwWllkZlVoMjDSAXdBVV95cUxPM0pQN2F0RWdYU3dUZ09HX1BJRmYwMHJqamFNeW52b1FoMGx2MlE3SkcxVFRGbFFwSE1FRUI1LXplZWdJYnZJMGFTVnpLbWtYN1pFa3g1aEhWQ29qcG51V29uR2YwX1FzUS1Cam1zYThfSS0zR1Fobw?oc=5"
     }
   ],
-  "fact": "국제사회는 파리협정을 통해 산업화 이전 대비 지구 평균기온 상승을 1.5도 이내로 억제하는 것을 목표로 하고 있습니다."
+  "fact": "한국은 2050년 탄소중립을 국가 목표로 선언했습니다."
 }
