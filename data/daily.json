@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T12:30:36.106778+09:00",
-  "generated_at_display": "2026-08-29 12:30 KST",
+  "generated_at": "2026-08-30T08:53:21.493391+09:00",
+  "generated_at_display": "2026-08-30 08:53 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,12 +12,19 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 5,
-    "pm25": 1,
+    "pm10": 3,
+    "pm25": 2,
     "cai": "좋음",
     "sido": "대구 동구(신암동)"
   },
   "news": [
+    {
+      "tag": "환경뉴스",
+      "title": "여수 2050 탄소중립 ‘속도’… 전남녹색환경지원센터, 민관산학 동력 당긴다 > 뉴스 - 더코리아",
+      "source": "더코리아",
+      "date": "Sat, 29 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nV2pQeGZXU3VFM0JZUTYwTzZlZGZoNHZIdGRqcmZUS0t0SGJma3BMZkhjcjk4UXBwM01aUnVpcDY1dlBESXQwUEtqYVVtWXA5TFBUX2QzRTAxcEUtcS1OMnFqeFYwTm5jUkNZbk5yc2M?oc=5"
+    },
     {
       "tag": "환경뉴스",
       "title": "전남녹색환경지원센터, 여수시 탄소중립 선봉에 서다 - 여수넷통뉴스",
@@ -41,25 +48,18 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "박원종 기후환경에너지위원장, 미래 모빌리티·탄소중립 선도의 원동력 - 일간투데이",
-      "source": "일간투데이",
-      "date": "Fri, 28 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sLXBBMHdzaWV2UzVWMDROVkFsQ3Q2ckZWS2d1RlVQRVZDLWlvSk9sakFZamcyTFRyM1VPN2NMejRIQTNiNUQzcDZ2M3JvY05KUG9IaUFNX0R4UHI3N3lHSWJvYWpMUXoydmJN?oc=5"
+      "title": "하림 피오봉사단 13기, 가족과 함께 탄소중립 실천 미션 마무리 - 금융경제플러스",
+      "source": "금융경제플러스",
+      "date": "Sat, 29 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WVEZ1aFNPVzlsTno2X0NGRHBFR3RpNVl0Z05wM0xQR0t2ZVcxZldFUUdVcDl5c0d1VWxZOTZ0aDJPZldRb3RkTlNjZzk0YXlaZmFnc3ozTDlkMGEzWk9SQldERG9sUmZYNGdjaw?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "광명시 광명7동 주민자치회, 생활 속 탄소중립 실천 이끈 ‘탄소중립 마을학교 3탄’ 성황리 마쳐 > 뉴스 - 더코리아",
-      "source": "더코리아",
-      "date": "Fri, 28 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaTjZ2MWdfNWNqbFVYb05hcG5nSlVoZEU0WUNSeWwzdFdCRjRFamIydi1rWmthYmxjZkJXVmx1NFlhWTN4TlZBQklBSnQxWXU0LW9GSWkza2hoUzRMQ28wV2ZjWllUOXpYVW8zMzNBYm0?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "\"탄소중립은 이런 것\" 부산진구, 곽재식 교수 초청 '환경교육' 개최 | - LG헬로비전",
-      "source": "LG헬로비전",
-      "date": "Wed, 26 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEc094bVI0X3NXVFlyZnRTNGdCcmE2NzFDZGh0MnZUbU10NVItMkotQ09Md1I5VlBGZWlDSGVXTUd5OHp3S2FsUGpvNk5sSHVrSVFLSnRsR05MOUFyWnlqRlI5Ti1DOTN4eXVWUWRUM3dLUjRMYUE?oc=5"
+      "title": "[경기도] 탄소중립·녹색성장 기본계획 이행점검 실무교육 - 워터저널",
+      "source": "워터저널",
+      "date": "Tue, 25 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1TaGR1azR5d2FkRFBUOGVQZE85TW0wUVlVVXVRVm1kQ1d6d1NNTWVWS0hVYWZYVWlpNG9UXzJ3dFdnc0RWRTdEZldBSzFtS0tuNWlUeDNZaTZfbHNPUGdlTlhPck04VzBGY3hCTUxrNG4wd9IBdkFVX3lxTE1Bc2ZkMkxwUEgyb3p0RHRUc3ZHcGtZYVI0elFGcnpjR0drS0w2R1JUWEVBTmRxYnlTcXczZFJYalBuR0NQZ0VaRGJOVGJIN29hOXhSMHQ1eVAzc3lHcnkySUFmc2dvN0tyaVg4Z2I5cGpUYlBvTVE?oc=5"
     }
   ],
-  "fact": "전 세계 온실가스 배출량의 약 4분의 1은 식량 생산 과정에서 발생합니다."
+  "fact": "산업화 이전 대비 대기 중 이산화탄소 농도는 약 50% 증가했습니다."
 }
