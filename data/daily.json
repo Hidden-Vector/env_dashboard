@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T08:53:21.493391+09:00",
-  "generated_at_display": "2026-08-30 08:53 KST",
+  "generated_at": "2026-08-31T09:12:23.228171+09:00",
+  "generated_at_display": "2026-08-31 09:12 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,18 +12,18 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 3,
-    "pm25": 2,
+    "pm10": 22,
+    "pm25": 5,
     "cai": "좋음",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "여수 2050 탄소중립 ‘속도’… 전남녹색환경지원센터, 민관산학 동력 당긴다 > 뉴스 - 더코리아",
-      "source": "더코리아",
-      "date": "Sat, 29 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nV2pQeGZXU3VFM0JZUTYwTzZlZGZoNHZIdGRqcmZUS0t0SGJma3BMZkhjcjk4UXBwM01aUnVpcDY1dlBESXQwUEtqYVVtWXA5TFBUX2QzRTAxcEUtcS1OMnFqeFYwTm5jUkNZbk5yc2M?oc=5"
+      "title": "전국 청소년 110명, ‘제17기 환경지킴이단’ 출범...탄소중립 실천 인재 양성 본격화 - v.daum.net",
+      "source": "v.daum.net",
+      "date": "Sun, 30 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TSjNXT0ZxYWtld2FGdmJmRVlHV1dzVWk5UTZMTmoyclo5U2JoNkRxNDFueWpJNUNlOG5MQmFYLTA2SXdScXdpa2o2ZF91OWs?oc=5"
     },
     {
       "tag": "환경뉴스",
@@ -34,6 +34,13 @@
     },
     {
       "tag": "환경뉴스",
+      "title": "탄소중립 영토 바다로…한전, 태안 블루카본 숲 조성 추진 - 에너지타임즈",
+      "source": "에너지타임즈",
+      "date": "Sun, 30 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wamNwLWswMlUyM3VtSjROZk5EaGNJMmF2SkNqeFNCb0FiSXZkeDFCNkhUTzZxcndrSHdtWkliNF9HU0NiODVHcmswUFd4cy00QW9XZ292bDVlSmoxZWotS2lrRTRneTdsbzVWOQ?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
       "title": "탄소중립법 국회 통과…환경단체 “미래세대에 부담 떠넘기는 눈속임·기만” - 한겨레",
       "source": "한겨레",
       "date": "Wed, 26 Aug 2026",
@@ -41,25 +48,18 @@
     },
     {
       "tag": "환경뉴스",
+      "title": "광명7동 주민자치회, 생활 속 탄소중립 실천하는 ‘탄소중립 마을학교 3탄’ 마쳐 - 뉴스팜",
+      "source": "뉴스팜",
+      "date": "Sun, 30 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5laU5wYmZaM0tXOXE5V09BY1BLZFllUjBQNGQwT1g4TlVpN2k4Q3hXeUpqWkt4SEtfclpkRHN2WENuMXhNSHVseDNYUGN2cW5HRlp4anNYWDRfd1oxTUFnRDJGemNkcUp0Z3c?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
       "title": "5년 단위 범위형 감축 목표 법제화…탄소중립기본법 개정안 본회의 통과 - 전기신문",
       "source": "전기신문",
-      "date": "Wed, 26 Aug 2026",
+      "date": "Thu, 27 Aug 2026",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOMHpfUnRKVjRTUHB3aHlmcndOZ2Zrc2tJNnZxTmFwNDhlZHJSUndKLUtETFRDVXktbHZQUFVQQUx0S0w1SDg1MnNoQ0JYRDVIdW5xNWdCYlBOMktPVDRkLW5QVzFRbmdrZWFWRdIBcEFVX3lxTE1RQU9abTlPM09RNFBfb2hvOGRhb1J5XzFMMUI2TlBLd1NzcVN5SU9nQ3NwRnVJczNlbGpoYmlldF9oMUtZWlFYYi1STHFTQXh4bXJ6cy12VS1veWs1ek5zdl92ck1YS2tYek4weXpVX00?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "하림 피오봉사단 13기, 가족과 함께 탄소중립 실천 미션 마무리 - 금융경제플러스",
-      "source": "금융경제플러스",
-      "date": "Sat, 29 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WVEZ1aFNPVzlsTno2X0NGRHBFR3RpNVl0Z05wM0xQR0t2ZVcxZldFUUdVcDl5c0d1VWxZOTZ0aDJPZldRb3RkTlNjZzk0YXlaZmFnc3ozTDlkMGEzWk9SQldERG9sUmZYNGdjaw?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "[경기도] 탄소중립·녹색성장 기본계획 이행점검 실무교육 - 워터저널",
-      "source": "워터저널",
-      "date": "Tue, 25 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1TaGR1azR5d2FkRFBUOGVQZE85TW0wUVlVVXVRVm1kQ1d6d1NNTWVWS0hVYWZYVWlpNG9UXzJ3dFdnc0RWRTdEZldBSzFtS0tuNWlUeDNZaTZfbHNPUGdlTlhPck04VzBGY3hCTUxrNG4wd9IBdkFVX3lxTE1Bc2ZkMkxwUEgyb3p0RHRUc3ZHcGtZYVI0elFGcnpjR0drS0w2R1JUWEVBTmRxYnlTcXczZFJYalBuR0NQZ0VaRGJOVGJIN29hOXhSMHQ1eVAzc3lHcnkySUFmc2dvN0tyaVg4Z2I5cGpUYlBvTVE?oc=5"
     }
   ],
-  "fact": "산업화 이전 대비 대기 중 이산화탄소 농도는 약 50% 증가했습니다."
+  "fact": "나무 한 그루는 평균적으로 1년에 약 20~25kg의 이산화탄소를 흡수합니다."
 }
