@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T09:12:23.228171+09:00",
-  "generated_at_display": "2026-08-31 09:12 KST",
+  "generated_at": "2026-09-01T09:59:27.387978+09:00",
+  "generated_at_display": "2026-09-01 09:59 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,18 +12,32 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 22,
-    "pm25": 5,
+    "pm10": 8,
+    "pm25": 6,
     "cai": "좋음",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "전국 청소년 110명, ‘제17기 환경지킴이단’ 출범...탄소중립 실천 인재 양성 본격화 - v.daum.net",
-      "source": "v.daum.net",
-      "date": "Sun, 30 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TSjNXT0ZxYWtld2FGdmJmRVlHV1dzVWk5UTZMTmoyclo5U2JoNkRxNDFueWpJNUNlOG5MQmFYLTA2SXdScXdpa2o2ZF91OWs?oc=5"
+      "title": "경남환경재단, 기후에너지교육으로 탄소중립 실천력 키운다 - 에너지안전신문",
+      "source": "에너지안전신문",
+      "date": "Mon, 31 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxMGxfN3hOOXZ2eVY5cUVwZmlKTGtKdC1rVFBGVGNUN0pPUmxtRXZ2S3ZCMEFqd0hBTVEwMUoxZ1VsMGxzQjBzUkxpZzZtVU5xUXFxNkdLdWxqSjJrdkxNOGRnUnQ?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "성북구 석관동, 어린이와 함께 그린 '탄소중립'...포스터 사생대회 성료 - gukjenews.com",
+      "source": "gukjenews.com",
+      "date": "Tue, 01 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxY2NWSEtHZ0dxTGw1cFNzYWZZZkd5Xzl6c05sMVZJYzhyWS1UMmxYV0lDVXdUMWdUa3hMVHlLdU9XZ1RiUHlHMUpMRG9xQ1R6d1FyUk0yQ2ZhZkh5RWkzTXlnVGdLYng4MHZYQTV3?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "대구 서구, 탄소중립 녹색 투어 추진… 주민과 함께한 환경 현장 탐방 - 매일신문",
+      "source": "매일신문",
+      "date": "Mon, 31 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZalRGTlF3UURiVGpsbEkyYnREX3ZLMG9kVDlncWlPLUlKRXVaYklROVJvREtlbHhqTVFFRkduSlQ3OHh4LVprODkzTWl3TVJsMUtEY3RfZU1pWUUxSTlKekpR?oc=5"
     },
     {
       "tag": "환경뉴스",
@@ -34,10 +48,10 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "탄소중립 영토 바다로…한전, 태안 블루카본 숲 조성 추진 - 에너지타임즈",
-      "source": "에너지타임즈",
-      "date": "Sun, 30 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wamNwLWswMlUyM3VtSjROZk5EaGNJMmF2SkNqeFNCb0FiSXZkeDFCNkhUTzZxcndrSHdtWkliNF9HU0NiODVHcmswUFd4cy00QW9XZ292bDVlSmoxZWotS2lrRTRneTdsbzVWOQ?oc=5"
+      "title": "미추홀구, 9월 7일까지 대기환경·탄소중립 체험행사 - livesnews.com",
+      "source": "livesnews.com",
+      "date": "Mon, 31 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aZDVmS2RvUC1ZYVVCMDJqVHJYSjFQc3VQZGNpUHhzMlRocTltXy1DT3ctRDhLOHlOYURBOFhYSHJhSjNlaURFdFk5M1BJMUxVZ2ZqOGpzUnhELUJR?oc=5"
     },
     {
       "tag": "환경뉴스",
@@ -45,21 +59,7 @@
       "source": "한겨레",
       "date": "Wed, 26 Aug 2026",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKWW1XUDNmbG1Ndk51UXVsNjMtRWREbXJhZ2dpRTQ0eVRDYVBHcFBTNkZBRWhsamVzU2RqcG5FOU9zck9XTUtvYkQ2Y3Jqd0s5X05YOWl3cFMzeVlGaXpJM010Zm9fbVJMR2xvQw?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "광명7동 주민자치회, 생활 속 탄소중립 실천하는 ‘탄소중립 마을학교 3탄’ 마쳐 - 뉴스팜",
-      "source": "뉴스팜",
-      "date": "Sun, 30 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5laU5wYmZaM0tXOXE5V09BY1BLZFllUjBQNGQwT1g4TlVpN2k4Q3hXeUpqWkt4SEtfclpkRHN2WENuMXhNSHVseDNYUGN2cW5HRlp4anNYWDRfd1oxTUFnRDJGemNkcUp0Z3c?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "5년 단위 범위형 감축 목표 법제화…탄소중립기본법 개정안 본회의 통과 - 전기신문",
-      "source": "전기신문",
-      "date": "Thu, 27 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOMHpfUnRKVjRTUHB3aHlmcndOZ2Zrc2tJNnZxTmFwNDhlZHJSUndKLUtETFRDVXktbHZQUFVQQUx0S0w1SDg1MnNoQ0JYRDVIdW5xNWdCYlBOMktPVDRkLW5QVzFRbmdrZWFWRdIBcEFVX3lxTE1RQU9abTlPM09RNFBfb2hvOGRhb1J5XzFMMUI2TlBLd1NzcVN5SU9nQ3NwRnVJczNlbGpoYmlldF9oMUtZWlFYYi1STHFTQXh4bXJ6cy12VS1veWs1ek5zdl92ck1YS2tYek4weXpVX00?oc=5"
     }
   ],
-  "fact": "나무 한 그루는 평균적으로 1년에 약 20~25kg의 이산화탄소를 흡수합니다."
+  "fact": "전 세계 플라스틱의 약 9%만이 실제로 재활용되고 있습니다."
 }
