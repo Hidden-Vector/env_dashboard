@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T09:59:27.387978+09:00",
-  "generated_at_display": "2026-09-01 09:59 KST",
+  "generated_at": "2026-09-02T08:48:03.243791+09:00",
+  "generated_at_display": "2026-09-02 08:48 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,32 +12,32 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 8,
-    "pm25": 6,
+    "pm10": 14,
+    "pm25": 5,
     "cai": "좋음",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "경남환경재단, 기후에너지교육으로 탄소중립 실천력 키운다 - 에너지안전신문",
-      "source": "에너지안전신문",
-      "date": "Mon, 31 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxMGxfN3hOOXZ2eVY5cUVwZmlKTGtKdC1rVFBGVGNUN0pPUmxtRXZ2S3ZCMEFqd0hBTVEwMUoxZ1VsMGxzQjBzUkxpZzZtVU5xUXFxNkdLdWxqSjJrdkxNOGRnUnQ?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "성북구 석관동, 어린이와 함께 그린 '탄소중립'...포스터 사생대회 성료 - gukjenews.com",
-      "source": "gukjenews.com",
+      "title": "울산환경감시협의회, 여천천서 탄소중립 실천 캠페인 - ksilbo.co.kr",
+      "source": "ksilbo.co.kr",
       "date": "Tue, 01 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxY2NWSEtHZ0dxTGw1cFNzYWZZZkd5Xzl6c05sMVZJYzhyWS1UMmxYV0lDVXdUMWdUa3hMVHlLdU9XZ1RiUHlHMUpMRG9xQ1R6d1FyUk0yQ2ZhZkh5RWkzTXlnVGdLYng4MHZYQTV3?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpSk9OM0hEM0toQThuUjNvRW5PVVlSaG01RDhpMUlwWUh3Vk5ubXNHdVZYRURfUWJ3dGRQWWF2VzBTWGNnczRKRGtIZjVuOXNsRW5QZG1SdlgyU0NyWjNHNF9BNjcyM2tOQ21YTw?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "대구 서구, 탄소중립 녹색 투어 추진… 주민과 함께한 환경 현장 탐방 - 매일신문",
-      "source": "매일신문",
-      "date": "Mon, 31 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZalRGTlF3UURiVGpsbEkyYnREX3ZLMG9kVDlncWlPLUlKRXVaYklROVJvREtlbHhqTVFFRkduSlQ3OHh4LVprODkzTWl3TVJsMUtEY3RfZU1pWUUxSTlKekpR?oc=5"
+      "title": "성주군, 기후위기 대응 및 탄소중립 등 실천 방안 공유 - 데일리대구경북뉴스",
+      "source": "데일리대구경북뉴스",
+      "date": "Tue, 01 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VR1BWYmhzTXB6ZFRfMC1SdUpIaGd6bzJvSDVtalM2NjhPVVJaeHB1Nkd2a1NxMXlhMzlvUlZNS09tbEpWWG9YUHZxRS1UbFR2MFlod3NHVk9MTmc5NEhJRDh2WE9LUQ?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "평택고, ‘벽깨기’로 배우는 지역연계 탄소중립 교육 실천 - 경인경제",
+      "source": "경인경제",
+      "date": "Tue, 01 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44Z0lydlNFTjRMdFdVeDFLWDViTEV6NC1NbHp4SHZtUk96SWQ3dmpPRmRxUDhQY09wLUlrN2pqelhfVzNjWEt1R054OHVlcDcydjkyQlc0U3d1OGRfMGx6Tjl5Wk5oWkZy?oc=5"
     },
     {
       "tag": "환경뉴스",
@@ -48,18 +48,18 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "미추홀구, 9월 7일까지 대기환경·탄소중립 체험행사 - livesnews.com",
-      "source": "livesnews.com",
-      "date": "Mon, 31 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aZDVmS2RvUC1ZYVVCMDJqVHJYSjFQc3VQZGNpUHhzMlRocTltXy1DT3ctRDhLOHlOYURBOFhYSHJhSjNlaURFdFk5M1BJMUxVZ2ZqOGpzUnhELUJR?oc=5"
+      "title": "광양시, ‘푸른 하늘의 날’ 기념행사…탄소중립 실천 다짐 - NSP통신",
+      "source": "NSP통신",
+      "date": "Tue, 01 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DVWNmM3hlYnVPeHQ1WnVkaDdWb1E4ZS0xajNYS2x0ZmhlaWUtc0Rja0tuNDE3Q3JZcEtWRkV4a080U0NnS09VVFp6TjFsXzRfMmhfU3JTd2pZS1ZYb0tVSA?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "탄소중립법 국회 통과…환경단체 “미래세대에 부담 떠넘기는 눈속임·기만” - 한겨레",
-      "source": "한겨레",
-      "date": "Wed, 26 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKWW1XUDNmbG1Ndk51UXVsNjMtRWREbXJhZ2dpRTQ0eVRDYVBHcFBTNkZBRWhsamVzU2RqcG5FOU9zck9XTUtvYkQ2Y3Jqd0s5X05YOWl3cFMzeVlGaXpJM010Zm9fbVJMR2xvQw?oc=5"
+      "title": "여수 2050 탄소중립 ‘속도’… 전남녹색환경지원센터, 민관산학 동력 당긴다 > 뉴스 - 더코리아",
+      "source": "더코리아",
+      "date": "Sat, 29 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nV2pQeGZXU3VFM0JZUTYwTzZlZGZoNHZIdGRqcmZUS0t0SGJma3BMZkhjcjk4UXBwM01aUnVpcDY1dlBESXQwUEtqYVVtWXA5TFBUX2QzRTAxcEUtcS1OMnFqeFYwTm5jUkNZbk5yc2M?oc=5"
     }
   ],
-  "fact": "전 세계 플라스틱의 약 9%만이 실제로 재활용되고 있습니다."
+  "fact": "태양광 발전 비용은 지난 10여 년간 큰 폭으로 하락해 여러 지역에서 가장 저렴한 전력원 중 하나가 되었습니다."
 }
