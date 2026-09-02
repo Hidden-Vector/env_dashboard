@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T08:48:03.243791+09:00",
-  "generated_at_display": "2026-09-02 08:48 KST",
+  "generated_at": "2026-09-03T08:52:08.370988+09:00",
+  "generated_at_display": "2026-09-03 08:52 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,54 +12,54 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 14,
-    "pm25": 5,
-    "cai": "좋음",
+    "pm10": null,
+    "pm25": null,
+    "cai": "수집 실패: <urlopen error timed out>",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "울산환경감시협의회, 여천천서 탄소중립 실천 캠페인 - ksilbo.co.kr",
-      "source": "ksilbo.co.kr",
-      "date": "Tue, 01 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpSk9OM0hEM0toQThuUjNvRW5PVVlSaG01RDhpMUlwWUh3Vk5ubXNHdVZYRURfUWJ3dGRQWWF2VzBTWGNnczRKRGtIZjVuOXNsRW5QZG1SdlgyU0NyWjNHNF9BNjcyM2tOQ21YTw?oc=5"
+      "title": "한국수자원공사, ‘2026 기후테크 혁신 포럼'… 탄소중립 시대 기후변화 대응 - 디지털비즈온",
+      "source": "디지털비즈온",
+      "date": "Wed, 02 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01eERlbUhFSU9MeHMzZGZkbVJSa1pLSXQ2VnNtQW5PYkw2WjlUVFFJSHplWlBBR01QRzdfNnRubDhQR196Tms2bFkwWl9JT3V5bGZRejZ4YTlJbEVUVWgwUVdqcnNSXzdxZGdCX0FNUTXSAXRBVV95cUxQYWt4NDQ2a1ZkVW9yNGpnYVZ0dl9wMW9xaFU5emV4M3BxVFpOYzZvT2k0UjB0YnhTd3E3bGNYT0dOWTIxRVBIVFE5OFAtU2V1b1hEREMtNkVNVHZPVEFlazh6dDNkTnkxZU4wc294dndOQVZEcw?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "성주군, 기후위기 대응 및 탄소중립 등 실천 방안 공유 - 데일리대구경북뉴스",
-      "source": "데일리대구경북뉴스",
-      "date": "Tue, 01 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VR1BWYmhzTXB6ZFRfMC1SdUpIaGd6bzJvSDVtalM2NjhPVVJaeHB1Nkd2a1NxMXlhMzlvUlZNS09tbEpWWG9YUHZxRS1UbFR2MFlod3NHVk9MTmc5NEhJRDh2WE9LUQ?oc=5"
+      "title": "안산환경재단 탄소중립실천자 과정 5기 개강 - 안산뉴스",
+      "source": "안산뉴스",
+      "date": "Wed, 02 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVSVJya0k1bGplMmtlZjJ3cUFVVExFQzVTVXpXZDg2TzNIcWhEc2pkdDZHa013bDFBMzBGNTV0R18tdXlJblhITWJxSWZoSEFPNUFoc3lxQjJkUXhhNFUxaHB2NTFDb3hyTFdicA?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "평택고, ‘벽깨기’로 배우는 지역연계 탄소중립 교육 실천 - 경인경제",
-      "source": "경인경제",
-      "date": "Tue, 01 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44Z0lydlNFTjRMdFdVeDFLWDViTEV6NC1NbHp4SHZtUk96SWQ3dmpPRmRxUDhQY09wLUlrN2pqelhfVzNjWEt1R054OHVlcDcydjkyQlc0U3d1OGRfMGx6Tjl5Wk5oWkZy?oc=5"
+      "title": "경남환경재단, 기후에너지교육으로 탄소중립 실천력 키운다 - esnews.kr",
+      "source": "esnews.kr",
+      "date": "Mon, 31 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxMGxfN3hOOXZ2eVY5cUVwZmlKTGtKdC1rVFBGVGNUN0pPUmxtRXZ2S3ZCMEFqd0hBTVEwMUoxZ1VsMGxzQjBzUkxpZzZtVU5xUXFxNkdLdWxqSjJrdkxNOGRnUnQ?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "전남녹색환경지원센터, 여수시 탄소중립 선봉에 서다 - 여수넷통뉴스",
-      "source": "여수넷통뉴스",
-      "date": "Fri, 28 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQdWlIM2FsSzd5emFPNVlIcDFQRXVFUGxsbDNpZXlBQnJSZjR5Tl9RQzVxY3p3a0xDOV9sc1NXY0lxYzR2ZU1rY1RUVk1YbUtqemJ0MWVjOHNvUm9NdV93OWgyOWg0bDM2MXc?oc=5"
+      "title": "폐자원 교환하며 탄소중립 ‘앞장’ - 세계환경신문",
+      "source": "세계환경신문",
+      "date": "Wed, 02 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wTDNXSGRqaHZmRHk5MFAzZWtQbHFlbEZxemY1YnZrUmZjeERLN0JPX2NUWk1nOGM3TVBSbVg3S3BVbV9rVGV5bld3MkpJWm9YNEhFUU9PSWZBZw?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "광양시, ‘푸른 하늘의 날’ 기념행사…탄소중립 실천 다짐 - NSP통신",
-      "source": "NSP통신",
-      "date": "Tue, 01 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DVWNmM3hlYnVPeHQ1WnVkaDdWb1E4ZS0xajNYS2x0ZmhlaWUtc0Rja0tuNDE3Q3JZcEtWRkV4a080U0NnS09VVFp6TjFsXzRfMmhfU3JTd2pZS1ZYb0tVSA?oc=5"
+      "title": "화성시연구원-한국환경연구원, 탄소중립 지원센터 공동세미나 개최 - 경인신문",
+      "source": "경인신문",
+      "date": "Wed, 02 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSa0UtSUZYcU1xdW5uRkQ4NWRYYVJQSUIxTnFyb3F1VFFnWDFiSDRlcWhXY09HMTBOc3NxbWlubUZaRFdGLVhicUtSdl92YTJnaUdFWTFUZnBkZUJCcF9odHFDQWF0VEU?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "여수 2050 탄소중립 ‘속도’… 전남녹색환경지원센터, 민관산학 동력 당긴다 > 뉴스 - 더코리아",
-      "source": "더코리아",
-      "date": "Sat, 29 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nV2pQeGZXU3VFM0JZUTYwTzZlZGZoNHZIdGRqcmZUS0t0SGJma3BMZkhjcjk4UXBwM01aUnVpcDY1dlBESXQwUEtqYVVtWXA5TFBUX2QzRTAxcEUtcS1OMnFqeFYwTm5jUkNZbk5yc2M?oc=5"
+      "title": "\"기후 마지노선 1.5도 붕괴 불가피…탄소중립 넘어 순흡수 필요\" - 뉴스1",
+      "source": "뉴스1",
+      "date": "Wed, 02 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBOWkFIbjdIOWxrSXJ6X2d3V0JCWENVM2xxRDdWNXJjZ2dPZzdlTl95cHotUGlSYzcxR0dSTWN3SVlURmZNd3BqVDRVNWJhSkZJTHRFYUxZbjNteXB60gFiQVVfeXFMTmNVbEstd0YzUTRsRFBkZ1hQelo2NG0xYmVwd2lOcERjMGNlSlZGZzdULXBwZDN4TFJwV2Q0WmdVU0hnMjdsM0d5ZGI4WHFhbFZlZS1faWZ3UGgzaWhQb29fc2c?oc=5"
     }
   ],
-  "fact": "태양광 발전 비용은 지난 10여 년간 큰 폭으로 하락해 여러 지역에서 가장 저렴한 전력원 중 하나가 되었습니다."
+  "fact": "해양은 인간이 배출한 이산화탄소의 상당 부분을 흡수해 해양 산성화를 일으키고 있습니다."
 }
