@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T08:52:08.370988+09:00",
-  "generated_at_display": "2026-09-03 08:52 KST",
+  "generated_at": "2026-09-04T08:47:06.885705+09:00",
+  "generated_at_display": "2026-09-04 08:47 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -20,46 +20,46 @@
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "한국수자원공사, ‘2026 기후테크 혁신 포럼'… 탄소중립 시대 기후변화 대응 - 디지털비즈온",
-      "source": "디지털비즈온",
-      "date": "Wed, 02 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01eERlbUhFSU9MeHMzZGZkbVJSa1pLSXQ2VnNtQW5PYkw2WjlUVFFJSHplWlBBR01QRzdfNnRubDhQR196Tms2bFkwWl9JT3V5bGZRejZ4YTlJbEVUVWgwUVdqcnNSXzdxZGdCX0FNUTXSAXRBVV95cUxQYWt4NDQ2a1ZkVW9yNGpnYVZ0dl9wMW9xaFU5emV4M3BxVFpOYzZvT2k0UjB0YnhTd3E3bGNYT0dOWTIxRVBIVFE5OFAtU2V1b1hEREMtNkVNVHZPVEFlazh6dDNkTnkxZU4wc294dndOQVZEcw?oc=5"
+      "title": "국제환경에너지산업전 2O주년 기념 제11회 탄소중립에너지대전환포럼 - 국제신문",
+      "source": "국제신문",
+      "date": "Thu, 03 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdjBiZ3I3Zll4MW8zenVWVk5sdzR4MkY3ampYeklmZ241OXc2b1E1cndMU3FjOEMwY0ZXU0dVNFJtcmVmdGp0clJqS1lhY1h3TThqWnhDQy03bEFjS2Rqck8yQVdrZVVhNHhyMzFFMVRTM1QyZzU3TlNmQWZSYVlic0d1eWIyMkJ2anRqNzNR?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "안산환경재단 탄소중립실천자 과정 5기 개강 - 안산뉴스",
-      "source": "안산뉴스",
-      "date": "Wed, 02 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVSVJya0k1bGplMmtlZjJ3cUFVVExFQzVTVXpXZDg2TzNIcWhEc2pkdDZHa013bDFBMzBGNTV0R18tdXlJblhITWJxSWZoSEFPNUFoc3lxQjJkUXhhNFUxaHB2NTFDb3hyTFdicA?oc=5"
+      "title": "환경재단, 이브자리 탄소배출권 통해 서울국제환경영화제 ‘탄소중립’ 이어간다 - 국민기자뉴스",
+      "source": "국민기자뉴스",
+      "date": "Thu, 03 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82aHREWXdoaGxfZ3o0RXZlVGZocGhfQ2xhbVh6aUpuTF9zQ3IzMkVLUDBJRWdVbDRUazRUZ0M1Ny0wNXp1STZFcDlNeDEyTnJzVnJqbEJYYlQ0bUlINU1UMzcxRdIBZ0FVX3lxTE9jYlVxTFRETkJDY21uYnpGNVd0VzJLWkR2M3ozOWhjNW5kZFpHdGNkYVRmeGU5Q0ZnUmVid2ZaSDJ2U3ZqMUUzdTZ5YU4xbWNhaVhiUm1jOE1CSVFvUkdTMGhBMmRfcU0?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "경남환경재단, 기후에너지교육으로 탄소중립 실천력 키운다 - esnews.kr",
-      "source": "esnews.kr",
+      "title": "[포토] 김성환 장관, 지역 탄소중립 전환 위한 공동 결의 행사 참석 - 환경일보",
+      "source": "환경일보",
+      "date": "Thu, 03 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nOFpQeDVtQVFXWHREUXp6OXM2X3MtWlhFY1NsNm4xc25RMGJCUFplX3pBd0V6MjQ4RnMyNjI1OTdmZTFyNGJMQUFmSGswbTIwUVB4dEl5MXVxeWRhM0dyWUl6cFB2MUlJ?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "경남환경재단, 기후에너지교육으로 탄소중립 실천력 키운다 - 에너지안전신문",
+      "source": "에너지안전신문",
       "date": "Mon, 31 Aug 2026",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxMGxfN3hOOXZ2eVY5cUVwZmlKTGtKdC1rVFBGVGNUN0pPUmxtRXZ2S3ZCMEFqd0hBTVEwMUoxZ1VsMGxzQjBzUkxpZzZtVU5xUXFxNkdLdWxqSjJrdkxNOGRnUnQ?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "폐자원 교환하며 탄소중립 ‘앞장’ - 세계환경신문",
-      "source": "세계환경신문",
-      "date": "Wed, 02 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wTDNXSGRqaHZmRHk5MFAzZWtQbHFlbEZxemY1YnZrUmZjeERLN0JPX2NUWk1nOGM3TVBSbVg3S3BVbV9rVGV5bld3MkpJWm9YNEhFUU9PSWZBZw?oc=5"
+      "title": "환경공단, 몽골 전역에 대기측정망 구축…실시간 대기질 관리 - 전기신문",
+      "source": "전기신문",
+      "date": "Thu, 03 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aRWZxZUZ2bW13YkxxZ1JpUWV5SDhlYy0zWDF4OGs1bTZNMWRUSzFDUGhiQWV4QlZUMDhTTjBVYlowUE5NVVJmXzgyM1Qwc0FhMTRWVnBwY2ExbV9vd2EtSUsyODRzcHpqbXVMX9IBcEFVX3lxTE9TQVE3blNlRUJQalRLYVB2dFZKTDM5YjBUajczaC0wUVVBc3hhSjdaNWszM00tSEpDS2JqSnNxR0liTUtYREZSLWozU2hta0JQSzNBZm5iZXlVSjlWa0t2d0ZQNzRybmhzS3Q1V1BRTlY?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "화성시연구원-한국환경연구원, 탄소중립 지원센터 공동세미나 개최 - 경인신문",
-      "source": "경인신문",
-      "date": "Wed, 02 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSa0UtSUZYcU1xdW5uRkQ4NWRYYVJQSUIxTnFyb3F1VFFnWDFiSDRlcWhXY09HMTBOc3NxbWlubUZaRFdGLVhicUtSdl92YTJnaUdFWTFUZnBkZUJCcF9odHFDQWF0VEU?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "\"기후 마지노선 1.5도 붕괴 불가피…탄소중립 넘어 순흡수 필요\" - 뉴스1",
-      "source": "뉴스1",
-      "date": "Wed, 02 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBOWkFIbjdIOWxrSXJ6X2d3V0JCWENVM2xxRDdWNXJjZ2dPZzdlTl95cHotUGlSYzcxR0dSTWN3SVlURmZNd3BqVDRVNWJhSkZJTHRFYUxZbjNteXB60gFiQVVfeXFMTmNVbEstd0YzUTRsRFBkZ1hQelo2NG0xYmVwd2lOcERjMGNlSlZGZzdULXBwZDN4TFJwV2Q0WmdVU0hnMjdsM0d5ZGI4WHFhbFZlZS1faWZ3UGgzaWhQb29fc2c?oc=5"
+      "title": "탄소중립법 국회 통과…환경단체 “미래세대에 부담 떠넘기는 눈속임·기만” - 한겨레신문",
+      "source": "한겨레신문",
+      "date": "Wed, 26 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKWW1XUDNmbG1Ndk51UXVsNjMtRWREbXJhZ2dpRTQ0eVRDYVBHcFBTNkZBRWhsamVzU2RqcG5FOU9zck9XTUtvYkQ2Y3Jqd0s5X05YOWl3cFMzeVlGaXpJM010Zm9fbVJMR2xvQw?oc=5"
     }
   ],
-  "fact": "해양은 인간이 배출한 이산화탄소의 상당 부분을 흡수해 해양 산성화를 일으키고 있습니다."
+  "fact": "육류 소비를 줄이는 것은 개인이 실천할 수 있는 가장 효과적인 탄소 저감 방법 중 하나로 꼽힙니다."
 }
