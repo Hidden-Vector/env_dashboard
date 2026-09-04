@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T08:47:06.885705+09:00",
-  "generated_at_display": "2026-09-04 08:47 KST",
+  "generated_at": "2026-09-05T08:43:39.763529+09:00",
+  "generated_at_display": "2026-09-05 08:43 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -20,24 +20,17 @@
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "국제환경에너지산업전 2O주년 기념 제11회 탄소중립에너지대전환포럼 - 국제신문",
-      "source": "국제신문",
-      "date": "Thu, 03 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdjBiZ3I3Zll4MW8zenVWVk5sdzR4MkY3ampYeklmZ241OXc2b1E1cndMU3FjOEMwY0ZXU0dVNFJtcmVmdGp0clJqS1lhY1h3TThqWnhDQy03bEFjS2Rqck8yQVdrZVVhNHhyMzFFMVRTM1QyZzU3TlNmQWZSYVlic0d1eWIyMkJ2anRqNzNR?oc=5"
+      "title": "[2026 국감] AI·반도체 ‘3대 메가프로젝트’…탄소중립과 양립 가능한가 - 에너지데일리",
+      "source": "에너지데일리",
+      "date": "Fri, 04 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VNjdsY1BDMjVyWlV5a1RjUTc5WXVHcnNiUlptV2xnYnVtM280djB5NmpRREtXd0JLZDJEaE1McVFNdVVPdU1PekVteXZiUEktT3JqTjBsUy1idU5DRExBMlZoRnk0VzFOR2pUVFU2cmJDQQ?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "환경재단, 이브자리 탄소배출권 통해 서울국제환경영화제 ‘탄소중립’ 이어간다 - 국민기자뉴스",
-      "source": "국민기자뉴스",
-      "date": "Thu, 03 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82aHREWXdoaGxfZ3o0RXZlVGZocGhfQ2xhbVh6aUpuTF9zQ3IzMkVLUDBJRWdVbDRUazRUZ0M1Ny0wNXp1STZFcDlNeDEyTnJzVnJqbEJYYlQ0bUlINU1UMzcxRdIBZ0FVX3lxTE9jYlVxTFRETkJDY21uYnpGNVd0VzJLWkR2M3ozOWhjNW5kZFpHdGNkYVRmeGU5Q0ZnUmVid2ZaSDJ2U3ZqMUUzdTZ5YU4xbWNhaVhiUm1jOE1CSVFvUkdTMGhBMmRfcU0?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "[포토] 김성환 장관, 지역 탄소중립 전환 위한 공동 결의 행사 참석 - 환경일보",
-      "source": "환경일보",
-      "date": "Thu, 03 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nOFpQeDVtQVFXWHREUXp6OXM2X3MtWlhFY1NsNm4xc25RMGJCUFplX3pBd0V6MjQ4RnMyNjI1OTdmZTFyNGJMQUFmSGswbTIwUVB4dEl5MXVxeWRhM0dyWUl6cFB2MUlJ?oc=5"
+      "title": "[환경재단] 이브자리 탄소배출권 통해 서울국제환경영화제 ‘탄소중립’ 이어간다 - 워터저널",
+      "source": "워터저널",
+      "date": "Fri, 04 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Pekl6Mjk2aGVxOG5vNUhHYlJOdVFnNkVwM1V3aklkc3dfQ3BQSTJGYmM3YjdOcVJOM3NtUHlDbzdJdGpUeklFOWYxRGlkU1JacUEzTGlnOTRyVEJ6YmtFSmtEdnJCQ3JwbWdQalhma09QQkpwTVHSAXZBVV95cUxNT3pJejI5NmhlcThubzVIR2JSTnVRZzZFcDNVd2pJZHN3X0NwUEkyRmJjN2I3TnFSTjNzbVB5Q283SXRqVHpJRTlmMURpZFNSWnFBM0xpZzk0clRCemJrRUprRHZyQkNycG1nUGpYZmtPUEJKcE1R?oc=5"
     },
     {
       "tag": "환경뉴스",
@@ -48,18 +41,25 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "환경공단, 몽골 전역에 대기측정망 구축…실시간 대기질 관리 - 전기신문",
-      "source": "전기신문",
-      "date": "Thu, 03 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aRWZxZUZ2bW13YkxxZ1JpUWV5SDhlYy0zWDF4OGs1bTZNMWRUSzFDUGhiQWV4QlZUMDhTTjBVYlowUE5NVVJmXzgyM1Qwc0FhMTRWVnBwY2ExbV9vd2EtSUsyODRzcHpqbXVMX9IBcEFVX3lxTE9TQVE3blNlRUJQalRLYVB2dFZKTDM5YjBUajczaC0wUVVBc3hhSjdaNWszM00tSEpDS2JqSnNxR0liTUtYREZSLWozU2hta0JQSzNBZm5iZXlVSjlWa0t2d0ZQNzRybmhzS3Q1V1BRTlY?oc=5"
+      "title": "탄소중립법 국회 통과…환경단체 “미래세대에 부담 떠넘기는 눈속임·기만” - 한겨레",
+      "source": "한겨레",
+      "date": "Wed, 26 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKWW1XUDNmbG1Ndk51UXVsNjMtRWREbXJhZ2dpRTQ0eVRDYVBHcFBTNkZBRWhsamVzU2RqcG5FOU9zck9XTUtvYkQ2Y3Jqd0s5X05YOWl3cFMzeVlGaXpJM010Zm9fbVJMR2xvQw?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "탄소중립법 국회 통과…환경단체 “미래세대에 부담 떠넘기는 눈속임·기만” - 한겨레신문",
-      "source": "한겨레신문",
-      "date": "Wed, 26 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKWW1XUDNmbG1Ndk51UXVsNjMtRWREbXJhZ2dpRTQ0eVRDYVBHcFBTNkZBRWhsamVzU2RqcG5FOU9zck9XTUtvYkQ2Y3Jqd0s5X05YOWl3cFMzeVlGaXpJM010Zm9fbVJMR2xvQw?oc=5"
+      "title": "화성시연구원-한국환경연구원, 탄소중립 공동세미나 개최 - 환경일보",
+      "source": "환경일보",
+      "date": "Wed, 02 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSMUVabEQxdzh1VGNOVUdHTnhpTWZWRE5JWWRETGtwS21tRGZ4cmhZM19XY1dsQlBla2NDS3lwczJ0Ty1SM0lzcHVuMW9ZUWJEenh3MDJ5d25Ra2RIT1lNRHJtUk1BVlAx?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "환경재단, 영화제 탄소배출 58% 낮췄다…2년 연속 탄소중립 '도전' - 한국NGO신문",
+      "source": "한국NGO신문",
+      "date": "Thu, 03 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UblBWejJsS2JMWkN2UUFxcGVyVXpyVWhSV3E0Z2JvQW40dllaVDU0OGtFSVpNUGFOVVVHMVJ4eXBoMEJ2eENLa0NzeXJ3T3FQZFg4enNfNTB4UTZ0Z0toMEdodkNiLXJY?oc=5"
     }
   ],
-  "fact": "육류 소비를 줄이는 것은 개인이 실천할 수 있는 가장 효과적인 탄소 저감 방법 중 하나로 꼽힙니다."
+  "fact": "국제사회는 파리협정을 통해 산업화 이전 대비 지구 평균기온 상승을 1.5도 이내로 억제하는 것을 목표로 하고 있습니다."
 }
