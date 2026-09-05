@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T08:43:39.763529+09:00",
-  "generated_at_display": "2026-09-05 08:43 KST",
+  "generated_at": "2026-09-06T08:33:46.730730+09:00",
+  "generated_at_display": "2026-09-06 08:33 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,18 +12,25 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": null,
-    "pm25": null,
-    "cai": "수집 실패: <urlopen error timed out>",
+    "pm10": 13,
+    "pm25": 4,
+    "cai": "보통",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "[2026 국감] AI·반도체 ‘3대 메가프로젝트’…탄소중립과 양립 가능한가 - 에너지데일리",
-      "source": "에너지데일리",
-      "date": "Fri, 04 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VNjdsY1BDMjVyWlV5a1RjUTc5WXVHcnNiUlptV2xnYnVtM280djB5NmpRREtXd0JLZDJEaE1McVFNdVVPdU1PekVteXZiUEktT3JqTjBsUy1idU5DRExBMlZoRnk0VzFOR2pUVFU2cmJDQQ?oc=5"
+      "title": "탄소중립법 국회 통과…환경단체 “미래세대에 부담 떠넘기는 눈속임·기만” - 한겨레",
+      "source": "한겨레",
+      "date": "Wed, 26 Aug 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKWW1XUDNmbG1Ndk51UXVsNjMtRWREbXJhZ2dpRTQ0eVRDYVBHcFBTNkZBRWhsamVzU2RqcG5FOU9zck9XTUtvYkQ2Y3Jqd0s5X05YOWl3cFMzeVlGaXpJM010Zm9fbVJMR2xvQw?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "경남 탄소중립지원센터 양산서 '환경의 날' 부스 운영 - gnmaeil.com",
+      "source": "gnmaeil.com",
+      "date": "Sat, 05 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SMHZsWEp0YnBhaV9DYnRWSWp2c0NSdVplRVA3OXd3a2lFd1Bsa0ZjUWJac0JsN1pvYVhuV2hyY3EyY0I3MjBlYjloUk5nME5Na1ZCZ3JBN0xpRC1fUzhFbmpEQU4?oc=5"
     },
     {
       "tag": "환경뉴스",
@@ -41,10 +48,10 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "탄소중립법 국회 통과…환경단체 “미래세대에 부담 떠넘기는 눈속임·기만” - 한겨레",
-      "source": "한겨레",
-      "date": "Wed, 26 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKWW1XUDNmbG1Ndk51UXVsNjMtRWREbXJhZ2dpRTQ0eVRDYVBHcFBTNkZBRWhsamVzU2RqcG5FOU9zck9XTUtvYkQ2Y3Jqd0s5X05YOWl3cFMzeVlGaXpJM010Zm9fbVJMR2xvQw?oc=5"
+      "title": "환경재단, 영화제 탄소배출 58% 낮췄다…2년 연속 탄소중립 '도전' - 한국NGO신문",
+      "source": "한국NGO신문",
+      "date": "Thu, 03 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UblBWejJsS2JMWkN2UUFxcGVyVXpyVWhSV3E0Z2JvQW40dllaVDU0OGtFSVpNUGFOVVVHMVJ4eXBoMEJ2eENLa0NzeXJ3T3FQZFg4enNfNTB4UTZ0Z0toMEdodkNiLXJY?oc=5"
     },
     {
       "tag": "환경뉴스",
@@ -52,14 +59,7 @@
       "source": "환경일보",
       "date": "Wed, 02 Sep 2026",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSMUVabEQxdzh1VGNOVUdHTnhpTWZWRE5JWWRETGtwS21tRGZ4cmhZM19XY1dsQlBla2NDS3lwczJ0Ty1SM0lzcHVuMW9ZUWJEenh3MDJ5d25Ra2RIT1lNRHJtUk1BVlAx?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "환경재단, 영화제 탄소배출 58% 낮췄다…2년 연속 탄소중립 '도전' - 한국NGO신문",
-      "source": "한국NGO신문",
-      "date": "Thu, 03 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UblBWejJsS2JMWkN2UUFxcGVyVXpyVWhSV3E0Z2JvQW40dllaVDU0OGtFSVpNUGFOVVVHMVJ4eXBoMEJ2eENLa0NzeXJ3T3FQZFg4enNfNTB4UTZ0Z0toMEdodkNiLXJY?oc=5"
     }
   ],
-  "fact": "국제사회는 파리협정을 통해 산업화 이전 대비 지구 평균기온 상승을 1.5도 이내로 억제하는 것을 목표로 하고 있습니다."
+  "fact": "한국은 2050년 탄소중립을 국가 목표로 선언했습니다."
 }
