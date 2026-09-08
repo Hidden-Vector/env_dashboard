@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T08:59:35.047383+09:00",
-  "generated_at_display": "2026-09-08 08:59 KST",
+  "generated_at": "2026-09-09T08:50:41.658570+09:00",
+  "generated_at_display": "2026-09-09 08:50 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,54 +12,54 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": null,
-    "pm25": null,
-    "cai": "수집 실패: <urlopen error timed out>",
+    "pm10": 17,
+    "pm25": 5,
+    "cai": "보통",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "경남탄소중립센터, 환경의 날 행사서 홍보부스 운영 - 경남신문",
-      "source": "경남신문",
-      "date": "Mon, 07 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Ma2FUM2RibXhRMGlWR1BnRS1wakoxM1paSGxSZTlhMy1NVFQ0WG9SdlBubGMwTGdCSnVKYkI3aE5TZF9xcTlMRW1hZk9qUldFenZSaXlUUlZpbGVKRzlra1pJWUVFSy1zeWc?oc=5"
+      "title": "안산환경재단 에코멘토, 시민들과 탄소중립 생활 실천 나서 - 아주경제",
+      "source": "아주경제",
+      "date": "Tue, 08 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96eWZUbVcwa3EtZkptcV8tVnJoTms1M3VlWllVMnRfX3hRaE4zOEdXZll2YVVWeWxyUDdacks5dnc3U1czYjAyVTNDYWFUU3VYZl9GeXVvVVPSAVhBVV95cUxPenlmVG1XMGtxLWZKbXFfLVZyaE5rNTN1ZVpZVTJ0X194UWhOMzhHV2ZZdmFVVnlsclA3WnJLOXZ3N1NXM2IwMlUzQ2FhVFN1WGZfRnl1b1VT?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "수성구, 공직자 환경교육…“탄소중립은 공직사회부터” - 시사뉴스",
-      "source": "시사뉴스",
-      "date": "Mon, 07 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Fc0RNYzFTTW9XUHM4ems2elJyb3JTdzFlUm1wNmhaTnd0TkhYaDE3bF9EcnM4aDVxU2FYTFBTdUF6VTlBaVNEeW42OWF2MG9Ya090Ukg4VE5tSjM4N0MtTEY5MA?oc=5"
+      "title": "안산환경재단 에코멘토, 탄소중립 실천 활동 전개 - 경인매일",
+      "source": "경인매일",
+      "date": "Tue, 08 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50ZGNiaEJ5LWU2akIwNTdYWFRRazlKQzRKZkhPQjJqd1F3c0JtdUFic0M2NU5YVnFaT2QtTHpaSzFlUGNLQUJ3ZkhyWUVxbWU5THNfcTQyNjlsWUtlaG1qZVB4SERMR090?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "\"탄소중립, 공직사회부터\"···수성구, 직원 대상 환경교육 실시 - 프라임경제",
-      "source": "프라임경제",
-      "date": "Mon, 07 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGaUFTS2tZZjloRGFNMUhVNlN5dXpDUVdOT0t6YU9YaVNrYThGSkpLNU5ham00T2M0RnVXSXp5aW1nU0xmS016SUdoUFgtaFlwSnJ2X2Y5YmlhNWJnZzVRR0phQjFXbkhHa3k4TDYyS1E5dw?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "탄소중립 실천의 장으로 거듭난 제12회 방송대 ‘I Love 마라톤 축제’ 성황리 개최 - 아시아투데이",
-      "source": "아시아투데이",
-      "date": "Mon, 07 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kdGRyWkdLc1dKNGtlX2lheE93Z2NBRF83QWdoREhvVEs1NnpaWVFsQXZMLUJvbnZ2eDBheU9VNE83a2pxV3Y5SlNZdGpWVVNDVVIyTzNxZzl4MmRwTjIzbmxrNHd4alppNXFrenFR?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "기후테크 인재육성 위해 ‘K-IGX 플래그십 사업’ 제안 - 전기신문",
+      "title": "“K-GX 제도화 방향…개별 기업 넘어 전략 프로젝트 단위 지원 필요” - 전기신문",
       "source": "전기신문",
-      "date": "Mon, 07 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPM1ZhenU2LVMxazliWjAxMHFaWHpzYU5hbl9wejFXRzU5clBMZHdUakdVWTd0Q25GQ0tsNzRuNXlKRV8ycTcyYkc2blZocFNDWkF3djNmZ0tYeTNEelpxNkRZWWgwTjM4clNRTdIBcEFVX3lxTE9lT0FDcG4zTEZmb0d4QW01cW5Pb3pfRnZnTWRmUE04X2ZPODg4dUdDd09GT1pPQVYyMl83M3pfYW1lQzNjaDZaQ1hVV2VMWFo4RlM5TlpHX0VqT1J4Q0o0TmJqSEJBaXRCWlBzR0lzRkM?oc=5"
+      "date": "Tue, 08 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Rc1VocFdOeVZrQUZNODk5cTdkdlVobWhsWF9sbndaQk5oMzNkSmliazV5LWRieEZjNm43TGFaTTB1STM1SExHRHNFVEx6YjYzeEx1cDd2U1k0N3dmWGlGNlAyNVpzR2IxODE1etIBcEFVX3lxTE9EX2pXZnduRzZVQ3FyOUJqaC1GNUZhTUZ3YlM4Tmswcl9NWmVwSGFBcFJGX2wzZmNkWEFNbXB2QUNlbElGZ3BJRmVBR1ZnTlZVYkVCek9oRDdjc3BaLS1IUkltaXJDLUxYVk9uYkc3R0U?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "창원시, 시민과 함께하는 ‘탄소중립 환경문화제’ 개최 - 메트로신문",
-      "source": "메트로신문",
-      "date": "Mon, 07 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1aHdUbngwckc5TFpkdVNhbVI0UWdLN0w0aHdCem1fX2pJdVVzdGRuN21ibVhCR0xCOU5zenE4WjFneXVGMzUyWnZGSmJYUWtEdnZmRFE5RXB1WUVSenVnTA?oc=5"
+      "title": "안산환경재단 ‘에코멘토’ 거리로… 시민과 탄소중립 실천 확산 - 천지일보",
+      "source": "천지일보",
+      "date": "Tue, 08 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TdDBVSW5vUjZBOWl1UE8xR2E4Y1k0RlFFaDRRTXlKVGJXTGVtYlZVSzY5clg1alI1NENrV2s4cDFWcV92d3ExY20yWGQ3TThLYmRhajZBTktLejVESFRhblBmaUNPMXRIT1E?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "안산시, ‘2026 안산시민환경한마당’ 성황리 개최… 탄소중립 실천 문화 확산 > 뉴스 - thekorea.kr",
+      "source": "thekorea.kr",
+      "date": "Tue, 08 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3WnRmdlB0X0dmQ01YTE1KRTVVd3VBVll6Zk5HM0l2ejFTM2x6azdFV05nakRud1dDMkgzc21MQm5qS3E3Z2I3czJNd1I0S2xVb3cxMUIzMVdpSlNuNG1sTXpkZ3E2ak1mNlJyblBYaWE?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "헥사플러스·탄소중립교육원, ‘AI×탄소리터러시’로 지역 ESG 교육 확산 - ESG경제",
+      "source": "ESG경제",
+      "date": "Tue, 08 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sTTFGV2VnX2s0ZWFKTmp4a0lJWlExdG9xQldhWTE0N2ZrdjhhVmlrSTVpTmdXa0dGM1RBMVBCdjZRQkRhMTBTLW5jNlVvTUhvdjk4M28yNkRGU29lYm1PbjdMWUNoZHlzWTR0SA?oc=5"
     }
   ],
-  "fact": "전 세계 온실가스 배출량의 약 4분의 1은 식량 생산 과정에서 발생합니다."
+  "fact": "산업화 이전 대비 대기 중 이산화탄소 농도는 약 50% 증가했습니다."
 }
