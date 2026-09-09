@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T08:50:41.658570+09:00",
-  "generated_at_display": "2026-09-09 08:50 KST",
+  "generated_at": "2026-09-10T08:50:16.719129+09:00",
+  "generated_at_display": "2026-09-10 08:50 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,12 +12,40 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 17,
-    "pm25": 5,
-    "cai": "보통",
+    "pm10": null,
+    "pm25": null,
+    "cai": "수집 실패: <urlopen error timed out>",
     "sido": "대구 동구(신암동)"
   },
   "news": [
+    {
+      "tag": "환경뉴스",
+      "title": "[사설] 탄소중립은 선택 아닌 필수, 우리 모두 동참해야 - cctoday.co.kr",
+      "source": "cctoday.co.kr",
+      "date": "Wed, 09 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pUFlKTFA4N0o1cWRaajFVdEFkcUFnWXNEZ09fUl83X3JKemEtaDRUNWJYVkkxMUJxOUE0YkxyRC1BSHRycko4LXFoSDg1cjNQZ0Z6RHNCN2xBVVJyTy0tTVNLbTRNcGdGX0drSjRn?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "경산시 탄소중립 서포터즈, ‘푸른 하늘의 날’ 맞아 ‘탄소중립 홍보 캠페인’ 전개 - 한국방송뉴스",
+      "source": "한국방송뉴스",
+      "date": "Wed, 09 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xYTRkd0JlLUN0ZzJtc0tXOG1PbDNSSExwdWFSb2dtVTRXS09Wa3BWakkwWEdmdmRuZ3pfWFRkckY4V2hDaWM2MWNlcUVNeVpOMjFHYmE4ZzdReTdTWlE?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "기후부·환경공단, 제주서 '지방정부 탄소중립 우수사례 컨퍼런스' 개최 - v.daum.net",
+      "source": "v.daum.net",
+      "date": "Wed, 09 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9ZUVlOS2hoN1lEeGJFWElsMFlpY3ZHLU5oV2JweXlpMGxySG5iVWVFS0VHMFc1eFdLR3NSeFUxZnhJTHR2aFE?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "기후부, 지방정부 탄소중립 우수 성과 선정 - todayenergy.kr",
+      "source": "todayenergy.kr",
+      "date": "Wed, 09 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ESzduaTNSRVNIREdNTGttbEdpRUFYVmRDc0hOYWdndUQwVVZtODZSa1FLVDJIcXBwYXY3VVdWdl9SR3B4aTZ2Ukp4Z3FLOFpmbk9zcXd0N2lWbTc1MmtYNGpCTjJXQ21tYjR0YQ?oc=5"
+    },
     {
       "tag": "환경뉴스",
       "title": "안산환경재단 에코멘토, 시민들과 탄소중립 생활 실천 나서 - 아주경제",
@@ -27,39 +55,11 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "안산환경재단 에코멘토, 탄소중립 실천 활동 전개 - 경인매일",
-      "source": "경인매일",
-      "date": "Tue, 08 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50ZGNiaEJ5LWU2akIwNTdYWFRRazlKQzRKZkhPQjJqd1F3c0JtdUFic0M2NU5YVnFaT2QtTHpaSzFlUGNLQUJ3ZkhyWUVxbWU5THNfcTQyNjlsWUtlaG1qZVB4SERMR090?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "“K-GX 제도화 방향…개별 기업 넘어 전략 프로젝트 단위 지원 필요” - 전기신문",
+      "title": "에너지자원 정책 분리…“재정지원체계도 정비” - 전기신문",
       "source": "전기신문",
-      "date": "Tue, 08 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Rc1VocFdOeVZrQUZNODk5cTdkdlVobWhsWF9sbndaQk5oMzNkSmliazV5LWRieEZjNm43TGFaTTB1STM1SExHRHNFVEx6YjYzeEx1cDd2U1k0N3dmWGlGNlAyNVpzR2IxODE1etIBcEFVX3lxTE9EX2pXZnduRzZVQ3FyOUJqaC1GNUZhTUZ3YlM4Tmswcl9NWmVwSGFBcFJGX2wzZmNkWEFNbXB2QUNlbElGZ3BJRmVBR1ZnTlZVYkVCek9oRDdjc3BaLS1IUkltaXJDLUxYVk9uYkc3R0U?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "안산환경재단 ‘에코멘토’ 거리로… 시민과 탄소중립 실천 확산 - 천지일보",
-      "source": "천지일보",
-      "date": "Tue, 08 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TdDBVSW5vUjZBOWl1UE8xR2E4Y1k0RlFFaDRRTXlKVGJXTGVtYlZVSzY5clg1alI1NENrV2s4cDFWcV92d3ExY20yWGQ3TThLYmRhajZBTktLejVESFRhblBmaUNPMXRIT1E?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "안산시, ‘2026 안산시민환경한마당’ 성황리 개최… 탄소중립 실천 문화 확산 > 뉴스 - thekorea.kr",
-      "source": "thekorea.kr",
-      "date": "Tue, 08 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3WnRmdlB0X0dmQ01YTE1KRTVVd3VBVll6Zk5HM0l2ejFTM2x6azdFV05nakRud1dDMkgzc21MQm5qS3E3Z2I3czJNd1I0S2xVb3cxMUIzMVdpSlNuNG1sTXpkZ3E2ak1mNlJyblBYaWE?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "헥사플러스·탄소중립교육원, ‘AI×탄소리터러시’로 지역 ESG 교육 확산 - ESG경제",
-      "source": "ESG경제",
-      "date": "Tue, 08 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sTTFGV2VnX2s0ZWFKTmp4a0lJWlExdG9xQldhWTE0N2ZrdjhhVmlrSTVpTmdXa0dGM1RBMVBCdjZRQkRhMTBTLW5jNlVvTUhvdjk4M28yNkRGU29lYm1PbjdMWUNoZHlzWTR0SA?oc=5"
+      "date": "Wed, 09 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ydnhUNTJfMXZZQjlwekxXUnFtRlpKdXczNzZNWGhfTGx4X2liLU9TMTllVElrUE5EUUlGTTVxMmRwWEF1anhIMFRJajJmSGNqT2tsTEJabUVaaWFmVmc4YXN6ekhFZEgxQXdZadIBcEFVX3lxTE81Y1JGS19RaG5sNEpPekJkSW1iVTNiMkdSNVJhMXp4LU53UXFNQnh0Mml5SUQ3ZTNOdndabWlGN2dPSVpsX3d4MDJFdHNiYUdCSlM2bmJDRlZKcjMyMk5FeDBYb3BpRlM3UWpSNHh5TE4?oc=5"
     }
   ],
-  "fact": "산업화 이전 대비 대기 중 이산화탄소 농도는 약 50% 증가했습니다."
+  "fact": "나무 한 그루는 평균적으로 1년에 약 20~25kg의 이산화탄소를 흡수합니다."
 }
