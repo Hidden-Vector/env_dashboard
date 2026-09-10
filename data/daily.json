@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T08:50:16.719129+09:00",
-  "generated_at_display": "2026-09-10 08:50 KST",
+  "generated_at": "2026-09-11T08:43:45.730925+09:00",
+  "generated_at_display": "2026-09-11 08:43 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,54 +12,54 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": null,
-    "pm25": null,
-    "cai": "수집 실패: <urlopen error timed out>",
+    "pm10": 17,
+    "pm25": 6,
+    "cai": "좋음",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "[사설] 탄소중립은 선택 아닌 필수, 우리 모두 동참해야 - cctoday.co.kr",
-      "source": "cctoday.co.kr",
-      "date": "Wed, 09 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pUFlKTFA4N0o1cWRaajFVdEFkcUFnWXNEZ09fUl83X3JKemEtaDRUNWJYVkkxMUJxOUE0YkxyRC1BSHRycko4LXFoSDg1cjNQZ0Z6RHNCN2xBVVJyTy0tTVNLbTRNcGdGX0drSjRn?oc=5"
+      "title": "한국환경보전원, ‘일회용품 없는 사무실’ 확산…내부 운영부터 탄소중립 실천 - 에너지데일리",
+      "source": "에너지데일리",
+      "date": "Thu, 10 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE81T2Q5aDNUanNubUM5bTB0WjJBanFYVzhKbzBDdDBGVGJHdENxZGYwYUgwaWw5dER0dlJzcHRsVWVNN21OaTlpcjBTLVg0bzBROEtqTHpDY1dENUZTNWlYQkRmZ3dwZEtPZ25aTHNlOTZfQQ?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "경산시 탄소중립 서포터즈, ‘푸른 하늘의 날’ 맞아 ‘탄소중립 홍보 캠페인’ 전개 - 한국방송뉴스",
-      "source": "한국방송뉴스",
-      "date": "Wed, 09 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xYTRkd0JlLUN0ZzJtc0tXOG1PbDNSSExwdWFSb2dtVTRXS09Wa3BWakkwWEdmdmRuZ3pfWFRkckY4V2hDaWM2MWNlcUVNeVpOMjFHYmE4ZzdReTdTWlE?oc=5"
+      "title": "구월2동, 우리 동네 환경지킴이 대상 탄소중립실천 교육 - in-ed.co.kr",
+      "source": "in-ed.co.kr",
+      "date": "Thu, 10 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lbm9XX3BfeGx3MmJ4QWpNTEFfN0tzd1lYaWJzSXVZamg3OS1jb3lyeDNHYUdaaVMyMXNFNDZ6Q2thSjFKQTFWTnVRanRvYlpoWTJsX3pCeWZYRTN1b0ttV2dXeXhzdE85?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "기후부·환경공단, 제주서 '지방정부 탄소중립 우수사례 컨퍼런스' 개최 - v.daum.net",
-      "source": "v.daum.net",
-      "date": "Wed, 09 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9ZUVlOS2hoN1lEeGJFWElsMFlpY3ZHLU5oV2JweXlpMGxySG5iVWVFS0VHMFc1eFdLR3NSeFUxZnhJTHR2aFE?oc=5"
+      "title": "‘충남형 탄소중립’ 전국서 빛났다 - 뉴스홈(newshome)",
+      "source": "뉴스홈(newshome)",
+      "date": "Thu, 10 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QdEhiWENKVGZ4Q0g4OExOV1dZZzZoakF2azRkemtRdDZmSnVVMVFELXZEQUlOSTZwb3hJeHVWbXBOVUFVN013MWc1NVNnQ2hickxjTlBtQkZ6c1JYZ2N2dXduRFQtVU1FXzNCU0Rn?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "기후부, 지방정부 탄소중립 우수 성과 선정 - todayenergy.kr",
-      "source": "todayenergy.kr",
-      "date": "Wed, 09 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ESzduaTNSRVNIREdNTGttbEdpRUFYVmRDc0hOYWdndUQwVVZtODZSa1FLVDJIcXBwYXY3VVdWdl9SR3B4aTZ2Ukp4Z3FLOFpmbk9zcXd0N2lWbTc1MmtYNGpCTjJXQ21tYjR0YQ?oc=5"
+      "title": "‘충남형 탄소중립’ 전국서 빛났다 - 충청메시지",
+      "source": "충청메시지",
+      "date": "Thu, 10 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93TXdpd2JYUmFUN1VEeUlzaFNYbzRrMFJlTmhjRkh5X0lVNFN4VUl3NHdXc3dSU2hGTlVHeVZQQ1R6cXF6aWlUYnB2WmsyRkQ1Q09UTDl0VzRRTVJNbGtFMmV6cGpoNkQ5cEFV?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "안산환경재단 에코멘토, 시민들과 탄소중립 생활 실천 나서 - 아주경제",
-      "source": "아주경제",
-      "date": "Tue, 08 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96eWZUbVcwa3EtZkptcV8tVnJoTms1M3VlWllVMnRfX3hRaE4zOEdXZll2YVVWeWxyUDdacks5dnc3U1czYjAyVTNDYWFUU3VYZl9GeXVvVVPSAVhBVV95cUxPenlmVG1XMGtxLWZKbXFfLVZyaE5rNTN1ZVpZVTJ0X194UWhOMzhHV2ZZdmFVVnlsclA3WnJLOXZ3N1NXM2IwMlUzQ2FhVFN1WGZfRnl1b1VT?oc=5"
+      "title": "경기도 탄소중립지원센터, 이행협력 우수사례로 이사장상 수상 - 매일일보",
+      "source": "매일일보",
+      "date": "Thu, 10 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZSDBCU3pKdEh2Uk9LLUxBZElUVmdLWDExc1c2NVE4ZmVrWW43NzBUbm52c1BycVl2MUpQWmV5SDYyXzVWNXpsUi1LeGRXenlvamE4RnpPckRiX2lyWmNldThGQkrSAWhBVV95cUxPMFVpcXJxSjdKV1VvQXJubDRqbVFkdnpWUGl1UFRmUHExWEZydFpFTmcybmdsYjV5SnQ0UzB6T1BaR0RnSTN2Z1dBa2ZuVmVfU05TZG1lRjNNdktOSHRjajBXQU1DM2dpbg?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "에너지자원 정책 분리…“재정지원체계도 정비” - 전기신문",
-      "source": "전기신문",
-      "date": "Wed, 09 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ydnhUNTJfMXZZQjlwekxXUnFtRlpKdXczNzZNWGhfTGx4X2liLU9TMTllVElrUE5EUUlGTTVxMmRwWEF1anhIMFRJajJmSGNqT2tsTEJabUVaaWFmVmc4YXN6ekhFZEgxQXdZadIBcEFVX3lxTE81Y1JGS19RaG5sNEpPekJkSW1iVTNiMkdSNVJhMXp4LU53UXFNQnh0Mml5SUQ3ZTNOdndabWlGN2dPSVpsX3d4MDJFdHNiYUdCSlM2bmJDRlZKcjMyMk5FeDBYb3BpRlM3UWpSNHh5TE4?oc=5"
+      "title": "국제환경에너지산업전(ENTECH) 2O주년 기념 제11회 탄소중립에너지대전환포럼 - 국제신문",
+      "source": "국제신문",
+      "date": "Thu, 10 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZU1DU3YwcU1ZWUNzZjhRb3BpbTlac2RtQVc4S1ZMOG5Bd3pnaHBSWWJ0dVB6dlFzMTV2S09JZVRjQ3lzSXN4eUFKMW9QQUdBczUtUndYMEhyU3g4R29kMkNmbXJOV2xnYUgyOHBXSDNDSnhLR2tGaWxnWDNkVmRQREtKT1lDRnFfeDVjajBR?oc=5"
     }
   ],
-  "fact": "나무 한 그루는 평균적으로 1년에 약 20~25kg의 이산화탄소를 흡수합니다."
+  "fact": "전 세계 플라스틱의 약 9%만이 실제로 재활용되고 있습니다."
 }
