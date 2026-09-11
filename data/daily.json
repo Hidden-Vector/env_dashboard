@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T08:43:45.730925+09:00",
-  "generated_at_display": "2026-09-11 08:43 KST",
+  "generated_at": "2026-09-12T08:52:40.391351+09:00",
+  "generated_at_display": "2026-09-12 08:52 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,54 +12,11 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 17,
-    "pm25": 6,
-    "cai": "좋음",
+    "pm10": null,
+    "pm25": null,
+    "cai": "수집 실패: <urlopen error timed out>",
     "sido": "대구 동구(신암동)"
   },
-  "news": [
-    {
-      "tag": "환경뉴스",
-      "title": "한국환경보전원, ‘일회용품 없는 사무실’ 확산…내부 운영부터 탄소중립 실천 - 에너지데일리",
-      "source": "에너지데일리",
-      "date": "Thu, 10 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE81T2Q5aDNUanNubUM5bTB0WjJBanFYVzhKbzBDdDBGVGJHdENxZGYwYUgwaWw5dER0dlJzcHRsVWVNN21OaTlpcjBTLVg0bzBROEtqTHpDY1dENUZTNWlYQkRmZ3dwZEtPZ25aTHNlOTZfQQ?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "구월2동, 우리 동네 환경지킴이 대상 탄소중립실천 교육 - in-ed.co.kr",
-      "source": "in-ed.co.kr",
-      "date": "Thu, 10 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lbm9XX3BfeGx3MmJ4QWpNTEFfN0tzd1lYaWJzSXVZamg3OS1jb3lyeDNHYUdaaVMyMXNFNDZ6Q2thSjFKQTFWTnVRanRvYlpoWTJsX3pCeWZYRTN1b0ttV2dXeXhzdE85?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "‘충남형 탄소중립’ 전국서 빛났다 - 뉴스홈(newshome)",
-      "source": "뉴스홈(newshome)",
-      "date": "Thu, 10 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QdEhiWENKVGZ4Q0g4OExOV1dZZzZoakF2azRkemtRdDZmSnVVMVFELXZEQUlOSTZwb3hJeHVWbXBOVUFVN013MWc1NVNnQ2hickxjTlBtQkZ6c1JYZ2N2dXduRFQtVU1FXzNCU0Rn?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "‘충남형 탄소중립’ 전국서 빛났다 - 충청메시지",
-      "source": "충청메시지",
-      "date": "Thu, 10 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93TXdpd2JYUmFUN1VEeUlzaFNYbzRrMFJlTmhjRkh5X0lVNFN4VUl3NHdXc3dSU2hGTlVHeVZQQ1R6cXF6aWlUYnB2WmsyRkQ1Q09UTDl0VzRRTVJNbGtFMmV6cGpoNkQ5cEFV?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "경기도 탄소중립지원센터, 이행협력 우수사례로 이사장상 수상 - 매일일보",
-      "source": "매일일보",
-      "date": "Thu, 10 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZSDBCU3pKdEh2Uk9LLUxBZElUVmdLWDExc1c2NVE4ZmVrWW43NzBUbm52c1BycVl2MUpQWmV5SDYyXzVWNXpsUi1LeGRXenlvamE4RnpPckRiX2lyWmNldThGQkrSAWhBVV95cUxPMFVpcXJxSjdKV1VvQXJubDRqbVFkdnpWUGl1UFRmUHExWEZydFpFTmcybmdsYjV5SnQ0UzB6T1BaR0RnSTN2Z1dBa2ZuVmVfU05TZG1lRjNNdktOSHRjajBXQU1DM2dpbg?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "국제환경에너지산업전(ENTECH) 2O주년 기념 제11회 탄소중립에너지대전환포럼 - 국제신문",
-      "source": "국제신문",
-      "date": "Thu, 10 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZU1DU3YwcU1ZWUNzZjhRb3BpbTlac2RtQVc4S1ZMOG5Bd3pnaHBSWWJ0dVB6dlFzMTV2S09JZVRjQ3lzSXN4eUFKMW9QQUdBczUtUndYMEhyU3g4R29kMkNmbXJOV2xnYUgyOHBXSDNDSnhLR2tGaWxnWDNkVmRQREtKT1lDRnFfeDVjajBR?oc=5"
-    }
-  ],
-  "fact": "전 세계 플라스틱의 약 9%만이 실제로 재활용되고 있습니다."
+  "news": [],
+  "fact": "태양광 발전 비용은 지난 10여 년간 큰 폭으로 하락해 여러 지역에서 가장 저렴한 전력원 중 하나가 되었습니다."
 }
