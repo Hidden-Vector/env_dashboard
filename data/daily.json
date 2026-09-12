@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T08:52:40.391351+09:00",
-  "generated_at_display": "2026-09-12 08:52 KST",
+  "generated_at": "2026-09-13T08:45:10.970830+09:00",
+  "generated_at_display": "2026-09-13 08:45 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -14,9 +14,52 @@
   "air": {
     "pm10": null,
     "pm25": null,
-    "cai": "수집 실패: <urlopen error timed out>",
+    "cai": "수집 실패: timed out",
     "sido": "대구 동구(신암동)"
   },
-  "news": [],
-  "fact": "태양광 발전 비용은 지난 10여 년간 큰 폭으로 하락해 여러 지역에서 가장 저렴한 전력원 중 하나가 되었습니다."
+  "news": [
+    {
+      "tag": "환경뉴스",
+      "title": "[사설] 탄소중립은 선택 아닌 필수, 우리 모두 동참해야 - cctoday.co.kr",
+      "source": "cctoday.co.kr",
+      "date": "Wed, 09 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pUFlKTFA4N0o1cWRaajFVdEFkcUFnWXNEZ09fUl83X3JKemEtaDRUNWJYVkkxMUJxOUE0YkxyRC1BSHRycko4LXFoSDg1cjNQZ0Z6RHNCN2xBVVJyTy0tTVNLbTRNcGdGX0drSjRn?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "경산시 탄소중립 서포터즈, ‘푸른 하늘의 날’ 맞아 ‘탄소중립 홍보 캠페인’ 전개 - 한국방송뉴스",
+      "source": "한국방송뉴스",
+      "date": "Wed, 09 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xYTRkd0JlLUN0ZzJtc0tXOG1PbDNSSExwdWFSb2dtVTRXS09Wa3BWakkwWEdmdmRuZ3pfWFRkckY4V2hDaWM2MWNlcUVNeVpOMjFHYmE4ZzdReTdTWlE?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "[경남도] 경남 탄소중립 정책 전국서 인정... 한국환경공단 이사장상 수상 - 워터저널",
+      "source": "워터저널",
+      "date": "Fri, 11 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ibEdtd2NjcVhxN1JHbThfVXRLMUZKUERIcGtUTGhXOU10Z1BncDJBYjlobGh6TkV0cnVUeS1hRU5NU2luM1JhdktKdkZoTlZNa2FsUEZpTEVJc0NFYjZyem45U3JHTktCY2FFSTFaQ0lkNjNjb1HSAXZBVV95cUxNYmxHbXdjY3FYcTdSR204X1V0SzFGSlBESHBrVExoVzlNdGdQZ3AyQWI5aGxoek5FdHJ1VHktYUVOTVNpbjNSYXZLSnZGaE5WTWthbFBGaUxFSXNDRWI2cnpuOVNyR05LQmNhRUkxWkNJZDYzY29R?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "‘충남형 탄소중립’ 전국서 빛났다 - news-home.co.kr",
+      "source": "news-home.co.kr",
+      "date": "Thu, 10 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QdEhiWENKVGZ4Q0g4OExOV1dZZzZoakF2azRkemtRdDZmSnVVMVFELXZEQUlOSTZwb3hJeHVWbXBOVUFVN013MWc1NVNnQ2hickxjTlBtQkZ6c1JYZ2N2dXduRFQtVU1FXzNCU0Rn?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "기후부·환경공단, 제주서 '지방정부 탄소중립 우수사례 컨퍼런스' 개최 - v.daum.net",
+      "source": "v.daum.net",
+      "date": "Wed, 09 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXZ0hwNUxjU0dES2tNczFIRnJnS0JaNXJybEsxZV9FdDhwSDVHZDdHZGEwcUJQd0NiLXNQRXN3MUZzckE2bEpGZEZSQQ?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "한국환경보전원, 일회용품 줄이기와 탄소중립 실천 - 디지털비즈온",
+      "source": "디지털비즈온",
+      "date": "Thu, 10 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kdWtEZjZxRnhsd0VGQm1aMEhyX1ZLaFdNUTFMMElGT0Z0NlZxQ2E5SFIzbHh2YWhVTGN2RUFVV3dKVFRyTU1TdDlUeXVBYjc1d0xhY3IzSl9sOGI4a0JIVkp6NHIxMDdZblIyVDgtajfSAXRBVV95cUxORjZudkUtWXFxYW84UWkwNk85VnVjc0YtYlB1cG84c1FQZE1KR002Y1ZKWmdVWlZOc2pfX3JqVFU5RS1vVDdqUlhCMGRWSVIwbTZhdHdfaHR3LTRScmxGdVpSZURHdUlYLUxkRDhISTg0c0hyYg?oc=5"
+    }
+  ],
+  "fact": "해양은 인간이 배출한 이산화탄소의 상당 부분을 흡수해 해양 산성화를 일으키고 있습니다."
 }
