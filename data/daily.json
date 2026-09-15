@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T08:53:11.487654+09:00",
-  "generated_at_display": "2026-09-14 08:53 KST",
+  "generated_at": "2026-09-15T09:18:11.364789+09:00",
+  "generated_at_display": "2026-09-15 09:18 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,54 +12,54 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 35,
-    "pm25": 20,
-    "cai": "보통",
+    "pm10": null,
+    "pm25": null,
+    "cai": "수집 실패: <urlopen error timed out>",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "[강성원의 현장톡(TALK)] 탄소중립은 생활에서 시작된다…민경선 시장이 만드는 ‘녹색 고양’ - 필드뉴스",
-      "source": "필드뉴스",
-      "date": "Sun, 13 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjRlEzeEtoNDEzNnd1LTZ0eXdicG9iVVY5d3h3aE0zRXpxdnhRRndfUkRRTFh0bEpnMkEyMGoySDNuMEVBaGR3bDIxSEtibjQ5SzMzaVJid0Y3TmttTXZncURrcWdUV2940gFsQVVfeXFMT0Rtem83T3E5LVgtLWd5bDdCTmtoZGlYUHV0ZHQ4TWxGNVp5ckEzbGRTSkdBMGFHNUVIcGUtRmRvbjdmSHR2eWwtQVo0Q0hWdTF5cGVYQmZ5Ukp2TWhKVHVoYlVnQkdHd01ZZ1F1?oc=5"
+      "title": "[동작구]탐험교실-환경 스피치… 동작 ‘전 세대 탄소중립 교육’ 나선다 - 동아일보",
+      "source": "동아일보",
+      "date": "Mon, 14 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CZEVlZ205aVdYX2NmN1o3X0s5NWxaRFpOdWs2VWpfOFZqaDl2NkxZV2pSZG1yR3RyeS1RUnVhdkMtcktWMGRWWTNhdnNtTjh4Vjg0ei1HaTBtN0ZIMVV2TzZid0JDQdIBZkFVX3lxTE5CZEVlZ205aVdYX2NmN1o3X0s5NWxaRFpOdWs2VWpfOFZqaDl2NkxZV2pSZG1yR3RyeS1RUnVhdkMtcktWMGRWWTNhdnNtTjh4Vjg0ei1HaTBtN0ZIMVV2TzZid0JDQQ?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "경주서 시민 환경전문가 30명 배출...탄소중립 실천인력 양성 본격화 - v.daum.net",
-      "source": "v.daum.net",
-      "date": "Sun, 13 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CeUk1dVA0QUdoaDc5SHNxbGtTTVJOSjczRkZ6Y3dQYUthcUN3QTAxblF1Wnctaks3V3pUWElfQ0x3VzJ1RGZOaS1lTzZoT0k?oc=5"
+      "title": "나주시, 탄소중립 정책 전국서 인정…한국환경공단 이사장상 - 팍스경제TV",
+      "source": "팍스경제TV",
+      "date": "Mon, 14 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmVmt4Sk02N0ZQQXdYZVpkMFUtRTJqcHVLOEJMblFnSGNFRkVnbGw3bFNWMXFFV3J6bE9NU3pSMHN4NG1tLU55cElEeV85YlQyM1p3dndNV25pd0w4ZjJZNEZERXJpTFNH?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "[패트롤] 전남광주북구-광산구 - 에너지경제신문",
-      "source": "에너지경제신문",
-      "date": "Sun, 13 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40QnhEelZsMGZnVmwycVc2c1BwNzY1T0d1NGtXQTVwZ3RuRjV2aWlicHJRSGN6dU15UGdDa3dkUHBsRFlzSmtGX0ZpZ052Nkx6cTdvSXB0TDlFT2s?oc=5"
+      "title": "오산시, 생활권 찾아가는 탄소중립 교육… 미래세대 환경실천 역량 제고 - 뉴데일리 경기",
+      "source": "뉴데일리 경기",
+      "date": "Mon, 14 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mbGlTakozcEtpTG51a2Q2clpLSmFkVFJQbC1EcnB5MmwybmdNWDItWmVNTEVRZ3lwWFJhdmhFbXRPbEpBTzY0cnppQkN5Q1JINGRMZGFFc1c4TDhUNDliSl94M1oyajE2b2ZLblpWSXJRbDctNURzOGFmTVA5MnfSAX9BVV95cUxPZmxpU2pKM3BLaUxudWtkNnJaS0phZFRSUGwtRHJweTJsMm5nTVgyLVplTUxFUWd5cFhSYXZoRW10T2xKQU82NHJ6aUJDeUNSSDRkTGRhRXNXOEw4VDQ5YkpfeDNaMmoxNm9mS25aVklyUWw3LTVEczhhZk1QOTJ3?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "[연속기획 총론] Beyond Cost, Beyond Future: 에너지·환경·안전, 혁신의 시대를 열다 - 전기신문",
-      "source": "전기신문",
-      "date": "Sun, 13 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NNUZCMHJBaXpsMF93SE5JN3VMQXpqajFYVUw0QUN4MGJhQ0N6b3lyUV9UeVA4R0FpZWpLcklPcXVhSV82SkFnMEFYNUE4VTlTRDJIV1llYkVZX2hCa0NnSms5RWlmbm5URjZMSNIBcEFVX3lxTE41M0JrMFNPYzF6TDd1bXRlTUxLa2l4R3p4bjdxdmotSi1sTThfMWtLU3AtTlp1MkFQMHlxR1AxdnBCSXM2dVFyRVpES3hmWHhaWV92ZnNYMFpjU2hHUTBjT0o5eE5RSmFNeG92cURBMno?oc=5"
+      "title": "수신초, 지구를 살리는 푸른 약속 생생한 탄소중립 환경교육 실시 - 엠뉴스",
+      "source": "엠뉴스",
+      "date": "Mon, 14 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PLXBMcVlnSFdRX1FBVVJVZGZtV1Y0NU5JY1dfMHBZb2kxQWd5d3N5WDFIdHNMNVVNMmo4ZnNZeGpLVGViUGtKTzVxRTR6VG13eU4yQXowb3F5b0MtVWg1SEdjSGNSdw?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "수지환경교육센터, ‘일상을 바꾸는 용인한 기후대응 프로젝트’ 추진 “우리 동네 공원과 마을에서 즐겁게 배운다 !” - 수원뉴스",
-      "source": "수원뉴스",
-      "date": "Sun, 13 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yLWtYWEVsWVkzXzloSHFhTjVSVXB5S2VfMzZCVFlhN2NwbnZOZGNVSWh3VWFOZnhTeWd6M1B5VnF1NGlVYVptUEZhS0l4UVVwaHdXcUNxYjNDSEdaTjRJZUhrMXo1b0ZlRHhKN3Fn?oc=5"
+      "title": "나주시 탄소중립 정책 전국서 인정…한국환경공단 이사장상 - 대한뉴스통신",
+      "source": "대한뉴스통신",
+      "date": "Mon, 14 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sendIYklLOHhvVHEydjM4WHFkbEp0N2NBMkQwekRUeGVJM0h6Z3ZhMzlCbFlqU0l1MnFEMjBEY2FLMGs4cjNvOTY5YjIwWGs0UkRSTkh2MA?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "북구 탄소중립 정책 ‘두각’…정부 우수사례 선정 - 남도일보",
-      "source": "남도일보",
-      "date": "Sun, 13 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5QmJvR1dWT0xubVVZYUxVNEc5VUQ1YngtTTBfNVlwblpPbzRVNlNfN0JmZkFfcEFCWHBOaG12V3Q4bko4V3JzN1ZIVmFXTS1DQjVRMmNEbzFsalZfbXFEdFVPTjZSUXJ5eVRVMlVDeTPSAXBBVV95cUxQeUJib0dXVk9Mbm1VWWFMVTRHOVVENWJ4LU0wXzVZcG5aT280VTZTXzdCZmZBX3BBQlhwTmhtdld0OG5KOFdyczdWSFZhV00tQ0I1UTJjRG8xbGpWX21xRHRVT042UlFyeXlUVTJVQ3kz?oc=5"
+      "title": "충남도 천안 도심서 환경 정화…탄소중립 확산 - 충청매일",
+      "source": "충청매일",
+      "date": "Mon, 14 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EakhMblVCb0d6elBBRVJneXA0Q3BCaFVfOF81bElrUzZmWE5oWl9NOTk2TlRrSFRFbS1FVmRWZE5QOHA2d3VHaVlhVW9kUEQ3Wm9vM3haXzJkVzFwZXgxSXZxUkVweGg4akE?oc=5"
     }
   ],
-  "fact": "육류 소비를 줄이는 것은 개인이 실천할 수 있는 가장 효과적인 탄소 저감 방법 중 하나로 꼽힙니다."
+  "fact": "국제사회는 파리협정을 통해 산업화 이전 대비 지구 평균기온 상승을 1.5도 이내로 억제하는 것을 목표로 하고 있습니다."
 }
