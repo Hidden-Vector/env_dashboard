@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T09:18:11.364789+09:00",
-  "generated_at_display": "2026-09-15 09:18 KST",
+  "generated_at": "2026-09-16T08:58:16.983331+09:00",
+  "generated_at_display": "2026-09-16 08:58 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -14,52 +14,52 @@
   "air": {
     "pm10": null,
     "pm25": null,
-    "cai": "수집 실패: <urlopen error timed out>",
+    "cai": "수집 실패: timed out",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "[동작구]탐험교실-환경 스피치… 동작 ‘전 세대 탄소중립 교육’ 나선다 - 동아일보",
-      "source": "동아일보",
-      "date": "Mon, 14 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CZEVlZ205aVdYX2NmN1o3X0s5NWxaRFpOdWs2VWpfOFZqaDl2NkxZV2pSZG1yR3RyeS1RUnVhdkMtcktWMGRWWTNhdnNtTjh4Vjg0ei1HaTBtN0ZIMVV2TzZid0JDQdIBZkFVX3lxTE5CZEVlZ205aVdYX2NmN1o3X0s5NWxaRFpOdWs2VWpfOFZqaDl2NkxZV2pSZG1yR3RyeS1RUnVhdkMtcktWMGRWWTNhdnNtTjh4Vjg0ei1HaTBtN0ZIMVV2TzZid0JDQQ?oc=5"
+      "title": "탄소중립포인트, 지역화폐로 받는다…연내 29개 지역 도입 - 전기신문",
+      "source": "전기신문",
+      "date": "Tue, 15 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nM043ek0ydERsQnRRVnFVUXlEQkhnVmNEMEZhRldQQzhJamNGU0t3ajgwS01nZkN0bERyR1oxM1k3V2lBS3JXNXRnT0E5eFgxUWwzSjBFUjNCTUNZanktT0pKclF2VU00bEV1NUhzdHPSAXBBVV95cUxOZzNON3pNMnREbEJ0UVZxVVF5REJIZ1ZjRDBGYUZXUEM4SWpjRlNLd2o4MEtNZ2ZDdGxEckdaMTNZN1dpQUtyVzV0Z09BOXhYMVFsM0owRVIzQk1DWWp5LU9KSnJRdlVNNGxFdTVIc3Rz?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "나주시, 탄소중립 정책 전국서 인정…한국환경공단 이사장상 - 팍스경제TV",
-      "source": "팍스경제TV",
-      "date": "Mon, 14 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmVmt4Sk02N0ZQQXdYZVpkMFUtRTJqcHVLOEJMblFnSGNFRkVnbGw3bFNWMXFFV3J6bE9NU3pSMHN4NG1tLU55cElEeV85YlQyM1p3dndNV25pd0w4ZjJZNEZERXJpTFNH?oc=5"
+      "title": "코나아이, 탄소중립포인트 지역화폐로 전환…10월 서비스 개시 - 전자신문",
+      "source": "전자신문",
+      "date": "Tue, 15 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBmRkFYRVJlOXd5UWtHZG52ckRCaDd3WXhDX0NxY1JiUFJUQnVSZGx0dGdKazk5ZHhCWUhEM0xSS3ZkVWQxWUpXdnZmN2ZBdw?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "오산시, 생활권 찾아가는 탄소중립 교육… 미래세대 환경실천 역량 제고 - 뉴데일리 경기",
-      "source": "뉴데일리 경기",
-      "date": "Mon, 14 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mbGlTakozcEtpTG51a2Q2clpLSmFkVFJQbC1EcnB5MmwybmdNWDItWmVNTEVRZ3lwWFJhdmhFbXRPbEpBTzY0cnppQkN5Q1JINGRMZGFFc1c4TDhUNDliSl94M1oyajE2b2ZLblpWSXJRbDctNURzOGFmTVA5MnfSAX9BVV95cUxPZmxpU2pKM3BLaUxudWtkNnJaS0phZFRSUGwtRHJweTJsMm5nTVgyLVplTUxFUWd5cFhSYXZoRW10T2xKQU82NHJ6aUJDeUNSSDRkTGRhRXNXOEw4VDQ5YkpfeDNaMmoxNm9mS25aVklyUWw3LTVEczhhZk1QOTJ3?oc=5"
+      "title": "탄소중립 실천 보상, 지역화폐로 지급한다 - 에너지데일리",
+      "source": "에너지데일리",
+      "date": "Tue, 15 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rLUw2UHluQUN1bFYzdGIwMS1CTERTYVZHSERVbVhUdmdORTNBTnpoOHJsRmZaOUVMdHJ6a1FzVWYwd0Z4bWZKQUpjVVRHaUlhMHpiSk9rSnVCOGtlWkxfc1lvOUctdVJiSy1PUnRndTNDZw?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "수신초, 지구를 살리는 푸른 약속 생생한 탄소중립 환경교육 실시 - 엠뉴스",
-      "source": "엠뉴스",
-      "date": "Mon, 14 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PLXBMcVlnSFdRX1FBVVJVZGZtV1Y0NU5JY1dfMHBZb2kxQWd5d3N5WDFIdHNMNVVNMmo4ZnNZeGpLVGViUGtKTzVxRTR6VG13eU4yQXowb3F5b0MtVWg1SEdjSGNSdw?oc=5"
+      "title": "제주대 RISE 사업단 탄소중립공학 전문 트랙, ‘환경공학 ESG 런케이션’ 프로그램 운영 - 지금제주",
+      "source": "지금제주",
+      "date": "Tue, 15 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2ZEdjVnBFVjVQcFNlVHR3QzkzYWNCMDJFc1JPUEpYVzJoXzVmVzF4blFSVDE5RnAzYTkyUUZYQV9GdnFvcks1Z2JsZkZMMVR3Nk9vcEk2bmlQWXlRNHhhVVlVOWNreTJLV1BKR2FB?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "나주시 탄소중립 정책 전국서 인정…한국환경공단 이사장상 - 대한뉴스통신",
-      "source": "대한뉴스통신",
-      "date": "Mon, 14 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sendIYklLOHhvVHEydjM4WHFkbEp0N2NBMkQwekRUeGVJM0h6Z3ZhMzlCbFlqU0l1MnFEMjBEY2FLMGs4cjNvOTY5YjIwWGs0UkRSTkh2MA?oc=5"
+      "title": "김천시 4-H회, 탄소중립 실천에 앞장 - 환경일보",
+      "source": "환경일보",
+      "date": "Tue, 15 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hTnY4ZDVNbkg0ZjUwQzhRcVFTOENNTllRNW1NWE9XaFM0Y0I2UTRxcEh5eUZxZWNBWE81TEpfR181S2Ztd2xNZXpEV3ptYW1sZnZmS3VGTUJFcEFsV2RWSVEwTkxVck1J?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "충남도 천안 도심서 환경 정화…탄소중립 확산 - 충청매일",
-      "source": "충청매일",
-      "date": "Mon, 14 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EakhMblVCb0d6elBBRVJneXA0Q3BCaFVfOF81bElrUzZmWE5oWl9NOTk2TlRrSFRFbS1FVmRWZE5QOHA2d3VHaVlhVW9kUEQ3Wm9vM3haXzJkVzFwZXgxSXZxUkVweGg4akE?oc=5"
+      "title": "탄소중립포인트, 지역화폐로 바꿔 쓴다 - 세계환경신문",
+      "source": "세계환경신문",
+      "date": "Tue, 15 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EQ2FNVXAweFZ3ZTE1a09VSmpHbmtyQjhONlI4c2Q5b1Bud2xvNEJPWFNoeDhKNm5maW13Y0p6OTU2UUd1OXpkbUlQclJXbU1KNWVkZEduQjA1ZHczMnVn?oc=5"
     }
   ],
-  "fact": "국제사회는 파리협정을 통해 산업화 이전 대비 지구 평균기온 상승을 1.5도 이내로 억제하는 것을 목표로 하고 있습니다."
+  "fact": "한국은 2050년 탄소중립을 국가 목표로 선언했습니다."
 }
