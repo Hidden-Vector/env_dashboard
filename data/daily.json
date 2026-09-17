@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T09:06:03.515501+09:00",
-  "generated_at_display": "2026-09-17 09:06 KST",
+  "generated_at": "2026-09-18T08:54:40.738782+09:00",
+  "generated_at_display": "2026-09-18 08:54 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,54 +12,54 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 17,
-    "pm25": 8,
-    "cai": "좋음",
+    "pm10": null,
+    "pm25": null,
+    "cai": "수집 실패: <urlopen error timed out>",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "[강남구] '2026 강남 환경 대전환 페스티벌' 18일 코엑스서 개최… 탄소중립 실천의 장 마련 - 미디어써치",
-      "source": "미디어써치",
-      "date": "Wed, 16 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sRGFrOEt6NGJQX3o5aFFXTW0zUUpFWDhrX3BBcGQxckFiNGhZMWJkRkpURWxfWkVtTmlhLTZDU3ZvRlEyTmo4X0V3OUVGN0FpLWNuS3h4YWRkWUkzLUlzVjY2c3FTT0JzRFM1cmo0U3A?oc=5"
+      "title": "조선·해운산업 탄소중립…단계적 전환 경로 마련해야 - 에너지신문",
+      "source": "에너지신문",
+      "date": "Thu, 17 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mZnkxZ1JzbThld2JLdVpQSUI1SVJnUVkyOVFRSEhWd3FWbkExdVBkQWk0SXpZU25fM2pvbVhac0ZlZzBVZllQUmdlWFdXQjBVamFCVTVFTzF1eU9fRzU5XzZhZ3FMd0QzaUVkYXp3amdSUQ?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "양주시, 미래세대 환경리더 육성 탄소중립 기후캠프 개최 > 뉴스 - 더코리아",
-      "source": "더코리아",
-      "date": "Wed, 16 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HOEJ2TGl6d0ZpMWxlQncxUm0tTk02Z1E1enlMMlFHLTFQdDdybVZqdXhkS05KaVdydTJaRmxWeFpPZ0xqSDFkaGctNVN1Q2ZXUGotbUlrenE1ZWR4cS03eVdBWFV4ejdxaWJ1UG11Y1A?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "강남구, 코엑스서 ‘환경 대전환 페스티벌’개최, 탄소중립 직접 체험 - 이뉴스투데이",
-      "source": "이뉴스투데이",
-      "date": "Wed, 16 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pam9rSjBPUkN4bm50RkRfNkhiQmxTRmd6dEs5ZVRlTzVKS3l0MzE4V3RQYmdSSzRDM1lDbUQtdVBMaFVVNVZ6bi1oVGpYcTk1X0dXYnpVNjU1Q3hGV3Nsd1g5NFNfUFh5VllFdW1ZbTPSAXRBVV95cUxQbWZKUUliVmJmMmF3N2xMbUVoa1pzVHRYT3pMb016R0x0TVJ4d3JXYkFHVGZHZW03VWhRdHl3Qk1kOVhaLS1qYmxfNUdndGQ5aC0xenlEVktQb2tKMGlUaTdZdV9xZWE1OXdIdWgxUXdldlhBWA?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "(르포)냉난방 전기화부터 그린수소까지…탄소중립 앞당길 제주 현장 가보니 - electimes.com",
+      "title": "탄소중립포인트, 지역화폐로 받는다…연내 29개 지역 도입 - electimes.com",
       "source": "electimes.com",
-      "date": "Wed, 16 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aWFNySFZvd2ZOcGZValE3Xzg2dXB5UDFyWEQ4dlNfSEI0WmpqTU1ERzFmWFBiVm9XVzByQ3dVaW5TU21FajJESG0zWXNKdG5aSTZDZDF2ZS1pbkZNby14dDBWY3djWVM3dU1Lbw?oc=5"
+      "date": "Tue, 15 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nM043ek0ydERsQnRRVnFVUXlEQkhnVmNEMEZhRldQQzhJamNGU0t3ajgwS01nZkN0bERyR1oxM1k3V2lBS3JXNXRnT0E5eFgxUWwzSjBFUjNCTUNZanktT0pKclF2VU00bEV1NUhzdHPSAXBBVV95cUxOZzNON3pNMnREbEJ0UVZxVVF5REJIZ1ZjRDBGYUZXUEM4SWpjRlNLd2o4MEtNZ2ZDdGxEckdaMTNZN1dpQUtyVzV0Z09BOXhYMVFsM0owRVIzQk1DWWp5LU9KSnJRdlVNNGxFdTVIc3Rz?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "강남구, 일상 속 환경실천 한자리에…‘2026 강남 환경 대전환 페스티벌’ 개최 - 시사일보",
-      "source": "시사일보",
-      "date": "Wed, 16 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtRVlzS2Izblg0VzVlUUw4V0RuRHRvRFVITjFjM1JPNUliQUpBMjh4d0JSM2dndXVsaXlCeVhoLWRnR1JYazdFM3NyOEw?oc=5"
+      "title": "일상 속 탄소중립 실천의 장… 강남구, 18일 ‘환경 대전환 페스티벌’ 개최 - 시정일보",
+      "source": "시정일보",
+      "date": "Thu, 17 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUbEVWcHFUTGJGUUhKOXhneXA1SVdqSU1Jd2pBWWdpU3pyQ0V3VEt4LUF2MkpZRFZYWXl0cjU5NXNuY2VMeEhvSFFGQUVUczFLMHlFY0l0TDdCRGJkOVdyQlc2UTRBOTE5WDlN?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "양주시, 미래세대 환경리더 육성 위한 ‘런(RUN)·런(LEARN) 탄소중립 기후캠프’ 개최 - 경기평화신문",
-      "source": "경기평화신문",
-      "date": "Wed, 16 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5UOS1EYzFPZWZBSlk0Z0R2S0xRX3M5Z2oxXzlVOHNuV05ieDJsUlhUeE9NSHR5XzMzSTVFRGRoV28tSUM0WDhncDRB?oc=5"
+      "title": "울주군의회 이상우 의원, 환경공무직 근무환경 및 탄소중립 농업 확산 간담회 - ujnews.co.kr",
+      "source": "ujnews.co.kr",
+      "date": "Thu, 17 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qMDFldHNWMlp4YlYzWFRPZ19ERXhCSG1sRTBzcWJ1WV9CM09rSHZjOGV3QWw0Vjl6SkNZSXduNHdRMlpOVHRyWFpzbUYwMjNsbC1Ic3k1cmUtR0J0SDZVT2J3S2dCV1llaDVROVp3?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "함양군, 탄소중립포인트제 가입·에너지 절약 캠페인 전개 - 경남도민뉴스",
+      "source": "경남도민뉴스",
+      "date": "Thu, 17 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5YOWRUZlFJemNLTVpMR2hYdFVmc3BHSWhENjJwVDA0ek5uNDl2VXdOckhtY0NlcGNFeTNpSWlOd1pWeUQydW9xYUZGWTFNNnRKZTE0aXc2Yk5iT2tqaVBzSlo5Yw?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "이브자리, 환경영화제에 탄소배출권 88톤 기부 - TIN뉴스",
+      "source": "TIN뉴스",
+      "date": "Thu, 17 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9VelZzWVh5aEhkTmN3Q2FRZG15YWRmYkotaVJqcmFVd1pYQUw4VWRHQ2NHaVo0TVUwM0VZaDJRNmU1WW16?oc=5"
     }
   ],
-  "fact": "이산화탄소는 대기 중에 배출된 뒤 수백 년간 머무를 수 있어, 오늘 줄인 배출량의 효과는 수십 년 뒤에야 기후에 반영되기 시작합니다."
+  "fact": "전 세계 온실가스 배출량의 약 4분의 1은 식량 생산 과정에서 발생합니다."
 }
