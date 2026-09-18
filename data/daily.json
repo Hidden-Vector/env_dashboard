@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T08:54:40.738782+09:00",
-  "generated_at_display": "2026-09-18 08:54 KST",
+  "generated_at": "2026-09-19T08:52:56.480183+09:00",
+  "generated_at_display": "2026-09-19 08:52 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,54 +12,54 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": null,
-    "pm25": null,
-    "cai": "수집 실패: <urlopen error timed out>",
+    "pm10": 19,
+    "pm25": 6,
+    "cai": "좋음",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "조선·해운산업 탄소중립…단계적 전환 경로 마련해야 - 에너지신문",
-      "source": "에너지신문",
-      "date": "Thu, 17 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mZnkxZ1JzbThld2JLdVpQSUI1SVJnUVkyOVFRSEhWd3FWbkExdVBkQWk0SXpZU25fM2pvbVhac0ZlZzBVZllQUmdlWFdXQjBVamFCVTVFTzF1eU9fRzU5XzZhZ3FMd0QzaUVkYXp3amdSUQ?oc=5"
+      "title": "탄소중립 실천 환경보건기술연구원 '공인시험기관인정' 획득 - v.daum.net",
+      "source": "v.daum.net",
+      "date": "Fri, 18 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5QbDlPWVpBY0NlcDlGTktXMVVSUmtCZkFjY3JrM3Zqd2JmOENpTEJ3eldVMzJvZXBRNzlueEFjS1c0Qm8wZ0dWU3pSUQ?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "탄소중립포인트, 지역화폐로 받는다…연내 29개 지역 도입 - electimes.com",
-      "source": "electimes.com",
+      "title": "강남구의회, 탄소중립 실천 위한 환경 대전환 행사 동참 - 전국매일신문",
+      "source": "전국매일신문",
+      "date": "Fri, 18 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIRE9HekFqblUxVGNRcEdGWlc4LWFCZTVuWkJvTHBkenpFZVVodWtTYzd2SHFCQjhtMDQ5eE5kYUdPdXdNS2xYY1ZyX2pqcWVqMEtBS2lYTHBBLXNkbl9VaVlsc0RqSXBhdWthR0JB?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "강남구의회, ‘2026 강남 환경 대전환 페스티벌’서 탄소중립 실천 - 이뉴스투데이",
+      "source": "이뉴스투데이",
+      "date": "Fri, 18 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwaXhodnRTdTJFc0I1UzY2ZUk1ekl0bzVhVjZmallWaE1wMDlJTnA3N0s5b0ZmaXRiRG9XaDNKSjBFQjJsZG1GWmU1OHlId0p6aldkZVdzUlp3cmJQcGtERjc3elhPU3NaQkNwVTdfTHrSAXRBVV95cUxNWnU1TmhJWE5pLUhEQWZqRlVRc2dldXlIZ0JBejF0LU5VdUpFMzI0bFlMaVJWeUNacTEzVi1hdG9ENjhBMEdGRGE2OUduZG5fU1h3VkZKYkhsajk3bWlGR3VVWjFZZ2U1NVZITl81eTVBN3JaRg?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "지역 탄소중립 이행을 위한 데이터 활용·협력 포럼 공동 개최 - 환경일보",
+      "source": "환경일보",
+      "date": "Fri, 18 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MVDk0LXYxWHVOMkhFVVp5THZtR0NWdjBzNVVpZFN4anFONkJNSWs5ajJKQkJESExIX2ZaR1pDenZoNkxVT0VWRTc1dHN2T1VfeTJ1WFlBaEtkSklVZzltSmdFV2o0SUt2?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "서울시 강남구의회, 탄소는 줄이고 순환은 늘리고 실천은 더하자!! - newszoom.kr",
+      "source": "newszoom.kr",
+      "date": "Fri, 18 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5vQzFIYV9uS21DYTY3QmtpRnBqR2FwMnBNRkszQ0RYSDY4amJNdm0xYjR3WUtXYkFIYXNWci1QR0hDVEVR?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "탄소중립포인트, 지역화폐로 받는다…연내 29개 지역 도입 - 전기신문",
+      "source": "전기신문",
       "date": "Tue, 15 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nM043ek0ydERsQnRRVnFVUXlEQkhnVmNEMEZhRldQQzhJamNGU0t3ajgwS01nZkN0bERyR1oxM1k3V2lBS3JXNXRnT0E5eFgxUWwzSjBFUjNCTUNZanktT0pKclF2VU00bEV1NUhzdHPSAXBBVV95cUxOZzNON3pNMnREbEJ0UVZxVVF5REJIZ1ZjRDBGYUZXUEM4SWpjRlNLd2o4MEtNZ2ZDdGxEckdaMTNZN1dpQUtyVzV0Z09BOXhYMVFsM0owRVIzQk1DWWp5LU9KSnJRdlVNNGxFdTVIc3Rz?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "일상 속 탄소중립 실천의 장… 강남구, 18일 ‘환경 대전환 페스티벌’ 개최 - 시정일보",
-      "source": "시정일보",
-      "date": "Thu, 17 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUbEVWcHFUTGJGUUhKOXhneXA1SVdqSU1Jd2pBWWdpU3pyQ0V3VEt4LUF2MkpZRFZYWXl0cjU5NXNuY2VMeEhvSFFGQUVUczFLMHlFY0l0TDdCRGJkOVdyQlc2UTRBOTE5WDlN?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "울주군의회 이상우 의원, 환경공무직 근무환경 및 탄소중립 농업 확산 간담회 - ujnews.co.kr",
-      "source": "ujnews.co.kr",
-      "date": "Thu, 17 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qMDFldHNWMlp4YlYzWFRPZ19ERXhCSG1sRTBzcWJ1WV9CM09rSHZjOGV3QWw0Vjl6SkNZSXduNHdRMlpOVHRyWFpzbUYwMjNsbC1Ic3k1cmUtR0J0SDZVT2J3S2dCV1llaDVROVp3?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "함양군, 탄소중립포인트제 가입·에너지 절약 캠페인 전개 - 경남도민뉴스",
-      "source": "경남도민뉴스",
-      "date": "Thu, 17 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5YOWRUZlFJemNLTVpMR2hYdFVmc3BHSWhENjJwVDA0ek5uNDl2VXdOckhtY0NlcGNFeTNpSWlOd1pWeUQydW9xYUZGWTFNNnRKZTE0aXc2Yk5iT2tqaVBzSlo5Yw?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "이브자리, 환경영화제에 탄소배출권 88톤 기부 - TIN뉴스",
-      "source": "TIN뉴스",
-      "date": "Thu, 17 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9VelZzWVh5aEhkTmN3Q2FRZG15YWRmYkotaVJqcmFVd1pYQUw4VWRHQ2NHaVo0TVUwM0VZaDJRNmU1WW16?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94MHBFWWNXYkpMaTZ1c2toZ2RTN3lZako1M3d3UDZaSGNuOEZqcG1QM2FKR0J2UnhfSW5FbUcwSFNjUEtxWG9OTnlGNHFFX3dNSWhVdWxOYkU1S18wWW1pSUZSc3l0SHZETkhGbdIBcEFVX3lxTE5nM043ek0ydERsQnRRVnFVUXlEQkhnVmNEMEZhRldQQzhJamNGU0t3ajgwS01nZkN0bERyR1oxM1k3V2lBS3JXNXRnT0E5eFgxUWwzSjBFUjNCTUNZanktT0pKclF2VU00bEV1NUhzdHM?oc=5"
     }
   ],
-  "fact": "전 세계 온실가스 배출량의 약 4분의 1은 식량 생산 과정에서 발생합니다."
+  "fact": "산업화 이전 대비 대기 중 이산화탄소 농도는 약 50% 증가했습니다."
 }
