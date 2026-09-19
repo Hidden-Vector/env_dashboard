@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T08:52:56.480183+09:00",
-  "generated_at_display": "2026-09-19 08:52 KST",
+  "generated_at": "2026-09-20T08:54:02.189083+09:00",
+  "generated_at_display": "2026-09-20 08:54 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,32 +12,25 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 19,
-    "pm25": 6,
-    "cai": "좋음",
+    "pm10": null,
+    "pm25": null,
+    "cai": "수집 실패: <urlopen error timed out>",
     "sido": "대구 동구(신암동)"
   },
   "news": [
+    {
+      "tag": "환경뉴스",
+      "title": "탄소중립포인트, 지역화폐로 받는다…연내 29개 지역 도입 - 전기신문",
+      "source": "전기신문",
+      "date": "Tue, 15 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94MHBFWWNXYkpMaTZ1c2toZ2RTN3lZako1M3d3UDZaSGNuOEZqcG1QM2FKR0J2UnhfSW5FbUcwSFNjUEtxWG9OTnlGNHFFX3dNSWhVdWxOYkU1S18wWW1pSUZSc3l0SHZETkhGbdIBcEFVX3lxTE5nM043ek0ydERsQnRRVnFVUXlEQkhnVmNEMEZhRldQQzhJamNGU0t3ajgwS01nZkN0bERyR1oxM1k3V2lBS3JXNXRnT0E5eFgxUWwzSjBFUjNCTUNZanktT0pKclF2VU00bEV1NUhzdHM?oc=5"
+    },
     {
       "tag": "환경뉴스",
       "title": "탄소중립 실천 환경보건기술연구원 '공인시험기관인정' 획득 - v.daum.net",
       "source": "v.daum.net",
       "date": "Fri, 18 Sep 2026",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5QbDlPWVpBY0NlcDlGTktXMVVSUmtCZkFjY3JrM3Zqd2JmOENpTEJ3eldVMzJvZXBRNzlueEFjS1c0Qm8wZ0dWU3pSUQ?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "강남구의회, 탄소중립 실천 위한 환경 대전환 행사 동참 - 전국매일신문",
-      "source": "전국매일신문",
-      "date": "Fri, 18 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIRE9HekFqblUxVGNRcEdGWlc4LWFCZTVuWkJvTHBkenpFZVVodWtTYzd2SHFCQjhtMDQ5eE5kYUdPdXdNS2xYY1ZyX2pqcWVqMEtBS2lYTHBBLXNkbl9VaVlsc0RqSXBhdWthR0JB?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "강남구의회, ‘2026 강남 환경 대전환 페스티벌’서 탄소중립 실천 - 이뉴스투데이",
-      "source": "이뉴스투데이",
-      "date": "Fri, 18 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwaXhodnRTdTJFc0I1UzY2ZUk1ekl0bzVhVjZmallWaE1wMDlJTnA3N0s5b0ZmaXRiRG9XaDNKSjBFQjJsZG1GWmU1OHlId0p6aldkZVdzUlp3cmJQcGtERjc3elhPU3NaQkNwVTdfTHrSAXRBVV95cUxNWnU1TmhJWE5pLUhEQWZqRlVRc2dldXlIZ0JBejF0LU5VdUpFMzI0bFlMaVJWeUNacTEzVi1hdG9ENjhBMEdGRGE2OUduZG5fU1h3VkZKYkhsajk3bWlGR3VVWjFZZ2U1NVZITl81eTVBN3JaRg?oc=5"
     },
     {
       "tag": "환경뉴스",
@@ -48,18 +41,25 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "서울시 강남구의회, 탄소는 줄이고 순환은 늘리고 실천은 더하자!! - newszoom.kr",
-      "source": "newszoom.kr",
-      "date": "Fri, 18 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5vQzFIYV9uS21DYTY3QmtpRnBqR2FwMnBNRkszQ0RYSDY4amJNdm0xYjR3WUtXYkFIYXNWci1QR0hDVEVR?oc=5"
+      "title": "양주시, 미래세대 환경리더 육성 탄소중립 기후캠프 개최 > 뉴스 - 더코리아",
+      "source": "더코리아",
+      "date": "Wed, 16 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HOEJ2TGl6d0ZpMWxlQncxUm0tTk02Z1E1enlMMlFHLTFQdDdybVZqdXhkS05KaVdydTJaRmxWeFpPZ0xqSDFkaGctNVN1Q2ZXUGotbUlrenE1ZWR4cS03eVdBWFV4ejdxaWJ1UG11Y1A?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "탄소중립포인트, 지역화폐로 받는다…연내 29개 지역 도입 - 전기신문",
-      "source": "전기신문",
+      "title": "[한국환경산업기술원] 탄소중립포인트, 지역화폐로 바꿔 쓴다 - 워터저널",
+      "source": "워터저널",
       "date": "Tue, 15 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94MHBFWWNXYkpMaTZ1c2toZ2RTN3lZako1M3d3UDZaSGNuOEZqcG1QM2FKR0J2UnhfSW5FbUcwSFNjUEtxWG9OTnlGNHFFX3dNSWhVdWxOYkU1S18wWW1pSUZSc3l0SHZETkhGbdIBcEFVX3lxTE5nM043ek0ydERsQnRRVnFVUXlEQkhnVmNEMEZhRldQQzhJamNGU0t3ajgwS01nZkN0bERyR1oxM1k3V2lBS3JXNXRnT0E5eFgxUWwzSjBFUjNCTUNZanktT0pKclF2VU00bEV1NUhzdHM?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1OUDdaNlhVWGFWVDV5UnYyWTdNQlo0Q1dkd1JWSzl6bVZoX0dBTVJJR3JNTHBrZ043M2tRcXRjMDk2ekpGMlpqS05waUt3UW5YbHpEVWZ4LUw1Nm9iOEZ0N3pzbTdKV3B0bjRkbnE0OXVqUdIBdkFVX3lxTFBuSlcxUm1jR0xLYUdkQk5BNjNLUHdHUWdJSHRmZGhyTmloRDlJaEN1THVrNjJFYnRXQkctclp4YUlPc29YdjFrbDBGOHB3UVFvZTkyR3lidnRFTEhnRGxBTjNqdkFkN1d5MW1pTHMwQXFnYmJxX3c?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "일상 속 탄소중립 실천의 장… 강남구, 18일 ‘환경 대전환 페스티벌’ 개최 - 시정일보",
+      "source": "시정일보",
+      "date": "Thu, 17 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUbEVWcHFUTGJGUUhKOXhneXA1SVdqSU1Jd2pBWWdpU3pyQ0V3VEt4LUF2MkpZRFZYWXl0cjU5NXNuY2VMeEhvSFFGQUVUczFLMHlFY0l0TDdCRGJkOVdyQlc2UTRBOTE5WDlN?oc=5"
     }
   ],
-  "fact": "산업화 이전 대비 대기 중 이산화탄소 농도는 약 50% 증가했습니다."
+  "fact": "나무 한 그루는 평균적으로 1년에 약 20~25kg의 이산화탄소를 흡수합니다."
 }
