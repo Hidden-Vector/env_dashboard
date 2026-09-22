@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T08:51:07.438570+09:00",
-  "generated_at_display": "2026-09-21 08:51 KST",
+  "generated_at": "2026-09-22T09:35:47.570161+09:00",
+  "generated_at_display": "2026-09-22 09:35 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,54 +12,54 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 22,
-    "pm25": 12,
-    "cai": "좋음",
+    "pm10": null,
+    "pm25": null,
+    "cai": "수집 실패: timed out",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "의왕시, \"탄소중립 실천 두발로 Day\" 행사 성료! - 경기종합뉴스",
-      "source": "경기종합뉴스",
-      "date": "Sun, 20 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91ZWc2aVRpMm13TWhhcld5N19CR0ltNk1lVF9mQTBKQVk0TUhJakYwa3ROOTdPLXJqS3h0cTVlcUdPS0JkMFpaVnFyekxBUlNKaXpkSHBtbkVtZXpVaUdKQWFBclB5b1J1dUpEdjVkbzJTX1J3?oc=5"
+      "title": "기후교육, ‘아는 것’ 넘어 ‘실천’으로…광화문서 시민 참여형 환경축제 - 에너지데일리",
+      "source": "에너지데일리",
+      "date": "Mon, 21 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Xb3IwelJ4czRWeTNxaXJpbUJVQ1UxRkJiQVVYWk9EengwU0VuV0EwbldrQklqS0I3WTJRZkhoUW5odk5RWGwtZ29jejBybkdLdERNU3ZpbDJHMnM5TVExZHVQakdLZEM2VXowUm14am96UQ?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "김성제 의왕시장 시민·기업·단체 함께 탄소중립 실천해야 - 아주경제",
-      "source": "아주경제",
-      "date": "Sun, 20 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uSDQ5aGszVXVxNVFENUV1eWZ3QVJ0a3JZLWE1XzNsU1VsSGkwUURzNmF5QmNLYk51VlBtWU52Q3JFMHhGRllXQ0JpWHg3UjAtS1JVS2RoVTbSAVhBVV95cUxPbkg0OWhrM1V1cTVRRDVFdXlmd0FSdGtyWS1hNV8zbFNVbEhpMFFEczZheUJjS2JOdVZQbVlOdkNyRTB4RkZZV0NCaVh4N1IwLUtSVUtkaFU2?oc=5"
+      "title": "강남구의회, '2026 강남 환경 대전환 페스티벌' 동참… \"탄소중립, 실천이 답입니다\" - 시정일보",
+      "source": "시정일보",
+      "date": "Mon, 21 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRVUJfUEJfLTNGMzJZVXpCdGtqNFoyczE4SV9Jd0o0RXc1VU10Y0hFeVdQUTRJbWcxaUwzN3VxNDY5aXU5UThHbHY5ZFp2T09hcEdFamVIbmZJQ1dYMjhVdjJFbWVaNEdwMVY0?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "강남구의회, ‘2026 강남 환경 대전환 페스티벌’ 참석 - ignnews.kr",
-      "source": "ignnews.kr",
-      "date": "Sun, 20 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5md01FVE83YmRodmRROUViSXp6Wlo1UkpiYm1YOTFfbzQxWVhXTF9TUFAzTTJJQ21jbFlzeFp1Y3V2bTltUFRueHpYZTNLU09CTFFkTXVZUUFFdUptUExMTk81czdCdw?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "지역 탄소중립 이행을 위한 데이터 활용·협력 포럼 공동 개최 - 환경일보",
-      "source": "환경일보",
-      "date": "Fri, 18 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MVDk0LXYxWHVOMkhFVVp5THZtR0NWdjBzNVVpZFN4anFONkJNSWs5ajJKQkJESExIX2ZaR1pDenZoNkxVT0VWRTc1dHN2T1VfeTJ1WFlBaEtkSklVZzltSmdFV2o0SUt2?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "탄소중립 실천 환경보건기술연구원 '공인시험기관인정' 획득 - v.daum.net",
-      "source": "v.daum.net",
-      "date": "Fri, 18 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qTmRTTVFxMXNVd0pnQXNQc2tCaTRpSVZPNjJCSzhBeWctbDJaaGdUaWpndEZzajlGX05XczVkbkxES05VbEs3WDFXMFNSTTNQbTVBWg?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "탄소중립포인트, 지역화폐로 받는다…연내 29개 지역 도입 - 전기신문",
+      "title": "美 발전소 탄소 규제 후퇴…韓 기업에 미칠 영향은 - 전기신문",
       "source": "전기신문",
-      "date": "Tue, 15 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94MHBFWWNXYkpMaTZ1c2toZ2RTN3lZako1M3d3UDZaSGNuOEZqcG1QM2FKR0J2UnhfSW5FbUcwSFNjUEtxWG9OTnlGNHFFX3dNSWhVdWxOYkU1S18wWW1pSUZSc3l0SHZETkhGbdIBcEFVX3lxTE5nM043ek0ydERsQnRRVnFVUXlEQkhnVmNEMEZhRldQQzhJamNGU0t3ajgwS01nZkN0bERyR1oxM1k3V2lBS3JXNXRnT0E5eFgxUWwzSjBFUjNCTUNZanktT0pKclF2VU00bEV1NUhzdHM?oc=5"
+      "date": "Mon, 21 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HVWFjMHk4TUlsLVY0YVVyRDV5UkQtbXVPSmxEc2dZRmh5RnhLa3Q5aHk2aVhXOTNfekoxQWp6cXVJR3FlTzRDb1FxM2tsbEhaME5MdUNkWTZJUU9MNzhnUDdUblByV1ZDVUpDOdIBcEFVX3lxTE9OVVBUOWpUd0JlZGJKTGxucG42SXVzZkxUU0RmcXRxNUdqd1hNZWQwTGVCc1JvSTJmU0ZtZ1M3cVlVOHpuLWR4Z0x4bEZIVkgxUTJQNlZJOFp1YThKWWQ3N0lEbEd5bFRWZGZha3hicWE?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "한국환경보전원, 광화문서 기후행동 일상으로 잇다 - 데일리경제",
+      "source": "데일리경제",
+      "date": "Mon, 21 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oSzRCLVJITlA2TlNsNENQdjUwM2dSd0xRNjBHNF9vbmRlR01xUk9LeXg4WW5Lc3d4NS1Vd3g0bGVhR3ZlS1RBVFZzU2FibjRYTGpWMUVsVFVrZE01ZF82TXNxeS1vVXNUZjZkXw?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "포천시 탄소중립지원센터, 포천시민축구단18과 업무협약 체결 - 포천신문",
+      "source": "포천신문",
+      "date": "Mon, 21 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50TmRFYkRHNGhtV0Y0TTJiOUhpUkpnMjR1OTA0a0xJV0RTRjhVU0NNVlp3VktKc3o0QnVHd0tWb2k4YjdYYTdHcmVDcEpnd1U?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "유아부터 중장년까지 맞춤형으로… 시민 대상 탄소중립 실천교육 한다 - 수원시 인터넷신문",
+      "source": "수원시 인터넷신문",
+      "date": "Mon, 21 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01a0ZPN3YyUWlfcnA2SXg0U19pMUVLTWtuS1RxVm9RbmxQTzVVMlMyQTdCc1NXSlhZQzE3ajZ2VUpsejFxMjhLNlJKUmJWeVNkV0xWTlk2Nk9GaVBjeXpLQkM1SkhFX2NKMVY5TnVfQkJNY2NWbFM4X1dR?oc=5"
     }
   ],
-  "fact": "전 세계 플라스틱의 약 9%만이 실제로 재활용되고 있습니다."
+  "fact": "태양광 발전 비용은 지난 10여 년간 큰 폭으로 하락해 여러 지역에서 가장 저렴한 전력원 중 하나가 되었습니다."
 }
