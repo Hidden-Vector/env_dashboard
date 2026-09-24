@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T08:59:39.203904+09:00",
-  "generated_at_display": "2026-09-23 08:59 KST",
+  "generated_at": "2026-09-24T09:14:20.308396+09:00",
+  "generated_at_display": "2026-09-24 09:14 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,54 +12,54 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 17,
-    "pm25": 6,
-    "cai": "좋음",
+    "pm10": null,
+    "pm25": null,
+    "cai": "수집 실패: timed out",
     "sido": "대구 동구(신암동)"
   },
   "news": [
+    {
+      "tag": "환경뉴스",
+      "title": "안산환경재단, 갈대습지 정화부터 상권 탄소중립까지 실천 확대 - 천지일보",
+      "source": "천지일보",
+      "date": "Wed, 23 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16ZmU5b1g4NThreC1pNHN5Y0F3VUxjeUgtV01hbEhqWWIxd3JuM2x6b3FlYnlMN0EtVG91T09zU1F6OWI4Y3dSS25fSko0TmZOOUx6bUhQTk41bF9sVHF0dEVNRU1SVUg2cnc?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "영천시, 장바구니에 담은 탄소중립 실천 - 환경일보",
+      "source": "환경일보",
+      "date": "Wed, 23 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PNjIyekhob0NVLVRsWVpwZURjQ1ZicW1VWVhERzhYOVBQeVk3a3NjVWg3bVNnbVIxOFJ0bGk1ZlpwbFpyaGk3dGxSNV9ieGpIMXdLVHZiYmRtNnJ0bnpZREhTc3d3Ymt6?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "호주 연구진 \"탄소중립 달성해도 기후불평등은 오래 이어져, 더 빨리 온실가스 줄여야\" - 비즈니스포스트",
+      "source": "비즈니스포스트",
+      "date": "Wed, 23 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMY2xhR2Zqa0hFU085emZZSmRZNm9nYjJzMWlUNU4wSXJhU3JubFA1WDBqY3ZuN3YwUC1WX2VSeWFmdElXbzgzSFl1VGJxVXBMRzZhc3ZIMXBjYWJPdGdEVmwwNEZ6RjljQ3ZNNExnWGx4Z0k?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "“오늘은 걸어서 왔어요”…상주 어린이들, 탄소중립 한 걸음 - kyongbuk.co.kr",
+      "source": "kyongbuk.co.kr",
+      "date": "Wed, 23 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5OXB4bjR2eGxIQjc0X3VIVHlhZUVUMEhBNGJzTUhRdHhGdkdub0JOMldWb2hNNXplMncxb1pnbDhoTTFDbk1ZbjJ6MHoyck9PRlVEaEhBLXMzZUJ3UmRSN2ZwNXJQUC1jc01hQTk1Yw?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "안산환경재단 상인회와 함께 생활 속 탄소중립 실천 확대 - 아주경제",
+      "source": "아주경제",
+      "date": "Wed, 23 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYMldzak1TNGpFRmJTNkZES3AwR0dKUEw2Y2R2ZG9EdHFQU0tOTWdJZXVuOVFmMzBuMms1WEFhX2ludWRiQUN3OVZVRXZWRF9TcGVoOFNTT3jSAVhBVV95cUxQWDJXc2pNUzRqRUZiUzZGREtwMEdHSlBMNmNkdmRvRHRxUFNLTk1nSWV1bjlRZjMwbjJrNVhBYV9pbnVkYkFDdzlWVUV2VkRfU3BlaDhTU094?oc=5"
+    },
     {
       "tag": "환경뉴스",
       "title": "광명시, 탄소중립 일상화 이끌 환경교육 청사진 그린다 - 경기평화신문",
       "source": "경기평화신문",
       "date": "Tue, 22 Sep 2026",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB5bnhudmRta0NtV1psT3FGV3E1ZjhTX1VsWHBKMURrdXJxTU9kb3JBdndJOGlyWi01cS1aanNNTzRNeGQ2Z2Iwdmpn?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "환경보전원, ‘지구하다 페스티벌’ 성료...기후행동 확산 - electimes.com",
-      "source": "electimes.com",
-      "date": "Tue, 22 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WZTRjTUpaMUQ2RUlRQ2pNbWo5ZWlrWXptcmh6UEcyWm1RWW82clMxWk5PRmlHOFk0Zmw2Z191bTA1VVVweGtjOGdJeDdkZVIxMVVPWEJ3ZGxLTDVGZVE0RW82elFScVZiQlJMTNIBcEFVX3lxTE5NNWg1c1dJX0Yxa21pLXRCXzFNcl8zYWxuSlBud0JWRkVlaEd3TmY1MVVhNXZTekxzalhLblZyaHJnNTRvNEtZUEREOWhrOTJnNFhYS01iUWpuLVhFdWw1UHhyUzFtdTJXcUdWNTMwQ2s?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "광명시 “탄소중립 일상화 이끌 환경교육 청사진 그린다” - gvalleytimes.com",
-      "source": "gvalleytimes.com",
-      "date": "Tue, 22 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hRWNBT3F5TjRud3hUVi1lWHNqRWpOd3pFRUEyTHdkTmdDN0lKX0J5U2w5V19EVjVkQm50RThISWMzeEpaZU04OGRzSGRlOUVKMklZaDliT0Zod0NoX2ZZVGxuZXo5eDRtR0M5TVln?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "양구 돌샘로타리클럽, 추석맞이 탄소중립 환경정화활동 전개 - 글로벌뉴스통신GNA",
-      "source": "글로벌뉴스통신GNA",
-      "date": "Tue, 22 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xLTUzR28wUlRxVEVOT29wa3hGX3dCeDE2RjlhdUl6UTFPRnFrdnZJZUx3b0FqYlB1anJWNG9HLVc1TVZwMXBXOG5XX0lhcjdOTG8tRmhrQ0VqOEZUVTRwZzVzdXNIRlFqX0oxUW5aSlQ5dG5O?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "박승원 광명시장 \"탄소중립, 관념 넘어 일상으로\"…5개년 청사진 - 머니투데이 - mt.co.kr",
-      "source": "mt.co.kr",
-      "date": "Tue, 22 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aSVpiYS1Jc1ZMZEVnQ21Va0FFVFkzeVh6bFVLT09fWXpJMFUxT3gyTEswU2lMUUttNFl1dkVPdjVaV3ZHYXJia2ZVTmhHRXBoSnl6SU5nUjU5ZDZQZUR2Y3JrcHM4clNaalHSAW9BVV95cUxOZWlXU1dZQ2VFRXQxbS1uQXhXOFJvaUZCRUNZRkJULUVSdjkwVjJPRU1rTko0S1RhUjBzOXVBM0hwVWJQcHl0MmJ2Y1JiajFHZkFyTkdMSGlzUUtXMnEyUFdJazdwS1ZoSmt0QlBJbmM?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "영천시새마을회, 추석 장바구니 나눔으로 탄소중립 실천 - kyongbuk.co.kr",
-      "source": "kyongbuk.co.kr",
-      "date": "Tue, 22 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81MFhEVFRUYUxoVjVqZzZtY3pwNUVqVldQRVlTY1JtaG1fZ21hZmlQcVp4NVZxeUJwTzRocEJUUmdSVUltZUViU2N3Z2NoVU1JWUg5SW1jMWFlU3Bhd2Fzb1JpZEs1TTF6TjR3bWkzOA?oc=5"
     }
   ],
-  "fact": "해양은 인간이 배출한 이산화탄소의 상당 부분을 흡수해 해양 산성화를 일으키고 있습니다."
+  "fact": "육류 소비를 줄이는 것은 개인이 실천할 수 있는 가장 효과적인 탄소 저감 방법 중 하나로 꼽힙니다."
 }
