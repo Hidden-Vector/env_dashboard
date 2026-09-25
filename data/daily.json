@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T09:14:20.308396+09:00",
-  "generated_at_display": "2026-09-24 09:14 KST",
+  "generated_at": "2026-09-25T09:16:47.728427+09:00",
+  "generated_at_display": "2026-09-25 09:16 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,54 +12,19 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": null,
-    "pm25": null,
-    "cai": "수집 실패: timed out",
+    "pm10": 24,
+    "pm25": 21,
+    "cai": "보통",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
-      "tag": "환경뉴스",
-      "title": "안산환경재단, 갈대습지 정화부터 상권 탄소중립까지 실천 확대 - 천지일보",
-      "source": "천지일보",
-      "date": "Wed, 23 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16ZmU5b1g4NThreC1pNHN5Y0F3VUxjeUgtV01hbEhqWWIxd3JuM2x6b3FlYnlMN0EtVG91T09zU1F6OWI4Y3dSS25fSko0TmZOOUx6bUhQTk41bF9sVHF0dEVNRU1SVUg2cnc?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "영천시, 장바구니에 담은 탄소중립 실천 - 환경일보",
-      "source": "환경일보",
-      "date": "Wed, 23 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PNjIyekhob0NVLVRsWVpwZURjQ1ZicW1VWVhERzhYOVBQeVk3a3NjVWg3bVNnbVIxOFJ0bGk1ZlpwbFpyaGk3dGxSNV9ieGpIMXdLVHZiYmRtNnJ0bnpZREhTc3d3Ymt6?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "호주 연구진 \"탄소중립 달성해도 기후불평등은 오래 이어져, 더 빨리 온실가스 줄여야\" - 비즈니스포스트",
-      "source": "비즈니스포스트",
-      "date": "Wed, 23 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMY2xhR2Zqa0hFU085emZZSmRZNm9nYjJzMWlUNU4wSXJhU3JubFA1WDBqY3ZuN3YwUC1WX2VSeWFmdElXbzgzSFl1VGJxVXBMRzZhc3ZIMXBjYWJPdGdEVmwwNEZ6RjljQ3ZNNExnWGx4Z0k?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "“오늘은 걸어서 왔어요”…상주 어린이들, 탄소중립 한 걸음 - kyongbuk.co.kr",
-      "source": "kyongbuk.co.kr",
-      "date": "Wed, 23 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5OXB4bjR2eGxIQjc0X3VIVHlhZUVUMEhBNGJzTUhRdHhGdkdub0JOMldWb2hNNXplMncxb1pnbDhoTTFDbk1ZbjJ6MHoyck9PRlVEaEhBLXMzZUJ3UmRSN2ZwNXJQUC1jc01hQTk1Yw?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "안산환경재단 상인회와 함께 생활 속 탄소중립 실천 확대 - 아주경제",
-      "source": "아주경제",
-      "date": "Wed, 23 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYMldzak1TNGpFRmJTNkZES3AwR0dKUEw2Y2R2ZG9EdHFQU0tOTWdJZXVuOVFmMzBuMms1WEFhX2ludWRiQUN3OVZVRXZWRF9TcGVoOFNTT3jSAVhBVV95cUxQWDJXc2pNUzRqRUZiUzZGREtwMEdHSlBMNmNkdmRvRHRxUFNLTk1nSWV1bjlRZjMwbjJrNVhBYV9pbnVkYkFDdzlWVUV2VkRfU3BlaDhTU094?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "광명시, 탄소중립 일상화 이끌 환경교육 청사진 그린다 - 경기평화신문",
-      "source": "경기평화신문",
-      "date": "Tue, 22 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB5bnhudmRta0NtV1psT3FGV3E1ZjhTX1VsWHBKMURrdXJxTU9kb3JBdndJOGlyWi01cS1aanNNTzRNeGQ2Z2Iwdmpn?oc=5"
+      "tag": "알림",
+      "title": "뉴스 수집 실패 (다음 갱신 시 재시도): HTTP Error 503: Service Unavailable",
+      "source": "-",
+      "date": "",
+      "link": ""
     }
   ],
-  "fact": "육류 소비를 줄이는 것은 개인이 실천할 수 있는 가장 효과적인 탄소 저감 방법 중 하나로 꼽힙니다."
+  "fact": "국제사회는 파리협정을 통해 산업화 이전 대비 지구 평균기온 상승을 1.5도 이내로 억제하는 것을 목표로 하고 있습니다."
 }
