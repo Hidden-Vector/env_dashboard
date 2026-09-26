@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T09:16:47.728427+09:00",
-  "generated_at_display": "2026-09-25 09:16 KST",
+  "generated_at": "2026-09-26T09:22:04.308105+09:00",
+  "generated_at_display": "2026-09-26 09:22 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,19 +12,54 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 24,
-    "pm25": 21,
-    "cai": "보통",
+    "pm10": 17,
+    "pm25": 8,
+    "cai": "좋음",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
-      "tag": "알림",
-      "title": "뉴스 수집 실패 (다음 갱신 시 재시도): HTTP Error 503: Service Unavailable",
-      "source": "-",
-      "date": "",
-      "link": ""
+      "tag": "환경뉴스",
+      "title": "용인시, ‘탄소중립포인트 자동차 분야’ 실적 등록 9월 28일~10월 31일…최대 10만 원 혜택 - 팔당유역신문",
+      "source": "팔당유역신문",
+      "date": "Fri, 25 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96MlM1bzdxNlNPMkhoREJxWHZ2Y21MWmFCV3FyaEdHY2JGUGJyVV8wWXl4OExBVlA1SFNJR0ptU2lVOHktVkJsTWNEZzRfdHRjb3pBUlRDVWhyQjdKWUQyLVpwQjExNGVZc1Rn?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "광명시, 탄소중립 일상화 이끌 환경교육 청사진 그린다 - 경기중앙신문",
+      "source": "경기중앙신문",
+      "date": "Fri, 25 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lZEJDSVZsdkszYldpLWRIZXlaTXVvOHBaTWxLdEUyUENNZUI4NzVCS1ZDODBWWDVzaUU1ZF9FRzVGZXhqMDJSVjBWZTJPdzFBaklob3BQcnlTYkNKQ0MwTTdDWC0zQm1R?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "“오늘은 걸어서 왔어요”…상주 어린이들, 탄소중립 한 걸음 - kyongbuk.co.kr",
+      "source": "kyongbuk.co.kr",
+      "date": "Wed, 23 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5OXB4bjR2eGxIQjc0X3VIVHlhZUVUMEhBNGJzTUhRdHhGdkdub0JOMldWb2hNNXplMncxb1pnbDhoTTFDbk1ZbjJ6MHoyck9PRlVEaEhBLXMzZUJ3UmRSN2ZwNXJQUC1jc01hQTk1Yw?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "광명시, 탄소중립 일상화 이끌 환경교육 청사진 그린다 - 경기평화신문",
+      "source": "경기평화신문",
+      "date": "Tue, 22 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB5bnhudmRta0NtV1psT3FGV3E1ZjhTX1VsWHBKMURrdXJxTU9kb3JBdndJOGlyWi01cS1aanNNTzRNeGQ2Z2Iwdmpn?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "영천시, 장바구니에 담은 탄소중립 실천 - 환경일보",
+      "source": "환경일보",
+      "date": "Wed, 23 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PNjIyekhob0NVLVRsWVpwZURjQ1ZicW1VWVhERzhYOVBQeVk3a3NjVWg3bVNnbVIxOFJ0bGk1ZlpwbFpyaGk3dGxSNV9ieGpIMXdLVHZiYmRtNnJ0bnpZREhTc3d3Ymt6?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "호주 연구진 \"탄소중립 달성해도 기후불평등은 오래 이어져, 더 빨리 온실가스 줄여야\" - 비즈니스포스트",
+      "source": "비즈니스포스트",
+      "date": "Wed, 23 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMY2xhR2Zqa0hFU085emZZSmRZNm9nYjJzMWlUNU4wSXJhU3JubFA1WDBqY3ZuN3YwUC1WX2VSeWFmdElXbzgzSFl1VGJxVXBMRzZhc3ZIMXBjYWJPdGdEVmwwNEZ6RjljQ3ZNNExnWGx4Z0k?oc=5"
     }
   ],
-  "fact": "국제사회는 파리협정을 통해 산업화 이전 대비 지구 평균기온 상승을 1.5도 이내로 억제하는 것을 목표로 하고 있습니다."
+  "fact": "한국은 2050년 탄소중립을 국가 목표로 선언했습니다."
 }
