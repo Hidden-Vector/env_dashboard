@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T09:18:17.150948+09:00",
-  "generated_at_display": "2026-09-28 09:18 KST",
+  "generated_at": "2026-09-29T10:28:52.900696+09:00",
+  "generated_at_display": "2026-09-29 10:28 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,18 +12,18 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": null,
-    "pm25": null,
-    "cai": "수집 실패: <urlopen error timed out>",
+    "pm10": 20,
+    "pm25": 12,
+    "cai": "보통",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "안산환경재단 탄소중립 실천 컨설턴트 양성 - 안산뉴스",
-      "source": "안산뉴스",
-      "date": "Sun, 27 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxaUpfc0tkTzRpVEFKN3BnNkVnNjB5VExDMkU4RXdfM1ZDNGM2TG1RY2JheXd3Q3J4MzBRWXZzdW9XcjVXQkwyWHk5dGdqVmVrVUFZeTZxLUo5VlN6WmUzdGhLSGV5c1YyOFF1RQ?oc=5"
+      "title": "광주 광주푸른초, ‘SDGs 찾아가는 탄소중립 환경교육’으로 초록빛 미래를 만들어요 - 한방통신사",
+      "source": "한방통신사",
+      "date": "Mon, 28 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XbWZHdmFsYkVidDVJemJLMElqWkk2dE1mV3BZaGd1MVRnbVhkLTFZQUl5bTVycm9ZamRpWkdBM2kxU3ozcWhOMDA0dnBTRWQ2eTN0Vi1qNUtVbEU?oc=5"
     },
     {
       "tag": "환경뉴스",
@@ -34,32 +34,32 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "광명시, 탄소중립 일상화 이끌 환경교육 청사진 그린다 - 경기중앙신문",
-      "source": "경기중앙신문",
-      "date": "Fri, 25 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lZEJDSVZsdkszYldpLWRIZXlaTXVvOHBaTWxLdEUyUENNZUI4NzVCS1ZDODBWWDVzaUU1ZF9FRzVGZXhqMDJSVjBWZTJPdzFBaklob3BQcnlTYkNKQ0MwTTdDWC0zQm1R?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "용인시, ‘탄소중립포인트 자동차 분야’ 실적 등록 9월 28일~10월 31일…최대 10만 원 혜택 - 팔당유역신문",
+      "title": "광주시, 10월 한 달간 '탄소중립포인트제 신규 가입 이벤트' 진행 - 팔당유역신문",
       "source": "팔당유역신문",
-      "date": "Fri, 25 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96MlM1bzdxNlNPMkhoREJxWHZ2Y21MWmFCV3FyaEdHY2JGUGJyVV8wWXl4OExBVlA1SFNJR0ptU2lVOHktVkJsTWNEZzRfdHRjb3pBUlRDVWhyQjdKWUQyLVpwQjExNGVZc1Rn?oc=5"
+      "date": "Mon, 28 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xRVhzWjU2bWVnUDJuUG1YYjNGRHpqODMxVHhJVzVzXzViTktPY1hkM2x6UHR2LU1qdnNvTkJIa0FVVW8yZS1weDg2Z2FMTFpNSVpTcC1QQllqbGpqUlprQU1BX2taek1ibERr?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "“소비가 바뀌면 지역의 환경이 바뀐다”…녹색소비 확산 맞손 - gjdream.com",
-      "source": "gjdream.com",
-      "date": "Sat, 26 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSam04QXdBQWtCV0sydzk1NERRQkZtOE9JZGludUlON2tpYXZKVGFTdXpydzNWUWJBNGhrTjBsV0Q3V21ubjNDUTN6ejIwWDFEblV0YVczR285MjBJdU5PLWhPNUpvWmRaMWc?oc=5"
+      "title": "안산환경재단 탄소중립 실천 컨설턴트 양성 - 안산뉴스",
+      "source": "안산뉴스",
+      "date": "Sun, 27 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxaUpfc0tkTzRpVEFKN3BnNkVnNjB5VExDMkU4RXdfM1ZDNGM2TG1RY2JheXd3Q3J4MzBRWXZzdW9XcjVXQkwyWHk5dGdqVmVrVUFZeTZxLUo5VlN6WmUzdGhLSGV5c1YyOFF1RQ?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "“오늘은 걸어서 왔어요”…상주 어린이들, 탄소중립 한 걸음 - kyongbuk.co.kr",
-      "source": "kyongbuk.co.kr",
-      "date": "Wed, 23 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5OXB4bjR2eGxIQjc0X3VIVHlhZUVUMEhBNGJzTUhRdHhGdkdub0JOMldWb2hNNXplMncxb1pnbDhoTTFDbk1ZbjJ6MHoyck9PRlVEaEhBLXMzZUJ3UmRSN2ZwNXJQUC1jc01hQTk1Yw?oc=5"
+      "title": "충남도의회, 탄소중립 2045 실현 머리 맞댄다 - 충청메시지",
+      "source": "충청메시지",
+      "date": "Mon, 28 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ESzR2d1JFM2NkdkpkZWtGZFJ5QmlkUHdlOS1Qek1BY191LWJVVFJZdTNvTXlMTkZZMnRKc0NaWGNfb0lZTXlQVEgxaDFQZWRGZzY0RDZmRVFjT2x1ck5nZm56UGY0QWt1TDdv?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "충남도의회, 탄소중립 실현 연구 모임 발족 - 광장21",
+      "source": "광장21",
+      "date": "Mon, 28 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KbTg1MFphUWVOYTF3eTFEQVg3enBDRGgwa090QlBGR3F1S0NNZnRtbkdlZFQ4TEozZW85OExHOURIdnpqRU0yelZpTXc0N24tLVRBUi1sSXN2NlFDRWtibmZ6UjFKN2lJR0MyNw?oc=5"
     }
   ],
-  "fact": "전 세계 온실가스 배출량의 약 4분의 1은 식량 생산 과정에서 발생합니다."
+  "fact": "산업화 이전 대비 대기 중 이산화탄소 농도는 약 50% 증가했습니다."
 }
