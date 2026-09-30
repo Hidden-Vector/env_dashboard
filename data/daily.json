@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T10:28:52.900696+09:00",
-  "generated_at_display": "2026-09-29 10:28 KST",
+  "generated_at": "2026-09-30T10:05:01.515465+09:00",
+  "generated_at_display": "2026-09-30 10:05 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,18 +12,18 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 20,
-    "pm25": 12,
-    "cai": "보통",
+    "pm10": null,
+    "pm25": null,
+    "cai": "수집 실패: <urlopen error timed out>",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "광주 광주푸른초, ‘SDGs 찾아가는 탄소중립 환경교육’으로 초록빛 미래를 만들어요 - 한방통신사",
-      "source": "한방통신사",
-      "date": "Mon, 28 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XbWZHdmFsYkVidDVJemJLMElqWkk2dE1mV3BZaGd1MVRnbVhkLTFZQUl5bTVycm9ZamRpWkdBM2kxU3ozcWhOMDA0dnBTRWQ2eTN0Vi1qNUtVbEU?oc=5"
+      "title": "인천 검단구, 탄소중립·자원순환 캠페인...환경교육 후 거리서 '줍깅'도 - 경인매일",
+      "source": "경인매일",
+      "date": "Wed, 30 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Fa2w3dkRZTHpBdkF0UWlVWmhBdjhHYUNkamxCSUJRaU9FUVFraWNhQlpnRGhVdW5fLU9NSHpMTmxIcjduWl96UnEzbHVwRzVqdU1iSm91aHVLTmU5U3o1Qk5VclBVc0JS?oc=5"
     },
     {
       "tag": "환경뉴스",
@@ -34,10 +34,10 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "광주시, 10월 한 달간 '탄소중립포인트제 신규 가입 이벤트' 진행 - 팔당유역신문",
-      "source": "팔당유역신문",
-      "date": "Mon, 28 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xRVhzWjU2bWVnUDJuUG1YYjNGRHpqODMxVHhJVzVzXzViTktPY1hkM2x6UHR2LU1qdnNvTkJIa0FVVW8yZS1weDg2Z2FMTFpNSVpTcC1QQllqbGpqUlprQU1BX2taek1ibERr?oc=5"
+      "title": "환경산업기술원-특허기술진흥원, 녹색기술 특허 활용 협력 - 전기신문",
+      "source": "전기신문",
+      "date": "Tue, 29 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uVWNya2V5QTBpNGNTZy1LSjYwY0lqTkc1czR5ZF9PODVVdUhQeEowWVN5RTlrMldTd3JXbElzd3hUdndJcXZIai1qYlpXVTJENS00WVV3M1hnWVEyVDJ3SDN0T1pUZUI2b1ZLM9IBcEFVX3lxTE0zYm41MVA4clEyNEp5eTh4Ui1EY29hcXM4dHQ4SExkNnlhR203eXdMaHBJRm8tYnBTUVpTZ1g1Z05QS2JiUWFmY0l3Vl9GZ1hVbmVlOVhOZUQ1N3RhVjBlS3oxZTFORDVYR2hiYkdVdGY?oc=5"
     },
     {
       "tag": "환경뉴스",
@@ -48,18 +48,18 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "충남도의회, 탄소중립 2045 실현 머리 맞댄다 - 충청메시지",
-      "source": "충청메시지",
-      "date": "Mon, 28 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ESzR2d1JFM2NkdkpkZWtGZFJ5QmlkUHdlOS1Qek1BY191LWJVVFJZdTNvTXlMTkZZMnRKc0NaWGNfb0lZTXlQVEgxaDFQZWRGZzY0RDZmRVFjT2x1ck5nZm56UGY0QWt1TDdv?oc=5"
+      "title": "“녹색기술에 특허 빅데이터 입힌다”… 한국특허기술진흥원-한국환경산업기술원 MOU 체결 - 특허뉴스",
+      "source": "특허뉴스",
+      "date": "Tue, 29 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FTVQyUmNtdUdVSm1CNGxEcmdZODVSS2Foc1l3bDlOakdrVlAtRm1uSlRnd1o0R3dtQVBDUWExUzRfWFo3YWQyTg?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "충남도의회, 탄소중립 실현 연구 모임 발족 - 광장21",
-      "source": "광장21",
+      "title": "용인특례시, ‘탄소중립포인트 자동차 분야’ 참여자 최종 실적 등록 안내 - 환경법률신문",
+      "source": "환경법률신문",
       "date": "Mon, 28 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KbTg1MFphUWVOYTF3eTFEQVg3enBDRGgwa090QlBGR3F1S0NNZnRtbkdlZFQ4TEozZW85OExHOURIdnpqRU0yelZpTXc0N24tLVRBUi1sSXN2NlFDRWtibmZ6UjFKN2lJR0MyNw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BZzgwZnF6bkhpQzFDQmM1WEViYXBDSHJZdXh6MEozQl9BQk5tNXhUdGhYUU5DdWJzV01OZzV6UTg5R2tOX0Q4V1p1VUVlcjg2NjNWSkRqaTF3NlZkcGFVNjZSUmU2N3c?oc=5"
     }
   ],
-  "fact": "산업화 이전 대비 대기 중 이산화탄소 농도는 약 50% 증가했습니다."
+  "fact": "나무 한 그루는 평균적으로 1년에 약 20~25kg의 이산화탄소를 흡수합니다."
 }
