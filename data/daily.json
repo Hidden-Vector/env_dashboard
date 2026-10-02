@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T10:04:04.577655+09:00",
-  "generated_at_display": "2026-10-01 10:04 KST",
+  "generated_at": "2026-10-02T10:17:14.989005+09:00",
+  "generated_at_display": "2026-10-02 10:17 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,54 +12,54 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 22,
-    "pm25": 14,
-    "cai": "보통",
+    "pm10": 34,
+    "pm25": 12,
+    "cai": "좋음",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "송호성 기아 대표, 환경경영 전 생애주기로…탄소중립 가속[2026 ESG 리더] - v.daum.net",
-      "source": "v.daum.net",
-      "date": "Wed, 30 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwMUk0aEpHY1Y4T2hDSU9TUTJsU2g4SUJRSzhLSFJmM2hFWXAxTjVpWGZCQ1BEY1NpQUZIZW5kX0U4MGpwcnZ6ZXZkb3RZWms?oc=5"
+      "title": "“음주운전 NO·탄소중립 YES”…원주 중앙시장서 안전·환경 캠페인 - 서울경제TV",
+      "source": "서울경제TV",
+      "date": "Thu, 01 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nVjktcGp3TmpfczlBMUU1UWFEOGwwNFU1aWJ3WDZEUmh3Zy10VnZ3ZXpXcWlzb1F0ZU9wMkNnSUNDdGl0WUFrd2NBYW5RTUhlbV9XNjBaR1ZjUTJna2pfVXhJN1g?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "안산환경재단, 주민 주도 탄소중립 실천 확산 논의 - 천지일보",
-      "source": "천지일보",
-      "date": "Wed, 30 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IMEoxR054b3JISUdnSDQ2Y3kxazltMFZDWHFvWGVHbUdBQi1lbFN1TzJnNTRYS2JXVzJxbklwUUFWekpQR2hWTnNfaF9BQ3luNWJUOXZ2ZkpkM0NGUFBUZkwxT0l2cVlZMFE?oc=5"
+      "title": "노원구, '제2회 EU 그린데이 페스티벌' 참가...탄소중립 선도도시 성과 알린다! - 외교저널",
+      "source": "외교저널",
+      "date": "Fri, 02 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoRkNyNFJtTExiNlFNY05PelFTTjJ6UnVTU0xRbi1FYVg5WjRtZ1lKcG1CUG9VZ2hLNmNBbzlKVlZaSjhIc24za2p4WEZFb1BYNzVOdnNhd25SWU9Dd2tYZ3lEM2Q?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "구로구, ‘탄소중립 AI융합 인재양성사업’ 추진 - 문화일보",
-      "source": "문화일보",
-      "date": "Wed, 30 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wdEtPWWRscUE0cmI2R1dHQmtsOVA2ZUhUSWpKQk1MVmxNZUpfN2NmTDlaSzZWY1p0amFpLTRlVzlyUlVOMnlvRm9lQXh3Z3N3?oc=5"
+      "title": "공주금학초,‘탄소중립 실천 앞장 - 특급뉴스",
+      "source": "특급뉴스",
+      "date": "Fri, 02 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NVl83cnNxeFBCR0FReGdQQmZtWFJOT1FxVnVpMnM4QnNrMGRORW9QZ2NFTkJZeXlQaFh4WDRvX1A3dWxVeVgwRFZmNzMtWnVJbXozczNfZXJFQUI3dE9BaDEwREZoT1A1d00xeFlPZndfUQ?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "부산 사상구 주례1동, ‘어르신과 함께하는 탄소중립 실천 교실’ 운영 - kookje.co.kr",
-      "source": "kookje.co.kr",
-      "date": "Wed, 30 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRzd0YTNlcDQyTWdaNHZ0QnZib2d1aUgtNzFCQXdZWlZzRXVLcmhncm91bE90bmZUaF9NejhFa3lzNTZpcFJ3eXZwV3VHX1NqcllkMTVzekg5WUZEN3FOelMxNFpLc3A1VXdWUHk3Ump0YU8wcndHOGRnbVhtb1I0RlpJZTRaRHF1U0hDc25B?oc=5"
+      "title": "‘탄소중립 실천 한마음 한 뜻’ 제13회 그린전북 환경인 한마음대회 개최 - 전북도민일보",
+      "source": "전북도민일보",
+      "date": "Thu, 01 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBURW95Wm43UWZjTVlEeVlKUU45aEkxUFlHV3NMVU9oUUFtenNiUTRObnVlVnBHN0w0bGY0S2t6TkhWWHk0cURqQndJOUFyaU5US1ppbUltejVjSkcyQVBVd2xjQXp5S3ZWcWVV?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "“기후위기, 마을이 함께 돌본다”…기후돌봄 공동체 활성화 맞손 - gjdream.com",
-      "source": "gjdream.com",
-      "date": "Wed, 30 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjck9BQmdZUjBNd3JBSk1qS19CS0lFMTA0MHZZSVhmWGZpa3phVEpCVnFPNnVOOWJfNFBhSzZJM1hQcnFMUklJTG9KRmxFd0w1LUIwVWJVWjA1aEd1eWI4dHFOa3lJaFdrYkE?oc=5"
+      "title": "‘2030년 온실가스 43.9% 감축’…충주, 탄소중립 도시 전환 시동 - 공뉴스",
+      "source": "공뉴스",
+      "date": "Thu, 01 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15Ulh6LWNCNHRtTUVtZDZkME5OdjBscml4empndWN3cUxTaVNNT185d3dCVFMtM2ZRZlprRFRESlc3MWlFTG12aEcwQkFBckhkT0tHUDN3RGo4U3VPRlVGNVlrS1hIOGNJVTlXRQ?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "안산환경재단 에코멘토와 탄소중립 실천활동 점검 - 뉴스클레임",
-      "source": "뉴스클레임",
-      "date": "Wed, 30 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DaWx4RHJZMHZLRndkaGN5WUoyT05SclZidFpMdUxuNEpIeWxCZUd6ZlMtVHcxUFMzTzBFUTFWbGhMNElfakZaMlZTTkdGSnc5QXBqMko4a1RZak83eW44MzdwU0NQWjRUSlpwWWlrc3PSAXRBVV95cUxPeGdsWVY0bF9KcHdxb19Sb3Ixc0NnckdpNzZXb043a0pSMTR3YWg4Q0ZxNUtsX3Nka2pSQUhsWXptaWpiV2Y0MTFWZXpBQWwzdFdEVTduVVFSYmQxdW5YclRiaUluYi1GQ1FJVXh2MmpsbHFwQg?oc=5"
+      "title": "여주시, 5일장서 탄소중립 실천문화 확산 - enewstoday.co.kr",
+      "source": "enewstoday.co.kr",
+      "date": "Thu, 01 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90WTZyRTRDc1o5UU1qQjVHS2MwaXdGalR3V1F2WjYtTmlzMGpCR01DeXRhREUzRFFqcFBYMno2RDlMZ1FObEV3WERiUEJPYlZjMVZJTVJaU081dS1tSkxaakRIT1RXQ205TXRnQ2swSUzSAXRBVV95cUxObGJGa2d2ek8xX0M3RGVKT2dmTWdfeWxTS1laMlAwNEJmMzlMeW1zTzZ4WldwM0hUVFlGd0x3NEJ6STA1ai16UVdubF93Ul8zTmxnWElSTGpONjdXWmdZSTlaQUd4TFhqbWg1ZFBiLUo0YTlULQ?oc=5"
     }
   ],
-  "fact": "전 세계 플라스틱의 약 9%만이 실제로 재활용되고 있습니다."
+  "fact": "태양광 발전 비용은 지난 10여 년간 큰 폭으로 하락해 여러 지역에서 가장 저렴한 전력원 중 하나가 되었습니다."
 }
