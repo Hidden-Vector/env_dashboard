@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T10:17:14.989005+09:00",
-  "generated_at_display": "2026-10-02 10:17 KST",
+  "generated_at": "2026-10-03T09:56:38.182426+09:00",
+  "generated_at_display": "2026-10-03 09:56 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,54 +12,54 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 34,
-    "pm25": 12,
-    "cai": "좋음",
+    "pm10": null,
+    "pm25": null,
+    "cai": "수집 실패: timed out",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "“음주운전 NO·탄소중립 YES”…원주 중앙시장서 안전·환경 캠페인 - 서울경제TV",
-      "source": "서울경제TV",
-      "date": "Thu, 01 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nVjktcGp3TmpfczlBMUU1UWFEOGwwNFU1aWJ3WDZEUmh3Zy10VnZ3ZXpXcWlzb1F0ZU9wMkNnSUNDdGl0WUFrd2NBYW5RTUhlbV9XNjBaR1ZjUTJna2pfVXhJN1g?oc=5"
+      "title": "창원시 '초록을 심다! 미래를 잇다!' 환경 행사…탄소중립 체험 - newspim.com",
+      "source": "newspim.com",
+      "date": "Fri, 02 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14cElUZ1JkN1VmMFNhYlY4cFA2OWtIbzAtbE1CV1hsWnhTM19kY1dQeldWTVNRTTEyRnp4ZjFtaHJ1M3Y2cTRNQWVRUEptNHJOeFg3OG1ZYlJwNlNK?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "노원구, '제2회 EU 그린데이 페스티벌' 참가...탄소중립 선도도시 성과 알린다! - 외교저널",
-      "source": "외교저널",
+      "title": "창원서 9일 환경축제…체험·공연·영화로 탄소중립 배운다 - 부산일보",
+      "source": "부산일보",
       "date": "Fri, 02 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoRkNyNFJtTExiNlFNY05PelFTTjJ6UnVTU0xRbi1FYVg5WjRtZ1lKcG1CUG9VZ2hLNmNBbzlKVlZaSjhIc24za2p4WEZFb1BYNzVOdnNhd25SWU9Dd2tYZ3lEM2Q?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kNDBjcXJKQ2NhSGxUdldxNUN5RkRiOFdzbFgwUFZCbFRuVVZ1dE9YRWR4c00tVVBHdkJlaEJSZjJycFRQcjA2bk5DbTVDRHN5cUVNZVdpd3hua3RVR1Jyb3UzVnBjYk9rN04zNERfaHJuSnRBTzQ4?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "공주금학초,‘탄소중립 실천 앞장 - 특급뉴스",
-      "source": "특급뉴스",
+      "title": "노원구 'EU 그린데이 페스티벌' 참가 … 탄소중립 정책 알린다 - 서울동북신문",
+      "source": "서울동북신문",
       "date": "Fri, 02 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NVl83cnNxeFBCR0FReGdQQmZtWFJOT1FxVnVpMnM4QnNrMGRORW9QZ2NFTkJZeXlQaFh4WDRvX1A3dWxVeVgwRFZmNzMtWnVJbXozczNfZXJFQUI3dE9BaDEwREZoT1A1d00xeFlPZndfUQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0SklLaHktV2ZuMTZwRG1IbnFTbHJ2eUxzV0lYMy13dHFaNmgtcUtjQzdtaEZ1dFBhTjJPck84RURmU2xFeGNVNHlIUE1zQlNyeE9nYTF1TXBUUjJRYVV0R0FkMHNaSDktdHh3MA?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "바다를 지키는 어르신들 탄소중립 실천 배운다 - 고성신문",
+      "source": "고성신문",
+      "date": "Fri, 02 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8yMDFvODZ4d0ZBcTg1dWNzeUJjMGF1OFVPVHdoa0JLOTRfQnhPWkdtaXFUYUNjNHdncTJ5MVFUX2VyQ3BFcDRxVFROUVhjNzBBekhVUmY3c3hiOHA3YVFaTEtpcDJpNkpCbFlvZGw1clVyNXpuZ2M3X2I5REs?oc=5"
     },
     {
       "tag": "환경뉴스",
       "title": "‘탄소중립 실천 한마음 한 뜻’ 제13회 그린전북 환경인 한마음대회 개최 - 전북도민일보",
       "source": "전북도민일보",
       "date": "Thu, 01 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBURW95Wm43UWZjTVlEeVlKUU45aEkxUFlHV3NMVU9oUUFtenNiUTRObnVlVnBHN0w0bGY0S2t6TkhWWHk0cURqQndJOUFyaU5US1ppbUltejVjSkcyQVBVd2xjQXp5S3ZWcWVV?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdU1MdmxEbkNhTjhVWGtSTFcwdy02dmpWanVhR1ZsbXlXREdZNGVFUWV1LTNjVEEzbDRPMnpRYklsR2RCVWhmeEppWHFfWFRhcU5UclU4VS1wdTl5Ni05WVdhWnoyNktqVDlNNkFhMkZxUWhfU0ZqRF9MZTlpNFZ5VFNISVNhQQ?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "‘2030년 온실가스 43.9% 감축’…충주, 탄소중립 도시 전환 시동 - 공뉴스",
-      "source": "공뉴스",
-      "date": "Thu, 01 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15Ulh6LWNCNHRtTUVtZDZkME5OdjBscml4empndWN3cUxTaVNNT185d3dCVFMtM2ZRZlprRFRESlc3MWlFTG12aEcwQkFBckhkT0tHUDN3RGo4U3VPRlVGNVlrS1hIOGNJVTlXRQ?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "여주시, 5일장서 탄소중립 실천문화 확산 - enewstoday.co.kr",
-      "source": "enewstoday.co.kr",
-      "date": "Thu, 01 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90WTZyRTRDc1o5UU1qQjVHS2MwaXdGalR3V1F2WjYtTmlzMGpCR01DeXRhREUzRFFqcFBYMno2RDlMZ1FObEV3WERiUEJPYlZjMVZJTVJaU081dS1tSkxaakRIT1RXQ205TXRnQ2swSUzSAXRBVV95cUxObGJGa2d2ek8xX0M3RGVKT2dmTWdfeWxTS1laMlAwNEJmMzlMeW1zTzZ4WldwM0hUVFlGd0x3NEJ6STA1ai16UVdubF93Ul8zTmxnWElSTGpONjdXWmdZSTlaQUd4TFhqbWg1ZFBiLUo0YTlULQ?oc=5"
+      "title": "여주시, 여주5일장서 탄소중립 캠페인 진행 - 환경일보",
+      "source": "환경일보",
+      "date": "Fri, 02 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1udlJwaU8tOTFwWFpzazNqdGRWa09sVjAwdGUyM1FDRTBtOHl1MWpMWWZ6eGg2Zm0wdGNwaC1GR293YXZET0twZmt5emxQSkQ3OWlGdWRoWmdNT3pqTk1nc29Bem9SVXpX?oc=5"
     }
   ],
-  "fact": "태양광 발전 비용은 지난 10여 년간 큰 폭으로 하락해 여러 지역에서 가장 저렴한 전력원 중 하나가 되었습니다."
+  "fact": "해양은 인간이 배출한 이산화탄소의 상당 부분을 흡수해 해양 산성화를 일으키고 있습니다."
 }
