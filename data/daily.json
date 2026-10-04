@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T09:56:38.182426+09:00",
-  "generated_at_display": "2026-10-03 09:56 KST",
+  "generated_at": "2026-10-04T09:21:25.454796+09:00",
+  "generated_at_display": "2026-10-04 09:21 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,16 +12,16 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": null,
-    "pm25": null,
-    "cai": "수집 실패: timed out",
+    "pm10": 13,
+    "pm25": 4,
+    "cai": "좋음",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "창원시 '초록을 심다! 미래를 잇다!' 환경 행사…탄소중립 체험 - newspim.com",
-      "source": "newspim.com",
+      "title": "창원시 '초록을 심다! 미래를 잇다!' 환경 행사…탄소중립 체험 - 뉴스핌",
+      "source": "뉴스핌",
       "date": "Fri, 02 Oct 2026",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14cElUZ1JkN1VmMFNhYlY4cFA2OWtIbzAtbE1CV1hsWnhTM19kY1dQeldWTVNRTTEyRnp4ZjFtaHJ1M3Y2cTRNQWVRUEptNHJOeFg3OG1ZYlJwNlNK?oc=5"
     },
@@ -34,17 +34,10 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "노원구 'EU 그린데이 페스티벌' 참가 … 탄소중립 정책 알린다 - 서울동북신문",
-      "source": "서울동북신문",
+      "title": "여주시, 여주5일장서 탄소중립 캠페인 진행 - 환경일보",
+      "source": "환경일보",
       "date": "Fri, 02 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0SklLaHktV2ZuMTZwRG1IbnFTbHJ2eUxzV0lYMy13dHFaNmgtcUtjQzdtaEZ1dFBhTjJPck84RURmU2xFeGNVNHlIUE1zQlNyeE9nYTF1TXBUUjJRYVV0R0FkMHNaSDktdHh3MA?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "바다를 지키는 어르신들 탄소중립 실천 배운다 - 고성신문",
-      "source": "고성신문",
-      "date": "Fri, 02 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8yMDFvODZ4d0ZBcTg1dWNzeUJjMGF1OFVPVHdoa0JLOTRfQnhPWkdtaXFUYUNjNHdncTJ5MVFUX2VyQ3BFcDRxVFROUVhjNzBBekhVUmY3c3hiOHA3YVFaTEtpcDJpNkpCbFlvZGw1clVyNXpuZ2M3X2I5REs?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1udlJwaU8tOTFwWFpzazNqdGRWa09sVjAwdGUyM1FDRTBtOHl1MWpMWWZ6eGg2Zm0wdGNwaC1GR293YXZET0twZmt5emxQSkQ3OWlGdWRoWmdNT3pqTk1nc29Bem9SVXpX?oc=5"
     },
     {
       "tag": "환경뉴스",
@@ -55,11 +48,18 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "여주시, 여주5일장서 탄소중립 캠페인 진행 - 환경일보",
-      "source": "환경일보",
-      "date": "Fri, 02 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1udlJwaU8tOTFwWFpzazNqdGRWa09sVjAwdGUyM1FDRTBtOHl1MWpMWWZ6eGg2Zm0wdGNwaC1GR293YXZET0twZmt5emxQSkQ3OWlGdWRoWmdNT3pqTk1nc29Bem9SVXpX?oc=5"
+      "title": "송호성 기아 대표, 환경경영 전 생애주기로…탄소중립 가속[2026 ESG 리더] - v.daum.net",
+      "source": "v.daum.net",
+      "date": "Wed, 30 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBLMzl0N0VOMjlMOFkyazlIa0prOVhtaGh4NEcteHgtdDdhSVBzZEhnTk5UMkZ5SmxGYXFCMXJxcThDeUpzcWc?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "“오늘은 걸어서 왔어요”…상주 어린이들, 탄소중립 한 걸음 - kyongbuk.co.kr",
+      "source": "kyongbuk.co.kr",
+      "date": "Wed, 23 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5OXB4bjR2eGxIQjc0X3VIVHlhZUVUMEhBNGJzTUhRdHhGdkdub0JOMldWb2hNNXplMncxb1pnbDhoTTFDbk1ZbjJ6MHoyck9PRlVEaEhBLXMzZUJ3UmRSN2ZwNXJQUC1jc01hQTk1Yw?oc=5"
     }
   ],
-  "fact": "해양은 인간이 배출한 이산화탄소의 상당 부분을 흡수해 해양 산성화를 일으키고 있습니다."
+  "fact": "육류 소비를 줄이는 것은 개인이 실천할 수 있는 가장 효과적인 탄소 저감 방법 중 하나로 꼽힙니다."
 }
