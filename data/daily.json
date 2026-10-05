@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-04T09:21:25.454796+09:00",
-  "generated_at_display": "2026-10-04 09:21 KST",
+  "generated_at": "2026-10-05T09:26:31.008788+09:00",
+  "generated_at_display": "2026-10-05 09:26 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,12 +12,26 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 13,
-    "pm25": 4,
-    "cai": "좋음",
+    "pm10": null,
+    "pm25": null,
+    "cai": "수집 실패: <urlopen error timed out>",
     "sido": "대구 동구(신암동)"
   },
   "news": [
+    {
+      "tag": "환경뉴스",
+      "title": "영천시새마을회, 축제 현장에서 탄소중립 실천문화 확산! - 데일리대구경북뉴스",
+      "source": "데일리대구경북뉴스",
+      "date": "Sun, 04 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PYmRKMXFwTTJuR2RXWTdvNnR5ZGJtQWhBeDBLUnNxSHRMTHM0SEhzWE1xaTdhdHlqeEstZWxMb29zNVRZaTJTUEUxQnZvUnJpcm5PTHc4aVRxeFJ4S2l2ZTA3Z2Jsdw?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "영천시 영천강변공원서 '환경살리기 운동'…시민과 탄소중립 실천 - gukjenews.com",
+      "source": "gukjenews.com",
+      "date": "Sun, 04 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pTXpmRzNLV01UaU9uNXg0bkJTLU1GS0gxX3NRU2JlUUNCN2lTX0lOeFQ3ZzlsSFlfNVNEeF8zVWJoNGxybmttcnc3UUg3QjlPSEhCSXBTLXd1OWVOVXNFR216NjFob1dGNHpJUXFB?oc=5"
+    },
     {
       "tag": "환경뉴스",
       "title": "창원시 '초록을 심다! 미래를 잇다!' 환경 행사…탄소중립 체험 - 뉴스핌",
@@ -27,8 +41,15 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "창원서 9일 환경축제…체험·공연·영화로 탄소중립 배운다 - 부산일보",
-      "source": "부산일보",
+      "title": "공주금학초 학생들, 원예활동으로 배우는 탄소중립 - joongdo.co.kr",
+      "source": "joongdo.co.kr",
+      "date": "Sun, 04 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBYUJUbmRaNkItRVhFbWJ6Nk4zNUZDQ2dBbUZGSE1sSlktSDU5VjhLUUFVUVFHWUExUFhsTXNwNnNlckVyX1NKTGZlblk0bmZidnNQUE90blRPM2UyOHJpZmJubTE?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "창원서 9일 환경축제…체험·공연·영화로 탄소중립 배운다 - busan.com",
+      "source": "busan.com",
       "date": "Fri, 02 Oct 2026",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kNDBjcXJKQ2NhSGxUdldxNUN5RkRiOFdzbFgwUFZCbFRuVVZ1dE9YRWR4c00tVVBHdkJlaEJSZjJycFRQcjA2bk5DbTVDRHN5cUVNZVdpd3hua3RVR1Jyb3UzVnBjYk9rN04zNERfaHJuSnRBTzQ4?oc=5"
     },
@@ -38,28 +59,7 @@
       "source": "환경일보",
       "date": "Fri, 02 Oct 2026",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1udlJwaU8tOTFwWFpzazNqdGRWa09sVjAwdGUyM1FDRTBtOHl1MWpMWWZ6eGg2Zm0wdGNwaC1GR293YXZET0twZmt5emxQSkQ3OWlGdWRoWmdNT3pqTk1nc29Bem9SVXpX?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "‘탄소중립 실천 한마음 한 뜻’ 제13회 그린전북 환경인 한마음대회 개최 - 전북도민일보",
-      "source": "전북도민일보",
-      "date": "Thu, 01 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdU1MdmxEbkNhTjhVWGtSTFcwdy02dmpWanVhR1ZsbXlXREdZNGVFUWV1LTNjVEEzbDRPMnpRYklsR2RCVWhmeEppWHFfWFRhcU5UclU4VS1wdTl5Ni05WVdhWnoyNktqVDlNNkFhMkZxUWhfU0ZqRF9MZTlpNFZ5VFNISVNhQQ?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "송호성 기아 대표, 환경경영 전 생애주기로…탄소중립 가속[2026 ESG 리더] - v.daum.net",
-      "source": "v.daum.net",
-      "date": "Wed, 30 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBLMzl0N0VOMjlMOFkyazlIa0prOVhtaGh4NEcteHgtdDdhSVBzZEhnTk5UMkZ5SmxGYXFCMXJxcThDeUpzcWc?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "“오늘은 걸어서 왔어요”…상주 어린이들, 탄소중립 한 걸음 - kyongbuk.co.kr",
-      "source": "kyongbuk.co.kr",
-      "date": "Wed, 23 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5OXB4bjR2eGxIQjc0X3VIVHlhZUVUMEhBNGJzTUhRdHhGdkdub0JOMldWb2hNNXplMncxb1pnbDhoTTFDbk1ZbjJ6MHoyck9PRlVEaEhBLXMzZUJ3UmRSN2ZwNXJQUC1jc01hQTk1Yw?oc=5"
     }
   ],
-  "fact": "육류 소비를 줄이는 것은 개인이 실천할 수 있는 가장 효과적인 탄소 저감 방법 중 하나로 꼽힙니다."
+  "fact": "국제사회는 파리협정을 통해 산업화 이전 대비 지구 평균기온 상승을 1.5도 이내로 억제하는 것을 목표로 하고 있습니다."
 }
