@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T09:26:31.008788+09:00",
-  "generated_at_display": "2026-10-05 09:26 KST",
+  "generated_at": "2026-10-06T11:03:43.642542+09:00",
+  "generated_at_display": "2026-10-06 11:03 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,25 +12,46 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": null,
-    "pm25": null,
-    "cai": "수집 실패: <urlopen error timed out>",
+    "pm10": 18,
+    "pm25": 8,
+    "cai": "보통",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "영천시새마을회, 축제 현장에서 탄소중립 실천문화 확산! - 데일리대구경북뉴스",
-      "source": "데일리대구경북뉴스",
-      "date": "Sun, 04 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PYmRKMXFwTTJuR2RXWTdvNnR5ZGJtQWhBeDBLUnNxSHRMTHM0SEhzWE1xaTdhdHlqeEstZWxMb29zNVRZaTJTUEUxQnZvUnJpcm5PTHc4aVRxeFJ4S2l2ZTA3Z2Jsdw?oc=5"
+      "title": "인천환경공단, 아빠와 함께 자원순환․탄소중립 캠핑 - 미디어인천신문",
+      "source": "미디어인천신문",
+      "date": "Mon, 05 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95UHE4eWxyMFVLendWRHBtMml0YnRWNjJ2cmVrRFM3ajFFeDFuaV9YV2VLeVR6SFBhenBHM0pUNFVLZGw2VmJLTnpiOVpjbXQ3bVRwbjBGaUhSMTVwQ2ppSWJxWjdmSWRsVldr?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "영천시 영천강변공원서 '환경살리기 운동'…시민과 탄소중립 실천 - gukjenews.com",
-      "source": "gukjenews.com",
-      "date": "Sun, 04 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pTXpmRzNLV01UaU9uNXg0bkJTLU1GS0gxX3NRU2JlUUNCN2lTX0lOeFQ3ZzlsSFlfNVNEeF8zVWJoNGxybmttcnc3UUg3QjlPSEhCSXBTLXd1OWVOVXNFR216NjFob1dGNHpJUXFB?oc=5"
+      "title": "한국보건의료연구원-한국기후·환경네트워크, ‘탄소중립 실천’ 업무협약’을 체결 - 재활뉴스",
+      "source": "재활뉴스",
+      "date": "Mon, 05 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pTFE2eEFIWHNQdjVMWjZPazJNWEc3Vy1EcmpHRTJFSEczNWZBd042Q0kxRjF4dElXMm1oRVM2MGJVZUViQmJjYnF1VGZmNWxHTVRIemVnMmtvbHdMdlBFZG44aUc5alA3aE9F?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "인천환경공단, ‘아빠와 함께 자원순환․탄소중립 캠핑’ - 일간투데이",
+      "source": "일간투데이",
+      "date": "Mon, 05 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYYzA5dWpqUXFfVUhXbmE2V0tWLVVyYVM5WndQOTFPTDFpd2JHcUczODc4YnQ4WjVHWnVGTGJjSDFkcURwQUFZM3pWNk9LVlZRTS15dUlYcXNBd1VmZzN3RU11ZEc4U3ExSzJR?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "인천환경공단, 아빠와 함께하는 자원순환 탄소중립 캠핑행사 - 경기도민일보 미디어",
+      "source": "경기도민일보 미디어",
+      "date": "Mon, 05 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56U2FaT0lFSC1pSkRrZm9oNkdOVXJIOERzRmpjVWhKMnJvWXRhOVptVFloT200djZYd3BSelk2WlUwYlF1WWhzQ3pKalhDclVxdkhMaW1sU3IxMTBDUlhoVnVsYVVNUlZFVmc?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "인천환경공단, ‘아빠와 함께 자원순환·탄소중립 캠핑' 진행 - 경기신문",
+      "source": "경기신문",
+      "date": "Mon, 05 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aR0dHVW8wWHBWclRXMFZidUtQcFprTmNQMVRuVmF2Q25xMjBWamJReVp5bkd6UE85ZnRSSndxUmNyY2JtQ0kwTmVNdTFBM3c5cF9DLXhwTlZxOVVVdG1DX3l3?oc=5"
     },
     {
       "tag": "환경뉴스",
@@ -38,28 +59,7 @@
       "source": "뉴스핌",
       "date": "Fri, 02 Oct 2026",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14cElUZ1JkN1VmMFNhYlY4cFA2OWtIbzAtbE1CV1hsWnhTM19kY1dQeldWTVNRTTEyRnp4ZjFtaHJ1M3Y2cTRNQWVRUEptNHJOeFg3OG1ZYlJwNlNK?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "공주금학초 학생들, 원예활동으로 배우는 탄소중립 - joongdo.co.kr",
-      "source": "joongdo.co.kr",
-      "date": "Sun, 04 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBYUJUbmRaNkItRVhFbWJ6Nk4zNUZDQ2dBbUZGSE1sSlktSDU5VjhLUUFVUVFHWUExUFhsTXNwNnNlckVyX1NKTGZlblk0bmZidnNQUE90blRPM2UyOHJpZmJubTE?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "창원서 9일 환경축제…체험·공연·영화로 탄소중립 배운다 - busan.com",
-      "source": "busan.com",
-      "date": "Fri, 02 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kNDBjcXJKQ2NhSGxUdldxNUN5RkRiOFdzbFgwUFZCbFRuVVZ1dE9YRWR4c00tVVBHdkJlaEJSZjJycFRQcjA2bk5DbTVDRHN5cUVNZVdpd3hua3RVR1Jyb3UzVnBjYk9rN04zNERfaHJuSnRBTzQ4?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "여주시, 여주5일장서 탄소중립 캠페인 진행 - 환경일보",
-      "source": "환경일보",
-      "date": "Fri, 02 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1udlJwaU8tOTFwWFpzazNqdGRWa09sVjAwdGUyM1FDRTBtOHl1MWpMWWZ6eGg2Zm0wdGNwaC1GR293YXZET0twZmt5emxQSkQ3OWlGdWRoWmdNT3pqTk1nc29Bem9SVXpX?oc=5"
     }
   ],
-  "fact": "국제사회는 파리협정을 통해 산업화 이전 대비 지구 평균기온 상승을 1.5도 이내로 억제하는 것을 목표로 하고 있습니다."
+  "fact": "한국은 2050년 탄소중립을 국가 목표로 선언했습니다."
 }
