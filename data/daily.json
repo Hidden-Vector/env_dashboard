@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-06T11:03:43.642542+09:00",
-  "generated_at_display": "2026-10-06 11:03 KST",
+  "generated_at": "2026-10-07T10:12:41.633101+09:00",
+  "generated_at_display": "2026-10-07 10:12 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,12 +12,40 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 18,
-    "pm25": 8,
-    "cai": "보통",
+    "pm10": null,
+    "pm25": null,
+    "cai": "수집 실패: timed out",
     "sido": "대구 동구(신암동)"
   },
   "news": [
+    {
+      "tag": "환경뉴스",
+      "title": "계룡시, ‘계룡군문화축제서 탄소중립 실천문화 확산 - 충청메시지",
+      "source": "충청메시지",
+      "date": "Wed, 07 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95VUs4MUZlajlqbTFQYlBsazZDclJpSFJrdFlwWjQxRmNIU2pfcjBGNS1nNkRtRWtnTFEyam00RUlWQ25WQmo1M3RCVFltSm1LZm1PNHhhZlU3Y29QTE1BdjA4M3hIUFZGQV9j?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "울주군의원 \"탄소중립 실효성 강화…미달성 사업 보완 필요\" - 연합뉴스",
+      "source": "연합뉴스",
+      "date": "Tue, 06 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiWUJCMVF5SUhvbmZrNFNUZm5Sb1o3SkJDM1JoZGYwbzlhVnFjYzBLbHpJRmhuSTdqd0hrY0E3TUZmenhTZm5fM0I0YUNlcTZJWmFKU0lZN2N1UkFPMVBzZdIBYEFVX3lxTFBiWUJCMVF5SUhvbmZrNFNUZm5Sb1o3SkJDM1JoZGYwbzlhVnFjYzBLbHpJRmhuSTdqd0hrY0E3TUZmenhTZm5fM0I0YUNlcTZJWmFKU0lZN2N1UkFPMVBzZQ?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "인천환경공단, 가족과 함께 ‘탄소중립 캠핑’ - 애드뉴스인천",
+      "source": "애드뉴스인천",
+      "date": "Tue, 06 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kWkZtaUdJaVlKckxUU1AtT216bjlVRUwtdVdTQ1VlWllVM3JSOGhoTE1Rbnd3ZmtoSXJCbUdTR084ZjBMTWw2YmtOMlRHQlhuemNyRDFEcHZiUjBKZ2g5TWxiRWc1U1phTmEw?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "성북구 돈암2동, 환경 정화와 재활용 시설 견학으로 탄소중립 앞장 > 뉴스 - 더코리아",
+      "source": "더코리아",
+      "date": "Tue, 06 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5dlNZYlNDYUFManB5dlVoQkZTdEtTWnVOaUJtWGVicEdvcWJtcU1pbjlMM192Z3c5VllIZGtnSWQ1WVBXdExEYW1PWERJVVEtT2x2OUtYWVA3S2k3Yk5YRy1aVkhNX1RUZXJYM1FIRzI?oc=5"
+    },
     {
       "tag": "환경뉴스",
       "title": "인천환경공단, 아빠와 함께 자원순환․탄소중립 캠핑 - 미디어인천신문",
@@ -31,35 +59,7 @@
       "source": "재활뉴스",
       "date": "Mon, 05 Oct 2026",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pTFE2eEFIWHNQdjVMWjZPazJNWEc3Vy1EcmpHRTJFSEczNWZBd042Q0kxRjF4dElXMm1oRVM2MGJVZUViQmJjYnF1VGZmNWxHTVRIemVnMmtvbHdMdlBFZG44aUc5alA3aE9F?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "인천환경공단, ‘아빠와 함께 자원순환․탄소중립 캠핑’ - 일간투데이",
-      "source": "일간투데이",
-      "date": "Mon, 05 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYYzA5dWpqUXFfVUhXbmE2V0tWLVVyYVM5WndQOTFPTDFpd2JHcUczODc4YnQ4WjVHWnVGTGJjSDFkcURwQUFZM3pWNk9LVlZRTS15dUlYcXNBd1VmZzN3RU11ZEc4U3ExSzJR?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "인천환경공단, 아빠와 함께하는 자원순환 탄소중립 캠핑행사 - 경기도민일보 미디어",
-      "source": "경기도민일보 미디어",
-      "date": "Mon, 05 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56U2FaT0lFSC1pSkRrZm9oNkdOVXJIOERzRmpjVWhKMnJvWXRhOVptVFloT200djZYd3BSelk2WlUwYlF1WWhzQ3pKalhDclVxdkhMaW1sU3IxMTBDUlhoVnVsYVVNUlZFVmc?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "인천환경공단, ‘아빠와 함께 자원순환·탄소중립 캠핑' 진행 - 경기신문",
-      "source": "경기신문",
-      "date": "Mon, 05 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aR0dHVW8wWHBWclRXMFZidUtQcFprTmNQMVRuVmF2Q25xMjBWamJReVp5bkd6UE85ZnRSSndxUmNyY2JtQ0kwTmVNdTFBM3c5cF9DLXhwTlZxOVVVdG1DX3l3?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "창원시 '초록을 심다! 미래를 잇다!' 환경 행사…탄소중립 체험 - 뉴스핌",
-      "source": "뉴스핌",
-      "date": "Fri, 02 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14cElUZ1JkN1VmMFNhYlY4cFA2OWtIbzAtbE1CV1hsWnhTM19kY1dQeldWTVNRTTEyRnp4ZjFtaHJ1M3Y2cTRNQWVRUEptNHJOeFg3OG1ZYlJwNlNK?oc=5"
     }
   ],
-  "fact": "한국은 2050년 탄소중립을 국가 목표로 선언했습니다."
+  "fact": "이산화탄소는 대기 중에 배출된 뒤 수백 년간 머무를 수 있어, 오늘 줄인 배출량의 효과는 수십 년 뒤에야 기후에 반영되기 시작합니다."
 }
