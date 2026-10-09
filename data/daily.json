@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T10:33:59.365182+09:00",
-  "generated_at_display": "2026-10-08 10:33 KST",
+  "generated_at": "2026-10-09T10:44:47.972311+09:00",
+  "generated_at_display": "2026-10-09 10:44 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,9 +12,9 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 24,
-    "pm25": 14,
-    "cai": "좋음",
+    "pm10": 35,
+    "pm25": 23,
+    "cai": "보통",
     "sido": "대구 동구(신암동)"
   },
   "news": [
@@ -27,39 +27,39 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "일상 속 탄소중립 실천… 성북구 환경교육 2종, 국가 인증 획득 - 국제뉴스",
-      "source": "국제뉴스",
+      "title": "인터넷신문협회-숙명여대, 기후저널리즘 전문인력 양성 협력 - 뉴스후플러스",
+      "source": "뉴스후플러스",
       "date": "Thu, 08 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tamM0U2RfZlZPX0pQUXpERjUxSjNPOVdJUVgwS0RqVEgtQ19HeG5jOU5uZnVSRlpJYlJDWjdCZmJCRXJBNWpib2JNSWIwV1NkTEw5VTBtdVlHVUlxNmhzbUJiQTZFcTR5WWJiZ0NB?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NTnU5dXVRcDN6U1Q0cHVNVm9BTTg5bWNIOVBoc1JWTURITDMtdWhjc3EyQWM5TmxxQ3czQzRYQkFyVXU0VnAzZjJESGZ5eUs2OFppOWJ1a293U2JlQU5NXzZUQ1lpeUI0RmJTRG1n?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "안산환경재단, '2026 탄소중립 전문가 양성 교육' 교육생 모집 - 경인신문",
-      "source": "경인신문",
-      "date": "Wed, 07 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sd2dkZWFPcUdyYWRxRnphMWh5UXdEaDZQXzEtU2l5NFczYTM1d01meTFDSlkwRnRpSG1CeWdwNW5aSk56VWc5S2ZoRHZYb0dlOGdCbVZ1VzJtMzJXYk9NRTNvREUzcnM?oc=5"
+      "title": "용인시의회 탄소중립연구소IV, 순환경제 정책 간담회 개최 - 매일일보",
+      "source": "매일일보",
+      "date": "Thu, 08 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UZElUMnlrN0U1ZHlIX0RXOVBjU2hZMEZCTW9TdkRJeWRRc3NyUGwzWHdUcGJsQm0yc0x3RWJaTzZxWTJ3dXJsc00wVDFhT1h1WU5qN3R6S1NsbnlKQWtxbjVvb04?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "성북구, 성북탄소중립배움터 환경교육 프로그램 2개 국가 '우수환경교육' 지정 > 뉴스 - 더코리아",
-      "source": "더코리아",
+      "title": "안산환경재단 탄소중립 전문가 교육생 모집 - 안산뉴스",
+      "source": "안산뉴스",
       "date": "Wed, 07 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91Ny1WbU9jSmQ4Q2oxXzh2djRRSFVISFM0UUE3MFduVld5ajNiX2RFTVptSHo5WDdEdURmdTJKZTRfWTBRd2t4ajRsdFBHSi1qR3E3SE1NWkRzdzgtVFJreWxvd3h2aHFQMHVSZ3BtdDI?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VOFhTRFRHZTUzOGFhUXd0b3JNaGk0elZMWHNRLVRBTk1Oc0FObnA1SkJOTUp6RDdKYVFUbjJoUU55V2pEVW5tN29xRndtZEZ6UklpS3R6dFo1M09iWThHekl2b3dzbjAzQURWMQ?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "안산환경재단, 탄소중립 전문가 양성…20명 모집 - 신아일보",
-      "source": "신아일보",
+      "title": "안산환경재단 지역 탄소중립 역량 높일 교육과정 운영 - 아주경제",
+      "source": "아주경제",
       "date": "Wed, 07 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wc2ZpejJybDNQcXg1UjZYWFpTV2U0cjAxUzZiek5UM0VydVlVLXNDSUl1Rnp0ckE1S2dSOWE1eDFqbUlRcmtyc2UtZUtaaXVXMHNzNVIxS0tZdGRUZmlhNTBsLVlCajRaWWlzcVhZUEY?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TYVBLeUNhWXltYUFDRjgyRTFFRDV0aXF1aGZZUFZRQkVrek13TDZKNm9iTUpZV2VMZ2Q2Vk91aWgxRFRxRHQwU0t0ZTJKdENSTHVZMGhwTmvSAVhBVV95cUxNU2FQS3lDYVl5bWFBQ0Y4MkUxRUQ1dGlxdWhmWVBWUUJFa3pNd0w2SjZvYk1KWVdlTGdkNlZPdWloMURUcUR0MFNLdGUySnRDUkx1WTBocE5r?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "[수원특례시의회는 지금] 김경례 환경안전위원장 “시민 안전부터 탄소중립까지…현장에서 답 찾겠다” - 인천일보",
-      "source": "인천일보",
-      "date": "Wed, 07 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JazVZQ2hGcTZJdVpOaEFvcjBmbWgwR0g1M2stUXlJVVBNRGk4SG1EeFpsemxfdk1sLTkzOWRxeERsUFpTeE9zajB1bVZBaV9mMEJWd3VBcDVhUEItYWVZZTZDY3B6V3hLcVQzTVBLVQ?oc=5"
+      "title": "인천환경공단, 아빠와 함께 자원순환․탄소중립 캠핑 - 미디어인천신문",
+      "source": "미디어인천신문",
+      "date": "Mon, 05 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95UHE4eWxyMFVLendWRHBtMml0YnRWNjJ2cmVrRFM3ajFFeDFuaV9YV2VLeVR6SFBhenBHM0pUNFVLZGw2VmJLTnpiOVpjbXQ3bVRwbjBGaUhSMTVwQ2ppSWJxWjdmSWRsVldr?oc=5"
     }
   ],
-  "fact": "전 세계 온실가스 배출량의 약 4분의 1은 식량 생산 과정에서 발생합니다."
+  "fact": "산업화 이전 대비 대기 중 이산화탄소 농도는 약 50% 증가했습니다."
 }
