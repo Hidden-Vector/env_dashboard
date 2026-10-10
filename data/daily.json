@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T10:44:47.972311+09:00",
-  "generated_at_display": "2026-10-09 10:44 KST",
+  "generated_at": "2026-10-10T10:31:13.140284+09:00",
+  "generated_at_display": "2026-10-10 10:31 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,8 +12,8 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 35,
-    "pm25": 23,
+    "pm10": 33,
+    "pm25": 24,
     "cai": "보통",
     "sido": "대구 동구(신암동)"
   },
@@ -27,17 +27,10 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "인터넷신문협회-숙명여대, 기후저널리즘 전문인력 양성 협력 - 뉴스후플러스",
-      "source": "뉴스후플러스",
-      "date": "Thu, 08 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NTnU5dXVRcDN6U1Q0cHVNVm9BTTg5bWNIOVBoc1JWTURITDMtdWhjc3EyQWM5TmxxQ3czQzRYQkFyVXU0VnAzZjJESGZ5eUs2OFppOWJ1a293U2JlQU5NXzZUQ1lpeUI0RmJTRG1n?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "용인시의회 탄소중립연구소IV, 순환경제 정책 간담회 개최 - 매일일보",
-      "source": "매일일보",
-      "date": "Thu, 08 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UZElUMnlrN0U1ZHlIX0RXOVBjU2hZMEZCTW9TdkRJeWRRc3NyUGwzWHdUcGJsQm0yc0x3RWJaTzZxWTJ3dXJsc00wVDFhT1h1WU5qN3R6S1NsbnlKQWtxbjVvb04?oc=5"
+      "title": "안산시민환경한마당 안산시, 2026 탄소중립 실천 확산 - 반월신문",
+      "source": "반월신문",
+      "date": "Fri, 09 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zVlBEcUtoLTRwVDBDTC1uSmJ4bEtpU2c1bXI3aC1jVFVac3JId0FHRTNVR0RGSHREc1RpRmtESGFvMVVlM0hsZnFtR2g2UjA2VHM0a1FTN3ExdUJlQnVOVjM4THR1Qjg?oc=5"
     },
     {
       "tag": "환경뉴스",
@@ -48,18 +41,25 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "안산환경재단 지역 탄소중립 역량 높일 교육과정 운영 - 아주경제",
-      "source": "아주경제",
-      "date": "Wed, 07 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TYVBLeUNhWXltYUFDRjgyRTFFRDV0aXF1aGZZUFZRQkVrek13TDZKNm9iTUpZV2VMZ2Q2Vk91aWgxRFRxRHQwU0t0ZTJKdENSTHVZMGhwTmvSAVhBVV95cUxNU2FQS3lDYVl5bWFBQ0Y4MkUxRUQ1dGlxdWhmWVBWUUJFa3pNd0w2SjZvYk1KWVdlTGdkNlZPdWloMURUcUR0MFNLdGUySnRDUkx1WTBocE5r?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
       "title": "인천환경공단, 아빠와 함께 자원순환․탄소중립 캠핑 - 미디어인천신문",
       "source": "미디어인천신문",
       "date": "Mon, 05 Oct 2026",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95UHE4eWxyMFVLendWRHBtMml0YnRWNjJ2cmVrRFM3ajFFeDFuaV9YV2VLeVR6SFBhenBHM0pUNFVLZGw2VmJLTnpiOVpjbXQ3bVRwbjBGaUhSMTVwQ2ppSWJxWjdmSWRsVldr?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "인천환경공단, 가족과 함께 ‘탄소중립 캠핑’ - 애드뉴스인천",
+      "source": "애드뉴스인천",
+      "date": "Tue, 06 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kWkZtaUdJaVlKckxUU1AtT216bjlVRUwtdVdTQ1VlWllVM3JSOGhoTE1Rbnd3ZmtoSXJCbUdTR084ZjBMTWw2YmtOMlRHQlhuemNyRDFEcHZiUjBKZ2g5TWxiRWc1U1phTmEw?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "“오늘은 걸어서 왔어요”…상주 어린이들, 탄소중립 한 걸음 - 경북일보",
+      "source": "경북일보",
+      "date": "Wed, 23 Sep 2026",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5OXB4bjR2eGxIQjc0X3VIVHlhZUVUMEhBNGJzTUhRdHhGdkdub0JOMldWb2hNNXplMncxb1pnbDhoTTFDbk1ZbjJ6MHoyck9PRlVEaEhBLXMzZUJ3UmRSN2ZwNXJQUC1jc01hQTk1Yw?oc=5"
     }
   ],
-  "fact": "산업화 이전 대비 대기 중 이산화탄소 농도는 약 50% 증가했습니다."
+  "fact": "나무 한 그루는 평균적으로 1년에 약 20~25kg의 이산화탄소를 흡수합니다."
 }
