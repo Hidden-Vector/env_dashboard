@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T09:40:42.159730+09:00",
-  "generated_at_display": "2026-10-11 09:40 KST",
+  "generated_at": "2026-10-12T09:59:55.941496+09:00",
+  "generated_at_display": "2026-10-12 09:59 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,8 +12,8 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 27,
-    "pm25": 16,
+    "pm10": 25,
+    "pm25": 14,
     "cai": "보통",
     "sido": "대구 동구(신암동)"
   },
@@ -22,8 +22,15 @@
       "tag": "환경뉴스",
       "title": "충북교육청, 교실에서 자연으로... 탄소중립 실천하는 환경교육 펼친다 : 네이버 블로그 - Naver Blog",
       "source": "Naver Blog",
-      "date": "Sat, 10 Oct 2026",
+      "date": "Sun, 11 Oct 2026",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON2hKWDJDQXJOYjRIUl9tUEQ0VXFqNndIanhWd21ZeWYwMjhYRjE2eFlaX0dYb0hBc0FoMmFCNGFMMWFub1RZcGNOVHNZbjRYMjFVMXZzUjJWRHlGSXM3RnNIb0VRVVcxZmZMV0Y0NUtTUHJVYlZ3akFDYUg2TV9vNEV6QUU2N1pmb01uWW0wRQ?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "[ESG특집] 영국, 탄소중립 정책 후퇴 선언…한국 수출기업·금융시장 파장은? - 데일리연합",
+      "source": "데일리연합",
+      "date": "Sun, 11 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HcVdmNzI5RjNpWXc1NWZWd1VLRlBYRGFpWV8tYnV5U0UzWTRDejdEQ2hwYWxEVUhRUHI1UnVoSGhCZWp3NEpnekxWcjJJNXdETEZjWmpTS2ZhaDg?oc=5"
     },
     {
       "tag": "환경뉴스",
@@ -34,20 +41,6 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "파주시, 시민 참여로 탄소중립 정책 26개 발굴 - 내외뉴스통신",
-      "source": "내외뉴스통신",
-      "date": "Sat, 10 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93U05UNEpveFByWlNWU3hNNkdvYkJPc1ZYakctSzRGZzZPclMzZjlwamRoamdHUXY5bzN1NXN4NXpHd2NIUnpaQVhkQlJUMzE2NmxlaDlNekNhTTNrVnpMRTBMeHBtSm1WNmxFbC1R0gFwQVVfeXFMTk81d1F4dDZNSkZveTFEYkxXdFJaUzI3WjJHNDlYOGt5SksyQXhjNkZZWm5qZmxtWGpKcWExd3pFdUg5X2xzUDA5d2cxX0dsZzVpTXhha2xsVWxhcy1vN0ZCN1BZZXAwbU04Nld0aHdLUA?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "충북교육청 '환경 교육 현장 지원단' 운영…학교 65곳 컨설팅 - 뉴시스",
-      "source": "뉴시스",
-      "date": "Sun, 11 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iUUtQTkc2Y2xIMTh5c1pzcjdLWWJCN0QxSklCUU1XcjR6NVdSWVlDYk1YaGxWdVhQZV9yd093MVhDY0o1aVctTG1hSlh0SVEwUXpjYkJ2RTg4OUo5RWZ3S9IBeEFVX3lxTE1ySzVta1lxZnBKLVBxelo3OXE5QWwzVXVJaUh2enh0cXc3RS0tNzY0bkdfbUJjUmRDZVJDOUNYVC1RbzdZZi1vWXpmRmhwNkxVNWY1TWhxcV9faEpQNDNicjUzQ1dManFCZWpEX1VzM3ZPTkdzMER1dg?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
       "title": "안산환경재단 탄소중립 전문가 교육생 모집 - 안산뉴스",
       "source": "안산뉴스",
       "date": "Wed, 07 Oct 2026",
@@ -55,11 +48,18 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "“오늘은 걸어서 왔어요”…상주 어린이들, 탄소중립 한 걸음 - 경북일보",
-      "source": "경북일보",
-      "date": "Wed, 23 Sep 2026",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5OXB4bjR2eGxIQjc0X3VIVHlhZUVUMEhBNGJzTUhRdHhGdkdub0JOMldWb2hNNXplMncxb1pnbDhoTTFDbk1ZbjJ6MHoyck9PRlVEaEhBLXMzZUJ3UmRSN2ZwNXJQUC1jc01hQTk1Yw?oc=5"
+      "title": "창원시 ‘초록한마당·환경영화제’ 성료 - 한국공공정책신문",
+      "source": "한국공공정책신문",
+      "date": "Sun, 11 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBFT0c5eVZycHZxWE5kS1ZyWkpGMWdwNEo3TE96dl9feTE2TE1IUTUzV0ViYlZUOEkwU3NJM2I2X3U3VUE?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "안산시민환경한마당 안산시, 2026 탄소중립 실천 확산 - 반월신문",
+      "source": "반월신문",
+      "date": "Fri, 09 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zVlBEcUtoLTRwVDBDTC1uSmJ4bEtpU2c1bXI3aC1jVFVac3JId0FHRTNVR0RGSHREc1RpRmtESGFvMVVlM0hsZnFtR2g2UjA2VHM0a1FTN3ExdUJlQnVOVjM4THR1Qjg?oc=5"
     }
   ],
-  "fact": "전 세계 플라스틱의 약 9%만이 실제로 재활용되고 있습니다."
+  "fact": "태양광 발전 비용은 지난 10여 년간 큰 폭으로 하락해 여러 지역에서 가장 저렴한 전력원 중 하나가 되었습니다."
 }
