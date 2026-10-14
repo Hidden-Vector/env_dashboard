@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T11:50:19.044953+09:00",
-  "generated_at_display": "2026-10-13 11:50 KST",
+  "generated_at": "2026-10-14T09:52:07.203936+09:00",
+  "generated_at_display": "2026-10-14 09:52 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,54 +12,54 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 24,
-    "pm25": 14,
-    "cai": "정상 수신",
+    "pm10": null,
+    "pm25": null,
+    "cai": "수집 실패: timed out",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "부천시, 탄소중립 실천 111만 건 돌파…시민 참여 확산 - 매일일보",
-      "source": "매일일보",
+      "title": "삼척시 탄소중립지원센터-2026 삼척시 탄소중립 환경교육 - 더뉴스코리아",
+      "source": "더뉴스코리아",
       "date": "Tue, 13 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtZFh6RlBMZXVpdzdIWU5ydnZ2ekpyR2Zham9scmtiWHJ5MEdNMnFnUmVSZjVRLTR6RzRPUEM0SGJlS0U1OFRqTmVFdWF3MTdWNk9lYnVZb2l4cE1HREU2U0VxOUM?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBOTTdrc09OMFpHT2V0ZTQyMjRNYXR5WjFaa01jOURfWDdpZ3J2QnJkTW5MTFNNSWdud3FTeWdsVFVlQ3pBdldYQkV3?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "부천시 탄소중립 실천 111만 건 넘어…지역 공동체 참여 확대 - 중부일보",
-      "source": "중부일보",
+      "title": "쓰레기도 에너지가 된다… 탄소중립 시대, 새로운 해법 찾는다 - 서울Pn",
+      "source": "서울Pn",
       "date": "Tue, 13 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYVjdCSjlsVk1jbEFVbmk1WlU0ZWxPZmZaVVBfZUpYR2JWUEhOeG9xcEhRVVF0djdzZlQ1a2xkR0sybWhGdU1BbHI0R3haczVmMVlOdWd1TjRkZ2FiV2VOLUJ2cUJlYjFyLW9FVnl3?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE10UlpMWnNTWnJpNGRMem9KcGVwNjZjM2pjV3JqbVczN01BdFlVX25lcGtLZVdNN0F5RVZIR1dkZVJiZEF4VFBWU3Z4N2JEbkxNYmFfamg2TTJWVVpIQllubE5B?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "성남시 기후 위기 대응·탄소중립 교육…시민 150명 모집 - 미래경제뉴스",
-      "source": "미래경제뉴스",
-      "date": "Mon, 12 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UQ1R1ODdGQk5BejBGcFVKUGVVaVhPdEZRa3hLbGcyY2U4VFB4QXNKWlFCdjNCUXpBWnRSYVozNFZSZlhVNmMwb3BQanJNX1NjYU16cTd2UFpydzlzVGk4aDBLOFZkZw?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "충북교육청, 교실에서 자연으로... 탄소중립 실천하는 환경교육 펼친다 - Naver Blog",
+      "title": "충북교육청, 교실에서 자연으로... 탄소중립 실천하는 환경교육 펼친다 : 네이버 블로그 - Naver Blog",
       "source": "Naver Blog",
       "date": "Mon, 12 Oct 2026",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON2hKWDJDQXJOYjRIUl9tUEQ0VXFqNndIanhWd21ZeWYwMjhYRjE2eFlaX0dYb0hBc0FoMmFCNGFMMWFub1RZcGNOVHNZbjRYMjFVMXZzUjJWRHlGSXM3RnNIb0VRVVcxZmZMV0Y0NUtTUHJVYlZ3akFDYUg2TV9vNEV6QUU2N1pmb01uWW0wRQ?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "창원 용지호수공원서 탄소중립 토크콘서트 ‘2026 탄톡’ 개최 - 해양레저신문",
-      "source": "해양레저신문",
+      "title": "여수시, ‘대한민국 탄소중립과 남해안 남중권의 역할’ 제4회 국회포럼 개최 - 목포타임즈",
+      "source": "목포타임즈",
       "date": "Tue, 13 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jTUFDR1h1UkZOR1c0U01Gd0xLbWI1aW9IRWpQSGdIM1pqZlJ4Q091Rk16VjRqWnFYQ3pFTTNTYzBwR2ZiNEd1U3I2Q2R3eUt6eTRxNXlvbw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55cWdoZlc3X2hYNG5OTzIzU2tEUjZDVEhPaS1HS3doRlNpR0JCUGlLbExQY1hwVnM1MmZDbS1pd01ZcXR0cGdtTGc1ZGd1ZHllcjcxZVlVLUxMNVh5WE9SejFXS2RLZExy?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "한국환경공단, ESG ‘공시 넘어 경영전략으로’…2030년까지 35개 실행과제 추진 - 에너지데일리",
-      "source": "에너지데일리",
-      "date": "Mon, 12 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4NWxNV2RjcGd6QTRLVzhYMmdDNjd2a1dQMU92czVKdHNnOXFZS05pWDVqcFMzeV9tdDBSWjh0a1ZyeEpWQ0dvalgtaFpxMG1URk1aRTY4MHlYeG81TnBEUEd5X0JWYm1ZVDZ0R191X1d0dw?oc=5"
+      "title": "기후위기 대응, 마을 어르신부터…부안 백산면 탄소중립 실천교육 - 더펜뉴스",
+      "source": "더펜뉴스",
+      "date": "Tue, 13 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtRVV0N3dUUmdYcE9PNWhMSmZFbHlMY2Z6UG1MWkpVU0ZDaUItLUpLVjQ4Z19TUmZUY3hHLU8yTmF2UW1XaVNES1l0OUZCUVJ4N3U4VDRTM1p1ZmE2Y3VBVGtoYw?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "국립환경과학원, 제12차 i-CIPEC 국제학술대회서 미래형 폐기물 관리 논의 - 뉴시스",
+      "source": "뉴시스",
+      "date": "Tue, 13 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XUFdrNE9HUnVFd3RhUTUyVGgwbVE4Z2Q2Umx3SzFsS3I3Xy1TY0VuQzFDTk44bENBNDNRYUlFZ1J5TWRKY2ZqZlV3aVVwOTc5aEl1UVh5YS1IVW1idENBM9IBeEFVX3lxTE51eE9wM0h4VUlZWlo0VlhXbFVYRHpqQnN1aWRIakJ6NTBYR0UxY2RoQVJtTnZBY1QyUXJYa01OTVA2TjFHWjNfeVAteV9vSUdxLUY4NjhLUWRnUXVhci1vaU9XbUNWMzdxWXdweVpsbW1DX2t2ZS1WWQ?oc=5"
     }
   ],
-  "fact": "해양은 인간이 배출한 이산화탄소의 상당 부분을 흡수해 해양 산성화를 일으키고 있습니다."
+  "fact": "육류 소비를 줄이는 것은 개인이 실천할 수 있는 가장 효과적인 탄소 저감 방법 중 하나로 꼽힙니다."
 }
