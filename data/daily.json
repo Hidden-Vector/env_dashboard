@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T09:17:24.337427+09:00",
-  "generated_at_display": "2026-10-15 09:17 KST",
+  "generated_at": "2026-10-16T09:05:12.799994+09:00",
+  "generated_at_display": "2026-10-16 09:05 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,54 +12,54 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 22,
-    "pm25": 10,
-    "cai": "좋음",
+    "pm10": 25,
+    "pm25": 16,
+    "cai": "보통",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "민경선 고양특례시장 생활밀착형 탄소중립 정책 속도 내겠다 - 일간투데이",
-      "source": "일간투데이",
-      "date": "Wed, 14 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JY3daQjN1QjMyTGlLa1VSMmViRHNMcE5JZ1hQcEc1amdBZlhvZXFXN0tpRnpfc1dHbXBRNFA2QXRhbFdOWS16T29kb2htcFJlOUZaRWFlemFPTGItQjJVcFh4OVdTTGZ4azdz?oc=5"
+      "title": "고양시, 온실가스 36% 감축 승부수…105개 사업으로 탄소중립 전환 - 주간한국",
+      "source": "주간한국",
+      "date": "Thu, 15 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBcURGZmJUenc0QjlnQ2NGUnNUTV9rWHZaQl8wREItN2pFUnRMUnhsOXN5dnhjZFpKcUhJZGtZbjh2TkRvalVQX3M3RTVXTDdKOFJjT2JyRTJnWDBVOHk2SGNGSklva1hZWXJpVGNfVVl0X1hx0gF0QVVfeXFMUEFxREZmYlR6dzRCOWdDY0ZSc1RNX2tYdlpCXzBEQi03akVSdExSeGw5c3l2eGNkWkpxSElka1luOHZORG9qVVBfczdFNVdMN0o4UmNPYnJFMmdYMFU4eTZIY0ZKSW9rWFlZcmlUY19VWXRfWHE?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "고양시, 생활 속 탄소중립 실천 확대… 2030년 온실가스 36% 감축 추진 - https://www.ppss.kr/",
-      "source": "https://www.ppss.kr/",
-      "date": "Wed, 14 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UYW1MaC1aY0xMS25mdkpNQ2o5YlRoSEJnajRKYXRUUENPdW9OcWstTmg1NEtaSmNEREctN3R0UXVrd2pqMHpFdnJyMGpUN0V6cWZ6TDNDekJJTHRLQi1tQXM2MVY?oc=5"
+      "title": "고양시, 2030년 온실가스 36% 감축…생활밀착형 탄소중립 속도 - 국민일보",
+      "source": "국민일보",
+      "date": "Thu, 15 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnajd2UGJ3SE5RVFhMMW1YbjRlTExaMTFPaW5kM1pNNjQ4bFZ0UlVCY2dYOXd5emFXUDNkYnpFaTd3VjEzU2c3Vmp1SDMwR1p3UTJjMGVJM29vOWJtSEZNbVNFQWRVWmxXTm9EWdIBbEFVX3lxTFBnajd2UGJ3SE5RVFhMMW1YbjRlTExaMTFPaW5kM1pNNjQ4bFZ0UlVCY2dYOXd5emFXUDNkYnpFaTd3VjEzU2c3Vmp1SDMwR1p3UTJjMGVJM29vOWJtSEZNbVNFQWRVWmxXTm9EWQ?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "탄소중립에서 동반성장·참여 거버넌스로 - 경북매일",
-      "source": "경북매일",
-      "date": "Wed, 14 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9faGhidVctaS1BQXpjWWxsY09qb000MlJUQ3pXRVB5bGR6R25RTW5GTDhaWWJtb0VzeVBpY21sZ0YyX3JSV1FTZERIZmhqNkQ3cTNIUHpTZmg1dw?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "경산시, 새마을 환경살리기 탄소중립 실천 확산 - 환경일보",
-      "source": "환경일보",
-      "date": "Wed, 14 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sLWxxYks0cmpPWTZIUEJoN0VfbjF4Q1lCSDhpV1A0aDNtQ3pPeldweGx5X2phSFU4cFF1QW5XeXd4MWVoQ1VlQWh6R1JWOS1jWEVpTjNvWkM3Q0ZRM3RtOGhVdjdqZ3l1?oc=5"
+      "title": "고양시, 탄소중립 가속화… 고양시, 2030년 온실가스 36% 감축 목표 - 대한경제",
+      "source": "대한경제",
+      "date": "Thu, 15 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jWHcwa0VSTUZTT2RMOW1xcnJXNFRBaExRMWcxWHg5bzFfWHVZVUVLVjdlWkxCRW43V3FIQVZoOXFQQXhPVXVzTlNWeDFFenJSeURoSF8xU0NpWEZISUZsVFhKTzlzUF9ROGI0LXNRNnpOREU?oc=5"
     },
     {
       "tag": "환경뉴스",
       "title": "성북구 성북탄소중립배움터, 기후에너지환경부 ‘우수환경교육 프로그램’ 2개 지정 - 시사프리신문",
       "source": "시사프리신문",
-      "date": "Wed, 14 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VUmcxdmluNUphbXhlSXplWHBvQzhTc0JBck4zZVFPMzhZNWxFcUNvbEkxb2M5UTBUOEFXQjJRRnFzYVE0R2NDUzVtQko3ZDlReUExWnlaYnc0QQ?oc=5"
+      "date": "Thu, 15 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rTUd4dnh5bm1YbWNOLW5GYXU2VTVUek0yUjhaZ25QMTJkbUxIM0xxbEp4Rjk3T0VWd05ncmFrTExjUzRuU0hDUHBlYXY2Smg1dlhrV1hnbU9sUQ?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "민경선 고양시장, 기후위기 대응 강화.. ‘탄소중립 실천 도시로’ 전환 - 스포츠동아",
-      "source": "스포츠동아",
-      "date": "Wed, 14 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE41YnBBSlFrcEZYWmQwR256dW5kZVd4cWZWRzZyVTFnRS1BcjNVcEhoazlCQnd1OG9IR2U2Um5Zd1ozZDUwQzk5WUVNVS1YZmdPS1hPY29fMjZmcnloSHZUYTQzWGVtekxQaDhLSmVfdFA1Zw?oc=5"
+      "title": "탄소중립, 지구의 미래를 지키는 우리의 약속! - 환경신문",
+      "source": "환경신문",
+      "date": "Thu, 15 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9YMkJqTWt4MnpDdVJLc0FBM2pnSmlBaHNHd2l6bHMzejlyUGtYVnN4VXlwQ3VoaURWd1BfSHA2X2ZGZHM?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "[2026 국감] 환경산업기술원, 탄소중립 촉진한다더니…350억 쓰고도 성과 미비 - 뉴스핌",
+      "source": "뉴스핌",
+      "date": "Thu, 15 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRTV9Yc0wzTFlCVUxTUGd3MlpCNkkwbXdPdElrSlRNcW14QU1ob2FiQXhCcGFoa0R0OGNFTVJlQlZab0xyV3RxdE9JeE9lU2RkaWZoYzBrVTNTSTRB?oc=5"
     }
   ],
-  "fact": "국제사회는 파리협정을 통해 산업화 이전 대비 지구 평균기온 상승을 1.5도 이내로 억제하는 것을 목표로 하고 있습니다."
+  "fact": "한국은 2050년 탄소중립을 국가 목표로 선언했습니다."
 }
