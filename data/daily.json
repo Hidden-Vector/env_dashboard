@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T09:09:03.938500+09:00",
-  "generated_at_display": "2026-10-17 09:09 KST",
+  "generated_at": "2026-10-18T08:44:48.950606+09:00",
+  "generated_at_display": "2026-10-18 08:44 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,12 +12,19 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 40,
-    "pm25": 25,
-    "cai": "보통",
+    "pm10": 20,
+    "pm25": 10,
+    "cai": "좋음",
     "sido": "대구 동구(신암동)"
   },
   "news": [
+    {
+      "tag": "환경뉴스",
+      "title": "경기도교육청, 교실 속 탄소중립 실천 ‘지역 맞춤형 환경교육 자료 개발’ 착수 - 중앙신문",
+      "source": "중앙신문",
+      "date": "Sat, 17 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMizgNBVV95cUxPbE5UVnNvcDk1WVBSLW50VU5kenAtRTZiZWpvcjFrODk0a0g5OU8xOTU4TnA5c2JJZ24zQlJ3ajNZSFNBMTdYa3dzTm9hR2oyM1pWMjFCalZvd1djMzZkQ2hjLVFmVkNYc1VQTFNGeldVQ2d5YUhaak51YU9sLXk5QlhPZlB3V2V6cm5SUlJuMTNxWkNYa0dobDh4dnFFYkYyYnJNYWU2cHk5ZU9KdVZEbWpMbDI5VGh3QTR4VkJQT1prZXJhRnNOWHd0QlN0WTA0NUJ3cmUwWS1rbUw0SmctVFpKM1d0TXJQUTUtS0EyaXI1eFJua084YTlSZk9LQ3ZzdGRHakFyZXViOS13YUR2WlNYbldXSVk1Yzh4eGU3ckpKT1ZuRVQ4RW9kdkotOVdCRHBVT0FlUlV1UXVueWI1NlA1OV9vSnM4eWpCVGh3cE9QdXZrOUR3WWJDWDVoY29vYW9pa0dvT3MtckNWZ1ZscE94Y1FjZ0s1VWlLa2JpWElCR0xxUEgtLUxpVUFuclRGS19QSWNOUlZwNnJtcE0tLTNqa29BemxzbkphQWpKUzAxdV95LUkzd1UtTDQwOTJYNGRmejhMakU3ZThDc2c?oc=5"
+    },
     {
       "tag": "환경뉴스",
       "title": "고양시, 온실가스 36% 감축 승부수…105개 사업으로 탄소중립 전환 - 주간한국",
@@ -34,20 +41,6 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "민경선 고양특례시장 “생활밀착형 탄소중립 정책 속도 내겠다” - 뉴스후플러스",
-      "source": "뉴스후플러스",
-      "date": "Fri, 16 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SWkI5VGFCZmQ5cmhWempPOTdjUS1mRzFXUEFhcHlrZTdMNlNYNTdkcGhxa293WDhsUU1JQlBMdXgwUm1kM25XYzhVd2VmYTkycmhvQXBEVjJ6TkMtc1BtNE5yMGcwOGwzSVU2LWV3?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "인천 제물포구, 월미공원서 생태환경 체험… 탄소중립 실천 확산 - 한국정경신문",
-      "source": "한국정경신문",
-      "date": "Fri, 16 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkQUwwS0ZNU2tLaDZybGU4VzktNk9Xb1NkenZkakFRejJRNVdjS290VDh6RFJwOVlTR2J3SzRJRm5WZERCQzFkaEtuWHp5WlprTHc?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
       "title": "탄소중립포인트 예산 확대에도 참여 기반은 부족…환경산업기술원 사업관리 실효성 도마 - 에너지데일리",
       "source": "에너지데일리",
       "date": "Thu, 15 Oct 2026",
@@ -55,11 +48,18 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "광주 광주푸른초등학교, `SDGs` 와 함께 미래 지구를 지키는 탄소중립 환경교실 운영 - 시사일보",
-      "source": "시사일보",
-      "date": "Fri, 16 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1BNk9RS2U4dVp3Y0c1eTJSMWpnaHpXd0N3WWVlS2tIQTlFVDJ2ZHFWU3NvZkpEV1psRWhIcnF0dHVubnFIaXFISDFhMkc?oc=5"
+      "title": "탄소중립, 지구의 미래를 지키는 우리의 약속! - 환경신문",
+      "source": "환경신문",
+      "date": "Thu, 15 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9YMkJqTWt4MnpDdVJLc0FBM2pnSmlBaHNHd2l6bHMzejlyUGtYVnN4VXlwQ3VoaURWd1BfSHA2X2ZGZHM?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "[대체불가 K테크] ⑥탄소중립으론 '역부족'…\"빗물에 탄소 녹여 광물화 도전\" - DongA Science",
+      "source": "DongA Science",
+      "date": "Thu, 15 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KWnkxemRBT3BMWkhsTWtHbk5zUXZsUFRDQThmSHpkSFhKODdfWDJ3WWFKSXlLM3RERy1OVUoxZFpocURQYkxMN1RyYUlwN3p4aVBsdQ?oc=5"
     }
   ],
-  "fact": "이산화탄소는 대기 중에 배출된 뒤 수백 년간 머무를 수 있어, 오늘 줄인 배출량의 효과는 수십 년 뒤에야 기후에 반영되기 시작합니다."
+  "fact": "전 세계 온실가스 배출량의 약 4분의 1은 식량 생산 과정에서 발생합니다."
 }
