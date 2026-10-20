@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T08:54:58.863073+09:00",
-  "generated_at_display": "2026-10-19 08:54 KST",
+  "generated_at": "2026-10-20T09:54:24.279357+09:00",
+  "generated_at_display": "2026-10-20 09:54 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -14,52 +14,52 @@
   "air": {
     "pm10": null,
     "pm25": null,
-    "cai": "수집 실패: <urlopen error timed out>",
+    "cai": "수집 실패: timed out",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "고양시, 2030년 온실가스 36% 감축 목표… ‘탄소중립 지원센터’ 운영 - 시정일보",
-      "source": "시정일보",
-      "date": "Sun, 18 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5NnJ2bXZvQWFGbDlqYTQ3WXhkTDdIM1MtUnFwRG5IZ2pINnNPQnlmSDNBTHYzVUNEWF9SXzVlY1dab1dvR2FhdHFEWlQ5dWs2bUFpX1pUTG9HNzF5WjNYZ0F5VFhUSXRUaHBr?oc=5"
+      "title": "녹색에너지연구원, 탄소중립 실천 캠페인 전개 - 에너지데일리",
+      "source": "에너지데일리",
+      "date": "Mon, 19 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5VjZNYVVubFlzWnF0czlURWZSWFBQNVZYQW4tZnpsU29BWWlpMHBrdW0tblowd0djTTM3YlBlcGJVTHVkbzJySV9fNDJVd2tCcF9ocTREcWhvUFpWQ2QwV3gyZkR3LUpvbUpnYlRoZmhidw?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "놀이로 배우는 탄소중립...구례군 어린이 환경생태교육 '주목' - 이투데이",
-      "source": "이투데이",
-      "date": "Sun, 18 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BaGRiSWxPTG9MZ0VjTW9EbGViRkUtck1aX19mY3Q5eXFVWl9qRXJfZjNuQkVRSW96S09sX3JaeVdXNHVESXpHQ0FyM0c5NkVqbXY5WVZSUVhMWUpMV0FpWGM2MGhlMUUzMXZTeFVYQVdVakVn?oc=5"
+      "title": "2026 제5회 탄소중립 환경문화제 주전 몽돌에서 열려 - 행정수도뉴스",
+      "source": "행정수도뉴스",
+      "date": "Mon, 19 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6UTh0TWthR0NGTkFnTElnOXlvT3huWmhlRGpRdHFaeEFfVVUtVkZsWlRTVXZhenpULS1INmgtOHhuQ1FQeXo4UUVtUVg3ajZ0WVpxMWFpNDUtRlFlX0ktakRqWkc1QQ?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "［포토뉴스］새홍천로타리클럽 탄소중립 환경정화활동 - 강원일보",
-      "source": "강원일보",
-      "date": "Sun, 18 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjN3JlSEF6WEN2b1k4amtCOTRyWUpmVWwyY2NWSmFxckE0NVl5V0tyQ3FmT0stcW0xMVREOW9SNk9JR1pudGNVbUVfa1RJNzc0MDF1ODJDYkM2dGc?oc=5"
+      "title": "광양시, 탄소중립·대기환경 개선 속도 - 광양경제신문",
+      "source": "광양경제신문",
+      "date": "Mon, 19 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3REhVS1RGUi1FdVRDc01aTlBWV0lQdVZKWUQwM0JYX2E5YTI2RDBRWFNDcG95dkRhZUU3bUJaSDlBY1Vvb0Rwci1oTFJveVdQaFhMQ21weXRuTWs4Z0ttd2JoR2VJUmk4Szg4?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "고양시, 2030년 온실가스 36% 감축…생활밀착형 탄소중립 속도 - 국민일보",
-      "source": "국민일보",
-      "date": "Thu, 15 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnajd2UGJ3SE5RVFhMMW1YbjRlTExaMTFPaW5kM1pNNjQ4bFZ0UlVCY2dYOXd5emFXUDNkYnpFaTd3VjEzU2c3Vmp1SDMwR1p3UTJjMGVJM29vOWJtSEZNbVNFQWRVWmxXTm9EWdIBbEFVX3lxTFBnajd2UGJ3SE5RVFhMMW1YbjRlTExaMTFPaW5kM1pNNjQ4bFZ0UlVCY2dYOXd5emFXUDNkYnpFaTd3VjEzU2c3Vmp1SDMwR1p3UTJjMGVJM29vOWJtSEZNbVNFQWRVWmxXTm9EWQ?oc=5"
+      "title": "광양시, ‘광양형 녹색대전환’으로 탄소중립·대기환경 개선 속도 - 일간투데이",
+      "source": "일간투데이",
+      "date": "Mon, 19 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmeHRKMWlGWlUtR0J2VGxiYWthbF9TUmZSQXNOdDJWN3NjNm5XajNvcnY5OWs0c2hiU1JrTklNOFRJWXFaU2IzWFlpOUJ4d2VSdDlpWVlJcEZJeDR6LTNNczlrOXNlLVA5ZjZn?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "탄소중립, 지구의 미래를 지키는 우리의 약속! - 환경신문",
-      "source": "환경신문",
-      "date": "Thu, 15 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9YMkJqTWt4MnpDdVJLc0FBM2pnSmlBaHNHd2l6bHMzejlyUGtYVnN4VXlwQ3VoaURWd1BfSHA2X2ZGZHM?oc=5"
+      "title": "광양시, 탄소중립·대기환경 개선 ‘녹색대전환’ 추진 - 서울경제TV",
+      "source": "서울경제TV",
+      "date": "Mon, 19 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IZ0FHYjJRX3RMaFRDMWRVeUl6VlNza2dTNUduX0JlOGQzanFlbGd2RGpBVk9FTWhONndnQk9LSGpqcHJ1Zk9HV01CN05KdUxVMzYwU0VkdjlvT3VzODN3UTRyRE4?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "[대체불가 K테크] ⑥탄소중립으론 '역부족'…\"빗물에 탄소 녹여 광물화 도전\" - DongA Science",
-      "source": "DongA Science",
-      "date": "Thu, 15 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KWnkxemRBT3BMWkhsTWtHbk5zUXZsUFRDQThmSHpkSFhKODdfWDJ3WWFKSXlLM3RERy1OVUoxZFpocURQYkxMN1RyYUlwN3p4aVBsdQ?oc=5"
+      "title": "오산환경운동연합, 시민 참여 탄소중립 나무심기 행사 성황리에 마무리 - 더시그널뉴스",
+      "source": "더시그널뉴스",
+      "date": "Mon, 19 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1GbUFLY3RDQmp4d2JnR2sxZS1tOXFNaXp4Z2tMdEdocDZvTFF1Qk9sNU85LXdKSkZ0X0pNNDlFOU42eG5uczM1cFdVVQ?oc=5"
     }
   ],
-  "fact": "산업화 이전 대비 대기 중 이산화탄소 농도는 약 50% 증가했습니다."
+  "fact": "나무 한 그루는 평균적으로 1년에 약 20~25kg의 이산화탄소를 흡수합니다."
 }
