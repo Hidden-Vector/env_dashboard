@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T09:22:46.789484+09:00",
-  "generated_at_display": "2026-10-21 09:22 KST",
+  "generated_at": "2026-10-22T09:25:37.773717+09:00",
+  "generated_at_display": "2026-10-22 09:25 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,54 +12,54 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": null,
-    "pm25": null,
-    "cai": "수집 실패: timed out",
+    "pm10": 14,
+    "pm25": 6,
+    "cai": "좋음",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "파주시환경센터 '에코온' 탄소중립 10대 기후정책 선정 - 누리일보",
-      "source": "누리일보",
+      "title": "당진청소년문화의집, 지역사회와 함께하는 탄소중립 실천 프로그램 운영 - 메가충청뉴스",
+      "source": "메가충청뉴스",
       "date": "Wed, 21 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4VzFNZ1pVU19wMFhnWHE5V25pbEFrMHNUR2lmZXhBZy1sM2JJQlBfS2owZzdrcnNNcnR1eVFsdmMzcVYxOWswWGkzUmRnTkdxenJDRmtxTFd6T0E?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fckVacUdXanMtaDF3cmlRbHJxZEpTNl9xcmRZRkxQY09BQ2l2WmpVVDM4TW90ZFpPdExJUFdIZGlmTG5JM3lqakpJZGt0ZGVETU9zOXZhUzZMc2o3Sk8tTkktMER6YmJhakxr?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "환경 패션의 진화…탄소 배출 ‘상쇄’로 기후 중립 실현 - TENANT news",
-      "source": "TENANT news",
-      "date": "Tue, 20 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9wdWhTR1RUMXBpQVdUc2VXX1BMLXh6RjgzSnRCdDJmMnVZa2Rndzh2VXkwUUdVRHVwTXJQalpXYXF6cDBWNHBmNzZBODU?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "남양주시, '탄소중립 지원센터' 개소…2030년까지 41.3% 온실가스 감축 목표 - 팔당유역신문",
-      "source": "팔당유역신문",
-      "date": "Tue, 20 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoZjFVT3hEcnMtTFNtV0RWSmNoRi1jUzBmWEZ1UGNtQnI5VkdqT1lxTVBfZVFIcFpYYXdSTDFVYlBOMHE1VjJrejlvRFRqNkMybDl0WDg5bV8xNl9yUUhRSWNSWjVndFVrRTA4?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "(월드뉴스) EU, 탄소중립 기술 77개 프로젝트에 34억 유로 지원 - 전기신문",
-      "source": "전기신문",
-      "date": "Tue, 20 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wcHRLQmRsRjRMUkxQcEtRLXhJc1pQVEJCaTdQaDF1eFdONFVOcXdWbEdNQTJPb2Q0WXBsU09jY19Gelc0WERhQVM5MjVEdWwxNXRNaC04SGlTdm9LZzh3RS1HY0V1aV9GM1Aw0gFwQVVfeXFMT3M3c0ZZd3JPWUYwWElrNHNMdlJ4X2gwZHM4LWpBb2VmWHBmMkxDMHJ4dkVNV3BlWHVSZS1pZUhrZWY1dFJCS215djJxVTRFcFZLblZkbHNJZTZsS2VDWk1qcW9uaXZNcWluTWNlcTUwVQ?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "충북도청으로 탄소중립 주말 나들이 오세요! - 환경신문",
-      "source": "환경신문",
+      "title": "‘탄소중립 실천’ 지방정부·기업 협력 넓힌다 - 금산중앙신문방송",
+      "source": "금산중앙신문방송",
       "date": "Wed, 21 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9kWWhBajUxVUlkNTdDRU5YY3hBWGU5UXkzSGprckdzQXBPYUJUVUxDODdiY3JoeTJlaENMcDl3c082Qzg?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jaDUwTjVfa2xDaG1JRUxaUUgxVUFYUnpPTHM5ODdBMWFFMTdIcEoycFZsMWFRVkkxdWU3c21qdGZILUcxVXc0Y1hkRmJ3VGVrUWQ3cVl3TS1iMzVEaDJ0WVNpY0tKdE9BbTlfY2hB?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "‘광양형 녹색대전환’으로 탄소중립·대기환경 개선 속도 - 광양시민신문",
-      "source": "광양시민신문",
-      "date": "Tue, 20 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9yNHVvU2NfUWJONVMtT0J2QTl6MnRfQkh3Z3pfdDdNV0s5ZWRITGpzS29hRXlVTzNwVUgwRXoyc18zOHB2SXltcFVRY1RScGRyb1ZSYlcwUGlxdXdLQ2RpWEVLcnV0OC1VclQyaGJB0gFuQVVfeXFMT3I0dW9TY19RYk41Uy1PQnZBOXoydF9CSHdnel90N01XSzllZEhManNLb2FFeVVPM3BVSDBFejJzXzM4cHZJeW1wVVFjVFJwZHJvVlJiVzBQaXF1d0tDZGlYRUtydXQ4LVVyVDJoYkE?oc=5"
+      "title": "경산시, ‘찾아가는 탄소중립 교실’ 운영 - 환경일보",
+      "source": "환경일보",
+      "date": "Wed, 21 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EUzg1MzNJcElVUjJWWXdfdGdrLW1TTkJmWXFDbmNvS3JKZGlqMDBkY0RDcmthYmltMXR5Xy1YTG95U3NMM1ZFRDFYU1RTNWZXR1cwZnAyMHBrZ1gtRXB4U19EYlF6SmFB?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "탄소중립 국제협력 확대…지방정부·기업 대응 전략 모색 - 뉴스홈(newshome)",
+      "source": "뉴스홈(newshome)",
+      "date": "Wed, 21 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vc2piS0pQRFlRcHh2aHpjc3ZZenpJSU5JTzkxN3NDMUl2dC14UUI0bGV5WlhacXhzRVJmc1dnclZaLWxaRFpmSlNFd3JHb3I5OE9VTWtoVjNib205TkNZWmtJV2FUSFFFRnBDNGV3?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "안산환경재단, 시민 300명 대상 탄소중립 실천 캠페인 진행 - 신아일보",
+      "source": "신아일보",
+      "date": "Wed, 21 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16ZTYtcm5waE0wR0N1YUxtRm1ZVG1yVmYzeUhIYkYyLUY0SzZsd2sxaW9HV0NyYWsxMmlvWnNNa2RCLWxYekhEMXZRWEhHNzE4Ql82MWYxM0Jyd0s5NnZreGVTRjZGWGM0Q3h0SGFNWUs?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "[투데이춘추] 달리기 좋은 계절을 지키는 일, 탄소중립이라는 마라톤 - 충청투데이",
+      "source": "충청투데이",
+      "date": "Wed, 21 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wMzNCNDVPV3ZTeDJqVnpTekVDajloSjdDVzNZSEVfcFU3NnRReVVna3A2MEVGQjZENGdBS1ZTMGF4N2FTbXd2WGtuLUNoUjFwa0hySjNkbjBIbHhiZ0p5cDQxS2NjNW53UVpfWXRR?oc=5"
     }
   ],
-  "fact": "전 세계 플라스틱의 약 9%만이 실제로 재활용되고 있습니다."
+  "fact": "태양광 발전 비용은 지난 10여 년간 큰 폭으로 하락해 여러 지역에서 가장 저렴한 전력원 중 하나가 되었습니다."
 }
