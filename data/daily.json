@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T09:25:37.773717+09:00",
-  "generated_at_display": "2026-10-22 09:25 KST",
+  "generated_at": "2026-10-23T09:23:49.216441+09:00",
+  "generated_at_display": "2026-10-23 09:23 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,54 +12,54 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 14,
-    "pm25": 6,
+    "pm10": 29,
+    "pm25": 16,
     "cai": "좋음",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "당진청소년문화의집, 지역사회와 함께하는 탄소중립 실천 프로그램 운영 - 메가충청뉴스",
-      "source": "메가충청뉴스",
-      "date": "Wed, 21 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fckVacUdXanMtaDF3cmlRbHJxZEpTNl9xcmRZRkxQY09BQ2l2WmpVVDM4TW90ZFpPdExJUFdIZGlmTG5JM3lqakpJZGt0ZGVETU9zOXZhUzZMc2o3Sk8tTkktMER6YmJhakxr?oc=5"
+      "title": "경산시 탄소중립지원센터, 14개 학교 찾아가는 환경교육 추진 - 경북신문",
+      "source": "경북신문",
+      "date": "Thu, 22 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VLVctSnBfUU5CaTlNUXhkOXVWZHVfY1kxZTZrZXAzbEFLM3V0VlRDeDluWTk3UXY4SGc5WGRGRlN2ajVQTFRPYzlBdUxfNzg5cnJ0N04tdDU?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "‘탄소중립 실천’ 지방정부·기업 협력 넓힌다 - 금산중앙신문방송",
-      "source": "금산중앙신문방송",
-      "date": "Wed, 21 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jaDUwTjVfa2xDaG1JRUxaUUgxVUFYUnpPTHM5ODdBMWFFMTdIcEoycFZsMWFRVkkxdWU3c21qdGZILUcxVXc0Y1hkRmJ3VGVrUWQ3cVl3TS1iMzVEaDJ0WVNpY0tKdE9BbTlfY2hB?oc=5"
+      "title": "놀면서 배우는 탄소중립 서초구, 반원초에서 ‘탄소제로 환경놀이터’ 개최 - 서프라이즈뉴스",
+      "source": "서프라이즈뉴스",
+      "date": "Thu, 22 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pSllPTXY0SG9CN1I1dXBwZzIyQ1Zrc2VORGhHMW1JRlNCbUxvR3NyeTFneW9pSXJnZWVNUVJyUDJVdWtoN0xNWXJJdGJ1TkNjcVpGUnAzT09GYUpJV0o0dWl2ZEJzVFN4X1NLR0NB?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "경산시, ‘찾아가는 탄소중립 교실’ 운영 - 환경일보",
-      "source": "환경일보",
-      "date": "Wed, 21 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EUzg1MzNJcElVUjJWWXdfdGdrLW1TTkJmWXFDbmNvS3JKZGlqMDBkY0RDcmthYmltMXR5Xy1YTG95U3NMM1ZFRDFYU1RTNWZXR1cwZnAyMHBrZ1gtRXB4U19EYlF6SmFB?oc=5"
+      "title": "지바이크, '지쿠' 전기자전거 타면 ‘탄소중립포인트’ 4배 적립 - 지디넷코리아",
+      "source": "지디넷코리아",
+      "date": "Thu, 22 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VY0N4cG9FdEdSVkh1eHc1RUp2TFpOa3FZaDdBS3ZQbW1GUTZaUVRvVlI5LUprbG5lSml0Rld2OUItOVQ5SzVjTjRyMkJlZjBnRXpsS1pn?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "탄소중립 국제협력 확대…지방정부·기업 대응 전략 모색 - 뉴스홈(newshome)",
-      "source": "뉴스홈(newshome)",
-      "date": "Wed, 21 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vc2piS0pQRFlRcHh2aHpjc3ZZenpJSU5JTzkxN3NDMUl2dC14UUI0bGV5WlhacXhzRVJmc1dnclZaLWxaRFpmSlNFd3JHb3I5OE9VTWtoVjNib205TkNZWmtJV2FUSFFFRnBDNGV3?oc=5"
+      "title": "(월드뉴스) EU, 탄소중립 기술 77개 프로젝트에 34억 유로 지원 - 전기신문",
+      "source": "전기신문",
+      "date": "Tue, 20 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBySGZmck9HcE9QT0J6S3pfdXBuTldBT19nd3lBQXFVdm5rVmZDc0RWN3VpdWpENGk3M2pyRDNtUjBYbEhsSklzYXVkejNIcXpjZ0dJSE5Ld0llUXNqVHlKTnZXZGtmVFV2LUpHYtIBcEFVX3lxTE9zN3NGWXdyT1lGMFhJazRzTHZSeF9oMGRzOC1qQW9lZlhwZjJMQzByeHZFTVdwZVh1UmUtaWVIa2VmNXRSQktteXYycVU0RXBWS25WZGxzSWU2bEtlQ1pNanFvbml2TXFpbk1jZXE1MFU?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "안산환경재단, 시민 300명 대상 탄소중립 실천 캠페인 진행 - 신아일보",
-      "source": "신아일보",
-      "date": "Wed, 21 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16ZTYtcm5waE0wR0N1YUxtRm1ZVG1yVmYzeUhIYkYyLUY0SzZsd2sxaW9HV0NyYWsxMmlvWnNNa2RCLWxYekhEMXZRWEhHNzE4Ql82MWYxM0Jyd0s5NnZreGVTRjZGWGM0Q3h0SGFNWUs?oc=5"
+      "title": "한전KDN, 미래세대 탄소중립 교육…연말까지 초등학교 100곳 - 에너지타임즈",
+      "source": "에너지타임즈",
+      "date": "Thu, 22 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ySlF2UUU0WmxyVGRva1A0OUgwM1dZY253N0JjUWJRSDZ1ZFhKWUFhR09YcUkydHNMMENSUUFQenNBSDhMekNiUXVHdXNWV0cyMzhzTmRTS21IWVlXX2VxbWFKeUpuYUlYdlhHdQ?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "[투데이춘추] 달리기 좋은 계절을 지키는 일, 탄소중립이라는 마라톤 - 충청투데이",
-      "source": "충청투데이",
-      "date": "Wed, 21 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wMzNCNDVPV3ZTeDJqVnpTekVDajloSjdDVzNZSEVfcFU3NnRReVVna3A2MEVGQjZENGdBS1ZTMGF4N2FTbXd2WGtuLUNoUjFwa0hySjNkbjBIbHhiZ0p5cDQxS2NjNW53UVpfWXRR?oc=5"
+      "title": "환경산업기술원, 기업 탄소중립 실천 지원 온라인 세미나 개최 - 국토일보",
+      "source": "국토일보",
+      "date": "Tue, 20 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95aVRQRGE2cm1TOUV2MFI4NVNpSVN3OEk2dU1NczhaWnA1b00yMFhGWXdJSHVzMXJVS18xQlhtbnRlcENnU2hibi1yamdsMGh2Vkt6eFUtS0JYSFpHaW9HMlFMQmU?oc=5"
     }
   ],
-  "fact": "태양광 발전 비용은 지난 10여 년간 큰 폭으로 하락해 여러 지역에서 가장 저렴한 전력원 중 하나가 되었습니다."
+  "fact": "해양은 인간이 배출한 이산화탄소의 상당 부분을 흡수해 해양 산성화를 일으키고 있습니다."
 }
