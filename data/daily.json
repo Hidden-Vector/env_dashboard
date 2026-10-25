@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T09:15:54.810223+09:00",
-  "generated_at_display": "2026-10-24 09:15 KST",
+  "generated_at": "2026-10-25T08:59:59.562993+09:00",
+  "generated_at_display": "2026-10-25 08:59 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,7 +12,7 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 12,
+    "pm10": 3,
     "pm25": 5,
     "cai": "좋음",
     "sido": "대구 동구(신암동)"
@@ -20,17 +20,31 @@
   "news": [
     {
       "tag": "환경뉴스",
+      "title": "경산시 탄소중립지원센터, 14개 학교 찾아가는 환경교육 추진 - 경북신문",
+      "source": "경북신문",
+      "date": "Thu, 22 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VLVctSnBfUU5CaTlNUXhkOXVWZHVfY1kxZTZrZXAzbEFLM3V0VlRDeDluWTk3UXY4SGc5WGRGRlN2ajVQTFRPYzlBdUxfNzg5cnJ0N04tdDU?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "[패트롤] 과천시-군포시-부천시-안양시-의왕시 - 에너지경제신문",
+      "source": "에너지경제신문",
+      "date": "Sat, 24 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tdDFSWnNxbjRWSHJ5bzdpY01udzdoaW5aaDlnRm45MTVZQnVDMmtseGJpbkZmbnotVTFPYWxkNDVvQmI1VW9rRTNOOEpIT3NRNzVTOXozQURxeVU?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "서초구, 반원초서 '탄소제로 환경놀이터' 성황리 개최 - 시정일보",
+      "source": "시정일보",
+      "date": "Sat, 24 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pYkk3bmNlRmZ5c1hCUktMMFVSYmpwQ0JVQ0tzOUFscDVnS253N0dsenhja3U2STJ4VllZUUdOczNFTjB5dU9WaFl4VDMwbjNnT0NxMThuQjY1U0JuRkloRG5ST3BVUERkTWVB?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
       "title": "과천시, 탄소중립 실천·자연환경 체험 환경축제 개최 - 안전신문",
       "source": "안전신문",
       "date": "Fri, 23 Oct 2026",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LZllLRHdsUm1wcEF5cF9xN3Z1bTBOaHRKNGVPd1AtRTI3Qk1mN2hadlZRak92MXl1Nm5IU1lORm9pYVphU1hnVVBqY2h1UU80SXdGY3VLb2d0U01Bak9jR19QVDd2WmIxVVJPODRMRms?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "“탄소 중립부터 생태탐험까지” 과천시, 지속 가능 환경축제 - 인천일보",
-      "source": "인천일보",
-      "date": "Fri, 23 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BaS1wcUNabG1KYXlwaUpwNEU1Ym5ta3JIT0x4VzFlSDdNbUtHRjd1U245NjQ0SldNZm9DbmtKbV9BN0tUOHlGWlhtcURyMlhlbVVsa2lzemFNSG40WWl5SW5QZWpKQ2ZoZnFqYkJNQVQ?oc=5"
     },
     {
       "tag": "환경뉴스",
@@ -41,25 +55,11 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "탄소중립 영향 선제 지원…'정의로운전환 특별지구' 지정 기준 마련 - 한국방송뉴스",
-      "source": "한국방송뉴스",
-      "date": "Fri, 23 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52SzRpOG5qUUJZQTRBRy1sa2VaMGZUQWlmX2RxazZsUXF4MU1teVJHR0ozc01UX1ZxSkd2Z25MS2tXU3VMelpyS3dJT2pwdmF2bHk1SFA4S0l0VVlYVXc?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
       "title": "과천시, '함께하는 기후행동, 지속가능한 과천' 환경축제 개최 - 연합뉴스",
       "source": "연합뉴스",
       "date": "Fri, 23 Oct 2026",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41UVZMTXFQb2dGU3RnaExnX0UwSFY0OG0zSVBoRmpUSjZGSDJmdnJ2Z3YyMkwzQ2RPekJoQ2tMT244cS1CamRqNHdRWWFUMjlVbTR2VFIyM1JHWFE?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "과천시, 탄소중립 우수사례 공개…환경축제 연다 - 뉴시스",
-      "source": "뉴시스",
-      "date": "Fri, 23 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91dEhIeEVDZXJSVFpweHdqdHpTa0V0MC1JSXZwS0dnUTkzZi1tTkl6TGdvaTI3dXZOS1Z3ckRtYUhSMXItaW4ySzVSZzVIdUVhRm5uUERXbnpraExGZFQzOW03eTZZYjR6ZE82eWQwY0hWa240NU1yX9IBeEFVX3lxTE91dEhIeEVDZXJSVFpweHdqdHpTa0V0MC1JSXZwS0dnUTkzZi1tTkl6TGdvaTI3dXZOS1Z3ckRtYUhSMXItaW4ySzVSZzVIdUVhRm5uUERXbnpraExGZFQzOW03eTZZYjR6ZE82eWQwY0hWa240NU1yXw?oc=5"
     }
   ],
-  "fact": "육류 소비를 줄이는 것은 개인이 실천할 수 있는 가장 효과적인 탄소 저감 방법 중 하나로 꼽힙니다."
+  "fact": "국제사회는 파리협정을 통해 산업화 이전 대비 지구 평균기온 상승을 1.5도 이내로 억제하는 것을 목표로 하고 있습니다."
 }
