@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T10:09:21.777565+09:00",
-  "generated_at_display": "2026-10-27 10:09 KST",
+  "generated_at": "2026-10-28T09:58:13.748240+09:00",
+  "generated_at_display": "2026-10-28 09:58 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,54 +12,54 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": null,
-    "pm25": null,
-    "cai": "수집 실패: <urlopen error timed out>",
+    "pm10": 28,
+    "pm25": 6,
+    "cai": "좋음",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "“탄소중립, 어렵지 않아요”… 안산환경재단 체험부스 인기 - 경기일보",
-      "source": "경기일보",
-      "date": "Mon, 26 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5abWVZTU1XRi1Rb2VHeHV1aUhHLXpCa0F2TXhwaGdKVlQ3bkZ5LVBaSUlLenU0ZFV3ZFBCci1iaWVFOHVxRXZONzB4dERUNmtLdmlXXzR2SjFwMzQ?oc=5"
+      "title": "경북도, 환경실천 다짐대회서 탄소중립 실천·공공기관 유치 결의 - 뉴데일리 대구경북",
+      "source": "뉴데일리 대구경북",
+      "date": "Tue, 27 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpbE1HNjBCM3drRzdJNC1TV1htdGVMLU0wbTd2WjhaeUNzQmF0M1dIM0Z6LVludzc3b1JVVGFibXZ3WFpWNFN3eWUzVnFwYXdsRXZCNjV6N2lHOTVNcVQ3ZWl4Y2daREpBMXo0SnlEOHNfZVFWTnhjOGVrNjJDbU3SAX9BVV95cUxQaWxNRzYwQjN3a0c3STQtU1dYbXRlTC1NMG03dlo4WnlDc0JhdDNXSDNGei1Zbnc3N29SVVRhYm12d1haVjRTd3llM1ZxcGF3bEV2QjY1ejdpRzk1TXFUN2VpeGNnWkRKQTF6NEp5RDhzX2VRVk54YzhlazYyQ21N?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "강남구, 어린이 눈높이 탄소중립 교육 성과공유회 성료 - 강남포스트",
-      "source": "강남포스트",
-      "date": "Mon, 26 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RTnRkY01sSGlQeW5iRWtwdHJWTE1JbnFoVU1ld1JEb2R2U2ktVkhZaU8yMG5NWk9VMTRkNHUxbDRnYnBRZzFRYVpHY1hHbXYwSnlpQ2pidl9xb0NwWVBQUk9ZWlU0dw?oc=5"
+      "title": "“기후 위기 건강 영향 대응·탄소 중립 사회 전환” - 채널제주",
+      "source": "채널제주",
+      "date": "Tue, 27 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5EZ3U0cUFwbllIMTk2SndGUWJBdGZiN2h0eE1BcmJHenFiSXpxY1Y4eUJiYmxVSTktQlM0MUJHak5EZVQ0ck9RRXdmLS1EN0h5UkF2dFZLMkdYZTFQblJsLWZGZE9iZ1BRR19ET1E3Zw?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "고탄소 산업 밀집 경남 “제도·재정 지원을” - 경남도민일보",
-      "source": "경남도민일보",
-      "date": "Mon, 26 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03ZVRlU1lLZlVVZy1uSjhXMTM3Tm5Bc082bUk5VUlaRWI0YlpQVS1TMXZzXzVVcXlpeEFjUW1jRG0wLW5sQVFEbWN5OXF1QXNmekxscFZXMzNrSlFzaW5FRlFhSW9NUHpEdHc?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "경북도, ‘환경실천+ 다짐대회’ 열고 2차 공공기관 유치 결의 - 프라임경북뉴스",
-      "source": "프라임경북뉴스",
-      "date": "Mon, 26 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UTjhudnh4TE9jTUxpNlpaclBtZ0dlb24zMWdpbDBMTEEwVTdYcUx1TS1LNWVjRk45a3hWSDVqdmNaRDA4dkxFcFRJYjFPSzktTUhKa3ZWeGFwVmN3ZlotVEtGYkQxMDRqTlJlSllwOA?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "연 6만 명 찾는 환경배움터…구미 탄소제로교육관 ‘50만 시대’ - 경북일보",
+      "title": "예천 패밀리파크에 ‘기후위기 시계’…탄소중립 실천 촉구 - 경북일보",
       "source": "경북일보",
-      "date": "Mon, 26 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hMm5oN1lLYXBTczA0RzVUbi1kRGFDWV84WjNYQ0YtOEN5UGh3NEtaTFAwbEduamdNT0JIblktUk5PVmpPNUxna0VjNTNBUHJMVnZYb0hvc0lvU3Y0Q25Vc2QwNUE5TTNraUJBd2d6WQ?oc=5"
+      "date": "Tue, 27 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95LXBYcHJqNFB0QzVITFNJX1FuVThLSTZWZTVxMU5pNFBHdDUyN2ZZc2RPbkxsNFh0Q0VGT19DdzhVelRlSXdXMzRIQXI1dEIwdXEzNFBJZmtyRS1NTUk0UC1XTWpYOTAyWWRGaWhtNA?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "놀이와 체험으로 익히는 탄소중립 실천 - 강남내일신문",
-      "source": "강남내일신문",
-      "date": "Mon, 26 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16azllWGhDS1otUGU1UVNrT2pqRlNwWkdHcVJUUjFaVWFwOWFXcTlyWjE0T1pLQUpFaVRUU2hDeHFXZzN4d01oWU1vUGh1NGhYLXY3ejM0ak1OMU40cjBQSnZPQm5XVkk?oc=5"
+      "title": "환경 배우고 생활 속 탄소중립 실천하는 ‘제주환경교육한마당’ - 지금제주",
+      "source": "지금제주",
+      "date": "Tue, 27 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pb0VhMEtlUFM0MElPRXUwbWJ4X2g5eEQxbW9uQ2R0bl9YUlVyQUE3YmtuUkxFbmNaNjd3OTlyVXh6YXZDbmdjQlh3UV8wS2JEeFdaa3Jta2pzamozdWozZk84Y3I3a0tLaUxLSF9n?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "제주환경교육한마당 30~31일 개최…기후위기·탄소중립 배운다 - 제주팟닷컴",
+      "source": "제주팟닷컴",
+      "date": "Tue, 27 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MQnZiZ1QzQ05Xcm9kNC15bWtCcVhPUk5tMzk2U3N5RTJhTXF5OTJwZDN4YUhXUDBDX1NGa2pjaU5VWXZqUk9hSUkwN1pEcXkwU0I0cHJadk9JM3h6RzRZRA?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "환경 배우고 생활 속 탄소중립 실천하는 ‘제주환경교육한마당’ - 뉴스줌",
+      "source": "뉴스줌",
+      "date": "Tue, 27 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5oYTJxRl9YV2NEc2k3d3BiR1gwT3pjaC0xeV9lZHNQdl9OR2tLQmlGY2pNLTZzc2hjWlN6OXlNR0M2YmlL?oc=5"
     }
   ],
-  "fact": "이산화탄소는 대기 중에 배출된 뒤 수백 년간 머무를 수 있어, 오늘 줄인 배출량의 효과는 수십 년 뒤에야 기후에 반영되기 시작합니다."
+  "fact": "전 세계 온실가스 배출량의 약 4분의 1은 식량 생산 과정에서 발생합니다."
 }
