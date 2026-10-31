@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T10:33:16.456742+09:00",
-  "generated_at_display": "2026-10-30 10:33 KST",
+  "generated_at": "2026-10-31T10:25:17.286351+09:00",
+  "generated_at_display": "2026-10-31 10:25 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,32 +12,46 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 41,
-    "pm25": 31,
+    "pm10": 59,
+    "pm25": 32,
     "cai": "보통",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "기후테크로 탄소중립과 지역성장 해법 모색 - 메가충청뉴스",
-      "source": "메가충청뉴스",
-      "date": "Thu, 29 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KbmM5Nzd6VnFmeGZLcjhtNzZ0Z3ROaWVvQjByMGI1LU9jSEpFMVRkaDlldW1XUHBRWExILTZKalpsQ3dKU190WlBCVnI3WkhyX29QVU5nVzk0LUxIdjVZYnI5Y1A1b0lqeTBxRA?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "‘생활 속 탄소중립’ 영광군, 우수상 쾌거 - 전남타임스",
-      "source": "전남타임스",
+      "title": "오산대 ESG센터, 교직원 대상 탄소중립 생활실천 교육 진행 - 에너지경제신문",
+      "source": "에너지경제신문",
       "date": "Fri, 30 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QQ1FYc002UTV1eUN5UVZoX1BhNDhkOTQ3aF95aEZ3cTBmVV9vSzJ4RFd0SFNRdC1pTk9rdkhBSmFNRTlzRS1ReTkxRGc4RE1CRkNacV9PNUlnX0E5UjNqMmR1Smx3QQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qX2tSWkRTS3BNTV9PR0dNYXBNd0x6UWFzdGNSWnJEclFqV0JHcjkxcGZNN04tdEZ5MG9KMnFGM0xGV3VCYmxKVS1sa2FjdGpYbGhfenJJNGExdmZJTUlxTjJSZw?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "동서발전, 2040년 온실가스 79%·대기오염물질 90% 감축… 탄소중립 전략 강화 - 에너지데일리",
-      "source": "에너지데일리",
-      "date": "Thu, 29 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qT0ZwSlROX0NZZ0ZlVmlqOE5xTUQyRTVnR0dhdDY3MmtIaW14anhIRmtLXzZWOU1hQVNrSDQwMjZkamlOTzkxSEdIQ0tTQ3NRQXZVOEpxQmNOYUJaampxTWpPaUZ0M09CNmJBUlR3eWNhZw?oc=5"
+      "title": "부산진구, ‘환경사랑 탄소중립 실천 그림 공모작 전시회’ 개최 - 국제신문",
+      "source": "국제신문",
+      "date": "Fri, 30 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZGJRVEJySWh1TWhyeUduX3RDTVpkT1lrY0J1YmQ5aEg2aWpEQnNnTVgwRkxFZldTMUIzeHlKMURfQW8zNlU3NzMtbzJObmJVMHp0RzUzdDJCSHRSZVc1Y3FCREc4UGFFd19QMU4xUFQ1LVhIdXdHV2xJalAxUWsyRzQ0SVk1TUhRUXBnT1l3?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "대전시, 탄소중립 실현 지역 기후테크 활성화 협력방안 논의 - 충남일보",
+      "source": "충남일보",
+      "date": "Fri, 30 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5RTFmVHBMUTZ0ZS1tRUIwd0N6d3dibXlFVWpwLUhnSk9YYkswaXg3dmd1OXFXNDNTc08wUGJ2cVAxM19JbUgySEFFSnRtc19vUXpjT19zZmhwVHJEdXhnUXFSa0ZRcWhDNmdpMEF6LWZLYjQ?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "동서발전, 2040년 온실가스 79% 감축 목표…탄소중립 이행 속도 - 연합뉴스",
+      "source": "연합뉴스",
+      "date": "Fri, 30 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VTXNwQzF3RE16aWRFRnZvVFZKc2dzNkdoU2ZUeXhrUndoZ3FlZUZoblpfb2hrb1p5b1Q5Q2lPbU14a0hhdnl6bzVZRmdOYjlHNzRfcW8zajVoZWdGMG9HetIBYEFVX3lxTE9VTXNwQzF3RE16aWRFRnZvVFZKc2dzNkdoU2ZUeXhrUndoZ3FlZUZoblpfb2hrb1p5b1Q5Q2lPbU14a0hhdnl6bzVZRmdOYjlHNzRfcW8zajVoZWdGMG9Heg?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "세종환경교육센터, 으뜸초 352명과 ‘생활 속 탄소중립’ 실천 - 농수축산신문",
+      "source": "농수축산신문",
+      "date": "Fri, 30 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoYjUycW9Vb2d4ZWdGQmFfNElpbzNPRXhfcW41UjRPSHU3Z2U2YXRQdnl5RV9yNnI2WVM2ZTM2YURiX041cnZuWkczbExScE9vLTZGbHR4RFZjRnVIdzhYWEU5MDhsTmQ5bEpBSw?oc=5"
     },
     {
       "tag": "환경뉴스",
@@ -45,21 +59,7 @@
       "source": "환경일보",
       "date": "Thu, 29 Oct 2026",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82akZGWXNWTEdSbnRfTjV6dU9RM0tiSEFzZzlkOWZvcW5MR2FBNmpxMnJMZEVNTVlXbENYbVdlX1FucEpDR3RUREN4X0s4NDloVGRYdVN6c0dLV1NUa2p6cW5HT2UtTGZN?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "영광군, 전남광주통합특별시 탄소중립 우수 시‧군 평가 ‘우수상’ 수상 - 뉴스체인지",
-      "source": "뉴스체인지",
-      "date": "Thu, 29 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0yT0NvY2NRbHRmdXpWd2F0aGJRdVh0N0hSWnk3aXBwNC1SaFQzZTBiTm5kbkJFYWw4ZEdCZG5yb1k0RERPQWxVMC1tNA?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "동서발전, 2040년 온실가스 79% 감축 목표…탄소중립 이행 가속화 - 부산일보",
-      "source": "부산일보",
-      "date": "Thu, 29 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NR3ZkZWM5WktmNV85WTFxT1k1UmpGeElRX2E0ckZjSm9FVG9LUEtVRkxQR0d1QlZwcWZua2cyck9wcXlPVUlrSldCaGRnaHBUM2xLVGo0b0xheWVkczVoYU9iU1BWblZ5cUg4eFFnbVRlUGpYdWpWNw?oc=5"
     }
   ],
-  "fact": "나무 한 그루는 평균적으로 1년에 약 20~25kg의 이산화탄소를 흡수합니다."
+  "fact": "전 세계 플라스틱의 약 9%만이 실제로 재활용되고 있습니다."
 }
