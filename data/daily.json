@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-31T10:25:17.286351+09:00",
-  "generated_at_display": "2026-10-31 10:25 KST",
+  "generated_at": "2026-11-01T09:41:47.222608+09:00",
+  "generated_at_display": "2026-11-01 09:41 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,12 +12,40 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 59,
-    "pm25": 32,
+    "pm10": 35,
+    "pm25": 17,
     "cai": "보통",
     "sido": "대구 동구(신암동)"
   },
   "news": [
+    {
+      "tag": "환경뉴스",
+      "title": "지자체 탄소중립 실효성 높이려면…‘감축인지 예산서’ 도입 목소리 - 충청투데이",
+      "source": "충청투데이",
+      "date": "Sat, 31 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10dDJiQUtOVjQyb0c3ajFVaVJ0akhURWl5TWM1U2ZjV2QzbmZkMmxYLWlMeWtjRTN6ZWlkNlNvQnlfZFZPYVMtbXlzZy1kZWdldy04UjRQYnVPRWhvR3ZvcFI5RDlGZEJPYmFMVFZR?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "인천 탄소중립, 시민 실천으로 확산…내년 실행계획 구체화 - 쓰담미디어",
+      "source": "쓰담미디어",
+      "date": "Sat, 31 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56X3FRdlA0VjdycURLdlVNX0YzS0hTQnhyYUM3TTFkdWlEampENDF0dU5obEZEbkMySjJDS01kRV93ZHNrbVEwMjZOOTdmOEp0OS1JYXN3OWI5UHBka0RzbmlfbVpqS3M?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "동서발전, 2040년 온실가스 79% 감축 목표…탄소중립 이행 속도 - 연합뉴스",
+      "source": "연합뉴스",
+      "date": "Fri, 30 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VTXNwQzF3RE16aWRFRnZvVFZKc2dzNkdoU2ZUeXhrUndoZ3FlZUZoblpfb2hrb1p5b1Q5Q2lPbU14a0hhdnl6bzVZRmdOYjlHNzRfcW8zajVoZWdGMG9HetIBYEFVX3lxTE9VTXNwQzF3RE16aWRFRnZvVFZKc2dzNkdoU2ZUeXhrUndoZ3FlZUZoblpfb2hrb1p5b1Q5Q2lPbU14a0hhdnl6bzVZRmdOYjlHNzRfcW8zajVoZWdGMG9Heg?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "의성군, 주민 주도 환경교육 탄소중립 실천 확산 - 환경일보",
+      "source": "환경일보",
+      "date": "Thu, 29 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82akZGWXNWTEdSbnRfTjV6dU9RM0tiSEFzZzlkOWZvcW5MR2FBNmpxMnJMZEVNTVlXbENYbVdlX1FucEpDR3RUREN4X0s4NDloVGRYdVN6c0dLV1NUa2p6cW5HT2UtTGZN?oc=5"
+    },
     {
       "tag": "환경뉴스",
       "title": "오산대 ESG센터, 교직원 대상 탄소중립 생활실천 교육 진행 - 에너지경제신문",
@@ -31,35 +59,7 @@
       "source": "국제신문",
       "date": "Fri, 30 Oct 2026",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZGJRVEJySWh1TWhyeUduX3RDTVpkT1lrY0J1YmQ5aEg2aWpEQnNnTVgwRkxFZldTMUIzeHlKMURfQW8zNlU3NzMtbzJObmJVMHp0RzUzdDJCSHRSZVc1Y3FCREc4UGFFd19QMU4xUFQ1LVhIdXdHV2xJalAxUWsyRzQ0SVk1TUhRUXBnT1l3?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "대전시, 탄소중립 실현 지역 기후테크 활성화 협력방안 논의 - 충남일보",
-      "source": "충남일보",
-      "date": "Fri, 30 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5RTFmVHBMUTZ0ZS1tRUIwd0N6d3dibXlFVWpwLUhnSk9YYkswaXg3dmd1OXFXNDNTc08wUGJ2cVAxM19JbUgySEFFSnRtc19vUXpjT19zZmhwVHJEdXhnUXFSa0ZRcWhDNmdpMEF6LWZLYjQ?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "동서발전, 2040년 온실가스 79% 감축 목표…탄소중립 이행 속도 - 연합뉴스",
-      "source": "연합뉴스",
-      "date": "Fri, 30 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VTXNwQzF3RE16aWRFRnZvVFZKc2dzNkdoU2ZUeXhrUndoZ3FlZUZoblpfb2hrb1p5b1Q5Q2lPbU14a0hhdnl6bzVZRmdOYjlHNzRfcW8zajVoZWdGMG9HetIBYEFVX3lxTE9VTXNwQzF3RE16aWRFRnZvVFZKc2dzNkdoU2ZUeXhrUndoZ3FlZUZoblpfb2hrb1p5b1Q5Q2lPbU14a0hhdnl6bzVZRmdOYjlHNzRfcW8zajVoZWdGMG9Heg?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "세종환경교육센터, 으뜸초 352명과 ‘생활 속 탄소중립’ 실천 - 농수축산신문",
-      "source": "농수축산신문",
-      "date": "Fri, 30 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoYjUycW9Vb2d4ZWdGQmFfNElpbzNPRXhfcW41UjRPSHU3Z2U2YXRQdnl5RV9yNnI2WVM2ZTM2YURiX041cnZuWkczbExScE9vLTZGbHR4RFZjRnVIdzhYWEU5MDhsTmQ5bEpBSw?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "의성군, 주민 주도 환경교육 탄소중립 실천 확산 - 환경일보",
-      "source": "환경일보",
-      "date": "Thu, 29 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82akZGWXNWTEdSbnRfTjV6dU9RM0tiSEFzZzlkOWZvcW5MR2FBNmpxMnJMZEVNTVlXbENYbVdlX1FucEpDR3RUREN4X0s4NDloVGRYdVN6c0dLV1NUa2p6cW5HT2UtTGZN?oc=5"
     }
   ],
-  "fact": "전 세계 플라스틱의 약 9%만이 실제로 재활용되고 있습니다."
+  "fact": "태양광 발전 비용은 지난 10여 년간 큰 폭으로 하락해 여러 지역에서 가장 저렴한 전력원 중 하나가 되었습니다."
 }
