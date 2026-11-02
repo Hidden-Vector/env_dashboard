@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01T09:41:47.222608+09:00",
-  "generated_at_display": "2026-11-01 09:41 KST",
+  "generated_at": "2026-11-02T10:16:47.377648+09:00",
+  "generated_at_display": "2026-11-02 10:16 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,25 +12,32 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 35,
-    "pm25": 17,
-    "cai": "보통",
+    "pm10": 14,
+    "pm25": 6,
+    "cai": "좋음",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "지자체 탄소중립 실효성 높이려면…‘감축인지 예산서’ 도입 목소리 - 충청투데이",
-      "source": "충청투데이",
-      "date": "Sat, 31 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10dDJiQUtOVjQyb0c3ajFVaVJ0akhURWl5TWM1U2ZjV2QzbmZkMmxYLWlMeWtjRTN6ZWlkNlNvQnlfZFZPYVMtbXlzZy1kZWdldy04UjRQYnVPRWhvR3ZvcFI5RDlGZEJPYmFMVFZR?oc=5"
+      "title": "대전시, 탄소중립 실현 지역 기후테크 활성화 협력방안 논의 - 충청게릴라뉴스",
+      "source": "충청게릴라뉴스",
+      "date": "Sun, 01 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pSzJ3UWVMWWZaMGdFWkI1X2xkT252YjctbjRIaUlxSnQtX1pKaGx2M0U5ZHlaLXlWc0YxcWhqZGYyN3FNRUNtSWM0dTVwMHJwa09yaU15eFJJS2ZieWdjWmVCZERidw?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "인천 탄소중립, 시민 실천으로 확산…내년 실행계획 구체화 - 쓰담미디어",
-      "source": "쓰담미디어",
-      "date": "Sat, 31 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56X3FRdlA0VjdycURLdlVNX0YzS0hTQnhyYUM3TTFkdWlEampENDF0dU5obEZEbkMySjJDS01kRV93ZHNrbVEwMjZOOTdmOEp0OS1JYXN3OWI5UHBka0RzbmlfbVpqS3M?oc=5"
+      "title": "인천 탄소중립, 시민 실천이 관건…생활밀착형 9개 과제 논의 - 경기신문",
+      "source": "경기신문",
+      "date": "Sun, 01 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pRTVtY0Y3ZFNhdzRFMTdEdmhBYmM0OEhPbzFrZFgwLXN0SUpMdm9mUXhMb2pOMDNmZndHY1NBZ3U1dEVhcVl3bDlsOENJTG9DTUI1QUZBUUVYSjlPMUVTY2l3?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "인천연구원 ‘인천 탄소중립 실천추진단, 시민 주도 실천 방안 구체화 - 경기헤드라인",
+      "source": "경기헤드라인",
+      "date": "Sun, 01 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE42TE5HQndtaGxKdWZNTGpKejVYU3I2Ym04MVhQaW1iQXVJU0NKOTliTGR6ZFNSajB1MWFyR05ROFpTUldIaUdLeWFzN3FvaWlIellqNVJ0c1lQT0M5X29QblROYy1YUQ?oc=5"
     },
     {
       "tag": "환경뉴스",
@@ -41,25 +48,18 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "의성군, 주민 주도 환경교육 탄소중립 실천 확산 - 환경일보",
-      "source": "환경일보",
-      "date": "Thu, 29 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82akZGWXNWTEdSbnRfTjV6dU9RM0tiSEFzZzlkOWZvcW5MR2FBNmpxMnJMZEVNTVlXbENYbVdlX1FucEpDR3RUREN4X0s4NDloVGRYdVN6c0dLV1NUa2p6cW5HT2UtTGZN?oc=5"
+      "title": "인천연구원, 시민참여형 탄소중립 실천과제 9건 논의 - 매일일보",
+      "source": "매일일보",
+      "date": "Sun, 01 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SOVQ4akN1ajRDS2tMMkV3TzhCZEdyN1plWjVhMWpHN2d6Sk5YZ29aRXhfbWxHVlBZWl9pYUNWWFZDR0staWd0LWlGNkYxTVctdFo0OUZOZjJ6d21ZX2lZS25GSjE?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "오산대 ESG센터, 교직원 대상 탄소중립 생활실천 교육 진행 - 에너지경제신문",
-      "source": "에너지경제신문",
-      "date": "Fri, 30 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qX2tSWkRTS3BNTV9PR0dNYXBNd0x6UWFzdGNSWnJEclFqV0JHcjkxcGZNN04tdEZ5MG9KMnFGM0xGV3VCYmxKVS1sa2FjdGpYbGhfenJJNGExdmZJTUlxTjJSZw?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "부산진구, ‘환경사랑 탄소중립 실천 그림 공모작 전시회’ 개최 - 국제신문",
-      "source": "국제신문",
-      "date": "Fri, 30 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZGJRVEJySWh1TWhyeUduX3RDTVpkT1lrY0J1YmQ5aEg2aWpEQnNnTVgwRkxFZldTMUIzeHlKMURfQW8zNlU3NzMtbzJObmJVMHp0RzUzdDJCSHRSZVc1Y3FCREc4UGFFd19QMU4xUFQ1LVhIdXdHV2xJalAxUWsyRzQ0SVk1TUhRUXBnT1l3?oc=5"
+      "title": "대전시, 기후테크로 탄소중립·지역산업 성장 두 마리 토끼 잡는다 - 충청매일",
+      "source": "충청매일",
+      "date": "Sun, 01 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFSnMzaFdVR0N0VTZPTWZzVms5RmFyRFAyREFzX0x5QnFTOWhaOWNhVl93dWFINHd6aUtIa2xGVUlobG0xS0pnby1Jck1VT0M1bTk4MjdHV0N5YXNwTHVfM0RtTXA4QmdRaFE?oc=5"
     }
   ],
-  "fact": "태양광 발전 비용은 지난 10여 년간 큰 폭으로 하락해 여러 지역에서 가장 저렴한 전력원 중 하나가 되었습니다."
+  "fact": "해양은 인간이 배출한 이산화탄소의 상당 부분을 흡수해 해양 산성화를 일으키고 있습니다."
 }
