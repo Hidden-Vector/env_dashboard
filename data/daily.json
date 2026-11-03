@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02T10:16:47.377648+09:00",
-  "generated_at_display": "2026-11-02 10:16 KST",
+  "generated_at": "2026-11-03T12:17:53.415243+09:00",
+  "generated_at_display": "2026-11-03 12:17 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,54 +12,54 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 14,
-    "pm25": 6,
-    "cai": "좋음",
+    "pm10": 58,
+    "pm25": 23,
+    "cai": "보통",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "대전시, 탄소중립 실현 지역 기후테크 활성화 협력방안 논의 - 충청게릴라뉴스",
-      "source": "충청게릴라뉴스",
-      "date": "Sun, 01 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pSzJ3UWVMWWZaMGdFWkI1X2xkT252YjctbjRIaUlxSnQtX1pKaGx2M0U5ZHlaLXlWc0YxcWhqZGYyN3FNRUNtSWM0dTVwMHJwa09yaU15eFJJS2ZieWdjWmVCZERidw?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "인천 탄소중립, 시민 실천이 관건…생활밀착형 9개 과제 논의 - 경기신문",
-      "source": "경기신문",
-      "date": "Sun, 01 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pRTVtY0Y3ZFNhdzRFMTdEdmhBYmM0OEhPbzFrZFgwLXN0SUpMdm9mUXhMb2pOMDNmZndHY1NBZ3U1dEVhcVl3bDlsOENJTG9DTUI1QUZBUUVYSjlPMUVTY2l3?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "인천연구원 ‘인천 탄소중립 실천추진단, 시민 주도 실천 방안 구체화 - 경기헤드라인",
-      "source": "경기헤드라인",
-      "date": "Sun, 01 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE42TE5HQndtaGxKdWZNTGpKejVYU3I2Ym04MVhQaW1iQXVJU0NKOTliTGR6ZFNSajB1MWFyR05ROFpTUldIaUdLeWFzN3FvaWlIellqNVJ0c1lQT0M5X29QblROYy1YUQ?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "동서발전, 2040년 온실가스 79% 감축 목표…탄소중립 이행 속도 - 연합뉴스",
-      "source": "연합뉴스",
-      "date": "Fri, 30 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VTXNwQzF3RE16aWRFRnZvVFZKc2dzNkdoU2ZUeXhrUndoZ3FlZUZoblpfb2hrb1p5b1Q5Q2lPbU14a0hhdnl6bzVZRmdOYjlHNzRfcW8zajVoZWdGMG9HetIBYEFVX3lxTE9VTXNwQzF3RE16aWRFRnZvVFZKc2dzNkdoU2ZUeXhrUndoZ3FlZUZoblpfb2hrb1p5b1Q5Q2lPbU14a0hhdnl6bzVZRmdOYjlHNzRfcW8zajVoZWdGMG9Heg?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "인천연구원, 시민참여형 탄소중립 실천과제 9건 논의 - 매일일보",
+      "title": "인천연구원 \"탄소중립 효과, 온실가스 감축 넘어 건강까지 고려해야\" - 매일일보",
       "source": "매일일보",
-      "date": "Sun, 01 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SOVQ4akN1ajRDS2tMMkV3TzhCZEdyN1plWjVhMWpHN2d6Sk5YZ29aRXhfbWxHVlBZWl9pYUNWWFZDR0staWd0LWlGNkYxTVctdFo0OUZOZjJ6d21ZX2lZS25GSjE?oc=5"
+      "date": "Tue, 03 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FUEhmZkNIZF9fRGFlMERlTkZaNHpGcGctYW9qNV82RjBOYThyVG5LbnpHcEVsTzlfRzNPeHgxN2xaNE4yQmdmTGV3djVGMHJQLWRhRjk3ejV0VVNyZW1QajNZUHg?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "대전시, 기후테크로 탄소중립·지역산업 성장 두 마리 토끼 잡는다 - 충청매일",
-      "source": "충청매일",
-      "date": "Sun, 01 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFSnMzaFdVR0N0VTZPTWZzVms5RmFyRFAyREFzX0x5QnFTOWhaOWNhVl93dWFINHd6aUtIa2xGVUlobG0xS0pnby1Jck1VT0M1bTk4MjdHV0N5YXNwTHVfM0RtTXA4QmdRaFE?oc=5"
+      "title": "탄소중립, 시민건강과 연결한 실천방안 - 서프라이즈뉴스",
+      "source": "서프라이즈뉴스",
+      "date": "Mon, 02 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hamh3ZXJaX1NBMTVfVWMyMkFkVGVXcnRSRW5tTTAyLWxseTlVR2FpS1piSFFRY01ySW45bTNINkZDRHVYQ0p4Sl9GRHk0MjBUTWdoY2c1eU1MblZzSUtCWHM2cVRSQUJaRkJtT2dn?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "[대전시] 기후테크로 탄소중립과 지역성장 해법 모색 - 워터저널",
+      "source": "워터저널",
+      "date": "Mon, 02 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EdEJHSU1xbUZ4Qjg0MVZDcTcwZ0JpSlJpazJsWEVSRkttZlhxSkN3WTRWeEtGbk4zcXBJRVM5ZnoxU0lhdnROV3gyMU40ZU84VEpvT2xtRFY1aW5TXzFoWEZLZVdwTUFQMElIYzFjNF9ZRnZrMmfSAXZBVV95cUxPRHRCR0lNcW1GeEI4NDFWQ3E3MGdCaUpSaWsybFhFUkZLbWZYcUpDd1k0VnhLRm5OM3FwSUVTOWZ6MVNJYXZ0Tld4MjFONGVPOFRKb09sbURWNWluU18xaFhGS2VXcE1BUDBJSGMxYzRfWUZ2azJn?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "광명시 '환경교육도시' 재지정…시민주도 환경교육 성과 인정 - 인천일보",
+      "source": "인천일보",
+      "date": "Tue, 03 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92RkhCSndSR1ktbEU1aHRTZjFwOEdDM2hGcFRkZUhhN2o2cWpJSW81Mmx2anFuNUJrc1NveF9yYVBiWEwzSWNILTNsSGNYX0RYenVtZzdxTXBRREJKZUZpcUlBbVpkUmlxdWxRdEpuWGU?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "“탄소중립 실천 문화 확산”…구로구, ‘G구로수호대 기후행동 실천수기 공모전’ 11월 30일까지 접수 - G밸리타임스",
+      "source": "G밸리타임스",
+      "date": "Tue, 03 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wSS1oeGtHQVVmamdiUTdlNmxRMTVIbllobDVaX3pianU3dWRkbEdXdEVxaEFPSnZxNWZXcmNyYi01cFh6ajJ6S1IwaldZY2RWMTdMUzBGTXZ2cW9mbExoZlRpSnBJTndmQy1rTUFR?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "광명시, 환경교육도시 2회 연속 지정…시민 주도 탄소중립 교육 성과 - 보도자료 | 기사 - 더팩트",
+      "source": "더팩트",
+      "date": "Tue, 03 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42b01BWHZDMWFKbk9JTmN3d1VIMVNtVkt2dTVUZFdDNWV0LWtReWE5cjlqNzljMWl1SU16dnFSRnB6ZERmTDl5SHJpZEVfQ2lNZjVrVmxLY2ozSnZKWHFB?oc=5"
     }
   ],
-  "fact": "해양은 인간이 배출한 이산화탄소의 상당 부분을 흡수해 해양 산성화를 일으키고 있습니다."
+  "fact": "육류 소비를 줄이는 것은 개인이 실천할 수 있는 가장 효과적인 탄소 저감 방법 중 하나로 꼽힙니다."
 }
