@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04T10:54:09.147110+09:00",
-  "generated_at_display": "2026-11-04 10:54 KST",
+  "generated_at": "2026-11-05T10:59:16.692763+09:00",
+  "generated_at_display": "2026-11-05 10:59 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,54 +12,54 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 61,
-    "pm25": 24,
+    "pm10": 17,
+    "pm25": 19,
     "cai": "보통",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "카사바 나무에 담은 환경 약속…제1회 탄소중립 실천대회 열려 - 한국시민기자협회 뉴스포털1",
-      "source": "한국시민기자협회 뉴스포털1",
-      "date": "Tue, 03 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxRlNCR0U4MW5XbzlxMk1kYXlqYmRUc19FdXdiT2hUbGNkMzdGYUJMaTBfU01YNmpUbmhiaXFtWEY3WGtmTXRXNUNIaUlsRXNTbEVaSkJmLURINHJ1WEdoS0NjM1hheWNEbnVod1R3eU5wOWM4VjZN0gF3QVVfeXFMUHFGU0JHRTgxbldvOXEyTWRheWpiZFRzX0V1d2JPaFRsY2QzN0ZhQkxpMF9TTVg2alRuaGJpcW1YRjdYa2ZNdFc1Q0hpSWxFc1NsRVpKQmYtREg0cnVYR2hLQ2MzWGF5Y0RudWh3VHd5TnA5YzhWNk0?oc=5"
+      "title": "2026 제5회 탄소중립 환경문화제 몽돌광장 무대에서 성황리 마쳐 - 글로벌뉴스통신GNA",
+      "source": "글로벌뉴스통신GNA",
+      "date": "Thu, 05 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1c0tiQ1JJemJNZGFId0pHdGduYXNxVnVBbW9UZk9TdUQ4VmE5NnZVUEJweDczUkVKLXVMWlI1bThyNUFqMndzUVJCVkFYY2l0ZllXYTV3ZlpIRTdUcjF3bUhabXF1RElWWUtDUXYtZTRhSGVT?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "양주시 탄소중립 시민실천의 날, 환경보전 성과 공유·생활 속 실천 확산 - 경인매일",
-      "source": "경인매일",
+      "title": "EU, 그린클레임 철회 추진…'친환경·탄소중립' 광고 규제는 이미 시행 - 임팩트온",
+      "source": "임팩트온",
+      "date": "Thu, 05 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzclJRY0pqWlhFTUZUZm1qT0NUbTUtR3VVQkR3WmVHLUxZaFhpQjRBQnE5VmxzUTN5d3dTVVoxc0V3OTJtN3V6ajV1cjdlSFRnbVlmazhjRDRqRm1sUFFmSlB6cG5zZTFsSHc?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "목소영·서울의회, 2050 탄소중립 광역환경교육센터 1곳 - 오토투데이",
+      "source": "오토투데이",
       "date": "Wed, 04 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGenRqRXQzMDl3dE5Ba2R2Tk5CdGtMZDQ4WEhKNzZqZ3B3YTlFMEI0UkhiZW5FMDB1VDI5VDFYcFdrVTB2bEhrNm1reldoMEpxNkRhZW43QUVuWEsxVklEZ2R0b0pvdmxj?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jcm1QZWtDdm5RZWQ1Vm44dEJvZXg4cW5KY2RVNnNDc29ZemdYZThzaVVBYkxoNlVtSjQxdmZJbzhzLTN1U0VlQ0JTekxzeTZ0aS11eTRnS0xXZFI2SU9VYzFCdE5XWndnZ3hlVmFMdw?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "양주시 ‘2026년 탄소중립 시민실천의 날’ 개최 - 산경일보",
-      "source": "산경일보",
+      "title": "[탄소중립리포트] 대기업은 RE100, 협력사는 탄소 비용…상생 없는 탈탄소 전환 - kjtimes",
+      "source": "kjtimes",
+      "date": "Thu, 05 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KRUZkbmRpWE9tUW9HRF9CUmRiSVFydGh0VDFwZHpQemRsQmFSRUR3X1RMcEdTaE1CamJDQ3VEUUdROERuWHltTmhjZ1dwdDlsTEt2S3NoZVJWRFZmdkx3?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "서대문구, 전국 최초 지역지도 활용 탄소중립 환경교육 퍼즐 개발 - 매일일보",
+      "source": "매일일보",
       "date": "Wed, 04 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wTG5sUHdiaUhpeGhHcS1kc1JBTnZoVUllcThLWVJJZ0tDUXBnTVpucHg2aTBKdXRuLWlfMm5pQ2thUFBtYktVdFlNa2hXanJvSTREYzhvVEtYU3pkV3VWTzZLMU85N2EwdF9PSll5NGg?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xOVZJQnpqY0lTTmpyWWRseGw3SlItTEZhb3R5WVQ2MVFhU3hFLXd6SkpLelo5QnNvOVZQMzUwZ2twZUpnRW9famZWR1BaZzV5eXZRREMyYXktYVdzV1I1aVlvLUI?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "예천군, 축제장서 실천한 자원순환과 탄소중립 알뜰나눔장터 - 경상투데이",
-      "source": "경상투데이",
+      "title": "서대문구, 전국 최초 '환경지도 퍼즐' 개발…게임으로 탄소중립 배운다 - 국제뉴스",
+      "source": "국제뉴스",
       "date": "Wed, 04 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54TlBPQ2ZYeHZRSUYzRHU0NFNCX3h1cDdlM1pGOXh5MUZUc3F2dDFEQ0dQRFhhTWd6SWF4QzdFTGdabm01QjhYMTdsVm9sUE96NjF1SzhHY21GM3BvOXdsR2hDRS1aQTA?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "인천연구원, ‘인천 탄소중립 전환 대응 환경보건 실천 방안’ 결과 발표 - 서울일보",
-      "source": "서울일보",
-      "date": "Tue, 03 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04QjR6TVZkMnFXSEhQeFYtbHRCZGNFU0lyQmd2aVVSVXlLRWFleFlFdEx0OXRWOFZibUxIMEJRQ2RWcFVJc0F4dzdCeXlVbVBKNHRXSGpWeW14M05Wci15dml1SlJXamRwSE0zb9IBb0FVX3lxTE44Vnl1SUU4bWc3b0FkdC0tRk9kYUx0ckE4MXF5OHg5bUlHNEZNRFROSUVRaHJXTUZOV21MTWo0R0Rqb0VEUDczanFjMWh1dXhVM1VzNUFrM1l3NWM2cl83WXl3MG91NzJLSEhwZC1PYw?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "[대전시] 기후테크로 탄소중립과 지역성장 해법 모색 - 워터저널",
-      "source": "워터저널",
-      "date": "Mon, 02 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EdEJHSU1xbUZ4Qjg0MVZDcTcwZ0JpSlJpazJsWEVSRkttZlhxSkN3WTRWeEtGbk4zcXBJRVM5ZnoxU0lhdnROV3gyMU40ZU84VEpvT2xtRFY1aW5TXzFoWEZLZVdwTUFQMElIYzFjNF9ZRnZrMmfSAXZBVV95cUxPRHRCR0lNcW1GeEI4NDFWQ3E3MGdCaUpSaWsybFhFUkZLbWZYcUpDd1k0VnhLRm5OM3FwSUVTOWZ6MVNJYXZ0Tld4MjFONGVPOFRKb09sbURWNWluU18xaFhGS2VXcE1BUDBJSGMxYzRfWUZ2azJn?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SY1lYNmc0elN2bm55cU9sVWgwbjZZcEJtSG1wSkVMS3o3ZkNyOUFaOFVrYk5ZeVpDNUhLRWYzd3lQOU15VnJSdGl1SUpOdFktaTBLOVFWZ0M4UVBvc2hNNjd2bmc0NXd4RzZFNHJ3?oc=5"
     }
   ],
-  "fact": "국제사회는 파리협정을 통해 산업화 이전 대비 지구 평균기온 상승을 1.5도 이내로 억제하는 것을 목표로 하고 있습니다."
+  "fact": "한국은 2050년 탄소중립을 국가 목표로 선언했습니다."
 }
