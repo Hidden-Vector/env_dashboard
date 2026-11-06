@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T10:59:16.692763+09:00",
-  "generated_at_display": "2026-11-05 10:59 KST",
+  "generated_at": "2026-11-06T10:59:12.435071+09:00",
+  "generated_at_display": "2026-11-06 10:59 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,12 +12,40 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 17,
-    "pm25": 19,
+    "pm10": 24,
+    "pm25": 8,
     "cai": "보통",
     "sido": "대구 동구(신암동)"
   },
   "news": [
+    {
+      "tag": "환경뉴스",
+      "title": "에코지도사협회 2026 제5회 탄소중립 환경문화제 몽돌 바다 야외무대에서 열어 - 행정수도뉴스",
+      "source": "행정수도뉴스",
+      "date": "Thu, 05 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PY0k4cmI4VkxBX2tKRENmcVdreHpmUWFjYVJJNWdNZDNHdnNpaXFFTUNRQVdTSlpIUGFpUzRiaVd0bDRRMFlvbE1kZWV4YUstMEJKTXJRZlp1TXdXWlpHNkZpMFh1UQ?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "동서발전, 2040년 온실가스 79% 감축 “탄소중립 목표 상향” - 인사이트N파워",
+      "source": "인사이트N파워",
+      "date": "Thu, 05 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLTmtRWU5wUFB0dTJWaGVxNjNpV01QZ2ZoLUI5VjN5UFpuSFFvTmhzVVo1TGxTX1JPTFBTTzV2OG9URmRFdUNMSk5HVUNCMllNUUhZVEFNRkRMblcxRzBBbXpzbXliUQ?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "[환경이슈] “탄소 감축에 따뜻한 사회적 가치를 더하다”...SDX재단, 나도기브와 지속가능한 미래를 향한 아름다운 손잡기 - 산경e뉴스",
+      "source": "산경e뉴스",
+      "date": "Thu, 05 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BZms2WHc5ZkpidjhjOWJCNWtWcERlMldXWGhMRHdkQ19GMnZ1SVY1UXlXV2NUSDZXUDVlZEtzQ0FBc3NrTUdLVDY2Vk83RE5UaWp1aU5RT2M3aUVvem9oZkVtWGxhZEk?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "(기자의눈) 환경에 에너지를 더한 이유 잊지 말아야 - 전기신문",
+      "source": "전기신문",
+      "date": "Thu, 05 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yckN5YWo5Z3NyMldhX3FVdlRkYklHbWJmd3hjX1FwWGhURm9STmY3SjFrZC1qMnphT29ZZDRrek92SG1SLWRuakVrUWhyM0d6OEVpOHdHak9XR01TTlVDT3hGSWphTk9CeG1IctIBcEFVX3lxTE5VLWROSzNYV1ptc2hmY0g1VnR6dWdWODVCbGNldEZvakVZMWRmVkVKS2kyejlncTh5SDNibURjc3FuS09QZVlwa3ZtRVJwajExbEVackhpbkxfTk9yaDFQa2dlOWlyY2JyY1RBT3IwMUo?oc=5"
+    },
     {
       "tag": "환경뉴스",
       "title": "2026 제5회 탄소중립 환경문화제 몽돌광장 무대에서 성황리 마쳐 - 글로벌뉴스통신GNA",
@@ -27,39 +55,11 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "EU, 그린클레임 철회 추진…'친환경·탄소중립' 광고 규제는 이미 시행 - 임팩트온",
-      "source": "임팩트온",
-      "date": "Thu, 05 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzclJRY0pqWlhFTUZUZm1qT0NUbTUtR3VVQkR3WmVHLUxZaFhpQjRBQnE5VmxzUTN5d3dTVVoxc0V3OTJtN3V6ajV1cjdlSFRnbVlmazhjRDRqRm1sUFFmSlB6cG5zZTFsSHc?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "목소영·서울의회, 2050 탄소중립 광역환경교육센터 1곳 - 오토투데이",
-      "source": "오토투데이",
-      "date": "Wed, 04 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jcm1QZWtDdm5RZWQ1Vm44dEJvZXg4cW5KY2RVNnNDc29ZemdYZThzaVVBYkxoNlVtSjQxdmZJbzhzLTN1U0VlQ0JTekxzeTZ0aS11eTRnS0xXZFI2SU9VYzFCdE5XWndnZ3hlVmFMdw?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "[탄소중립리포트] 대기업은 RE100, 협력사는 탄소 비용…상생 없는 탈탄소 전환 - kjtimes",
-      "source": "kjtimes",
-      "date": "Thu, 05 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KRUZkbmRpWE9tUW9HRF9CUmRiSVFydGh0VDFwZHpQemRsQmFSRUR3X1RMcEdTaE1CamJDQ3VEUUdROERuWHltTmhjZ1dwdDlsTEt2S3NoZVJWRFZmdkx3?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "서대문구, 전국 최초 지역지도 활용 탄소중립 환경교육 퍼즐 개발 - 매일일보",
-      "source": "매일일보",
-      "date": "Wed, 04 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xOVZJQnpqY0lTTmpyWWRseGw3SlItTEZhb3R5WVQ2MVFhU3hFLXd6SkpLelo5QnNvOVZQMzUwZ2twZUpnRW9famZWR1BaZzV5eXZRREMyYXktYVdzV1I1aVlvLUI?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "서대문구, 전국 최초 '환경지도 퍼즐' 개발…게임으로 탄소중립 배운다 - 국제뉴스",
-      "source": "국제뉴스",
-      "date": "Wed, 04 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SY1lYNmc0elN2bm55cU9sVWgwbjZZcEJtSG1wSkVMS3o3ZkNyOUFaOFVrYk5ZeVpDNUhLRWYzd3lQOU15VnJSdGl1SUpOdFktaTBLOVFWZ0M4UVBvc2hNNjd2bmc0NXd4RzZFNHJ3?oc=5"
+      "title": "시흥시, 환경교육도시 재지정…2029년까지 탄소중립 실천 확대 나선다 - 경기일보",
+      "source": "경기일보",
+      "date": "Mon, 02 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WbGxFMzJQcDBjdzhBNDRRM04zd2FTakdJMjNoQXpLWkFMN1hwWFlkNmJYek9nNU9ZbF9aSm9xbFJRMUUzVVJiY2E4cXFfQl9zQy03ekVscVhEVlk?oc=5"
     }
   ],
-  "fact": "한국은 2050년 탄소중립을 국가 목표로 선언했습니다."
+  "fact": "이산화탄소는 대기 중에 배출된 뒤 수백 년간 머무를 수 있어, 오늘 줄인 배출량의 효과는 수십 년 뒤에야 기후에 반영되기 시작합니다."
 }
