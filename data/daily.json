@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T10:59:12.435071+09:00",
-  "generated_at_display": "2026-11-06 10:59 KST",
+  "generated_at": "2026-11-07T10:37:19.356822+09:00",
+  "generated_at_display": "2026-11-07 10:37 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,46 +12,39 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 24,
-    "pm25": 8,
-    "cai": "보통",
+    "pm10": 17,
+    "pm25": 7,
+    "cai": "좋음",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "에코지도사협회 2026 제5회 탄소중립 환경문화제 몽돌 바다 야외무대에서 열어 - 행정수도뉴스",
-      "source": "행정수도뉴스",
-      "date": "Thu, 05 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PY0k4cmI4VkxBX2tKRENmcVdreHpmUWFjYVJJNWdNZDNHdnNpaXFFTUNRQVdTSlpIUGFpUzRiaVd0bDRRMFlvbE1kZWV4YUstMEJKTXJRZlp1TXdXWlpHNkZpMFh1UQ?oc=5"
+      "title": "탄소중립·평화 주제… 목포시 '자연환경평화문화축제' 7일 개최 - 전남인터넷신문",
+      "source": "전남인터넷신문",
+      "date": "Fri, 06 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54NDdDSWZXMlVralBhS1g1WlY3Z2prRXNySC1zT0RHU3F2cHlZN0gyN2Y5cXNYTXFTZjlfWlZqeFBYUHM0VUgteUVMTUVRRjdiWGF0YWJfWkt6VlBj?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "동서발전, 2040년 온실가스 79% 감축 “탄소중립 목표 상향” - 인사이트N파워",
-      "source": "인사이트N파워",
-      "date": "Thu, 05 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLTmtRWU5wUFB0dTJWaGVxNjNpV01QZ2ZoLUI5VjN5UFpuSFFvTmhzVVo1TGxTX1JPTFBTTzV2OG9URmRFdUNMSk5HVUNCMllNUUhZVEFNRkRMblcxRzBBbXpzbXliUQ?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "[환경이슈] “탄소 감축에 따뜻한 사회적 가치를 더하다”...SDX재단, 나도기브와 지속가능한 미래를 향한 아름다운 손잡기 - 산경e뉴스",
-      "source": "산경e뉴스",
-      "date": "Thu, 05 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BZms2WHc5ZkpidjhjOWJCNWtWcERlMldXWGhMRHdkQ19GMnZ1SVY1UXlXV2NUSDZXUDVlZEtzQ0FBc3NrTUdLVDY2Vk83RE5UaWp1aU5RT2M3aUVvem9oZkVtWGxhZEk?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "(기자의눈) 환경에 에너지를 더한 이유 잊지 말아야 - 전기신문",
+      "title": "환경산업기술원, 새 비전 선포…‘원스톱 기후·환경 파트너’ 도약 - 전기신문",
       "source": "전기신문",
-      "date": "Thu, 05 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yckN5YWo5Z3NyMldhX3FVdlRkYklHbWJmd3hjX1FwWGhURm9STmY3SjFrZC1qMnphT29ZZDRrek92SG1SLWRuakVrUWhyM0d6OEVpOHdHak9XR01TTlVDT3hGSWphTk9CeG1IctIBcEFVX3lxTE5VLWROSzNYV1ptc2hmY0g1VnR6dWdWODVCbGNldEZvakVZMWRmVkVKS2kyejlncTh5SDNibURjc3FuS09QZVlwa3ZtRVJwajExbEVackhpbkxfTk9yaDFQa2dlOWlyY2JyY1RBT3IwMUo?oc=5"
+      "date": "Fri, 06 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WNjRmcnZmc0t3Q2xReWpkM05hMklCSGEyRnpOS3ZtNkFadldLb2tXcS1abTgwQkttcTIxaW85X3BXazNaemhIQk1sZjhHOGozVC1Lc3FVTG0yRHU4YmNONTZwRjZxMWhLdUh3MdIBcEFVX3lxTE1uZGQ2Tk84QjNrX2FxMHV2WHZ4MHplTDdXeU8xX2tUZDRIX1Y0cy1pSkZzNDNLRWdodDdkYjNKUWZQRXVqOVlPVWl2c2Y2MHVvVGZDSnRsWHJ3NWRGN3ZMYWhZZWFZNXhTQklOc1FXWVE?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "2026 제5회 탄소중립 환경문화제 몽돌광장 무대에서 성황리 마쳐 - 글로벌뉴스통신GNA",
-      "source": "글로벌뉴스통신GNA",
-      "date": "Thu, 05 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1c0tiQ1JJemJNZGFId0pHdGduYXNxVnVBbW9UZk9TdUQ4VmE5NnZVUEJweDczUkVKLXVMWlI1bThyNUFqMndzUVJCVkFYY2l0ZllXYTV3ZlpIRTdUcjF3bUhabXF1RElWWUtDUXYtZTRhSGVT?oc=5"
+      "title": "대나무 칫솔 나누며 탄소중립 독려 - 현대일보",
+      "source": "현대일보",
+      "date": "Fri, 06 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TNGdWWk01cUpBQXJVbEJBdjBVWHpnR2VqOWE1RHZ5Nk1zMFlzMGhvOGJIQkQ3dkE1cG52ZU9XNFVvZ04zekFRSWlUZF9RcllfdkVHbnpqcktVXzJxd29mQVQ4Z09acFdMNHpydmp3?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "목포시, ‘제7회 자연환경평화문화축제’ 7일 개최 - 호남타임즈",
+      "source": "호남타임즈",
+      "date": "Fri, 06 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mNWdqRGw3MkpzVGE5V1ZfT0dCeHpCcnpETHh5cVRpV0x5YVFycGdUNFo2d1A5VlJObERzOWtEbW5XMXhzY1NIYmxkbTc4U3BNZk1jUkN0bjFxYUFNbUtKaVlQNDVBd0ljWEs3Sw?oc=5"
     },
     {
       "tag": "환경뉴스",
@@ -59,7 +52,14 @@
       "source": "경기일보",
       "date": "Mon, 02 Nov 2026",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WbGxFMzJQcDBjdzhBNDRRM04zd2FTakdJMjNoQXpLWkFMN1hwWFlkNmJYek9nNU9ZbF9aSm9xbFJRMUUzVVJiY2E4cXFfQl9zQy03ekVscVhEVlk?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "[대체불가 K테크] ⑥탄소중립으론 '역부족'…\"빗물에 탄소 녹여 광물화 도전\" - DongA Science",
+      "source": "DongA Science",
+      "date": "Thu, 15 Oct 2026",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KWnkxemRBT3BMWkhsTWtHbk5zUXZsUFRDQThmSHpkSFhKODdfWDJ3WWFKSXlLM3RERy1OVUoxZFpocURQYkxMN1RyYUlwN3p4aVBsdQ?oc=5"
     }
   ],
-  "fact": "이산화탄소는 대기 중에 배출된 뒤 수백 년간 머무를 수 있어, 오늘 줄인 배출량의 효과는 수십 년 뒤에야 기후에 반영되기 시작합니다."
+  "fact": "전 세계 온실가스 배출량의 약 4분의 1은 식량 생산 과정에서 발생합니다."
 }
