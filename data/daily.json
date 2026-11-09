@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08T10:05:26.441437+09:00",
-  "generated_at_display": "2026-11-08 10:05 KST",
+  "generated_at": "2026-11-09T10:25:59.065445+09:00",
+  "generated_at_display": "2026-11-09 10:25 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,18 +12,25 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 28,
-    "pm25": 16,
+    "pm10": 36,
+    "pm25": 19,
     "cai": "좋음",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "환경산업기술원, 새 비전 선포…‘원스톱 기후·환경 파트너’ 도약 - 전기신문",
-      "source": "전기신문",
-      "date": "Fri, 06 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WNjRmcnZmc0t3Q2xReWpkM05hMklCSGEyRnpOS3ZtNkFadldLb2tXcS1abTgwQkttcTIxaW85X3BXazNaemhIQk1sZjhHOGozVC1Lc3FVTG0yRHU4YmNONTZwRjZxMWhLdUh3MdIBcEFVX3lxTE1uZGQ2Tk84QjNrX2FxMHV2WHZ4MHplTDdXeU8xX2tUZDRIX1Y0cy1pSkZzNDNLRWdodDdkYjNKUWZQRXVqOVlPVWl2c2Y2MHVvVGZDSnRsWHJ3NWRGN3ZMYWhZZWFZNXhTQklOc1FXWVE?oc=5"
+      "title": "탄소중립 녹색경영대상, 기술혁신·현장 실천 성과 조명 - 환경포커스",
+      "source": "환경포커스",
+      "date": "Sun, 08 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sbDd4UnU4LWk4a0VrS2VwOTJPTmpDWHhIdWYwOE1MTk53WDFJYXRYVnVnZ08tc1E3dE9OYVBHZTAtVkw2SXFHMEZJMFVGZTVrOHJ3ZWNHSkZnRi1jUUZqTmFqMA?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "충주시, 제1회 탄소중립 그린도시 페스티벌 개최 - 경충일보",
+      "source": "경충일보",
+      "date": "Sun, 08 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xcHZMaHR0b24taUpiSkVDQnNFajAxN2ZpcDB1QjllZ21OZXBhYXI4TkNNYm52RTI0WFhvVTRueHI0SmY2QXdaSHBCSjJNQlhuV3VDQmRwSmc?oc=5"
     },
     {
       "tag": "환경뉴스",
@@ -34,32 +41,25 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "시흥시, 환경교육도시 재지정…2029년까지 탄소중립 실천 확대 나선다 - 경기일보",
-      "source": "경기일보",
-      "date": "Mon, 02 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WbGxFMzJQcDBjdzhBNDRRM04zd2FTakdJMjNoQXpLWkFMN1hwWFlkNmJYek9nNU9ZbF9aSm9xbFJRMUUzVVJiY2E4cXFfQl9zQy03ekVscVhEVlk?oc=5"
+      "title": "동서발전, 2040년 온실가스 79% 감축 “탄소중립 목표 상향” - 인사이트N파워",
+      "source": "인사이트N파워",
+      "date": "Thu, 05 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLTmtRWU5wUFB0dTJWaGVxNjNpV01QZ2ZoLUI5VjN5UFpuSFFvTmhzVVo1TGxTX1JPTFBTTzV2OG9URmRFdUNMSk5HVUNCMllNUUhZVEFNRkRMblcxRzBBbXpzbXliUQ?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "예천군, 축제장서 실천한 자원순환과 탄소중립 알뜰나눔장터 - 경상투데이",
-      "source": "경상투데이",
-      "date": "Wed, 04 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54TlBPQ2ZYeHZRSUYzRHU0NFNCX3h1cDdlM1pGOXh5MUZUc3F2dDFEQ0dQRFhhTWd6SWF4QzdFTGdabm01QjhYMTdsVm9sUE96NjF1SzhHY21GM3BvOXdsR2hDRS1aQTA?oc=5"
+      "title": "환경산업기술원, 새 비전 선포…‘원스톱 기후·환경 파트너’ 도약 - 전기신문",
+      "source": "전기신문",
+      "date": "Fri, 06 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WNjRmcnZmc0t3Q2xReWpkM05hMklCSGEyRnpOS3ZtNkFadldLb2tXcS1abTgwQkttcTIxaW85X3BXazNaemhIQk1sZjhHOGozVC1Lc3FVTG0yRHU4YmNONTZwRjZxMWhLdUh3MdIBcEFVX3lxTE1uZGQ2Tk84QjNrX2FxMHV2WHZ4MHplTDdXeU8xX2tUZDRIX1Y0cy1pSkZzNDNLRWdodDdkYjNKUWZQRXVqOVlPVWl2c2Y2MHVvVGZDSnRsWHJ3NWRGN3ZMYWhZZWFZNXhTQklOc1FXWVE?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "경북도, 환경실천 다짐대회서 탄소중립 실천·공공기관 유치 결의 - 뉴데일리 대구경북",
-      "source": "뉴데일리 대구경북",
-      "date": "Tue, 27 Oct 2026",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAtTG1MZ29SWlF0bUVZVWREc3JZV09sTTJjdHFkY1VRS3dnRGxlUzc0a2kxQm16VTZmdDNLUjhJZDBFbW1LN0U4XzJJZXlKMTBSNnE0cUIxTF9NOFNQb2p2S2c0dC1IMjZyRDhSWGZYWHJENGdGNDd6anhR0gF_QVVfeXFMUGlsTUc2MEIzd2tHN0k0LVNXWG10ZUwtTTBtN3ZaOFp5Q3NCYXQzV0gzRnotWW53NzdvUlVUYWJtdndYWlY0U3d5ZTNWcXBhd2xFdkI2NXo3aUc5NU1xVDdlaXhjZ1pESkExejRKeUQ4c19lUVZOeGM4ZWs2MkNtTQ?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "‘탄소중립기본법’, 국회 본회의로···환경단체 “위헌” “무책임” 반발 - 경향신문",
-      "source": "경향신문",
-      "date": "Thu, 13 Aug 2026",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zRjdIUXVxSFdBcUVvRWo4YnR5QTg4SGJVMmpvRkZ4eVlZQ1FFVGZ0dkR2d01XRTNkSUdLN1lrMWZJZ21wd3JDa2tmNF9HLTR1Vk5vM2tGMDJ0d9IBX0FVX3lxTE5mNnN2Y0l5TFI4cmVrbTdRdHd0a012MmlyMFQ1NXFwZ3N5VGlrNTdYalhRS3RJaGdFUkgzY1BaRDBLNHdlSWdMdmpHT1dVdFVid0hRb3oyMl8ydFR5dDh3?oc=5"
+      "title": "대나무 칫솔 나누며 탄소중립 독려 - 현대일보",
+      "source": "현대일보",
+      "date": "Fri, 06 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TNGdWWk01cUpBQXJVbEJBdjBVWHpnR2VqOWE1RHZ5Nk1zMFlzMGhvOGJIQkQ3dkE1cG52ZU9XNFVvZ04zekFRSWlUZF9RcllfdkVHbnpqcktVXzJxd29mQVQ4Z09acFdMNHpydmp3?oc=5"
     }
   ],
-  "fact": "산업화 이전 대비 대기 중 이산화탄소 농도는 약 50% 증가했습니다."
+  "fact": "나무 한 그루는 평균적으로 1년에 약 20~25kg의 이산화탄소를 흡수합니다."
 }
