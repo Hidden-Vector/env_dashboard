@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T12:57:27.850138+09:00",
-  "generated_at_display": "2026-11-10 12:57 KST",
+  "generated_at": "2026-11-11T10:42:27.587061+09:00",
+  "generated_at_display": "2026-11-11 10:42 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,39 +12,39 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 22,
-    "pm25": 20,
+    "pm10": 45,
+    "pm25": 21,
     "cai": "보통",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "안산환경재단 에코멘토, 생활 속 탄소중립 실천 성과 공유 - 브릿지경제",
-      "source": "브릿지경제",
-      "date": "Tue, 10 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94cUw4ak1id0tmUmE4ZmVsZXRPSHJLc3BpdDB2eXp0bG14RlZ4bUZBNnYyMXdUSHBMaTJhMFZBa3hzQV9KMk1KTU1GUUFLeFpieG9FSTAxcndkQQ?oc=5"
+      "title": "인천시, COP31에 참석해 '2045 탄소중립 비전' 전 세계에 알려 - 인천in 시민의 손으로 만드는 인터넷신문",
+      "source": "인천in 시민의 손으로 만드는 인터넷신문",
+      "date": "Wed, 11 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zZW1qM0VyQXYzNmVNa01xTW5zVmxnQnNaQ0hrTTFvdEFnX3U2RUk1VjFsYkM2d010VE1adm5jVXhnN2NxbzVydjlGUnRGRmVyR1YtSkdmM1RoUXpOQnlITHZkSnU2emx5dkgzdw?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "탄소중립·녹색경영대상…한전, 기후에너지부 장관표창 수상 - 에너지타임즈",
-      "source": "에너지타임즈",
+      "title": "[수원교구사 한 페이지](23) 탄소중립 선포 - 가톨릭신문",
+      "source": "가톨릭신문",
       "date": "Tue, 10 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83TWhES3pMbUNMY3VNeDBaMXZmU3pfOHRjZUZzazVOZGhQS1JYOHJGR3F0NHNpR2J0VEl3UTR6Ny1idDFSSEozXzlrQmsyQVcybDJmYTRfUHdqZDNHTXVVVW00a0RCYUtJZGZWaA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NY1JCOS1rVHZFbGppaHU4TE02akFRYjExWjdVVHI0dzZEM1BxMEZYTWhnR244bkNFUkxKcDBuYURZcS00TEVCV1RVUFhZLWNOMnlHcGR3ZWZWN0Q4S2E0dk13?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "탄소배출·폐기물 관리위원회 통폐합 추진…환경행정 효율화 나선다 - 에너지데일리",
-      "source": "에너지데일리",
-      "date": "Mon, 09 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE01aUpJczA5dVNlM255R2Q4NU5FQWpfeTA4RjBEU3lSN1dheFRVczNjZG5KRm40dlY3SGVWOHFHSk9DUTcxOWNfWnRHVWpFc01zOUdlS0RyQ2MxUkZyUkQ4ZUpzZmZQb1ZNNFRMMG8wQWdVQQ?oc=5"
+      "title": "경남환경재단, 도민·공무원 탄소중립 인식교육 - 경남신문",
+      "source": "경남신문",
+      "date": "Tue, 10 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FXzJYNTBmcUNHQmNmWHB6WE9VRjhvdkxsYk5GS0E2NHhFUHZsSGtUZ2lhajhISWhGcTFwNVI5ZlB0bjkwQzFScTI2VEZsdWtUMUJnZmtjN1k1QQ?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "여수 산업·해양 자원 소개하며 탄소중립 의지 전달 - 한국생활체육뉴스",
-      "source": "한국생활체육뉴스",
+      "title": "상주소식 - 상주여고 환경 정책 연구 프로젝트팀, 상주시의회에 탄소중립 정책 대안 제안서 제출 - 상주의소리",
+      "source": "상주의소리",
       "date": "Tue, 10 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uVU9jMUV4c0QwQWk3Z3ZNY3RCUklWOE9LNUgtYXV4M1Z6TW13YVZXbkhULWZtc1dySFI3Z2t5ZnNQMUNxUEdjZENqaWxBVWlKMjB5a1MxYUNMNkdUQVB1UTNmVW5CX2VZV3c?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SdTlIUGZkSDZOT1huUlpOZzduTWJFbGd2WjdiRHc2YW5UeW9VdmRSWnhkcFhiR0dFeGRKVWxDSTRKTlJZQWVmR1RzbTl6cW9PbndNTEd4QUc0QQ?oc=5"
     },
     {
       "tag": "환경뉴스",
@@ -61,5 +61,5 @@
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sbDd4UnU4LWk4a0VrS2VwOTJPTmpDWHhIdWYwOE1MTk53WDFJYXRYVnVnZ08tc1E3dE9OYVBHZTAtVkw2SXFHMEZJMFVGZTVrOHJ3ZWNHSkZnRi1jUUZqTmFqMA?oc=5"
     }
   ],
-  "fact": "전 세계 플라스틱의 약 9%만이 실제로 재활용되고 있습니다."
+  "fact": "태양광 발전 비용은 지난 10여 년간 큰 폭으로 하락해 여러 지역에서 가장 저렴한 전력원 중 하나가 되었습니다."
 }
