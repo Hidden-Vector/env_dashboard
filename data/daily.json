@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T11:41:26.622556+09:00",
-  "generated_at_display": "2026-11-12 11:41 KST",
+  "generated_at": "2026-11-13T11:23:20.392249+09:00",
+  "generated_at_display": "2026-11-13 11:23 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,54 +12,54 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 61,
-    "pm25": 39,
+    "pm10": 48,
+    "pm25": 32,
     "cai": "보통",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "포천시, '제3회 OBS 기후행동대상' 공공부문 수상…환경정책 성과 인정 - 매일일보",
-      "source": "매일일보",
+      "title": "노원구, 기후에너지환경부 ‘2026 환경교육도시’ 지정…탄소중립 실천 - 베이비타임즈",
+      "source": "베이비타임즈",
+      "date": "Fri, 13 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nTWdVMnJHdmNfNDRmWEgyQlpmc09XNm53WHNmbklVbnlKVVBPSkVtY0Z3UXVVNzZYWWFvX2ItYkE5cTU3bTlqdDJMRnJ4UC1raGpXZGJ0Y1FvTGsyNW1QUmhBY0JmNEVOb1Bidw?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "[환경톡톡] 시속 300km의 질주, 탄소중립은 가능할까 - 환경일보",
+      "source": "환경일보",
       "date": "Thu, 12 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90eTNUWFBYSHV4ckZULWVOTEJJM3dHclZfSGhNSHhUWHNaX3IyVVN2aVpRanlwOUJlanZzNC1CLWlXRXducW1rUGs0blg5Z0NYWkhkdVVhZFJ5VjVTbEFfODJUN1Y?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4ybDhYWTc1WWp1QnZwcVhpVUlxVTE3YXFLNVBGN21lQnM3NmlRUlQ4LTgwQXViNjZtREp1aHhLVjhYMVczUElLbmIzRmdyR3FFNEpBNC11NXdfT0F0aUg1YnJDSTVCbEJf?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "포천시, '제3회 OBS 기후행동대상' 공공부문 기후행동상 수상 - 뉴스21 통신",
-      "source": "뉴스21 통신",
+      "title": "노원구 기후에너지환경부 '2026 환경교육도시' 선정 - 서울동북신문",
+      "source": "서울동북신문",
+      "date": "Fri, 13 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41SFAtUkpsM0RCQWJLOC14MUxyX3I3Q2IyNFRzZE1WVGRhT2JzaGg4Z2xqcVZ3clFzZWFrWFEwT0pYMy1NU0NQSlN0Rkp2QjFSY0ZuSlR1T1dBOU1WS2NhTklTZDFFSmQ4UHB2Xw?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "노원구, 기후에너지환경부 지정 '2026 환경교육도시' 선정 - 경기뉴스원",
+      "source": "경기뉴스원",
+      "date": "Fri, 13 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FMEstUFV5aUE3X2pPbjNyUVpMWVBMSld1UVR4d095MHpULTMtbFo4QzdhMGRiSTFsTmtvT0lWeWJ1SExlYjM3TWlWZ2xTalhsVlpyQ01TTjV5VzduU3puSzVSbw?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "‘탄소중립 시민참여단’ 권역별 워크숍 열린다 - 전남타임스",
+      "source": "전남타임스",
       "date": "Thu, 12 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xbXB3YVdhNmUteG5ialRmOUZKTkt6TE5JT2kwd2ppdDB6LTFuNWFlcjhuZktweEZsbTNjMGNXYUJ6aW9vNXduR196T2F3MVFlRWoxb19n?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qdlpRaXItNW9pS0Q3UGJQV19QTDFVT05mU0NXYXY2ek5FdGNVY3JXWFotYk94YldZZDhKQWtsQnlpRzg1R2dnYUV3ZGpNS0hRVFRYWnlRWVRGMk1USkVielNxaWpOZw?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "연수구, 환경오염 물질 배출사업장 대상 환경·안전 교육 - 서프라이즈뉴스",
-      "source": "서프라이즈뉴스",
+      "title": "포천시, 탄소중립·환경보전 노력 인정 받아 - 현대일보",
+      "source": "현대일보",
       "date": "Thu, 12 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIY08zLW5XLXB0S0R1Y0pyaU9JVlE3Tl8tandaa2g4ZEp0NjNsYUlDbmR0RUsxQ2stajV5VGpYczlLQURVdTQxZHBMN0dqWlZEcUtDQk9LR1VaMzhZcjRGalZUWVlVUWJzaGRNU0t3?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "경희대-한국서부발전, 탄소중립 공동연구 추진 - 포인트데일리",
-      "source": "포인트데일리",
-      "date": "Thu, 12 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRRkEzMzBsemp1T2lrd1RUaVY2WmlZUWpuQ3MwR1VveWxTQXJodEU1MGh2d0U3OHdlRXBuWmNIaDdkRmxYMV9kR1NhRDF5SW9mb3NsRmNYNXYxVGJWbVpJU3JhZmgxRVIzbEphV3NWbDfSAXRBVV95cUxOb1Rqc3pSejRmU0lSbDBjSU5FaXZJb09fbjROOXRjcXExTVotZHZfZE9uNWtHcjJpZGFUd181b3NRQWRTSlc5NFpJOE9kVDVLNE1sUWNnUnlXcUdHb0hWNzRPSU03Zm5PejRGTTdlanJxcU4wSw?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "경남도환경재단 탄소중립·녹색성장 인식 교육 성료 - 경남도민일보",
-      "source": "경남도민일보",
-      "date": "Wed, 11 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iSFNaSGxnby1MamNhX3lTUkRkXzFRd28wSm83eUVUR3E1WFN6TG80RWcyRXg0a3RfR0hVT19xaUpyU2lpVUgtdl9MalYwNTlsM0hraVpmM1ZoT3VHSGFHR2NLcUlpS2VYeXc?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "탄소중립설비 집행률 0.8%…경북도의회, 산림·환경사업 부진 질타 - 경북일보",
-      "source": "경북일보",
-      "date": "Wed, 11 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pLTdSZ1NWN2d4OEZLelpfbkZPcWJfZWJsZjJCaENBVURHRHI3aFE5MURka2lvcGpWa1ItZjJkazlXZm1vU3ppZy0xMGpERWp0amU2dHQ1alVVVTFKemhsNEktY280ZEdnT2I4eXFzaw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PbFZ6V010eFo2c1FtQXNkTkNQcnluUGFBMTI2bzB4dDE2eGlRWVkzRFdvLWVSVHp5NU80cjVzWUdhWGRmUXl3VDVmUzNaWFJjb1Vyc2hzNlN1ZTVxSUp3RHVoLThtT0I2dkJubFJB?oc=5"
     }
   ],
-  "fact": "해양은 인간이 배출한 이산화탄소의 상당 부분을 흡수해 해양 산성화를 일으키고 있습니다."
+  "fact": "육류 소비를 줄이는 것은 개인이 실천할 수 있는 가장 효과적인 탄소 저감 방법 중 하나로 꼽힙니다."
 }
