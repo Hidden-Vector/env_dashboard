@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T11:23:20.392249+09:00",
-  "generated_at_display": "2026-11-13 11:23 KST",
+  "generated_at": "2026-11-14T10:58:05.067096+09:00",
+  "generated_at_display": "2026-11-14 10:58 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,12 +12,19 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 48,
-    "pm25": 32,
+    "pm10": 36,
+    "pm25": 30,
     "cai": "보통",
     "sido": "대구 동구(신암동)"
   },
   "news": [
+    {
+      "tag": "환경뉴스",
+      "title": "노원구, '2026 환경교육도시' 지정…3년간 탄소중립 실천교육 확대 - 뉴스21 통신",
+      "source": "뉴스21 통신",
+      "date": "Fri, 13 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZdEN2VzlNUVFwWEpJWnFrMC1iblc3VFdWakNMUS1RRkxzM0dSNVJKUnZ1MFFpQVFYQ0hXYkYyeXktU3N0Qk9SZVBYeTNVYmc2N3ZPendB?oc=5"
+    },
     {
       "tag": "환경뉴스",
       "title": "노원구, 기후에너지환경부 ‘2026 환경교육도시’ 지정…탄소중립 실천 - 베이비타임즈",
@@ -27,39 +34,32 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "[환경톡톡] 시속 300km의 질주, 탄소중립은 가능할까 - 환경일보",
-      "source": "환경일보",
-      "date": "Thu, 12 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4ybDhYWTc1WWp1QnZwcVhpVUlxVTE3YXFLNVBGN21lQnM3NmlRUlQ4LTgwQXViNjZtREp1aHhLVjhYMVczUElLbmIzRmdyR3FFNEpBNC11NXdfT0F0aUg1YnJDSTVCbEJf?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "노원구 기후에너지환경부 '2026 환경교육도시' 선정 - 서울동북신문",
-      "source": "서울동북신문",
+      "title": "[탄소중립리포트] 폐배터리 재활용, 회수율 뒤에 숨은 환경 비용 - kjtimes",
+      "source": "kjtimes",
       "date": "Fri, 13 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41SFAtUkpsM0RCQWJLOC14MUxyX3I3Q2IyNFRzZE1WVGRhT2JzaGg4Z2xqcVZ3clFzZWFrWFEwT0pYMy1NU0NQSlN0Rkp2QjFSY0ZuSlR1T1dBOU1WS2NhTklTZDFFSmQ4UHB2Xw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54SFJzUnpHWHFvR1lEZW8xNG5pUkl0aUpBdGdsaDcyR3dhMklxVzQ2eGhWYUNrWFZhQXpqRUJwMWFHOS1OcV9jMkU0eVpKblp5cnlxWjZ2SkRpZGppSkcw?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "노원구, 기후에너지환경부 지정 '2026 환경교육도시' 선정 - 경기뉴스원",
-      "source": "경기뉴스원",
+      "title": "“탄소중립은 곧 도민 소득”…제주, 첫 ‘기후경제수도’ 도전 - 데일리안",
+      "source": "데일리안",
       "date": "Fri, 13 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FMEstUFV5aUE3X2pPbjNyUVpMWVBMSld1UVR4d095MHpULTMtbFo4QzdhMGRiSTFsTmtvT0lWeWJ1SExlYjM3TWlWZ2xTalhsVlpyQ01TTjV5VzduU3puSzVSbw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPNEdqSWliOVVBU0t3TVpkUUlJaWhGV2pxb3kxUnhGeUNvQVYxQlNlaHVOX2ZtcGw4cE94TF8tQjNuZlgwQnFhNkxURUpBa2xTNFZiQmgwUk9iUERIeUoxRXA0YW9TX1IwQW5UN29ibWxLUk0xT2t4d1dpUkwzaTUwbUc3TXRhT1dqXy1qcTJwWFFCWEg4UDEyMHdQTVFpa2Ztd2hzWldWNGFhbW1tclRFblhYUHA1dk14RHBrN2dOUUJYX3FhbDlSTllLRFA0dDV2TGg4U19aaTFpY1NXQnR6Y2VFdXJ6SjVIS21jWDdZcUxSMjdBNVdqOEhlV3NKQ0kxWmNmRjlrZzdtbFRlZFFGZ0dkVnNwVGFh?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "‘탄소중립 시민참여단’ 권역별 워크숍 열린다 - 전남타임스",
-      "source": "전남타임스",
-      "date": "Thu, 12 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qdlpRaXItNW9pS0Q3UGJQV19QTDFVT05mU0NXYXY2ek5FdGNVY3JXWFotYk94YldZZDhKQWtsQnlpRzg1R2dnYUV3ZGpNS0hRVFRYWnlRWVRGMk1USkVielNxaWpOZw?oc=5"
+      "title": "한국기술교육대, 탄소중립 실천 성과 눈길…‘35일 실천 챌린지’도 인기몰이 - 한국대학신문",
+      "source": "한국대학신문",
+      "date": "Fri, 13 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14QzdfbW9PTnQwLXlLTHFvTFlrbGZaNmtiZTNKVDZ5ZGVRdzVkYlhjR0lDYjI1M1BhU2QzX0ZQU1k5WEFjTHRRNy1wSVRyTDVoZnJBclgyZ3ZUUDFxbGd2MnNRTDE5UQ?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "포천시, 탄소중립·환경보전 노력 인정 받아 - 현대일보",
-      "source": "현대일보",
-      "date": "Thu, 12 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PbFZ6V010eFo2c1FtQXNkTkNQcnluUGFBMTI2bzB4dDE2eGlRWVkzRFdvLWVSVHp5NU80cjVzWUdhWGRmUXl3VDVmUzNaWFJjb1Vyc2hzNlN1ZTVxSUp3RHVoLThtT0I2dkJubFJB?oc=5"
+      "title": "[일상속탄소중립]관악구, 다회용품 사용 인증으로 탄소중립 실천 확산 - 전국뉴스",
+      "source": "전국뉴스",
+      "date": "Fri, 13 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LaVR4ejZNaUhWNl9pcTk2amJKeWU1WHRKYk5nU2R5WEJITTFyNGxUWDduSmpQTE1uZTl5aTZLN0xKRTF5R19Bb2VTbHhMSnlTNUctclEwV0NJRGFGRVpDSjV3eDAtQ1J6MEVrUy1yRHk?oc=5"
     }
   ],
-  "fact": "육류 소비를 줄이는 것은 개인이 실천할 수 있는 가장 효과적인 탄소 저감 방법 중 하나로 꼽힙니다."
+  "fact": "국제사회는 파리협정을 통해 산업화 이전 대비 지구 평균기온 상승을 1.5도 이내로 억제하는 것을 목표로 하고 있습니다."
 }
