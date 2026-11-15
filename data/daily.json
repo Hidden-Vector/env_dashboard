@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T10:58:05.067096+09:00",
-  "generated_at_display": "2026-11-14 10:58 KST",
+  "generated_at": "2026-11-15T10:30:25.363610+09:00",
+  "generated_at_display": "2026-11-15 10:30 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,18 +12,39 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 36,
-    "pm25": 30,
-    "cai": "보통",
+    "pm10": 7,
+    "pm25": 7,
+    "cai": "좋음",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "노원구, '2026 환경교육도시' 지정…3년간 탄소중립 실천교육 확대 - 뉴스21 통신",
-      "source": "뉴스21 통신",
-      "date": "Fri, 13 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZdEN2VzlNUVFwWEpJWnFrMC1iblc3VFdWakNMUS1RRkxzM0dSNVJKUnZ1MFFpQVFYQ0hXYkYyeXktU3N0Qk9SZVBYeTNVYmc2N3ZPendB?oc=5"
+      "title": "코레일, 대전역서 탄소중립 실천 캠페인 - BBS불교방송",
+      "source": "BBS불교방송",
+      "date": "Sun, 15 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tbGZFcDVpYnZWX01INzRYVXRaWGN3N2hhcEFYekxzX2lWYjVrNTJEZW9ZaXFBZVl2MW5zMkRrMUd6ZEdaMmREdWd2UlBjZlhKc2h1STVKTGVkSTdIb2pCbjM5Q3dqYXkwckM4?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "코레일, 대전역·대전천서 탄소중립 실천 캠페인 전개 - 충남일보",
+      "source": "충남일보",
+      "date": "Sun, 15 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8ySlhEa25yNFprQUQxc3NUYmpiVVZIYVdEUWhfLTd1V0x1QUdZc1R1S1Q2djN1a19PelhXTEFTYjZySHRPT2FNTUhLRjRMaU1qak9BaXdWU2ctVFRfaGZ2SGtTLVJ3ZUZOLTkzbmtVWXgwQ1k?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "노원구, 기후에너지환경부 지정 ‘2026 환경교육도시’ 선정 - 헤럴드경제",
+      "source": "헤럴드경제",
+      "date": "Sat, 14 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZMEViU3Uwa25QVWVYY1Y0dkstQjV6LU9NN2t3SEFpYTM5bFhCZ3BQSURRSzlhVlBOb3JHMUFNbmlzUktoQWM3a0RzdGkzVEdZd3diT3h3?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "코레일, 대전역서 탄소중립 캠페인…대전천 12㎞ 플로깅 - 뉴스1",
+      "source": "뉴스1",
+      "date": "Sun, 15 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qaG9YTENCSTlYMVFkY0dvMy1pR1pPWEk3OEU3TXFoN21pN016TndsaDhXZHNjSnlMLXhENFFVNHN1MVNVbjd0WUt0dXVXSlU1NnBVTUdIakR4UGlVYUw5SA?oc=5"
     },
     {
       "tag": "환경뉴스",
@@ -34,32 +55,11 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "[탄소중립리포트] 폐배터리 재활용, 회수율 뒤에 숨은 환경 비용 - kjtimes",
-      "source": "kjtimes",
+      "title": "노원구, '2026 환경교육도시' 지정…3년간 탄소중립 실천교육 확대 - 뉴스21 통신",
+      "source": "뉴스21 통신",
       "date": "Fri, 13 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54SFJzUnpHWHFvR1lEZW8xNG5pUkl0aUpBdGdsaDcyR3dhMklxVzQ2eGhWYUNrWFZhQXpqRUJwMWFHOS1OcV9jMkU0eVpKblp5cnlxWjZ2SkRpZGppSkcw?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "“탄소중립은 곧 도민 소득”…제주, 첫 ‘기후경제수도’ 도전 - 데일리안",
-      "source": "데일리안",
-      "date": "Fri, 13 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPNEdqSWliOVVBU0t3TVpkUUlJaWhGV2pxb3kxUnhGeUNvQVYxQlNlaHVOX2ZtcGw4cE94TF8tQjNuZlgwQnFhNkxURUpBa2xTNFZiQmgwUk9iUERIeUoxRXA0YW9TX1IwQW5UN29ibWxLUk0xT2t4d1dpUkwzaTUwbUc3TXRhT1dqXy1qcTJwWFFCWEg4UDEyMHdQTVFpa2Ztd2hzWldWNGFhbW1tclRFblhYUHA1dk14RHBrN2dOUUJYX3FhbDlSTllLRFA0dDV2TGg4U19aaTFpY1NXQnR6Y2VFdXJ6SjVIS21jWDdZcUxSMjdBNVdqOEhlV3NKQ0kxWmNmRjlrZzdtbFRlZFFGZ0dkVnNwVGFh?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "한국기술교육대, 탄소중립 실천 성과 눈길…‘35일 실천 챌린지’도 인기몰이 - 한국대학신문",
-      "source": "한국대학신문",
-      "date": "Fri, 13 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14QzdfbW9PTnQwLXlLTHFvTFlrbGZaNmtiZTNKVDZ5ZGVRdzVkYlhjR0lDYjI1M1BhU2QzX0ZQU1k5WEFjTHRRNy1wSVRyTDVoZnJBclgyZ3ZUUDFxbGd2MnNRTDE5UQ?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "[일상속탄소중립]관악구, 다회용품 사용 인증으로 탄소중립 실천 확산 - 전국뉴스",
-      "source": "전국뉴스",
-      "date": "Fri, 13 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LaVR4ejZNaUhWNl9pcTk2amJKeWU1WHRKYk5nU2R5WEJITTFyNGxUWDduSmpQTE1uZTl5aTZLN0xKRTF5R19Bb2VTbHhMSnlTNUctclEwV0NJRGFGRVpDSjV3eDAtQ1J6MEVrUy1yRHk?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZdEN2VzlNUVFwWEpJWnFrMC1iblc3VFdWakNMUS1RRkxzM0dSNVJKUnZ1MFFpQVFYQ0hXYkYyeXktU3N0Qk9SZVBYeTNVYmc2N3ZPendB?oc=5"
     }
   ],
-  "fact": "국제사회는 파리협정을 통해 산업화 이전 대비 지구 평균기온 상승을 1.5도 이내로 억제하는 것을 목표로 하고 있습니다."
+  "fact": "한국은 2050년 탄소중립을 국가 목표로 선언했습니다."
 }
