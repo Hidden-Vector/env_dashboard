@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T10:30:25.363610+09:00",
-  "generated_at_display": "2026-11-15 10:30 KST",
+  "generated_at": "2026-11-16T10:34:35.984428+09:00",
+  "generated_at_display": "2026-11-16 10:34 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,54 +12,19 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 7,
-    "pm25": 7,
+    "pm10": 13,
+    "pm25": 8,
     "cai": "좋음",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
-      "tag": "환경뉴스",
-      "title": "코레일, 대전역서 탄소중립 실천 캠페인 - BBS불교방송",
-      "source": "BBS불교방송",
-      "date": "Sun, 15 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tbGZFcDVpYnZWX01INzRYVXRaWGN3N2hhcEFYekxzX2lWYjVrNTJEZW9ZaXFBZVl2MW5zMkRrMUd6ZEdaMmREdWd2UlBjZlhKc2h1STVKTGVkSTdIb2pCbjM5Q3dqYXkwckM4?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "코레일, 대전역·대전천서 탄소중립 실천 캠페인 전개 - 충남일보",
-      "source": "충남일보",
-      "date": "Sun, 15 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8ySlhEa25yNFprQUQxc3NUYmpiVVZIYVdEUWhfLTd1V0x1QUdZc1R1S1Q2djN1a19PelhXTEFTYjZySHRPT2FNTUhLRjRMaU1qak9BaXdWU2ctVFRfaGZ2SGtTLVJ3ZUZOLTkzbmtVWXgwQ1k?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "노원구, 기후에너지환경부 지정 ‘2026 환경교육도시’ 선정 - 헤럴드경제",
-      "source": "헤럴드경제",
-      "date": "Sat, 14 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZMEViU3Uwa25QVWVYY1Y0dkstQjV6LU9NN2t3SEFpYTM5bFhCZ3BQSURRSzlhVlBOb3JHMUFNbmlzUktoQWM3a0RzdGkzVEdZd3diT3h3?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "코레일, 대전역서 탄소중립 캠페인…대전천 12㎞ 플로깅 - 뉴스1",
-      "source": "뉴스1",
-      "date": "Sun, 15 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qaG9YTENCSTlYMVFkY0dvMy1pR1pPWEk3OEU3TXFoN21pN016TndsaDhXZHNjSnlMLXhENFFVNHN1MVNVbjd0WUt0dXVXSlU1NnBVTUdIakR4UGlVYUw5SA?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "노원구, 기후에너지환경부 ‘2026 환경교육도시’ 지정…탄소중립 실천 - 베이비타임즈",
-      "source": "베이비타임즈",
-      "date": "Fri, 13 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nTWdVMnJHdmNfNDRmWEgyQlpmc09XNm53WHNmbklVbnlKVVBPSkVtY0Z3UXVVNzZYWWFvX2ItYkE5cTU3bTlqdDJMRnJ4UC1raGpXZGJ0Y1FvTGsyNW1QUmhBY0JmNEVOb1Bidw?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "노원구, '2026 환경교육도시' 지정…3년간 탄소중립 실천교육 확대 - 뉴스21 통신",
-      "source": "뉴스21 통신",
-      "date": "Fri, 13 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZdEN2VzlNUVFwWEpJWnFrMC1iblc3VFdWakNMUS1RRkxzM0dSNVJKUnZ1MFFpQVFYQ0hXYkYyeXktU3N0Qk9SZVBYeTNVYmc2N3ZPendB?oc=5"
+      "tag": "알림",
+      "title": "뉴스 수집 실패 (다음 갱신 시 재시도): HTTP Error 503: Service Unavailable",
+      "source": "-",
+      "date": "",
+      "link": ""
     }
   ],
-  "fact": "한국은 2050년 탄소중립을 국가 목표로 선언했습니다."
+  "fact": "이산화탄소는 대기 중에 배출된 뒤 수백 년간 머무를 수 있어, 오늘 줄인 배출량의 효과는 수십 년 뒤에야 기후에 반영되기 시작합니다."
 }
