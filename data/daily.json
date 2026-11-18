@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T13:19:04.988267+09:00",
-  "generated_at_display": "2026-11-17 13:19 KST",
+  "generated_at": "2026-11-18T12:19:24.304316+09:00",
+  "generated_at_display": "2026-11-18 12:19 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,25 +12,25 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 13,
-    "pm25": 8,
-    "cai": "보통",
+    "pm10": null,
+    "pm25": null,
+    "cai": "정상 수신",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "성북구, 제1회 환경박람회 개최…탄소중립 실천문화 확산 - 전국매일신문",
-      "source": "전국매일신문",
-      "date": "Tue, 17 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JbURvbXkxZjZGdWhZMzVRNUNBVkU1VkIybEFIa3pOT0hKS0tJTm12dHJYVGxSYnpLYmhBRUlTZXEyN1ctc01aaVFxZVVCU1pHVHc5YVlOajVBSjZwUldVQmkwZkJnZnVYd05GNFNR?oc=5"
+      "title": "노원구, 기후에너지환경부 지정 ‘2026 환경교육도시’ 선정 - 시사프리신문",
+      "source": "시사프리신문",
+      "date": "Wed, 18 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5veHdjOXR5MlVIME1yMkw0WnJvdHZtRUE5ZFY4VmtoeTNUR1NoOU9DLTBSWWl0Nk9XT3M0SzAyejZkbjZSZ0VxX0JONFp0eTFtV1EtdklkUlo?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "전남광주 서구, 가족과 함께 배우는 탄소중립 체험행사 개최 - 매일일보",
-      "source": "매일일보",
-      "date": "Tue, 17 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XSUlBRGV2cF9mamNjanVhaGZobXFYTDZkX05iMml5dUkyWm5xT1ZKb1hQYWcxOUZuOEFXLWIyc0diMktIVF82b2s3alI4eFU4RTNLMllXeDFRZEgtTDNSWDBzSTk?oc=5"
+      "title": "구리시자원봉사센터, 탄소중립 프로젝트 평가회 개최 - 서프라이즈뉴스",
+      "source": "서프라이즈뉴스",
+      "date": "Wed, 18 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54c1Y4MWxTTGFWaDc5dHBoTFlhMEh3eFdmM0hRam05clh0dnIzeldacS1LanhtX2FpQUxYOXFsTkJSZXJWQi15U2xXbXlGOHVZUTRhZUlZWi1tQkh3YlhGWHRIdmtWcnZ3Y05yellB?oc=5"
     },
     {
       "tag": "환경뉴스",
@@ -41,25 +41,25 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "코레일, 대전역서 탄소중립 실천 캠페인 - 굿모닝충청",
-      "source": "굿모닝충청",
-      "date": "Mon, 16 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2cllVUWEwMUIzczh3WjR4VTByMUl0eDFwLWJRUk5lTXdFNE5jRzNvLWNCZjhiNll3V1dfdk94VmFxUWE0QTZSSzlqTTNoOFplVTlCSHJCQU9KcFF0Qk55OC1kaFp4SFN0UVdTMlFScDJoQQ?oc=5"
+      "title": "한국폐자원에너지기술협의회, ‘탄소중립과 폐자원 상용화 기술’ 2026년 추계 세미나 개최 - 사회적경제뉴스",
+      "source": "사회적경제뉴스",
+      "date": "Tue, 17 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1abXVDOVM1SVFSbVpJdmNVUU1uSGdnTlZUejA0enRnSzdfX2VQOFItaGd4UmUtMlNhYjJKajdJUQ?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "남동발전, 인천-진주에 '탄소상쇄' 도시숲 조성…900그루 식재 - 인사이트N파워",
-      "source": "인사이트N파워",
-      "date": "Mon, 16 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Xd0JmZkFkaHFwaEFBMWVyN19LVVEyWUt2VVk2YkZiY18yMTByR0VhZXhCVGloT3ZQTEpsV1pyQm1SSjduQTVkZV92Nm9fbnAxcS04Q3RzRGNQeFpib0k3R1U3M05wUQ?oc=5"
+      "title": "성북구, 제1회 환경박람회 개최…탄소중립 실천문화 확산 - 전국매일신문",
+      "source": "전국매일신문",
+      "date": "Tue, 17 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JbURvbXkxZjZGdWhZMzVRNUNBVkU1VkIybEFIa3pOT0hKS0tJTm12dHJYVGxSYnpLYmhBRUlTZXEyN1ctc01aaVFxZVVCU1pHVHc5YVlOajVBSjZwUldVQmkwZkJnZnVYd05GNFNR?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "남동발전, 인천·진주에 나무 900그루…‘탄소상쇄 도시숲’ 조성 - 전기신문",
-      "source": "전기신문",
+      "title": "'탄소중립 실천' 제1회 성북구 환경박람회 성료 - 내외방송",
+      "source": "내외방송",
       "date": "Mon, 16 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TUFdyWng2S3hkUmplQ0drOWVuQVJQbkhVSzloNE5UcE16Sm9jY1A0Ry1oMHBkTzlhaTBYREsxc1NLQU5TZERVbGdSZ3AyZG5zbWNoTkFFVTJ4X0EwdldNalc5T0JGYWRvc3k5bNIBcEFVX3lxTE5zbnVUc0xTWUhQcFBOS0dxU1d3MkdpNFRVS3drMXdCOFpzVFBZa3o1T2pXT1ZVSWdWNUcydVdGSzVMZk5YdHk5RkdnYkV2aWh4d3ZKLXVtaHlCU2VrbEFKVzJCc3I1Nkc0RHZDWUpOQlE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wVVpkS1dKTUNHdlpZejNhdUgtVWdlVmRiRnJ5dlNDMkc3RVJpMmRmRXQ4UzlQbkFRMU01VzNtM1d6V2hUM2sxV2FfMnR1a2h4ajlKVnVvZjZBd0ZBY0ZDdk1DeEtTbUsw?oc=5"
     }
   ],
-  "fact": "전 세계 온실가스 배출량의 약 4분의 1은 식량 생산 과정에서 발생합니다."
+  "fact": "산업화 이전 대비 대기 중 이산화탄소 농도는 약 50% 증가했습니다."
 }
