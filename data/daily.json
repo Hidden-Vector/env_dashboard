@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T12:19:24.304316+09:00",
-  "generated_at_display": "2026-11-18 12:19 KST",
+  "generated_at": "2026-11-19T11:56:14.875636+09:00",
+  "generated_at_display": "2026-11-19 11:56 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,54 +12,54 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": null,
-    "pm25": null,
-    "cai": "정상 수신",
+    "pm10": 20,
+    "pm25": 11,
+    "cai": "보통",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "노원구, 기후에너지환경부 지정 ‘2026 환경교육도시’ 선정 - 시사프리신문",
-      "source": "시사프리신문",
+      "title": "청소년 눈으로 본 탄소중립… 은평구, 청소년 환경 영상 공모전 개최 - 은평시민신문",
+      "source": "은평시민신문",
+      "date": "Thu, 19 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wdm85cGlGcFlYbDNleW1kam1reUVIbFdtUURHOGVkak90VWJkQW9oYTNMdExwNHMzOXBkOU1OSll0Y2trclZPdVA0Wnh2V0E0T1FfYkRTeVJlTTVpUFF4Y1VnendTUkE?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "은평구, 청소년 눈으로 본 탄소중립… 환경 영상 공모전 개최 - 자치행정신문",
+      "source": "자치행정신문",
+      "date": "Thu, 19 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTTJRQnhNWF9nVTVUVWgzOThza2VqMkY5VklwYmtoVnlBZjY1NU5Gd2ZPV2ZQb1JvX1hHT1MtZ3I4VHh3RFNqSEVMWWdMZ05KNDltSURnaUZoMnRDSjVEeVFYeGNtek9oQ0V0TTEwX2FVa2o0Y0RvbFNyblBJcWJ2S1JOUk1qUjhVTUdjUllFTG10Z09pUUdPd3Y0RHZYY3dzNzVxU200SHk5ZTA1RThv?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "서울시복지재단, 탄소중립생활실천부문 기후부 장관 표창 - 연합뉴스",
+      "source": "연합뉴스",
       "date": "Wed, 18 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5veHdjOXR5MlVIME1yMkw0WnJvdHZtRUE5ZFY4VmtoeTNUR1NoOU9DLTBSWWl0Nk9XT3M0SzAyejZkbjZSZ0VxX0JONFp0eTFtV1EtdklkUlo?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83UzlQMVFnc0YxdDlEUHhqZlVuaUxRdDQ3ZmkyOGZ4RDA0S194RlUtb1NndE5WOU5tbmNNbGZxa3UyZEU1LTdwbW1NZjlTT00zZDNhMW9GanlTZknSAWBBVV95cUxQQ1hvaGdZbmZiQmlfWXdtaTc5cnh2eWJKQXpHWkF0SFA1b0JUd2M4Uk9zdlhBZGZpZ3F4RnE5VWk2MVZVdnY1SVgtOVBUZllhTDItdG5RSkVpRHhjNUNsSEg?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "구리시자원봉사센터, 탄소중립 프로젝트 평가회 개최 - 서프라이즈뉴스",
-      "source": "서프라이즈뉴스",
+      "title": "청주 푸르미환경센터 ‘기후정원’ 생겨…탄소중립 실천 - 아이뉴스24",
+      "source": "아이뉴스24",
+      "date": "Thu, 19 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1xTExnOWlLTmdfbjV2OHFMQnM1NUtrNHkwLTJwOU1Xc0doQ01sd0pTTmstWWVweVhOSF9KaDVWaDBWblA0cGpDOGpGWQ?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "은평구, 청소년 탄소중립 환경 영상 공모전 개최 - LG헬로비전",
+      "source": "LG헬로비전",
       "date": "Wed, 18 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54c1Y4MWxTTGFWaDc5dHBoTFlhMEh3eFdmM0hRam05clh0dnIzeldacS1LanhtX2FpQUxYOXFsTkJSZXJWQi15U2xXbXlGOHVZUTRhZUlZWi1tQkh3YlhGWHRIdmtWcnZ3Y05yellB?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tc0luemlLZ2Uta2V3bGs3S0NwcVNSR1VRUzBlN0twTWE4bVdnb1ZJOVB2cUhCd3RaOVp6emVZSWRKR0VsS3MtLTk0Nnl1ZVhSaHV4Q3h0TDE0bkZiMWh0RXRDMXFTYl8yM1VmWFFPQWZLZ9IBdkFVX3lxTE5Gb2dRa29BMWhyaDBWTWExSUhPVUtTNUwxZXliM1JTQ3BHWkxBSGh2b3h5TWxicmpzSzF5UVMzUHFxZGczbi1HZXdMVXNkZGZhZC1GbGo2bGtjVWN1N1JuNVBveUFuajJadFJscXppV2dOMnhTT2c?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "의성군, ‘에코투어’통해 탄소중립 환경교육 마무리 - 환경일보",
-      "source": "환경일보",
-      "date": "Mon, 16 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BLWd0QVR4YU9MT3hMenB0MkNDRGVUNlBScUNMY0Q1MXNKcUVCaExHckVFMHhONEFLeHVxTTVDZmR3TUt0dU1nYzNOSGs2SXZFeXY3MUN2d0NXNFlaaTRJRUFXaXdhN0ls?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "한국폐자원에너지기술협의회, ‘탄소중립과 폐자원 상용화 기술’ 2026년 추계 세미나 개최 - 사회적경제뉴스",
-      "source": "사회적경제뉴스",
-      "date": "Tue, 17 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1abXVDOVM1SVFSbVpJdmNVUU1uSGdnTlZUejA0enRnSzdfX2VQOFItaGd4UmUtMlNhYjJKajdJUQ?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "성북구, 제1회 환경박람회 개최…탄소중립 실천문화 확산 - 전국매일신문",
-      "source": "전국매일신문",
-      "date": "Tue, 17 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JbURvbXkxZjZGdWhZMzVRNUNBVkU1VkIybEFIa3pOT0hKS0tJTm12dHJYVGxSYnpLYmhBRUlTZXEyN1ctc01aaVFxZVVCU1pHVHc5YVlOajVBSjZwUldVQmkwZkJnZnVYd05GNFNR?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "'탄소중립 실천' 제1회 성북구 환경박람회 성료 - 내외방송",
-      "source": "내외방송",
-      "date": "Mon, 16 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wVVpkS1dKTUNHdlpZejNhdUgtVWdlVmRiRnJ5dlNDMkc3RVJpMmRmRXQ4UzlQbkFRMU01VzNtM1d6V2hUM2sxV2FfMnR1a2h4ajlKVnVvZjZBd0ZBY0ZDdk1DeEtTbUsw?oc=5"
+      "title": "충남도, COP31서 탄소중립 정책 소개…국제협력 확대 모색 - 뉴스홈(newshome)",
+      "source": "뉴스홈(newshome)",
+      "date": "Thu, 19 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DQ1dLMnQ1YXFmcVZUSHBzOVNQc2tUdEZiVWpNWXAyVjZjWUI4V01JSTQyOURaYXNVRnFuZlZNME0tX1ZfNl9OS01KU3Mxazh6SmZQRl9CbXFrTHIwR0xwUnpqUjllU19SemFmRzVR?oc=5"
     }
   ],
-  "fact": "산업화 이전 대비 대기 중 이산화탄소 농도는 약 50% 증가했습니다."
+  "fact": "나무 한 그루는 평균적으로 1년에 약 20~25kg의 이산화탄소를 흡수합니다."
 }
