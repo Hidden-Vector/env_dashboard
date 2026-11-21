@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T11:50:20.610910+09:00",
-  "generated_at_display": "2026-11-20 11:50 KST",
+  "generated_at": "2026-11-21T11:58:41.635095+09:00",
+  "generated_at_display": "2026-11-21 11:58 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -13,7 +13,7 @@
   },
   "air": {
     "pm10": 18,
-    "pm25": 12,
+    "pm25": 8,
     "cai": "좋음",
     "sido": "대구 동구(신암동)"
   },
@@ -27,39 +27,39 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "서산시 자원회수시설, 대한민국 지방자치 혁신대상 환경·탄소중립혁신 부문 대상 수상 - LG헬로비전",
-      "source": "LG헬로비전",
+      "title": "상주시, 2026 탄소중립 경연대회 장관상 수상 - 데일리대구경북뉴스",
+      "source": "데일리대구경북뉴스",
       "date": "Fri, 20 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UNWMySVhFY01yaklTc0FVaGdFeWhuMVRtcEJ5U1AxcGtlNF96bU9zaEtCb1A0am5lMG1VSGhWZ1dIejdkcGNKSUFyblpjYTAxMWN0bk81ZFUzbGs5cDBoMTY0RUljdTAyWVQ0RE5kMktoUdIBdkFVX3lxTE1tQ3BMZW83U2lDWlRtTkdfU0hKQWNJZFc5VzY1MlkxZVZsdHAxWHB3RkpwdDVta2lfNnpnRTQ0TkozN0ViTFV1UkhxbXNWQWVYdFZYSHpPSWlfTTRzMDBjemZPbm5aSF9aRHBVd0lMU21KZmJydXc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GcjRJRFJ5ZGxLLXhBQmxhS252MERaUXNCSlNLOVM5QjEzQVRQUl9mcHVlcVhkMDgwSnd6MkdpQmN1Tk1UR1I2SFhCSHh2c0dfWE1tS28yV0F5X3ZmWFNYbkxkblM5UQ?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "강동구, 지방자치 혁신대상 환경·탄소중립 부문 최우수상 수상..\"강동자원순환센터 성과 인정\" - 시정일보",
-      "source": "시정일보",
-      "date": "Thu, 19 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KMHlKUjV2R3E0Mk9nU052VXRSakptQ041SkpnOGExMkRZZ0E1d2hDeXdMMExleEhrMGZZQUhacGQ1YzJVektBQko1UW1DOGtDbEhaa0Y2QUpXbk9iMW5HNDhzRzB2TmdrVWhR?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "[탄소중립과 혁신V] (10)지속가능한 탄소중립 실천교육 - 테크M",
-      "source": "테크M",
+      "title": "남서울대, 탄소중립 실천 우수기관 선정… 기후에너지환경부 감사패 - 천지일보",
+      "source": "천지일보",
       "date": "Fri, 20 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CdTBPTUhlVXFnM3JOaEpCUWZvaWkxY1daWW53anc2dW4xRXUyTWF1QVVxVTBXUUJyU2RzWEtleklMT1B0OFBRakc2eHpUZTZhcmFzVFB5cFZvZHVzaWR2MllhSHBQUdIBakFVX3lxTE1wVE1UT1BhYnc3RFkteUlIQ1V5c2puYm9rcU44Yjd6VF9kZ2V4NldZWENCZW95Q0hrSjZ1MGNSdG1VNVRsTlBnWjJoZVRaZlZFNEdNUzdXNTdRazBMdUFIeGpvT01kOFFna0E?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DM3Bva2pTWm5vVUlvcEo0am9fR2JTMUJNZHlGTUV2WmpKSzA5VlBoWk12ZTJFbTh4VnhYMC1UT0JBUXZmSHE2TjhnX1NocVFwbkNvd3h6ejl5U2ZBNFJPREhxVDRDenZETEE?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "서산시, 지방자치 혁신대상 환경·탄소중립혁신 부문 대상 수상 - 글로벌뉴스통신GNA",
-      "source": "글로벌뉴스통신GNA",
-      "date": "Thu, 19 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJUjhMcm5sUjVkendqU2liUld4d0Yyak1qWV95dU9QQ0lQT0Iza1ZPNkFsOXZEdldlNXRGZnBIMU5pQS1FZ243SXZWRDVEMkI0UE9IRTliWmJKdFk5SG5wVW81MVI0SWtCdGhKYWpKZlU0cjlX?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "상주시, 2026 탄소중립 경연대회 장관상 수상 - 경북뉴스",
-      "source": "경북뉴스",
+      "title": "우수영중학교, 탄소중립마을홍보대사 활동으로 환경보호와 어르신 공경 실천 - 전남교육통",
+      "source": "전남교육통",
       "date": "Fri, 20 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTeDBKMUJmcGstREpTUHJfbWJtX1JNUm1XWkVUbHlaaDZTYzNNcWM4VWltSi1pZ21USjdsc1h2V0VweHFpNml2YlVjN1VCNlZ2UzU0OFYteGpjbFpMQU5SZW5uTUVkUEhJbzBtZFdLYjBhdXlaekZPZ0JDT0I?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5OWJaNVNJd2J0emhyazE0Yzh1UWlpdFNoZnEwY1l0MEo0eEVJeHFYdTgwNFRwLTZWNVpSWTlfMm1DZkpsSFg1VTBySUZfSjgtRzk0ZllIM1lJZXMxV285eUpXVlcyelNP?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "탄탄대로 1.5, 「2026 탄소중립 경연대회」 장관상 수상 - 국제신문",
+      "source": "국제신문",
+      "date": "Fri, 20 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRlB4Q1ZpYk12OTI1a0p6SDVmTnhPUWY3TUNTWEFJX2ljLXA2NnVXaFpiamY0NEJRTkItRXNHdFpHVE1TX290UVgySzlJaDlsZVY1YndBWmNxanVUc25KMm8xblR1bk1xSndWNmF3ZWhZb2duNm1RNzRqMlVuSldERlZHTy1NaThHSXRJ?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "김해시 ‘탄소중립 경연대회’ 장관상 5개 수상 쾌거 - 김해일보",
+      "source": "김해일보",
+      "date": "Fri, 20 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01NzFOVUNJeFlFRjNTY3huLVFZLXhCdks4V2s0QU9rTWlnUzhYQXQyV1hIb3RjQkZ4Y0hSQWQ1Q3Y2cjdDdHBNNGRhRGJ2Y3AyblVGN3lHUm03SWZNeTVHY3pkejQzMHJfZFVZdQ?oc=5"
     }
   ],
-  "fact": "전 세계 플라스틱의 약 9%만이 실제로 재활용되고 있습니다."
+  "fact": "태양광 발전 비용은 지난 10여 년간 큰 폭으로 하락해 여러 지역에서 가장 저렴한 전력원 중 하나가 되었습니다."
 }
