@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-23T11:14:32.801290+09:00",
-  "generated_at_display": "2026-11-23 11:14 KST",
+  "generated_at": "2026-11-24T14:44:12.958031+09:00",
+  "generated_at_display": "2026-11-24 14:44 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,54 +12,54 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 22,
-    "pm25": 15,
-    "cai": "좋음",
+    "pm10": 27,
+    "pm25": 12,
+    "cai": "보통",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "“2050년 탄소중립” 파라다이스시티, 환경경영 국제표준 인증 - 헤럴드경제",
-      "source": "헤럴드경제",
-      "date": "Sun, 22 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80YlFVUHBEZ3EzQWM1S05raXBqRjhOc19mc3pGRGI1djlDTnN2dHhxSnpqVGh3UlNLZUg3a3dDYTlpZHZzYk5pQUJqNWlDUWt6VjlENGRB?oc=5"
+      "title": "수도권매립지관리公, 협력사와 탄소중립 실천 나서 - 투데이에너지",
+      "source": "투데이에너지",
+      "date": "Tue, 24 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TMVM2UUxiT1k0TExWbGNCS3RraWhFMXI0QlhfeERTaXVWd0daRUh6dGl0d2lkclpCcVFRVWxmc2dyVlM0QlFJR1JhU3VuT2JJeGs4NTNsQTlJcDhxdVhlU1hkdkxpU0pWQ0p3TmNn?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "대전시 서구, 2026 탄소중립 경연대회 '장관상' 수상 - 보도자료 | 기사 - 더팩트",
-      "source": "더팩트",
+      "title": "충주시, 맞춤형 탄소중립 환경교육 호응 - 동양일보",
+      "source": "동양일보",
+      "date": "Tue, 24 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qYlNpQ0tmXzF1UFZKMkRCbU5IbU5VZ2F1QlpicWc1dTh2WndKLXQ3RjJWNElJNFdNWFlpRnc0MXM0ZVl1TTlTS0pyR2I1SV82bmMzdjFLMDJSTnRwVElyeW94b1RvRUIzblNB?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "충주시 탄소중립 환경교육, 학생·시민 1천49명 수료 - 충북일보",
+      "source": "충북일보",
+      "date": "Tue, 24 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE12ZER6cUtCa2FlUUp2aTVIUnpPaDhUTmtJR0dwVVpPREEyWW9zdnlUajg1TFVqS3V3OU43MlM5T1hUcW9oTlVxVXJRNldVZTBLNXVKdTdyaDc1QVBlWVhJOFNn?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "충주시 맞춤형 탄소중립 환경교육, 49회 운영에 1049명 수료 - 충북뉴스",
+      "source": "충북뉴스",
+      "date": "Tue, 24 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45ZURzNm1ObWVfUUotdnNEMHdySG9GVV9ndEt1Y0UwSmZvM0trVUs0V3BQT0JwazFNcjY0WllKQjRwUXpEMURsamZUSE8wVFAzcFFYeVo2YXh5X0tmN0dxcVp5RW9qQQ?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "충주시, ′맞춤형 탄소중립 환경교육′ 성황 - 세계로컬타임즈",
+      "source": "세계로컬타임즈",
       "date": "Mon, 23 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OeW1JeWE4S3R5dkJDVl92TWJtUi1peS1pZUl4VjZOaWdaVV8xQmRpUUhXa3A2MFZab1cxS3owR3VxUEg2MU1qUjhLcTFTQ3pTSkRFbEl3aWZaV0VVUkFN?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WS2N1YVc0QzZkSms1OVIyZjUtcEtpWmxtZGMxZktoR1FscUxuWV9ZY0gzZFROanZ3WkhQNXoybFhOa0xsTEkzQ3V1STlNVm5PLTcyVDBGZ19yVTZscUHSAV5BVV95cUxPVktjdWFXNEM2ZEprNTlSMmY1LXBLaVpsbWRjMWZLaEdRbHFMbllfWWNIM2RUTmp2d1pIUDV6MmxYTmtMbExJM0N1dUk5TVZuTy03MlQwRmdfclU2bHFB?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "서산시, 자원회수시설로 지방자치 혁신대상 환경·탄소중립 부문 대상 - 열린정책뉴스",
-      "source": "열린정책뉴스",
-      "date": "Mon, 23 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLTE4yOTlvaXdQYUR4VmtXblMzU01JcTFyYTZvOFR3Y1RoTDlZRWhTakF6d1l0Y3U1ZFRKaXVYVE8xX01TcGRvazVoZTZ4ZEZ3YnpueVY5TERkbHY5M1lUbDF5UmFIMDZwdWRN?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "파라다이스 “탄소중립 향해 한 걸음 더” - 이뉴스투데이",
-      "source": "이뉴스투데이",
-      "date": "Mon, 23 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfU3NTLXlHdEUxMWxLdDdScm9sUVNVZkpMZDg5b0l4Qy1XeVg1VGZHU0U4VzVaa1I2OVNGMkwwYTRUZE03cTRkLWdjVVp1WjlpeUJiTFdUSFA4X2FtYUs3OGV0NFE3OWpLRXFSbS1ibzPSAXRBVV95cUxQYkFrRkZWU2NVd0FFV2tVeHVScHduSUhhRHdjRVFMMEtyakotVGpsQlc2M0pDc2R2N1g5cEs3M25YaWlucWFMSWpLVHV5ZjA3VlFZa3Z4NkhyUEZwT3RqTEJvTWNBQ3BhWGFCcVFsZXRlSnBvcw?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "도봉구, 환경 정책 아이디어 '탄소공(Zero)감(減) 비법' 공모 - 서울동북신문",
-      "source": "서울동북신문",
-      "date": "Sun, 22 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRUHY5QUs3QV9CV2F0cHRjQWowNDRvRG02Qks3WjE1Tms1OUU5NnhoSk9pSThIVVpiWjR4NWNVZjlRSU1ORWkycjFuN3c2SkxqSERYY3FWTGVGOUNieVJuZFBjcjNEQzNVTW5WVQ?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "환경·자동차산업 손잡고 탄소중립 실천문화 확산 - 에너지데일리",
-      "source": "에너지데일리",
-      "date": "Thu, 19 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzeE1OZXdqcDJDZ29yVXdsQTFzb2hEcnNVRmlVd2ItdW1ydGRHLWk2NmFfenVQeGgyc3RJaGJuTDFvOS14TWhBcW85X0tCSzNhRjdGYWVMV2duZGh2RzlOXy1xMTFXbVZVS0lQSTd2dEVsUQ?oc=5"
+      "title": "광양시, 탄소중립 실천가와 ‘소통·힐링 워크숍’ 성료 - 전국매일신문",
+      "source": "전국매일신문",
+      "date": "Tue, 24 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mcl96bUlpZjRQM2EyR28wTkJTb0tDYlk1a1BVdGFUZkJVdFdwdzZxcWY5MkdKaFpHM2xlSHJPQldGcmc3ZlJQUWw5ellxakIwMlJfX1J6OXYtdndFQ2ZwRzNrbXpBWjNJbnRKTlNR?oc=5"
     }
   ],
-  "fact": "육류 소비를 줄이는 것은 개인이 실천할 수 있는 가장 효과적인 탄소 저감 방법 중 하나로 꼽힙니다."
+  "fact": "국제사회는 파리협정을 통해 산업화 이전 대비 지구 평균기온 상승을 1.5도 이내로 억제하는 것을 목표로 하고 있습니다."
 }
