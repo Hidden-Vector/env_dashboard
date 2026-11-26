@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T13:46:22.103433+09:00",
-  "generated_at_display": "2026-11-25 13:46 KST",
+  "generated_at": "2026-11-26T12:57:01.982926+09:00",
+  "generated_at_display": "2026-11-26 12:57 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,54 +12,54 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 23,
-    "pm25": 7,
+    "pm10": 31,
+    "pm25": 18,
     "cai": "보통",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "제주에너지공사, 지방자치 혁신대상 환경·탄소중립 분야 최우수상 수상 - 헤드라인제주",
-      "source": "헤드라인제주",
+      "title": "[충주시] ‘맞춤형 탄소중립 환경교육’성황 - 워터저널",
+      "source": "워터저널",
+      "date": "Thu, 26 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45UHRxTG1qbEdyRVFnYUxHaVktTXZDSW00TzNvQkd6cGxCQjYxeWxDelJuXzE0VExUdmNWcFJlZjZtajNFeE1oSWRvOW5QRXYzRk9NamtjendvbVhlM21mTzlWSGNvb3hrdFlGWnFvZEV6Q2hzRFHSAXZBVV95cUxOOVB0cUxtamxHckVRZ2FMR2lZLU12Q0ltNE8zb0JHenBsQkI2MXlsQ3pSbl8xNFRMVHZjVnBSZWY2bWozRXhNaElkbzluUEV2M0ZPTWprY3p3b21YZTNtZk85Vkhjb294a3RZRlpxb2RFekNoc0RR?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "국토·환경계획 연계 강화…국토부·기후부, 환경가치 국토공간에 구현 - 전기신문",
+      "source": "전기신문",
+      "date": "Thu, 26 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NUW9BWWZQcHNWNmtsN3h5Vk9idVB1WExIV3prZkltWnBuX1hYaTE0M29yQ3Z0dW56S3RhTllBdHB0cl9CNk5sQnJsS3VJeVQwa0RfVHVsWUhoaHQ3amtvdUVUdFh6dmhVYmRTdNIBcEFVX3lxTE9qckNrUjFPSEppS0NYUFp3Tng2VG1fWEFnSFFYc1IwOUp0azlieHZHem9Ra0s1M0N0R1VNZ2JMRDVzVzVta3UwTHlYOWl0cFNoc080bWlFaW9VNWhzUE1ucGZqTktaVUdMVXZxTlQ5QWU?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "제주에너지공사, ‘2026 대한민국 지방자치 혁신대상’ 환경·탄소중립 최우수상 수상 - 서귀포방송",
+      "source": "서귀포방송",
       "date": "Wed, 25 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1RzIyejFqTHNNQ24zM0plR1Y3YmduSmM2d0o5Nmh6azlSbXdMWmxBRGtucF9tX3NtYUZNX0Z1SFhSX0N6UERSYmI5azFlNjl2QThfWTFjRERmR3NqSVpOSmRzdFRQVzJHMWtWUlVfXzdLUQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SMmxOay1NYmpoSGd3c3FLWU01dTN2SXRoNTZIcWxBOXRpeldqcXlHS1NQWmw0WEF6U1Q5Uy1wcmNUSDJBTUZ0aThFWnVxamFuZERvZGR1TXhJYU1IdzR1ZC1rbHV5ZHc?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "제주에너지공사, 탄소중립 혁신 ‘최우수상’…RE100 캠핑 넘어 ‘제주형 RE100’ 확산 - 에너지데일리",
-      "source": "에너지데일리",
+      "title": "제주에너지공사, 2026 대한민국 지방자치 혁신대상 ‘환경·탄소중립 분야 최우수상’ 수상 - 채널제주",
+      "source": "채널제주",
       "date": "Wed, 25 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tSGhFQkNPaWNDMWRtS1NrY2ZOVWJGUlNpbHhyeHp2UmtOc2NWZDNTM2lZeWxaNlMxSHdJVGk5UDNVTGpYVWo5M19keVFobnJob2lVRU1QSHBCWmF5SUt2R0RMYlhBa2dnVzNrQkZKRGZtdw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvZnl4VW92R2g3LTV4a2cxY2RHLUozNlNWT2MyenltZFpmMTRoQjZHTjlKMkdIdGhvbVZpOFZLWlhFV09kZk9RYWpkTTRNUWZsaF92LWN6amEtUk1rWW9Ya1dGWEZiVnJLMkNacm9SUQ?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "한국청소년환경단, 성주 가야산서 1박 2일 탄소중립 캠프를 열다 - 매일뉴스",
-      "source": "매일뉴스",
-      "date": "Tue, 24 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53WTJNcktrbUdYcl9hOXRTaVBBaUVFTWZUbWg5MVlKS1duVkdfOE5PU1RJNXZlY2tKMWVTTjNhaGR1eUdDSkNzbU5RaEVoeXAtQ2RJZjU5UlB3eVZ4WmU1VQ?oc=5"
+      "title": "거제 자연보호 회원 300여 명, 환경정화·탄소중립 실천 다짐 - 거제타임즈",
+      "source": "거제타임즈",
+      "date": "Thu, 26 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42Q1FvdmswY2JsbU5OREgwRkVQemhJTWw2bFFreUVHcVA2U0h6SXBHZC16ZmJISzFaWk0wQ1FDTE4tbmdTSmluMTRqSVhIdVhWWkRxQnBUanlocGNJNFo2UXg1bTZFUWNGZXBaNFFUTGI?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "수도권매립지관리公, 협력사와 탄소중립 실천 나서 - 투데이에너지",
-      "source": "투데이에너지",
-      "date": "Tue, 24 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TMVM2UUxiT1k0TExWbGNCS3RraWhFMXI0QlhfeERTaXVWd0daRUh6dGl0d2lkclpCcVFRVWxmc2dyVlM0QlFJR1JhU3VuT2JJeGs4NTNsQTlJcDhxdVhlU1hkdkxpU0pWQ0p3TmNn?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "충주시, 맞춤형 탄소중립 환경교육 호응 - 동양일보",
-      "source": "동양일보",
-      "date": "Tue, 24 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qYlNpQ0tmXzF1UFZKMkRCbU5IbU5VZ2F1QlpicWc1dTh2WndKLXQ3RjJWNElJNFdNWFlpRnc0MXM0ZVl1TTlTS0pyR2I1SV82bmMzdjFLMDJSTnRwVElyeW94b1RvRUIzblNB?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "삼성SDI 울산사업장, '녹색경영 우수기업' 대상 기후에너지환경부 장관상 수상 - 빅데이터뉴스",
-      "source": "빅데이터뉴스",
+      "title": "경남환경재단 탄소중립지원센터 CBAM 대응 교육 열어 - 경남도민일보",
+      "source": "경남도민일보",
       "date": "Wed, 25 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jb3VmNldkdXZfRlhWNnZ4NUMwWnR5UzA5dnRPYUVuY2ljZ3RSeUZla1hSdVo4V3JldGlGdkJXUHdnc1BNU01CMHRBeE1RRXBUY0Zzd3hGbnYyTlhmT05TVlhtX3M3X3JRX0FtWmU5dGNGMk9HNjNENzNSc2s?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wR1h4b3l3WUpvOHZsY251cGFBbmVXTzRQODdYWGcwSmZsUjhkUmNkUHFSVUdUb1hIZTgwdjkybDFObUVDZXFXeXpUNkNPR2l5TUZ2Z2dHOUhSalFlQlQ2d0RXUnhJaV9sb3c?oc=5"
     }
   ],
-  "fact": "한국은 2050년 탄소중립을 국가 목표로 선언했습니다."
+  "fact": "이산화탄소는 대기 중에 배출된 뒤 수백 년간 머무를 수 있어, 오늘 줄인 배출량의 효과는 수십 년 뒤에야 기후에 반영되기 시작합니다."
 }
