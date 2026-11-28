@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T12:55:57.372400+09:00",
-  "generated_at_display": "2026-11-27 12:55 KST",
+  "generated_at": "2026-11-28T12:42:58.359716+09:00",
+  "generated_at_display": "2026-11-28 12:42 KST",
   "world_co2": {
     "value": null,
     "delta": "세계 배출량은 Carbon Monitor/Climate TRACE 등 외부 소스 연동 필요 (README 참고)",
@@ -12,32 +12,25 @@
     "unit": "만 톤"
   },
   "air": {
-    "pm10": 39,
-    "pm25": 22,
-    "cai": "보통",
+    "pm10": 14,
+    "pm25": null,
+    "cai": "정상 수신",
     "sido": "대구 동구(신암동)"
   },
   "news": [
     {
       "tag": "환경뉴스",
-      "title": "환경산업기술원-제주도, 탄소중립 실현과 녹색경제 활성화 힘 모은다 - 에너지데일리",
-      "source": "에너지데일리",
-      "date": "Fri, 27 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SNW1ONkNfSng5dG1BclRFYlN5eDBvNFJpX3h6d29vdGpFTFNnRlpIeVdKZVhpUkNscmtjX1BBMWszRExqaUlZVDAxdXF1S1VwanJ0WmpKeGFGalhVVFBoU28yTm9pRU41NDdsSnR4eDdZUQ?oc=5"
-    },
-    {
-      "tag": "환경뉴스",
-      "title": "5극 3특 균형성장에 탄소중립·환경정책 접목 - 환경일보",
+      "title": "환경산업기술원, 제주와 탄소중립 실현과 녹색경제 활성화 맞손 - 환경일보",
       "source": "환경일보",
-      "date": "Thu, 26 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mdU1FblY1alJMSWd5ZW5sSDJuYkhsOWplQzRmTVBMb29NWnRMTUVDd2hOVndMTlJPbXZSeG0yalIzbmhXUTZjbDMwNnk5dG1qeGttbWZKMnY1ZkJxQjJDVmltR2xZRFNr?oc=5"
+      "date": "Fri, 27 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8walliUG12T0tMandMb29INlBPRWpNbDlmQ2JFaC1hX1NTbXVMY3dNdzVKTjdjRGZtN1RmSnhWcktER0JYSkpUam44RjVBN1dkcW5vRUhvLVJzODZQb0VjMWNicVFrVGxQ?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "환경산업기술원-제주도, '탄소중립 및 녹색경제' 맞손 - 국토일보",
-      "source": "국토일보",
+      "title": "환경산업기술원-제주도, 탄소중립·녹색경제 활성화 맞손 - 전기신문",
+      "source": "전기신문",
       "date": "Fri, 27 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSVFhEOUhUc051ODdYMFdaSVB5X1RueDZ6T0NhYVJNR2dDbnVZNTE0Q3N5UEdjUnl4cGJwLVV1bHdsa0trZnc3UTZ2MURMSDNLc3BNbnpkYnJnZWw3VldjNl9NSQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJbzhCZHltX0J2ZmNucnBENmxoWXlBdlVYRE5ITXFmTlJ3eF9YbTNFWG8yY0cyNkhoZWZYMGNNbHVOR1B0QkZjdkVYTEJfUmhVZXJPMXY0UG11QzZfQTMwWjlFQV9VMFNLcjJxedIBcEFVX3lxTFBNcl9WdllPaWxPVGhPc1RGcU8ta3RNQTNWdUF6S3RybmtGc0QxaWdaS0hPYjNVbkZ5eTFvUE5CNDFZNGtqamRxYmxHbVlBRENuYWlMR2VTQzFCZnlwSzZDUVpDSDVla25NQ01TTkFEZHc?oc=5"
     },
     {
       "tag": "환경뉴스",
@@ -48,18 +41,25 @@
     },
     {
       "tag": "환경뉴스",
-      "title": "예천군, 환경보전 및 탄소중립실천 환경원예과정 교육 - 예천 e희망뉴스",
-      "source": "예천 e희망뉴스",
+      "title": "[분석] 국토 균형성장·탄소중립 통합 추진…정부, '5극 3특' 중심 국토·환경계획 연계 강화 - 에너지데일리",
+      "source": "에너지데일리",
       "date": "Fri, 27 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpTUYtUlY4eThZSjVZWXQ0UURob3JyblRMTHZOOUtfTmN6WUZjSERuSWZWenBXOWlIdlJUQ3dxQXg5Vi1BQ2VDYkhDOWVpSFY4V1ZwbjV6am5CS090RnRrOGRB?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoMHpmV09US0ZCZkNCTDAxaUZ5TkIycmxhTk1kWC1YaWlnUlNKYWVfT1lsM2NPQ1ZJY2VfX1o0ZGVSblUzamo4NTlobV90aGFNZzQtS0xlcXNxdjFxWVoycHNQOW5PZ243d2UzZk5FXzFaZw?oc=5"
     },
     {
       "tag": "환경뉴스",
-      "title": "[특별 기고] 초딩에게 한 수 배운 탄소 문해력 - 굿모닝충청",
-      "source": "굿모닝충청",
+      "title": "[투명한 녹색책임]SH, 환경정보 공개·탄소중립 성과 인정…기후환경부 장관상 수상 - 전국뉴스",
+      "source": "전국뉴스",
       "date": "Fri, 27 Nov 2026",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IbkdyTl9xNDloVFNSREpkRUEzOGpnQXl0S25kTEhrS0hBSzRrZV9Eck8wY21rcFNLRmtBQjVMSWFPbFRzenRhU2xDT09aRnBSWi02M2U3bVNYLUtBa1Zpc3BZbEoyR0lpSkxvbUJOb0lpUQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXb1RWWjNhbEszU1ZWQ1I0VUE3WVpHTWRzM2tkZDVaX2s5MFJWRlgzY3pBc2RFLWh3SGtIcHZ5OU4tOFRqUjhVSFVpeEw5R19fdER2SnVyS09VaE5XY2d6M0dyWVJ2TEx5WjRhNW9DYlc?oc=5"
+    },
+    {
+      "tag": "환경뉴스",
+      "title": "환경산업기술원, 제주 탄소중립 실현에 힘보태 - 투데이에너지",
+      "source": "투데이에너지",
+      "date": "Fri, 27 Nov 2026",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NNExTOUNzTUc0Zkkwd1RSVFgzbkh5VXNpcUxFUWZxVzRQV0NmN0lDOHNTRHQzdm9XWGxvTjI0Ykd4djVpZ3Fjc3VrRzRNTWl0d0xpSk0yQXhKbXpaOFlYeEhSSmNsclpLUHAzV2tR?oc=5"
     }
   ],
-  "fact": "전 세계 온실가스 배출량의 약 4분의 1은 식량 생산 과정에서 발생합니다."
+  "fact": "산업화 이전 대비 대기 중 이산화탄소 농도는 약 50% 증가했습니다."
 }
